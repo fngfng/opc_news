@@ -1,245 +1,279 @@
 {
-  "generated_at": "2026-06-05T17:05:22.215544",
+  "generated_at": "2026-06-05T13:34:17.521991",
   "date": "2026-06-05",
   "period": "daily",
-  "daily_summary": "今日开源社区最突出的方向是**LLM效率优化与智能体（Agent）生态**。榜首`headroom`直击大模型成本痛点，通过压缩工具输出和日志，在保证答案质量的前提下将Token消耗锐减60-95%，极具实用价值。`hermes-agent`提出“与你共成长的智能体”，强调自适应与个性化；`ECC`则为Claude Code、Cursor等编程助手提供集成技能、记忆与安全的性能优化系统，让编码Agent更强大。此外，GitHub官方的`spec-kit`推动规范驱动开发，`Open-LLM-VTuber`实现免提语音虚拟主播，均反映出AI工具正朝着更高效、更交互、更贴近生产的方向快速演进。",
+  "daily_summary": "今日开源社区焦点集中在**AI代理（Agent）的基础设施与效率革命**。`headroom`以60-95%的token压缩率直击LLM成本痛点，让同样答案消耗更少；`hermes-agent`主打“随你成长的代理”，探索个性化演进范式。前端层`CopilotKit`推动生成式UI与代理协议标准化，`ECC`则为Claude Code等打造技能、记忆、安全一体的性能优化系统。信息获取侧，`Agent-Reach`实现零API费用读遍全网，`last30days-skill`自动合成跨平台深度摘要。此外，`open-notebook`复现Notebook LM并增强灵活性，`NVIDIA Cosmos`开放世界模型赋能物理AI，`PaddleOCR`将任意文档转为结构化数据，多模态工具链日趋成熟。整体看，社区正从“造代理”转向“让代理更省、更稳、更懂世界”。",
   "repos": [
     {
       "rank": 1,
-      "name": "headroom",
-      "owner": "chopratejas",
-      "url": "https://github.com/chopratejas/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "stars": 13536,
-      "forks": 859,
-      "stars_today": 3142,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个Python库、代理和MCP服务器，用于在发送给LLM之前智能压缩工具输出、日志、文件和RAG块，大幅减少token消耗。",
-        "purpose": "解决LLM上下文窗口有限和token成本高的问题，通过压缩输入内容，在保持答案质量的同时减少60-95%的token。",
-        "scene": "场景1：在AI代理中压缩工具调用结果，避免超出上下文限制；场景2：压缩日志文件或长文档，以便LLM高效处理；场景3：在RAG流程中压缩检索到的文本块，减少输入token。"
-      }
-    },
-    {
-      "rank": 2,
       "name": "hermes-agent",
       "owner": "NousResearch",
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 181669,
-      "forks": 31168,
-      "stars_today": 1913,
+      "stars": 182090,
+      "forks": 31239,
+      "stars_today": 1821,
       "language": "Python",
       "topics": [],
       "summary": {
-        "what": "作者构建了一个基于Hermes语言模型的可成长型AI代理框架，支持长期记忆、工具调用和个性化适应。",
-        "purpose": "解决通用AI代理缺乏持续学习与个性化能力的问题，让代理能随用户交互不断进化。",
-        "scene": "个人知识助手、自动化任务编排、持续对话伙伴"
+        "what": "构建了一个可自我进化的AI代理框架，通过记忆与学习机制持续适应用户需求",
+        "purpose": "解决传统AI代理缺乏长期个性化与自适应能力的问题",
+        "scene": "个人日程管理与习惯学习、知识库构建与动态更新、自动化任务流优化"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "headroom",
+      "owner": "chopratejas",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "stars": 13964,
+      "forks": 883,
+      "stars_today": 2503,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个Python库、代理和MCP服务器，用于在数据发送给LLM之前智能压缩工具输出、日志、文件和RAG块，大幅减少token消耗。",
+        "purpose": "解决LLM上下文窗口有限和token成本高的问题，通过压缩输入内容保持答案质量的同时减少60-95%的token使用。",
+        "scene": "RAG系统中压缩检索到的文档块以节省上下文空间、压缩工具调用（如代码执行、API响应）的输出避免超限、压缩长日志或文本文件以便LLM高效处理"
       }
     },
     {
       "rank": 3,
-      "name": "ECC",
-      "owner": "affaan-m",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 207716,
-      "forks": 31874,
-      "stars_today": 1750,
-      "language": "JavaScript",
+      "name": "CopilotKit",
+      "owner": "CopilotKit",
+      "url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
+      "stars": 32379,
+      "forks": 4175,
+      "stars_today": 350,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
-        "what": "作者构建了一个面向AI编码代理的性能优化系统，集成技能、本能、记忆、安全与研究优先开发能力。",
-        "purpose": "解决AI编码代理（如Claude Code、Codex等）在复杂任务中性能不足、缺乏上下文记忆与安全机制的问题。",
-        "scene": "Claude Code代理优化、Codex代理增强、Opencode与Cursor等AI编码工具的性能提升"
+        "what": "构建了用于集成AI代理和生成式UI的前端工具包，支持React和Angular，并制定了AG-UI协议。",
+        "purpose": "简化在Web应用中集成AI代理和动态生成用户界面的复杂性。",
+        "scene": "构建AI聊天助手、生成动态表单、智能推荐界面"
       }
     },
     {
       "rank": 4,
-      "name": "PaddleOCR",
-      "owner": "PaddlePaddle",
-      "url": "https://github.com/PaddlePaddle/PaddleOCR",
-      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-      "stars": 80189,
-      "forks": 10620,
-      "stars_today": 141,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个轻量级OCR工具包，可将PDF或图像文档转换为结构化数据，支持100多种语言，并桥接图像/PDF与LLM。",
-        "purpose": "解决从图像或PDF中高效提取多语言文本和结构化数据，以便AI系统直接利用的问题。",
-        "scene": "将扫描的合同PDF转换为可编辑文本、从多语言菜单图片中提取文字进行翻译、为聊天机器人提供从图像中提取的上下文信息"
-      }
-    },
-    {
-      "rank": 5,
-      "name": "spec-kit",
-      "owner": "github",
-      "url": "https://github.com/github/spec-kit",
-      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 108840,
-      "forks": 9616,
-      "stars_today": 321,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者创建了一个Python工具包，帮助开发者快速启动规范驱动开发流程",
-        "purpose": "简化从规范定义到代码实现的开发过程，提升开发效率和一致性",
-        "scene": "新项目初始化时快速搭建规范驱动的开发框架、团队协作中确保代码实现与规范对齐、自动化生成符合规范的代码骨架或测试用例"
-      }
-    },
-    {
-      "rank": 6,
-      "name": "cosmos",
-      "owner": "NVIDIA",
-      "url": "https://github.com/NVIDIA/cosmos",
-      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
-      "stars": 9202,
-      "forks": 588,
-      "stars_today": 133,
-      "language": "Jupyter Notebook",
-      "topics": [],
-      "summary": {
-        "what": "NVIDIA开发了一个开放平台，提供世界模型、数据集和工具，用于构建物理AI。",
-        "purpose": "解决物理AI开发中缺乏统一平台和资源的问题。",
-        "scene": "机器人、自动驾驶、智能基础设施"
-      }
-    },
-    {
-      "rank": 7,
       "name": "open-notebook",
       "owner": "lfnovo",
       "url": "https://github.com/lfnovo/open-notebook",
       "description": "An Open Source implementation of Notebook LM with more flexibility and features",
-      "stars": 25412,
-      "forks": 2938,
-      "stars_today": 212,
+      "stars": 25604,
+      "forks": 2954,
+      "stars_today": 1142,
       "language": "TypeScript",
       "topics": [],
       "summary": {
         "what": "作者实现了一个开源版的Notebook LM，提供更灵活的功能和特性。",
-        "purpose": "解决现有Notebook LM闭源、功能受限的问题，让用户能自由定制和扩展。",
-        "scene": "个人知识管理、团队协作研究、教育辅助学习"
+        "purpose": "解决现有Notebook LM功能受限、缺乏定制化的问题。",
+        "scene": "个人知识管理、团队协作研究、教育学习辅助"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "ECC",
+      "owner": "affaan-m",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 207945,
+      "forks": 31910,
+      "stars_today": 1368,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个集成技能、本能、记忆、安全与研究优先开发的代理性能优化系统",
+        "purpose": "解决AI编程代理在性能、记忆、安全及研究驱动开发方面的不足",
+        "scene": "在Claude Code中增强代理的记忆与技能以提升代码生成质量、在Cursor中优化代理的安全检查以防止漏洞、在Opencode中实现研究优先的开发流程以加速原型验证"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "Agent-Reach",
+      "owner": "Panniantong",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": 21299,
+      "forks": 1850,
+      "stars_today": 127,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个命令行工具，让AI代理无需API费用即可读取和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等平台内容。",
+        "purpose": "解决AI代理无法直接、免费访问多个主流互联网平台内容的问题。",
+        "scene": "社交媒体舆情监控与分析、跨平台内容聚合与自动化摘要、开源情报收集与自动化调研"
+      }
+    },
+    {
+      "rank": 7,
+      "name": "cosmos",
+      "owner": "NVIDIA",
+      "url": "https://github.com/NVIDIA/cosmos",
+      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+      "stars": 9276,
+      "forks": 591,
+      "stars_today": 494,
+      "language": "Jupyter Notebook",
+      "topics": [],
+      "summary": {
+        "what": "构建了一个包含世界模型、数据集和工具的开放平台",
+        "purpose": "帮助开发者构建物理AI应用",
+        "scene": "机器人、自动驾驶汽车、智能基础设施"
       }
     },
     {
       "rank": 8,
-      "name": "Open-LLM-VTuber",
-      "owner": "Open-LLM-VTuber",
-      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
-      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
-      "stars": 9831,
-      "forks": 1175,
-      "stars_today": 581,
+      "name": "MiroFish",
+      "owner": "666ghj",
+      "url": "https://github.com/666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "stars": 64488,
+      "forks": 10066,
+      "stars_today": 324,
       "language": "Python",
       "topics": [],
       "summary": {
-        "what": "作者构建了一个跨平台的本地运行工具，实现免提语音交互、语音打断和Live2D虚拟形象面部同步，可与任意大语言模型对话。",
-        "purpose": "解决现有语音助手缺乏实时打断、虚拟形象生动呈现及跨平台本地部署不便的问题。",
-        "scene": "虚拟主播直播互动、个人AI助手桌面应用、教育或娱乐场景的语音对话代理"
+        "what": "作者开发了一个基于群体智能算法的通用预测引擎，支持多种优化和预测任务",
+        "purpose": "提供简洁统一的接口，利用群体智能解决各类预测问题，降低使用门槛",
+        "scene": "时间序列预测、参数优化、分类与回归建模"
       }
     },
     {
       "rank": 9,
-      "name": "coding-interview-university",
-      "owner": "jwasham",
-      "url": "https://github.com/jwasham/coding-interview-university",
-      "description": "A complete computer science study plan to become a software engineer.",
-      "stars": 350014,
-      "forks": 83258,
-      "stars_today": 632,
-      "language": "Unknown",
-      "topics": [],
-      "summary": {
-        "what": "作者创建了一个全面的计算机科学自学计划，涵盖数据结构、算法、系统设计等核心知识。",
-        "purpose": "帮助自学者系统掌握软件工程师所需技能，高效准备技术面试。",
-        "scene": "自学编程者缺乏系统学习路径、求职者备战科技公司面试、转行者需要结构化知识体系"
-      }
-    },
-    {
-      "rank": 10,
-      "name": "copilot-sdk",
-      "owner": "github",
-      "url": "https://github.com/github/copilot-sdk",
-      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-      "stars": 9078,
-      "forks": 1216,
-      "stars_today": 38,
-      "language": "Java",
-      "topics": [],
-      "summary": {
-        "what": "开发了多平台SDK，用于将GitHub Copilot Agent集成到Java应用和服务中",
-        "purpose": "简化开发者将Copilot智能编码助手嵌入自有工具和流程的复杂度",
-        "scene": "IDE插件开发、代码审查自动化、持续集成中的智能代码生成"
-      }
-    },
-    {
-      "rank": 11,
-      "name": "trivy",
-      "owner": "aquasecurity",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "stars": 35741,
-      "forks": 437,
-      "stars_today": 255,
-      "language": "Go",
-      "topics": [],
-      "summary": {
-        "what": "Aqua Security开发了Trivy，一个全面的安全扫描器，用于检测容器、Kubernetes、代码仓库、云环境等中的漏洞、配置错误、密钥和SBOM。",
-        "purpose": "解决现代云原生环境中安全风险难以全面、快速、统一扫描的问题，提供一站式安全分析工具。",
-        "scene": "CI/CD流水线中扫描容器镜像和IaC文件、开发阶段扫描代码仓库中的依赖和密钥、生产环境中持续监控Kubernetes集群和云资源的安全状况"
-      }
-    },
-    {
-      "rank": 12,
-      "name": "openclaw-windows-node",
-      "owner": "openclaw",
-      "url": "https://github.com/openclaw/openclaw-windows-node",
-      "description": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
-      "stars": 1438,
-      "forks": 172,
-      "stars_today": 411,
-      "language": "C#",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一套Windows配套工具，包含系统托盘应用、共享库、节点和PowerToys命令面板扩展。",
-        "purpose": "为OpenClaw提供便捷的Windows桌面集成与交互入口。",
-        "scene": "通过系统托盘图标快速控制OpenClaw服务、在PowerToys命令面板中直接调用OpenClaw功能、利用共享库和节点扩展OpenClaw的Windows端能力"
-      }
-    },
-    {
-      "rank": 13,
-      "name": "flowsint",
-      "owner": "reconurge",
-      "url": "https://github.com/reconurge/flowsint",
-      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
-      "stars": 5440,
-      "forks": 654,
-      "stars_today": 308,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个基于TypeScript的现代可视化图调查平台，支持灵活扩展的图形化分析。",
-        "purpose": "解决网络安全分析师和调查人员在复杂数据关联分析中缺乏直观、可定制图形化工具的问题。",
-        "scene": "网络安全事件溯源与关联分析、威胁情报图谱构建与探索、数字取证调查中的关系可视化"
-      }
-    },
-    {
-      "rank": 14,
       "name": "last30days-skill",
       "owner": "mvanhorn",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": 27900,
-      "forks": 2374,
-      "stars_today": 199,
+      "stars": 28021,
+      "forks": 2380,
+      "stars_today": 738,
       "language": "Python",
       "topics": [],
       "summary": {
-        "what": "作者构建了一个AI代理技能，能够跨Reddit、X、YouTube、Hacker News、Polymarket和网络搜索任意话题，并生成有依据的摘要。",
-        "purpose": "解决需要快速、多源、综合调研某个话题并生成结构化摘要的问题。",
-        "scene": "市场分析师快速了解某个加密货币或股票近30天的舆论动态、内容创作者调研热门话题的多平台讨论、研究人员需要跨社交媒体和新闻平台获取事件综合视角"
+        "what": "作者开发了一个AI代理技能，能够跨Reddit、X、YouTube、Hacker News、Polymarket和网络研究任意主题，并生成基于事实的综合摘要。",
+        "purpose": "解决从多个分散平台快速获取主题综合信息并形成可靠摘要的问题。",
+        "scene": "市场分析师快速了解产品舆情、内容创作者收集多源素材、投资者跟踪预测市场情绪"
+      }
+    },
+    {
+      "rank": 10,
+      "name": "PaddleOCR",
+      "owner": "PaddlePaddle",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "stars": 80327,
+      "forks": 10623,
+      "stars_today": 755,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个轻量级OCR工具包，将PDF或图像文档转换为结构化数据，支持100多种语言，并桥接图像/PDF与LLM。",
+        "purpose": "解决从图像或PDF中提取结构化文本数据的问题，以便AI（如LLM）处理。",
+        "scene": "文档数字化与信息提取、多语言文本识别与翻译、为LLM提供图像/PDF内容的结构化输入"
+      }
+    },
+    {
+      "rank": 11,
+      "name": "plugins",
+      "owner": "openai",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "stars": 1435,
+      "forks": 233,
+      "stars_today": 17,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": {
+        "what": "OpenAI创建了ChatGPT插件示例和开发规范",
+        "purpose": "让开发者扩展ChatGPT功能，集成外部API和服务",
+        "scene": "实时信息检索、第三方服务集成、自定义工具调用"
+      }
+    },
+    {
+      "rank": 12,
+      "name": "mempalace",
+      "owner": "MemPalace",
+      "url": "https://github.com/MemPalace/mempalace",
+      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "stars": 53651,
+      "forks": 7067,
+      "stars_today": 228,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个基准测试表现最佳的开源AI记忆系统",
+        "purpose": "解决AI应用缺乏高效、可扩展的长期记忆管理问题",
+        "scene": "智能聊天机器人记忆用户偏好与历史对话、个人AI助手管理日程与任务、知识库系统存储与检索非结构化信息"
+      }
+    },
+    {
+      "rank": 13,
+      "name": "openclaw-windows-node",
+      "owner": "openclaw",
+      "url": "https://github.com/openclaw/openclaw-windows-node",
+      "description": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
+      "stars": 1498,
+      "forks": 174,
+      "stars_today": 329,
+      "language": "C#",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了OpenClaw的Windows配套套件，包含系统托盘应用、共享库、节点和PowerToys命令面板扩展。",
+        "purpose": "为OpenClaw提供Windows系统集成，方便用户通过托盘图标和PowerToys快速操作。",
+        "scene": "通过系统托盘图标快速访问OpenClaw功能、使用PowerToys命令面板扩展执行OpenClaw命令、利用共享库和节点实现与OpenClaw的通信和扩展"
+      }
+    },
+    {
+      "rank": 14,
+      "name": "trivy",
+      "owner": "aquasecurity",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "stars": 35767,
+      "forks": 438,
+      "stars_today": 208,
+      "language": "Go",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个全面的安全扫描工具，用于检测容器、Kubernetes、代码仓库、云环境中的漏洞、错误配置、秘密和生成SBOM。",
+        "purpose": "解决在多种基础设施和代码中快速、统一地发现安全风险的问题。",
+        "scene": "容器镜像漏洞扫描、Kubernetes集群配置审计、代码仓库秘密与依赖项漏洞检测"
+      }
+    },
+    {
+      "rank": 15,
+      "name": "coding-interview-university",
+      "owner": "jwasham",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "stars": 350178,
+      "forks": 83272,
+      "stars_today": 757,
+      "language": "Unknown",
+      "topics": [],
+      "summary": {
+        "what": "作者创建了一个全面的计算机科学自学计划，涵盖数据结构、算法、系统设计等核心知识。",
+        "purpose": "帮助自学开发者系统掌握计算机科学基础，以通过顶级科技公司的软件工程师面试。",
+        "scene": "准备软件工程师技术面试、转行进入科技行业、系统复习计算机科学核心知识"
+      }
+    },
+    {
+      "rank": 16,
+      "name": "copilot-sdk",
+      "owner": "github",
+      "url": "https://github.com/github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "stars": 9132,
+      "forks": 1216,
+      "stars_today": 310,
+      "language": "Java",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个多平台SDK，用于将GitHub Copilot Agent集成到Java应用和服务中",
+        "purpose": "解决开发者难以在自有应用中直接调用Copilot智能编程能力的问题",
+        "scene": "IDE插件开发、自动化代码审查工具、智能编程助手服务"
       }
     }
   ]
