@@ -1,0 +1,217 @@
+{
+  "generated_at": "2026-06-05T17:05:47.993326",
+  "week_range": "2026-06-05 ~ 2026-06-05",
+  "days_collected": 1,
+  "total_projects": 14,
+  "total_stars_today": 10036,
+  "top_languages": [
+    [
+      "Python",
+      6
+    ],
+    [
+      "TypeScript",
+      2
+    ],
+    [
+      "JavaScript",
+      1
+    ],
+    [
+      "Jupyter Notebook",
+      1
+    ],
+    [
+      "Unknown",
+      1
+    ]
+  ],
+  "trending_topics": [],
+  "top_picks": [
+    {
+      "rank": 1,
+      "name": "headroom",
+      "owner": "chopratejas",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "stars": 13536,
+      "forks": 859,
+      "stars_today": 3142,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个Python库、代理和MCP服务器，用于在发送给LLM之前智能压缩工具输出、日志、文件和RAG块，大幅减少token消耗。",
+        "purpose": "解决LLM上下文窗口有限和token成本高的问题，通过压缩输入内容，在保持答案质量的同时减少60-95%的token。",
+        "scene": "场景1：在AI代理中压缩工具调用结果，避免超出上下文限制；场景2：压缩日志文件或长文档，以便LLM高效处理；场景3：在RAG流程中压缩检索到的文本块，减少输入token。"
+      },
+      "appear_days": 1
+    },
+    {
+      "rank": 2,
+      "name": "hermes-agent",
+      "owner": "NousResearch",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 181669,
+      "forks": 31168,
+      "stars_today": 1913,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个基于Hermes语言模型的可成长型AI代理框架，支持长期记忆、工具调用和个性化适应。",
+        "purpose": "解决通用AI代理缺乏持续学习与个性化能力的问题，让代理能随用户交互不断进化。",
+        "scene": "个人知识助手、自动化任务编排、持续对话伙伴"
+      },
+      "appear_days": 1
+    },
+    {
+      "rank": 3,
+      "name": "ECC",
+      "owner": "affaan-m",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 207716,
+      "forks": 31874,
+      "stars_today": 1750,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个面向AI编码代理的性能优化系统，集成技能、本能、记忆、安全与研究优先开发能力。",
+        "purpose": "解决AI编码代理（如Claude Code、Codex等）在复杂任务中性能不足、缺乏上下文记忆与安全机制的问题。",
+        "scene": "Claude Code代理优化、Codex代理增强、Opencode与Cursor等AI编码工具的性能提升"
+      },
+      "appear_days": 1
+    },
+    {
+      "rank": 4,
+      "name": "PaddleOCR",
+      "owner": "PaddlePaddle",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "stars": 80189,
+      "forks": 10620,
+      "stars_today": 141,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个轻量级OCR工具包，可将PDF或图像文档转换为结构化数据，支持100多种语言，并桥接图像/PDF与LLM。",
+        "purpose": "解决从图像或PDF中高效提取多语言文本和结构化数据，以便AI系统直接利用的问题。",
+        "scene": "将扫描的合同PDF转换为可编辑文本、从多语言菜单图片中提取文字进行翻译、为聊天机器人提供从图像中提取的上下文信息"
+      },
+      "appear_days": 1
+    },
+    {
+      "rank": 5,
+      "name": "spec-kit",
+      "owner": "github",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "stars": 108840,
+      "forks": 9616,
+      "stars_today": 321,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者创建了一个Python工具包，帮助开发者快速启动规范驱动开发流程",
+        "purpose": "简化从规范定义到代码实现的开发过程，提升开发效率和一致性",
+        "scene": "新项目初始化时快速搭建规范驱动的开发框架、团队协作中确保代码实现与规范对齐、自动化生成符合规范的代码骨架或测试用例"
+      },
+      "appear_days": 1
+    },
+    {
+      "rank": 6,
+      "name": "cosmos",
+      "owner": "NVIDIA",
+      "url": "https://github.com/NVIDIA/cosmos",
+      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+      "stars": 9202,
+      "forks": 588,
+      "stars_today": 133,
+      "language": "Jupyter Notebook",
+      "topics": [],
+      "summary": {
+        "what": "NVIDIA开发了一个开放平台，提供世界模型、数据集和工具，用于构建物理AI。",
+        "purpose": "解决物理AI开发中缺乏统一平台和资源的问题。",
+        "scene": "机器人、自动驾驶、智能基础设施"
+      },
+      "appear_days": 1
+    },
+    {
+      "rank": 7,
+      "name": "open-notebook",
+      "owner": "lfnovo",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "stars": 25412,
+      "forks": 2938,
+      "stars_today": 212,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者实现了一个开源版的Notebook LM，提供更灵活的功能和特性。",
+        "purpose": "解决现有Notebook LM闭源、功能受限的问题，让用户能自由定制和扩展。",
+        "scene": "个人知识管理、团队协作研究、教育辅助学习"
+      },
+      "appear_days": 1
+    },
+    {
+      "rank": 8,
+      "name": "Open-LLM-VTuber",
+      "owner": "Open-LLM-VTuber",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "stars": 9831,
+      "forks": 1175,
+      "stars_today": 581,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个跨平台的本地运行工具，实现免提语音交互、语音打断和Live2D虚拟形象面部同步，可与任意大语言模型对话。",
+        "purpose": "解决现有语音助手缺乏实时打断、虚拟形象生动呈现及跨平台本地部署不便的问题。",
+        "scene": "虚拟主播直播互动、个人AI助手桌面应用、教育或娱乐场景的语音对话代理"
+      },
+      "appear_days": 1
+    },
+    {
+      "rank": 9,
+      "name": "coding-interview-university",
+      "owner": "jwasham",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "stars": 350014,
+      "forks": 83258,
+      "stars_today": 632,
+      "language": "Unknown",
+      "topics": [],
+      "summary": {
+        "what": "作者创建了一个全面的计算机科学自学计划，涵盖数据结构、算法、系统设计等核心知识。",
+        "purpose": "帮助自学者系统掌握软件工程师所需技能，高效准备技术面试。",
+        "scene": "自学编程者缺乏系统学习路径、求职者备战科技公司面试、转行者需要结构化知识体系"
+      },
+      "appear_days": 1
+    },
+    {
+      "rank": 10,
+      "name": "copilot-sdk",
+      "owner": "github",
+      "url": "https://github.com/github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "stars": 9078,
+      "forks": 1216,
+      "stars_today": 38,
+      "language": "Java",
+      "topics": [],
+      "summary": {
+        "what": "开发了多平台SDK，用于将GitHub Copilot Agent集成到Java应用和服务中",
+        "purpose": "简化开发者将Copilot智能编码助手嵌入自有工具和流程的复杂度",
+        "scene": "IDE插件开发、代码审查自动化、持续集成中的智能代码生成"
+      },
+      "appear_days": 1
+    }
+  ],
+  "insights": {
+    "hot_direction": "本周最热技术方向无疑是AI，尤其是AI Agent与多模态交互。从Hermes Agent、Open-LLM-VTuber到NVIDIA Cosmos世界模型，大量项目围绕智能体、语音交互和生成式世界模型展开，反映出业界正从单一模型能力向自主代理与具身智能快速演进。同时，工具链项目如headroom和spec-kit也服务于AI工作流，进一步强化了AI生态的主导地位。",
+    "language_trend": "Python以6次出现占据绝对主导，主要得益于AI/ML生态的深厚积累，几乎所有模型训练、推理和数据处理项目都首选Python。TypeScript和JavaScript合计3次，集中在Web交互与工具界面，表明前端与全栈开发在AI应用落地中仍不可或缺。Jupyter Notebook的出现则说明交互式数据分析与模型演示需求在上升，整体语言格局向AI基础设施倾斜。",
+    "notable_projects": "首先，NousResearch/hermes-agent以极高星数上榜，定位为“与你共同成长的代理”，代表了个人AI Agent从概念走向持久化、个性化交互的趋势，值得关注其记忆与自适应机制。其次，NVIDIA/cosmos作为开放世界模型平台，将物理世界模拟与AI结合，可能成为机器人、自动驾驶和游戏生成的重要基础，其开源策略影响深远。最后，github/spec-kit是GitHub官方推出的Spec-Driven开发工具包，推动以规范驱动开发的新范式，有望改变大型项目的协作与代码生成流程，值得开发者社区密切关注。"
+  }
+}

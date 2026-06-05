@@ -1,0 +1,246 @@
+{
+  "generated_at": "2026-06-05T17:05:22.215544",
+  "date": "2026-06-05",
+  "period": "daily",
+  "daily_summary": "今日开源社区最突出的方向是**LLM效率优化与智能体（Agent）生态**。榜首`headroom`直击大模型成本痛点，通过压缩工具输出和日志，在保证答案质量的前提下将Token消耗锐减60-95%，极具实用价值。`hermes-agent`提出“与你共成长的智能体”，强调自适应与个性化；`ECC`则为Claude Code、Cursor等编程助手提供集成技能、记忆与安全的性能优化系统，让编码Agent更强大。此外，GitHub官方的`spec-kit`推动规范驱动开发，`Open-LLM-VTuber`实现免提语音虚拟主播，均反映出AI工具正朝着更高效、更交互、更贴近生产的方向快速演进。",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "headroom",
+      "owner": "chopratejas",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "stars": 13536,
+      "forks": 859,
+      "stars_today": 3142,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个Python库、代理和MCP服务器，用于在发送给LLM之前智能压缩工具输出、日志、文件和RAG块，大幅减少token消耗。",
+        "purpose": "解决LLM上下文窗口有限和token成本高的问题，通过压缩输入内容，在保持答案质量的同时减少60-95%的token。",
+        "scene": "场景1：在AI代理中压缩工具调用结果，避免超出上下文限制；场景2：压缩日志文件或长文档，以便LLM高效处理；场景3：在RAG流程中压缩检索到的文本块，减少输入token。"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "hermes-agent",
+      "owner": "NousResearch",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 181669,
+      "forks": 31168,
+      "stars_today": 1913,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个基于Hermes语言模型的可成长型AI代理框架，支持长期记忆、工具调用和个性化适应。",
+        "purpose": "解决通用AI代理缺乏持续学习与个性化能力的问题，让代理能随用户交互不断进化。",
+        "scene": "个人知识助手、自动化任务编排、持续对话伙伴"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "ECC",
+      "owner": "affaan-m",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 207716,
+      "forks": 31874,
+      "stars_today": 1750,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个面向AI编码代理的性能优化系统，集成技能、本能、记忆、安全与研究优先开发能力。",
+        "purpose": "解决AI编码代理（如Claude Code、Codex等）在复杂任务中性能不足、缺乏上下文记忆与安全机制的问题。",
+        "scene": "Claude Code代理优化、Codex代理增强、Opencode与Cursor等AI编码工具的性能提升"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "PaddleOCR",
+      "owner": "PaddlePaddle",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "stars": 80189,
+      "forks": 10620,
+      "stars_today": 141,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个轻量级OCR工具包，可将PDF或图像文档转换为结构化数据，支持100多种语言，并桥接图像/PDF与LLM。",
+        "purpose": "解决从图像或PDF中高效提取多语言文本和结构化数据，以便AI系统直接利用的问题。",
+        "scene": "将扫描的合同PDF转换为可编辑文本、从多语言菜单图片中提取文字进行翻译、为聊天机器人提供从图像中提取的上下文信息"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "spec-kit",
+      "owner": "github",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "stars": 108840,
+      "forks": 9616,
+      "stars_today": 321,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者创建了一个Python工具包，帮助开发者快速启动规范驱动开发流程",
+        "purpose": "简化从规范定义到代码实现的开发过程，提升开发效率和一致性",
+        "scene": "新项目初始化时快速搭建规范驱动的开发框架、团队协作中确保代码实现与规范对齐、自动化生成符合规范的代码骨架或测试用例"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "cosmos",
+      "owner": "NVIDIA",
+      "url": "https://github.com/NVIDIA/cosmos",
+      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+      "stars": 9202,
+      "forks": 588,
+      "stars_today": 133,
+      "language": "Jupyter Notebook",
+      "topics": [],
+      "summary": {
+        "what": "NVIDIA开发了一个开放平台，提供世界模型、数据集和工具，用于构建物理AI。",
+        "purpose": "解决物理AI开发中缺乏统一平台和资源的问题。",
+        "scene": "机器人、自动驾驶、智能基础设施"
+      }
+    },
+    {
+      "rank": 7,
+      "name": "open-notebook",
+      "owner": "lfnovo",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "stars": 25412,
+      "forks": 2938,
+      "stars_today": 212,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者实现了一个开源版的Notebook LM，提供更灵活的功能和特性。",
+        "purpose": "解决现有Notebook LM闭源、功能受限的问题，让用户能自由定制和扩展。",
+        "scene": "个人知识管理、团队协作研究、教育辅助学习"
+      }
+    },
+    {
+      "rank": 8,
+      "name": "Open-LLM-VTuber",
+      "owner": "Open-LLM-VTuber",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "stars": 9831,
+      "forks": 1175,
+      "stars_today": 581,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个跨平台的本地运行工具，实现免提语音交互、语音打断和Live2D虚拟形象面部同步，可与任意大语言模型对话。",
+        "purpose": "解决现有语音助手缺乏实时打断、虚拟形象生动呈现及跨平台本地部署不便的问题。",
+        "scene": "虚拟主播直播互动、个人AI助手桌面应用、教育或娱乐场景的语音对话代理"
+      }
+    },
+    {
+      "rank": 9,
+      "name": "coding-interview-university",
+      "owner": "jwasham",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "stars": 350014,
+      "forks": 83258,
+      "stars_today": 632,
+      "language": "Unknown",
+      "topics": [],
+      "summary": {
+        "what": "作者创建了一个全面的计算机科学自学计划，涵盖数据结构、算法、系统设计等核心知识。",
+        "purpose": "帮助自学者系统掌握软件工程师所需技能，高效准备技术面试。",
+        "scene": "自学编程者缺乏系统学习路径、求职者备战科技公司面试、转行者需要结构化知识体系"
+      }
+    },
+    {
+      "rank": 10,
+      "name": "copilot-sdk",
+      "owner": "github",
+      "url": "https://github.com/github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "stars": 9078,
+      "forks": 1216,
+      "stars_today": 38,
+      "language": "Java",
+      "topics": [],
+      "summary": {
+        "what": "开发了多平台SDK，用于将GitHub Copilot Agent集成到Java应用和服务中",
+        "purpose": "简化开发者将Copilot智能编码助手嵌入自有工具和流程的复杂度",
+        "scene": "IDE插件开发、代码审查自动化、持续集成中的智能代码生成"
+      }
+    },
+    {
+      "rank": 11,
+      "name": "trivy",
+      "owner": "aquasecurity",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "stars": 35741,
+      "forks": 437,
+      "stars_today": 255,
+      "language": "Go",
+      "topics": [],
+      "summary": {
+        "what": "Aqua Security开发了Trivy，一个全面的安全扫描器，用于检测容器、Kubernetes、代码仓库、云环境等中的漏洞、配置错误、密钥和SBOM。",
+        "purpose": "解决现代云原生环境中安全风险难以全面、快速、统一扫描的问题，提供一站式安全分析工具。",
+        "scene": "CI/CD流水线中扫描容器镜像和IaC文件、开发阶段扫描代码仓库中的依赖和密钥、生产环境中持续监控Kubernetes集群和云资源的安全状况"
+      }
+    },
+    {
+      "rank": 12,
+      "name": "openclaw-windows-node",
+      "owner": "openclaw",
+      "url": "https://github.com/openclaw/openclaw-windows-node",
+      "description": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
+      "stars": 1438,
+      "forks": 172,
+      "stars_today": 411,
+      "language": "C#",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一套Windows配套工具，包含系统托盘应用、共享库、节点和PowerToys命令面板扩展。",
+        "purpose": "为OpenClaw提供便捷的Windows桌面集成与交互入口。",
+        "scene": "通过系统托盘图标快速控制OpenClaw服务、在PowerToys命令面板中直接调用OpenClaw功能、利用共享库和节点扩展OpenClaw的Windows端能力"
+      }
+    },
+    {
+      "rank": 13,
+      "name": "flowsint",
+      "owner": "reconurge",
+      "url": "https://github.com/reconurge/flowsint",
+      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "stars": 5440,
+      "forks": 654,
+      "stars_today": 308,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个基于TypeScript的现代可视化图调查平台，支持灵活扩展的图形化分析。",
+        "purpose": "解决网络安全分析师和调查人员在复杂数据关联分析中缺乏直观、可定制图形化工具的问题。",
+        "scene": "网络安全事件溯源与关联分析、威胁情报图谱构建与探索、数字取证调查中的关系可视化"
+      }
+    },
+    {
+      "rank": 14,
+      "name": "last30days-skill",
+      "owner": "mvanhorn",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 27900,
+      "forks": 2374,
+      "stars_today": 199,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个AI代理技能，能够跨Reddit、X、YouTube、Hacker News、Polymarket和网络搜索任意话题，并生成有依据的摘要。",
+        "purpose": "解决需要快速、多源、综合调研某个话题并生成结构化摘要的问题。",
+        "scene": "市场分析师快速了解某个加密货币或股票近30天的舆论动态、内容创作者调研热门话题的多平台讨论、研究人员需要跨社交媒体和新闻平台获取事件综合视角"
+      }
+    }
+  ]
+}
