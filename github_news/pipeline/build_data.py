@@ -10,6 +10,8 @@ from __future__ import annotations
 import json
 import os
 import logging
+import time
+import requests
 from datetime import datetime, timedelta
 from pathlib import Path
 from openai import OpenAI
@@ -18,6 +20,40 @@ logger = logging.getLogger(__name__)
 
 DATA_DIR = Path(__file__).parent.parent / "data"
 HISTORY_DIR = DATA_DIR / "history"
+CHARTS_DIR = DATA_DIR / "charts"
+
+
+def fetch_star_charts(repos: list[dict]) -> None:
+    """下载每个项目的星标趋势 SVG，缓存到 data/charts/"""
+    CHARTS_DIR.mkdir(exist_ok=True)
+    headers = {"User-Agent": "Mozilla/5.0"}
+    ok, skip, fail = 0, 0, 0
+
+    for repo in repos:
+        key = f"{repo['owner']}-{repo['name']}"
+        path = CHARTS_DIR / f"{key}.svg"
+
+        if path.exists():
+            skip += 1
+            continue
+
+        url = (
+            f"https://api.star-history.com/svg"
+            f"?repos={repo['owner']}/{repo['name']}&type=Date"
+        )
+        try:
+            resp = requests.get(url, headers=headers, timeout=15)
+            if resp.ok and b"<svg" in resp.content[:200]:
+                path.write_bytes(resp.content)
+                ok += 1
+            else:
+                fail += 1
+            time.sleep(0.5)          # 礼貌性限速，避免被封
+        except Exception as e:
+            logger.warning(f"星标图下载失败 {key}: {e}")
+            fail += 1
+
+    logger.info(f"星标趋势图：下载 {ok} 个，跳过 {skip} 个（已缓存），失败 {fail} 个")
 MODEL = "deepseek-ai/DeepSeek-V4-Pro"
 
 

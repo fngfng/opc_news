@@ -176,6 +176,25 @@
         }
         .refresh-log.visible { display: block; }
 
+        .chart-toggle {
+            display: flex; align-items: center; gap: 0.5rem;
+            padding: 0.5rem 0.75rem;
+            background: rgba(210,153,34,0.08); border: 1px solid rgba(210,153,34,0.2);
+            border-radius: 8px; color: var(--warning); font-size: 0.8rem; font-weight: 600;
+            cursor: pointer; transition: all 0.3s ease; margin-top: 0.5rem; user-select: none;
+        }
+        .chart-toggle:hover { background: rgba(210,153,34,0.15); border-color: rgba(210,153,34,0.4); }
+        .chart-toggle i { transition: transform 0.3s ease; font-size: 0.7rem; }
+        .chart-toggle.expanded i.chevron { transform: rotate(180deg); }
+
+        .chart-content { max-height: 0; overflow: hidden; transition: max-height 0.4s ease, opacity 0.3s ease; opacity: 0; }
+        .chart-content.expanded { max-height: 400px; opacity: 1; padding-top: 0.75rem; }
+        .chart-content img { width: 100%; border-radius: 8px; background: #fff; display: block; }
+        .chart-content .chart-loading { font-size: 0.8rem; color: var(--text-muted); text-align: center; padding: 1rem; }
+
+        .pick-what { font-size: 0.8rem; color: var(--accent); margin-top: 0.3rem; line-height: 1.5;
+            opacity: 0.85; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+
         .btn-force {
             margin-left: 0.75rem; padding: 0.5rem 1rem;
             background: transparent; border: 1px solid var(--border);
@@ -435,9 +454,14 @@
                     <div class="summary-section"><div class="summary-label"><i class="fas fa-bullseye"></i>方便干什么</div><div class="summary-text">${s.purpose}</div></div>
                     <div class="summary-section"><div class="summary-label"><i class="fas fa-map-marker-alt"></i>应用场景</div><div class="summary-text">${s.scene}</div></div>
                 </div>` : ''}
+                <div class="chart-toggle" onclick="toggleChart(event,'${repo.owner}','${repo.name}',${repo.rank})">
+                    <i class="fas fa-chart-line"></i><span>星标趋势</span><i class="fas fa-chevron-down chevron"></i>
+                </div>
+                <div class="chart-content" id="chart-${repo.rank}">
+                    <div class="chart-loading"><i class="fas fa-spinner fa-spin"></i> 加载中...</div>
+                </div>
                 <div class="card-footer">
                     <a href="${repo.url}" target="_blank" class="card-link"><i class="fab fa-github"></i> 查看仓库</a>
-                    <a href="https://star-history.com/#${repo.owner}/${repo.name}" target="_blank" class="card-link"><i class="fas fa-chart-line"></i> 星标趋势</a>
                 </div>
             </div>`;
         }
@@ -455,6 +479,38 @@
                 el.classList.add('expanded');
                 tog.classList.add('expanded');
             }
+        }
+
+        const expandedCharts = new Set();
+        function toggleChart(e, owner, name, rank) {
+            e.stopPropagation();
+            const content = document.getElementById('chart-' + rank);
+            const tog = e.currentTarget;
+            if (expandedCharts.has(rank)) {
+                expandedCharts.delete(rank);
+                content.classList.remove('expanded');
+                tog.classList.remove('expanded');
+                return;
+            }
+            expandedCharts.add(rank);
+            content.classList.add('expanded');
+            tog.classList.add('expanded');
+
+            // 已加载则不重复请求
+            if (content.querySelector('img')) return;
+
+            const key = owner + '-' + name;
+            const localSrc = 'data/charts/' + key + '.svg';
+            const img = new Image();
+            img.onload = () => { content.innerHTML = ''; content.appendChild(img); };
+            img.onerror = () => {
+                // 本地缓存不存在，回退到 star-history.com
+                img.onerror = () => { content.innerHTML = '<div class="chart-loading">暂无趋势图</div>'; };
+                img.src = 'https://api.star-history.com/svg?repos=' + owner + '/' + name + '&type=Date';
+            };
+            img.src = localSrc;
+            img.alt = owner + '/' + name + ' star history';
+            img.style.cssText = 'width:100%;border-radius:8px;background:#fff;';
         }
 
         function renderWeekly() {
@@ -527,6 +583,7 @@
                     <div class="pick-info">
                         <div class="pick-name">${r.owner}/${r.name}</div>
                         <div class="pick-desc">${r.description||''}</div>
+                        ${r.summary?.what ? `<div class="pick-what"><i class="fas fa-robot" style="font-size:0.7rem;margin-right:0.3rem;"></i>${r.summary.what}</div>` : ''}
                     </div>
                     <div class="pick-meta">
                         <div class="pick-stars"><i class="far fa-star"></i> ${fmt(r.stars)}</div>

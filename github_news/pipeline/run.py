@@ -17,7 +17,7 @@ load_dotenv(Path(__file__).parent.parent / ".env")
 
 from fetch_trending import fetch_trending
 from ai_summary import generate_summaries, load_summary_cache
-from build_data import save_daily, build_weekly, HISTORY_DIR
+from build_data import save_daily, build_weekly, fetch_star_charts, HISTORY_DIR
 
 logging.basicConfig(
     level=logging.INFO,
@@ -71,6 +71,13 @@ def main():
     except Exception as e:
         logger.error(f"Step 3 失败，文件写入异常: {e}")
         sys.exit(1)
+
+    # Step 4: 下载星标趋势图（失败不中断）
+    try:
+        fetch_star_charts(repos)
+        logger.info("Step 4 完成：星标趋势图已缓存")
+    except Exception as e:
+        logger.warning(f"Step 4 失败（{e}），不影响主流程")
 
     logger.info("=" * 50)
     logger.info("Pipeline 执行成功 ✓")

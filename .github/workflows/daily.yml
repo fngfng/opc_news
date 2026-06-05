@@ -2,8 +2,13 @@ name: Daily Trending Pipeline & Deploy
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # UTC 00:00 = 北京 08:00
+    - cron: '0 0 * * *'   # UTC 00:00 = 北京 08:00，每天一次
   workflow_dispatch:
+
+# 并发控制：同一时间只允许一个 run，新的会取消旧的
+concurrency:
+  group: daily-pipeline
+  cancel-in-progress: false
 
 permissions:
   contents: write
