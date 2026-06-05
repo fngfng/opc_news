@@ -36,8 +36,8 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/<你的用户名>/<仓库名>.git
-cd <仓库名>
+git clone https://github.com/fngfng/opc_news.git
+cd opc_news
 
 # 2. 安装依赖
 pip install -r github_news/requirements.txt
