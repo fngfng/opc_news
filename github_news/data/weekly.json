@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-05T13:34:37.253485",
-  "week_range": "2026-06-05 ~ 2026-06-05",
-  "days_collected": 1,
-  "total_projects": 16,
-  "total_stars_today": 11471,
+  "generated_at": "2026-06-06T02:45:51.743711",
+  "week_range": "2026-06-05 ~ 2026-06-06",
+  "days_collected": 2,
+  "total_projects": 17,
+  "total_stars_today": 23082,
   "top_languages": [
     [
       "Python",
-      7
+      14
     ],
     [
       "TypeScript",
-      2
+      5
     ],
     [
       "JavaScript",
-      2
+      4
     ],
     [
       "Jupyter Notebook",
-      1
+      2
     ],
     [
       "C#",
-      1
+      2
     ]
   ],
   "trending_topics": [],
@@ -44,7 +44,7 @@
         "purpose": "解决传统AI代理缺乏长期个性化与自适应能力的问题",
         "scene": "个人日程管理与习惯学习、知识库构建与动态更新、自动化任务流优化"
       },
-      "appear_days": 1
+      "appear_days": 2
     },
     {
       "rank": 2,
@@ -62,7 +62,7 @@
         "purpose": "解决LLM上下文窗口有限和token成本高的问题，通过压缩输入内容保持答案质量的同时减少60-95%的token使用。",
         "scene": "RAG系统中压缩检索到的文档块以节省上下文空间、压缩工具调用（如代码执行、API响应）的输出避免超限、压缩长日志或文本文件以便LLM高效处理"
       },
-      "appear_days": 1
+      "appear_days": 2
     },
     {
       "rank": 3,
@@ -80,7 +80,7 @@
         "purpose": "简化在Web应用中集成AI代理和动态生成用户界面的复杂性。",
         "scene": "构建AI聊天助手、生成动态表单、智能推荐界面"
       },
-      "appear_days": 1
+      "appear_days": 2
     },
     {
       "rank": 4,
@@ -98,7 +98,7 @@
         "purpose": "解决现有Notebook LM功能受限、缺乏定制化的问题。",
         "scene": "个人知识管理、团队协作研究、教育学习辅助"
       },
-      "appear_days": 1
+      "appear_days": 2
     },
     {
       "rank": 5,
@@ -116,7 +116,7 @@
         "purpose": "解决AI编程代理在性能、记忆、安全及研究驱动开发方面的不足",
         "scene": "在Claude Code中增强代理的记忆与技能以提升代码生成质量、在Cursor中优化代理的安全检查以防止漏洞、在Opencode中实现研究优先的开发流程以加速原型验证"
       },
-      "appear_days": 1
+      "appear_days": 2
     },
     {
       "rank": 6,
@@ -134,7 +134,7 @@
         "purpose": "解决AI代理无法直接、免费访问多个主流互联网平台内容的问题。",
         "scene": "社交媒体舆情监控与分析、跨平台内容聚合与自动化摘要、开源情报收集与自动化调研"
       },
-      "appear_days": 1
+      "appear_days": 2
     },
     {
       "rank": 7,
@@ -152,7 +152,7 @@
         "purpose": "帮助开发者构建物理AI应用",
         "scene": "机器人、自动驾驶汽车、智能基础设施"
       },
-      "appear_days": 1
+      "appear_days": 2
     },
     {
       "rank": 8,
@@ -170,7 +170,7 @@
         "purpose": "提供简洁统一的接口，利用群体智能解决各类预测问题，降低使用门槛",
         "scene": "时间序列预测、参数优化、分类与回归建模"
       },
-      "appear_days": 1
+      "appear_days": 2
     },
     {
       "rank": 9,
@@ -188,7 +188,7 @@
         "purpose": "解决从多个分散平台快速获取主题综合信息并形成可靠摘要的问题。",
         "scene": "市场分析师快速了解产品舆情、内容创作者收集多源素材、投资者跟踪预测市场情绪"
       },
-      "appear_days": 1
+      "appear_days": 2
     },
     {
       "rank": 10,
@@ -206,12 +206,12 @@
         "purpose": "解决从图像或PDF中提取结构化文本数据的问题，以便AI（如LLM）处理。",
         "scene": "文档数字化与信息提取、多语言文本识别与翻译、为LLM提供图像/PDF内容的结构化输入"
       },
-      "appear_days": 1
+      "appear_days": 2
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向是AI Agent与智能体基础设施。从榜单看，8个项目中有6个直接与Agent相关（个人助手、前端Agent框架、Agent性能优化、互联网感知Agent、群体智能引擎），表明行业正从单一模型转向可行动、可成长、可连接外部世界的智能体系统。NVIDIA Cosmos作为世界模型平台的出现，进一步说明Agent正从纯语言交互向物理世界仿真与具身智能延伸。",
-    "language_trend": "Python以7次出现绝对主导，反映出AI Agent开发仍以Python为核心生态。TypeScript和JavaScript各出现2次，主要源于CopilotKit等前端Agent与生成式UI框架的兴起，说明Agent交互界面正从命令行/API向富前端演进，前端语言在Agent应用层的重要性快速上升。Jupyter Notebook和C#的出现频次较低，目前仍属辅助角色，未形成趋势性变化。",
-    "notable_projects": "NousResearch/hermes-agent以18.2万星高居榜首，定位为“与你共同成长的智能体”，代表个人化、持续学习的Agent新范式，极可能成为开源个人助手赛道的标杆。CopilotKit（3.2万星）专注于Agent前端与生成式UI栈，填补了Agent从后端能力到用户界面的关键缺口，是Agent应用落地的重要基础设施。NVIDIA/cosmos作为刚上榜的世界模型平台，由NVIDIA背书，旨在为物理AI和具身智能提供通用世界仿真，其开源将极大降低机器人、自动驾驶等领域的研发门槛，值得长期跟踪。"
+    "hot_direction": "本周最热技术方向毫无疑问是AI智能体（Agent）与生成式AI。Top 8项目全部围绕AI代理、世界模型、群体智能或AI辅助工具展开，其中多个项目直接以“Agent”命名，显示行业正从单一模型向具备感知、规划与交互能力的智能体系统快速演进。NVIDIA发布cosmos世界模型平台进一步印证了从基础模型走向物理世界模拟和具身智能的产业趋势。",
+    "language_trend": "Python以14次出现遥遥领先，主导地位源自几乎所有AI/ML框架、模型训练和智能体项目均以Python为首选语言。TypeScript（5次）和JavaScript（4次）保持活跃，主要服务于代理的前端交互、生成式UI和工具链构建，表明AI应用正加速向全栈可交互方向落地。Jupyter Notebook（2次）反映实验探索与数据科学需求仍在，C#（2次）则可能集中在特定工具或游戏引擎集成，整体语言格局未出现明显下降，但Python的优势随AI热潮进一步扩大。",
+    "notable_projects": "NousResearch/hermes-agent（182k星）以“与你一起成长的代理”为理念，可能定义了个人化、持续学习的AI伴侣范式，超高人气预示其或成为开源Agent操作系统的标杆。NVIDIA/cosmos（9.2k星）是英伟达推出的世界模型开放平台，将物理世界模拟与AI结合，有望成为机器人、自动驾驶和数字孪生的基础底座，战略意义重大。CopilotKit（32k星）聚焦代理前端与生成式UI，解决了AI应用“最后一公里”的交互难题，对于构建可商用、可定制的Agent产品具有极高实用价值。"
   }
 }
