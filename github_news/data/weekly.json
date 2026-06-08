@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-07T03:32:53.876100",
-  "week_range": "2026-06-05 ~ 2026-06-07",
-  "days_collected": 3,
-  "total_projects": 27,
-  "total_stars_today": 28373,
+  "generated_at": "2026-06-08T03:37:48.018648",
+  "week_range": "2026-06-05 ~ 2026-06-08",
+  "days_collected": 4,
+  "total_projects": 38,
+  "total_stars_today": 36045,
   "top_languages": [
     [
       "Python",
-      20
+      24
     ],
     [
       "TypeScript",
-      9
+      13
     ],
     [
       "JavaScript",
-      7
+      8
     ],
     [
       "Go",
       4
     ],
     [
-      "Jupyter Notebook",
-      2
+      "Rust",
+      3
     ]
   ],
   "trending_topics": [],
@@ -43,6 +43,60 @@
         "what": "作者开发了一个AI代理技能，能够跨Reddit、X、YouTube、Hacker News、Polymarket和网络研究任意主题，并生成基于事实的综合摘要。",
         "purpose": "解决从多个分散平台快速获取主题综合信息并形成可靠摘要的问题。",
         "scene": "市场分析师快速了解产品舆情、内容创作者收集多源素材、投资者跟踪预测市场情绪"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 4,
+      "name": "open-notebook",
+      "owner": "lfnovo",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "stars": 25604,
+      "forks": 2954,
+      "stars_today": 1142,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者实现了一个开源版的Notebook LM，提供更灵活的功能和特性。",
+        "purpose": "解决现有Notebook LM功能受限、缺乏定制化的问题。",
+        "scene": "个人知识管理、团队协作研究、教育学习辅助"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 11,
+      "name": "plugins",
+      "owner": "openai",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "stars": 1435,
+      "forks": 233,
+      "stars_today": 17,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": {
+        "what": "OpenAI创建了ChatGPT插件示例和开发规范",
+        "purpose": "让开发者扩展ChatGPT功能，集成外部API和服务",
+        "scene": "实时信息检索、第三方服务集成、自定义工具调用"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 1,
+      "name": "hermes-agent",
+      "owner": "NousResearch",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 182090,
+      "forks": 31239,
+      "stars_today": 1821,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "构建了一个可自我进化的AI代理框架，通过记忆与学习机制持续适应用户需求",
+        "purpose": "解决传统AI代理缺乏长期个性化与自适应能力的问题",
+        "scene": "个人日程管理与习惯学习、知识库构建与动态更新、自动化任务流优化"
       },
       "appear_days": 3
     },
@@ -83,24 +137,6 @@
       "appear_days": 3
     },
     {
-      "rank": 11,
-      "name": "plugins",
-      "owner": "openai",
-      "url": "https://github.com/openai/plugins",
-      "description": "OpenAI Plugins",
-      "stars": 1435,
-      "forks": 233,
-      "stars_today": 17,
-      "language": "JavaScript",
-      "topics": [],
-      "summary": {
-        "what": "OpenAI创建了ChatGPT插件示例和开发规范",
-        "purpose": "让开发者扩展ChatGPT功能，集成外部API和服务",
-        "scene": "实时信息检索、第三方服务集成、自定义工具调用"
-      },
-      "appear_days": 3
-    },
-    {
       "rank": 6,
       "name": "Agent-Reach",
       "owner": "Panniantong",
@@ -137,24 +173,6 @@
       "appear_days": 3
     },
     {
-      "rank": 4,
-      "name": "open-notebook",
-      "owner": "lfnovo",
-      "url": "https://github.com/lfnovo/open-notebook",
-      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
-      "stars": 25604,
-      "forks": 2954,
-      "stars_today": 1142,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者实现了一个开源版的Notebook LM，提供更灵活的功能和特性。",
-        "purpose": "解决现有Notebook LM功能受限、缺乏定制化的问题。",
-        "scene": "个人知识管理、团队协作研究、教育学习辅助"
-      },
-      "appear_days": 3
-    },
-    {
       "rank": 10,
       "name": "PaddleOCR",
       "owner": "PaddlePaddle",
@@ -171,24 +189,6 @@
         "scene": "文档数字化与信息提取、多语言文本识别与翻译、为LLM提供图像/PDF内容的结构化输入"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 1,
-      "name": "hermes-agent",
-      "owner": "NousResearch",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 182090,
-      "forks": 31239,
-      "stars_today": 1821,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "构建了一个可自我进化的AI代理框架，通过记忆与学习机制持续适应用户需求",
-        "purpose": "解决传统AI代理缺乏长期个性化与自适应能力的问题",
-        "scene": "个人日程管理与习惯学习、知识库构建与动态更新、自动化任务流优化"
-      },
-      "appear_days": 2
     },
     {
       "rank": 2,
@@ -210,8 +210,8 @@
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向无疑是AI Agent及其生态基础设施。多个上榜项目围绕AI Agent的记忆系统、前端框架、网络感知能力和插件扩展展开，表明行业正从单一模型能力转向构建完整、可交互的自主代理体系。这股热潮背后是开发者对让AI真正‘动手做事’的强烈需求，记忆、工具调用与生成式UI成为当前最受追捧的拼图。",
-    "language_trend": "Python以20次出现量占据绝对主导，主要得益于AI/ML项目几乎清一色使用Python作为核心语言。TypeScript（9次）和JavaScript（7次）合计紧随其后，反映前端Agent框架、生成式UI和全栈工具正在快速崛起，开发者越来越重视将AI能力无缝嵌入Web界面。Go（4次）在安全与基础设施领域保持稳定，Jupyter Notebook（2次）则体现数据探索与实验性项目的持续存在，整体呈现Python领跑AI、TS/JS驱动交互、Go守护底层的多语言协同格局。",
-    "notable_projects": "MemPalace（⭐53651）作为自称基准最优的开源AI记忆系统，直击当前Agent长期记忆和上下文管理的核心痛点，若其性能属实，可能成为未来Agent架构的关键组件。CopilotKit（⭐32379）提供了面向Agent与生成式UI的前端堆栈，极大降低了构建可交互AI应用的门槛，有望加速Agent从后台走向用户界面的落地进程。PaddleOCR（⭐80327）虽非新项目，但本周凭借将任意PDF或图像转为结构化数据的能力重回视野，在文档智能与大模型数据预处理需求激增的背景下，其实用价值被重新放大。"
+    "hot_direction": "本周最热技术方向无疑是AI Agent生态。Top 8项目中7个直接与AI Agent相关，涵盖技能扩展、记忆系统、前端交互框架、网络感知和开源LM笔记本，显示出从模型能力向完整智能体（感知-记忆-行动）闭环的快速演进。这一波热度表明开发者正从单点模型调用转向构建可成长、可组合、具备持久上下文的自主Agent系统。",
+    "language_trend": "Python以24次出现稳居首位，主要受AI/ML项目驱动，几乎所有Agent核心逻辑与记忆系统均采用Python实现，地位进一步巩固。TypeScript出现13次，超越JavaScript的8次，崛起明显，原因在于生成式UI、Agent前端框架和插件系统大量采用TypeScript构建类型安全的交互层。Go和Rust分别出现4次和3次，集中在安全扫描、基础设施等底层工具，虽占比不高但需求稳定，未见下降趋势。",
+    "notable_projects": "NousResearch/hermes-agent（182k星）值得重点关注，其定位为“与你共同成长的智能体”，代表个性化、持续进化的Agent范式，极高人气验证了市场对个人AI伙伴的强烈需求。MemPalace/mempalace（53k星）作为当前基准最优的开源AI记忆系统，解决了Agent长期记忆与上下文管理的核心痛点，有望成为Agent架构的标准组件。CopilotKit/CopilotKit（32k星）提供了Agent与生成式UI的前端集成栈，大幅降低将Agent嵌入应用的门槛，是连接模型与用户界面的关键基础设施。"
   }
 }
