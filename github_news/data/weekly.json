@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-08T03:37:48.018648",
-  "week_range": "2026-06-05 ~ 2026-06-08",
-  "days_collected": 4,
-  "total_projects": 38,
-  "total_stars_today": 36045,
+  "generated_at": "2026-06-09T02:45:30.388019",
+  "week_range": "2026-06-05 ~ 2026-06-09",
+  "days_collected": 5,
+  "total_projects": 43,
+  "total_stars_today": 47535,
   "top_languages": [
     [
       "Python",
-      24
+      32
     ],
     [
       "TypeScript",
-      13
+      16
     ],
     [
       "JavaScript",
-      8
+      10
+    ],
+    [
+      "Rust",
+      4
     ],
     [
       "Go",
       4
-    ],
-    [
-      "Rust",
-      3
     ]
   ],
   "trending_topics": [],
@@ -43,6 +43,78 @@
         "what": "作者开发了一个AI代理技能，能够跨Reddit、X、YouTube、Hacker News、Polymarket和网络研究任意主题，并生成基于事实的综合摘要。",
         "purpose": "解决从多个分散平台快速获取主题综合信息并形成可靠摘要的问题。",
         "scene": "市场分析师快速了解产品舆情、内容创作者收集多源素材、投资者跟踪预测市场情绪"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 11,
+      "name": "plugins",
+      "owner": "openai",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "stars": 1435,
+      "forks": 233,
+      "stars_today": 17,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": {
+        "what": "OpenAI创建了ChatGPT插件示例和开发规范",
+        "purpose": "让开发者扩展ChatGPT功能，集成外部API和服务",
+        "scene": "实时信息检索、第三方服务集成、自定义工具调用"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 6,
+      "name": "Agent-Reach",
+      "owner": "Panniantong",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": 21299,
+      "forks": 1850,
+      "stars_today": 127,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个命令行工具，让AI代理无需API费用即可读取和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等平台内容。",
+        "purpose": "解决AI代理无法直接、免费访问多个主流互联网平台内容的问题。",
+        "scene": "社交媒体舆情监控与分析、跨平台内容聚合与自动化摘要、开源情报收集与自动化调研"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 12,
+      "name": "mempalace",
+      "owner": "MemPalace",
+      "url": "https://github.com/MemPalace/mempalace",
+      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "stars": 53651,
+      "forks": 7067,
+      "stars_today": 228,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个基准测试表现最佳的开源AI记忆系统",
+        "purpose": "解决AI应用缺乏高效、可扩展的长期记忆管理问题",
+        "scene": "智能聊天机器人记忆用户偏好与历史对话、个人AI助手管理日程与任务、知识库系统存储与检索非结构化信息"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 3,
+      "name": "CopilotKit",
+      "owner": "CopilotKit",
+      "url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
+      "stars": 32379,
+      "forks": 4175,
+      "stars_today": 350,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "构建了用于集成AI代理和生成式UI的前端工具包，支持React和Angular，并制定了AG-UI协议。",
+        "purpose": "简化在Web应用中集成AI代理和动态生成用户界面的复杂性。",
+        "scene": "构建AI聊天助手、生成动态表单、智能推荐界面"
       },
       "appear_days": 4
     },
@@ -65,24 +137,6 @@
       "appear_days": 4
     },
     {
-      "rank": 11,
-      "name": "plugins",
-      "owner": "openai",
-      "url": "https://github.com/openai/plugins",
-      "description": "OpenAI Plugins",
-      "stars": 1435,
-      "forks": 233,
-      "stars_today": 17,
-      "language": "JavaScript",
-      "topics": [],
-      "summary": {
-        "what": "OpenAI创建了ChatGPT插件示例和开发规范",
-        "purpose": "让开发者扩展ChatGPT功能，集成外部API和服务",
-        "scene": "实时信息检索、第三方服务集成、自定义工具调用"
-      },
-      "appear_days": 4
-    },
-    {
       "rank": 1,
       "name": "hermes-agent",
       "owner": "NousResearch",
@@ -97,60 +151,6 @@
         "what": "构建了一个可自我进化的AI代理框架，通过记忆与学习机制持续适应用户需求",
         "purpose": "解决传统AI代理缺乏长期个性化与自适应能力的问题",
         "scene": "个人日程管理与习惯学习、知识库构建与动态更新、自动化任务流优化"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 3,
-      "name": "CopilotKit",
-      "owner": "CopilotKit",
-      "url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
-      "stars": 32379,
-      "forks": 4175,
-      "stars_today": 350,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "构建了用于集成AI代理和生成式UI的前端工具包，支持React和Angular，并制定了AG-UI协议。",
-        "purpose": "简化在Web应用中集成AI代理和动态生成用户界面的复杂性。",
-        "scene": "构建AI聊天助手、生成动态表单、智能推荐界面"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 12,
-      "name": "mempalace",
-      "owner": "MemPalace",
-      "url": "https://github.com/MemPalace/mempalace",
-      "description": "The best-benchmarked open-source AI memory system. And it's free.",
-      "stars": 53651,
-      "forks": 7067,
-      "stars_today": 228,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个基准测试表现最佳的开源AI记忆系统",
-        "purpose": "解决AI应用缺乏高效、可扩展的长期记忆管理问题",
-        "scene": "智能聊天机器人记忆用户偏好与历史对话、个人AI助手管理日程与任务、知识库系统存储与检索非结构化信息"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 6,
-      "name": "Agent-Reach",
-      "owner": "Panniantong",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 21299,
-      "forks": 1850,
-      "stars_today": 127,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个命令行工具，让AI代理无需API费用即可读取和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等平台内容。",
-        "purpose": "解决AI代理无法直接、免费访问多个主流互联网平台内容的问题。",
-        "scene": "社交媒体舆情监控与分析、跨平台内容聚合与自动化摘要、开源情报收集与自动化调研"
       },
       "appear_days": 3
     },
@@ -191,27 +191,27 @@
       "appear_days": 3
     },
     {
-      "rank": 2,
-      "name": "headroom",
-      "owner": "chopratejas",
-      "url": "https://github.com/chopratejas/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "stars": 13964,
-      "forks": 883,
-      "stars_today": 2503,
+      "rank": 10,
+      "name": "turbovec",
+      "owner": "RyanCodrai",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "stars": 7365,
+      "forks": 712,
+      "stars_today": 1554,
       "language": "Python",
       "topics": [],
       "summary": {
-        "what": "作者开发了一个Python库、代理和MCP服务器，用于在数据发送给LLM之前智能压缩工具输出、日志、文件和RAG块，大幅减少token消耗。",
-        "purpose": "解决LLM上下文窗口有限和token成本高的问题，通过压缩输入内容保持答案质量的同时减少60-95%的token使用。",
-        "scene": "RAG系统中压缩检索到的文档块以节省上下文空间、压缩工具调用（如代码执行、API响应）的输出避免超限、压缩长日志或文本文件以便LLM高效处理"
+        "what": "作者构建了一个基于TurboQuant的高性能向量索引库，提供Python接口",
+        "purpose": "解决大规模向量相似性搜索的效率问题",
+        "scene": "推荐系统、语义搜索、图像检索"
       },
       "appear_days": 2
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向无疑是AI Agent生态。Top 8项目中7个直接与AI Agent相关，涵盖技能扩展、记忆系统、前端交互框架、网络感知和开源LM笔记本，显示出从模型能力向完整智能体（感知-记忆-行动）闭环的快速演进。这一波热度表明开发者正从单点模型调用转向构建可成长、可组合、具备持久上下文的自主Agent系统。",
-    "language_trend": "Python以24次出现稳居首位，主要受AI/ML项目驱动，几乎所有Agent核心逻辑与记忆系统均采用Python实现，地位进一步巩固。TypeScript出现13次，超越JavaScript的8次，崛起明显，原因在于生成式UI、Agent前端框架和插件系统大量采用TypeScript构建类型安全的交互层。Go和Rust分别出现4次和3次，集中在安全扫描、基础设施等底层工具，虽占比不高但需求稳定，未见下降趋势。",
-    "notable_projects": "NousResearch/hermes-agent（182k星）值得重点关注，其定位为“与你共同成长的智能体”，代表个性化、持续进化的Agent范式，极高人气验证了市场对个人AI伙伴的强烈需求。MemPalace/mempalace（53k星）作为当前基准最优的开源AI记忆系统，解决了Agent长期记忆与上下文管理的核心痛点，有望成为Agent架构的标准组件。CopilotKit/CopilotKit（32k星）提供了Agent与生成式UI的前端集成栈，大幅降低将Agent嵌入应用的门槛，是连接模型与用户界面的关键基础设施。"
+    "hot_direction": "本周最热技术方向是AI Agent与记忆系统，多个项目围绕赋予AI联网、记忆和前端交互能力展开，反映出从单次对话向持久化、自主执行任务演进的强烈趋势。安全工具Trivy的上榜也表明云原生安全持续受关注，但整体热度远不及AI方向。",
+    "language_trend": "Python以32次出现稳居主导，主要受AI Agent、记忆系统和开源Notebook等大量Python项目推动。TypeScript和JavaScript合计26次，集中在前端Agent框架和生成式UI领域，显示前端与AI的融合正在加速。Rust和Go各4次，主要用于安全工具和基础设施，地位稳定但未出现爆发式增长。",
+    "notable_projects": "NousResearch/hermes-agent（⭐182090）以极高星数成为现象级项目，强调“与你共同成长的Agent”，可能引入个性化、持续学习的范式，值得重点关注其实现方式。MemPalace/mempalace（⭐53651）作为开源AI记忆系统，直接解决大模型上下文窗口限制，若效果接近闭源方案将显著改变应用架构。CopilotKit/CopilotKit（⭐32379）定位为Agent与生成式UI的前端栈，填补了Agent从后端思考到前端呈现的空白，有望成为Agent应用开发的标准组件。"
   }
 }
