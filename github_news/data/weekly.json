@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-09T02:45:30.388019",
-  "week_range": "2026-06-05 ~ 2026-06-09",
-  "days_collected": 5,
-  "total_projects": 43,
-  "total_stars_today": 47535,
+  "generated_at": "2026-06-10T02:59:51.243109",
+  "week_range": "2026-06-05 ~ 2026-06-10",
+  "days_collected": 6,
+  "total_projects": 47,
+  "total_stars_today": 59281,
   "top_languages": [
     [
       "Python",
-      32
+      38
     ],
     [
       "TypeScript",
-      16
+      18
     ],
     [
       "JavaScript",
-      10
+      12
     ],
     [
       "Rust",
-      4
+      5
     ],
     [
-      "Go",
-      4
+      "Unknown",
+      5
     ]
   ],
   "trending_topics": [],
@@ -44,7 +44,7 @@
         "purpose": "解决从多个分散平台快速获取主题综合信息并形成可靠摘要的问题。",
         "scene": "市场分析师快速了解产品舆情、内容创作者收集多源素材、投资者跟踪预测市场情绪"
       },
-      "appear_days": 5
+      "appear_days": 6
     },
     {
       "rank": 11,
@@ -62,7 +62,7 @@
         "purpose": "让开发者扩展ChatGPT功能，集成外部API和服务",
         "scene": "实时信息检索、第三方服务集成、自定义工具调用"
       },
-      "appear_days": 5
+      "appear_days": 6
     },
     {
       "rank": 6,
@@ -137,60 +137,6 @@
       "appear_days": 4
     },
     {
-      "rank": 1,
-      "name": "hermes-agent",
-      "owner": "NousResearch",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 182090,
-      "forks": 31239,
-      "stars_today": 1821,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "构建了一个可自我进化的AI代理框架，通过记忆与学习机制持续适应用户需求",
-        "purpose": "解决传统AI代理缺乏长期个性化与自适应能力的问题",
-        "scene": "个人日程管理与习惯学习、知识库构建与动态更新、自动化任务流优化"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 14,
-      "name": "trivy",
-      "owner": "aquasecurity",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "stars": 35767,
-      "forks": 438,
-      "stars_today": 208,
-      "language": "Go",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个全面的安全扫描工具，用于检测容器、Kubernetes、代码仓库、云环境中的漏洞、错误配置、秘密和生成SBOM。",
-        "purpose": "解决在多种基础设施和代码中快速、统一地发现安全风险的问题。",
-        "scene": "容器镜像漏洞扫描、Kubernetes集群配置审计、代码仓库秘密与依赖项漏洞检测"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 10,
-      "name": "PaddleOCR",
-      "owner": "PaddlePaddle",
-      "url": "https://github.com/PaddlePaddle/PaddleOCR",
-      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-      "stars": 80327,
-      "forks": 10623,
-      "stars_today": 755,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个轻量级OCR工具包，将PDF或图像文档转换为结构化数据，支持100多种语言，并桥接图像/PDF与LLM。",
-        "purpose": "解决从图像或PDF中提取结构化文本数据的问题，以便AI（如LLM）处理。",
-        "scene": "文档数字化与信息提取、多语言文本识别与翻译、为LLM提供图像/PDF内容的结构化输入"
-      },
-      "appear_days": 3
-    },
-    {
       "rank": 10,
       "name": "turbovec",
       "owner": "RyanCodrai",
@@ -206,12 +152,66 @@
         "purpose": "解决大规模向量相似性搜索的效率问题",
         "scene": "推荐系统、语义搜索、图像检索"
       },
-      "appear_days": 2
+      "appear_days": 3
+    },
+    {
+      "rank": 13,
+      "name": "tolaria",
+      "owner": "refactoringhq",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "stars": 12967,
+      "forks": 914,
+      "stars_today": 245,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一款桌面应用，用于管理基于Markdown的知识库。",
+        "purpose": "解决个人或团队在本地高效组织、浏览和编辑Markdown笔记与文档的需求。",
+        "scene": "个人知识管理、团队文档协作、技术笔记整理"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 7,
+      "name": "goose",
+      "owner": "aaif-goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "stars": 47592,
+      "forks": 5017,
+      "stars_today": 322,
+      "language": "Rust",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个基于Rust的开源AI代理框架，支持安装、执行、编辑和测试任意大语言模型",
+        "purpose": "解决现有AI工具仅提供代码建议而无法自主执行操作、跨模型扩展的问题",
+        "scene": "自动化软件开发与测试、多模型任务编排与执行、本地化AI代理部署与定制"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 11,
+      "name": "ChinaTextbook",
+      "owner": "TapXWorld",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "stars": 72598,
+      "forks": 16261,
+      "stars_today": 350,
+      "language": "Roff",
+      "topics": [],
+      "summary": {
+        "what": "作者收集并整理了从小学到大学的全套PDF教材",
+        "purpose": "方便学生、教师和自学者免费获取电子版教材，降低学习成本",
+        "scene": "学生预习或复习课本内容、教师备课参考、自学者系统学习学科知识"
+      },
+      "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向是AI Agent与记忆系统，多个项目围绕赋予AI联网、记忆和前端交互能力展开，反映出从单次对话向持久化、自主执行任务演进的强烈趋势。安全工具Trivy的上榜也表明云原生安全持续受关注，但整体热度远不及AI方向。",
-    "language_trend": "Python以32次出现稳居主导，主要受AI Agent、记忆系统和开源Notebook等大量Python项目推动。TypeScript和JavaScript合计26次，集中在前端Agent框架和生成式UI领域，显示前端与AI的融合正在加速。Rust和Go各4次，主要用于安全工具和基础设施，地位稳定但未出现爆发式增长。",
-    "notable_projects": "NousResearch/hermes-agent（⭐182090）以极高星数成为现象级项目，强调“与你共同成长的Agent”，可能引入个性化、持续学习的范式，值得重点关注其实现方式。MemPalace/mempalace（⭐53651）作为开源AI记忆系统，直接解决大模型上下文窗口限制，若效果接近闭源方案将显著改变应用架构。CopilotKit/CopilotKit（⭐32379）定位为Agent与生成式UI的前端栈，填补了Agent从后端思考到前端呈现的空白，有望成为Agent应用开发的标准组件。"
+    "hot_direction": "本周最热技术方向无疑是AI Agent及其生态基础设施。上榜项目大多围绕自主代理的核心能力展开，包括记忆系统（MemPalace）、网络访问（Agent-Reach）、前端交互（CopilotKit）和技能扩展（last30days-skill），说明行业正从单一模型转向具备感知、记忆与行动能力的智能体构建。这股热潮的背后驱动力是让AI从‘对话工具’进化为能自主完成复杂任务的数字助手，因此记忆、工具调用和生成式UI成为关键战场。",
+    "language_trend": "Python以38次上榜遥遥领先，巩固了其在AI/ML领域不可动摇的主导地位，几乎所有模型、代理和数据处理项目都首选Python。TypeScript和JavaScript合计30次，反映出前端与AI融合的趋势，尤其是生成式UI和代理交互界面需求激增。Rust出现5次，集中在向量索引等性能敏感的基础设施层，表明在高吞吐、低延迟场景下Rust正成为Python的关键补充，而非替代。",
+    "notable_projects": "MemPalace/mempalace（⭐53651）作为当前基准测试最佳的开源AI记忆系统，直接解决了大模型上下文窗口有限和长期记忆缺失的痛点，是构建持久化、个性化Agent的基石，其高星数反映了市场的迫切需求。CopilotKit/CopilotKit（⭐32379）提供了连接Agent与前端应用的完整堆栈，让开发者能快速将AI推理能力嵌入用户界面并支持生成式UI，大幅降低了Agent应用的门槛，有望成为Agent时代的‘前端框架’。mvanhorn/last30days-skill（⭐28021）则展示了Agent如何通过工具化技能自主研究任意话题，其爆火印证了‘给AI配备搜索引擎和工具’这一范式的实用价值，是Agent从概念走向落地的典型范例。"
   }
 }
