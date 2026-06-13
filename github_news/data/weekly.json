@@ -1,51 +1,33 @@
 {
-  "generated_at": "2026-06-12T03:35:54.543621",
-  "week_range": "2026-06-06 ~ 2026-06-12",
+  "generated_at": "2026-06-13T02:57:47.395511",
+  "week_range": "2026-06-07 ~ 2026-06-13",
   "days_collected": 7,
-  "total_projects": 63,
-  "total_stars_today": 74450,
+  "total_projects": 59,
+  "total_stars_today": 74129,
   "top_languages": [
     [
       "Python",
-      43
+      39
     ],
     [
       "TypeScript",
       20
     ],
     [
-      "JavaScript",
-      10
+      "Shell",
+      11
     ],
     [
       "Unknown",
       9
     ],
     [
-      "Shell",
+      "JavaScript",
       8
     ]
   ],
   "trending_topics": [],
   "top_picks": [
-    {
-      "rank": 9,
-      "name": "last30days-skill",
-      "owner": "mvanhorn",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": 28246,
-      "forks": 2392,
-      "stars_today": 731,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个AI代理技能，能够跨Reddit、X、YouTube、Hacker News、Polymarket和网络研究任意主题，并生成基于事实的综合摘要。",
-        "purpose": "解决从多个分散平台快速获取主题综合信息并形成可靠摘要的问题。",
-        "scene": "市场分析师快速了解产品舆情、内容创作者收集多源素材、投资者跟踪预测市场情绪"
-      },
-      "appear_days": 6
-    },
     {
       "rank": 13,
       "name": "tolaria",
@@ -62,25 +44,7 @@
         "purpose": "解决个人或团队在本地高效组织、浏览和编辑Markdown笔记与文档的需求。",
         "scene": "个人知识管理、团队文档协作、技术笔记整理"
       },
-      "appear_days": 5
-    },
-    {
-      "rank": 11,
-      "name": "plugins",
-      "owner": "openai",
-      "url": "https://github.com/openai/plugins",
-      "description": "OpenAI Plugins",
-      "stars": 1558,
-      "forks": 243,
-      "stars_today": 49,
-      "language": "JavaScript",
-      "topics": [],
-      "summary": {
-        "what": "OpenAI创建了ChatGPT插件示例和开发规范",
-        "purpose": "让开发者扩展ChatGPT功能，集成外部API和服务",
-        "scene": "实时信息检索、第三方服务集成、自定义工具调用"
-      },
-      "appear_days": 5
+      "appear_days": 6
     },
     {
       "rank": 8,
@@ -97,6 +61,78 @@
         "what": "作者构建了一个产品经理技能市场，提供超过100个代理技能、命令和插件，覆盖产品全生命周期。",
         "purpose": "解决产品经理在从发现到增长的全流程中缺乏自动化、可复用的代理技能的问题。",
         "scene": "产品发现与市场调研、产品策略与路线图制定、产品发布与增长运营"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 1,
+      "name": "last30days-skill",
+      "owner": "mvanhorn",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 28939,
+      "forks": 2450,
+      "stars_today": 439,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个AI代理技能，能够跨Reddit、X、YouTube、Hacker News、Polymarket和网络研究任意主题，并生成基于事实的综合摘要。",
+        "purpose": "解决从多个分散平台快速获取主题综合信息并形成可靠摘要的问题。",
+        "scene": "市场分析师快速了解产品舆情、内容创作者收集多源素材、投资者跟踪预测市场情绪"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 16,
+      "name": "agent-skills",
+      "owner": "addyosmani",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 49884,
+      "forks": 5572,
+      "stars_today": 443,
+      "language": "Shell",
+      "topics": [],
+      "summary": {
+        "what": "作者创建了一套面向AI编码代理的生产级Shell工程技能脚本",
+        "purpose": "解决AI代理缺乏标准化工程实践和自动化能力的问题",
+        "scene": "自动化部署与运维、代码质量检查与修复、开发环境配置与初始化"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 12,
+      "name": "superpowers",
+      "owner": "obra",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 219731,
+      "forks": 19552,
+      "stars_today": 700,
+      "language": "Shell",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个基于Shell脚本的代理技能框架与软件开发方法论，用于指导和管理智能代理的行为与任务执行。",
+        "purpose": "解决在复杂任务中如何系统化地定义、组合和调度代理技能，以实现可靠且可复用的自动化软件开发流程。",
+        "scene": "自动化代码审查与修复、多步骤软件部署流水线、智能代理的任务规划与执行"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 14,
+      "name": "openmed",
+      "owner": "maziyarpanahi",
+      "url": "https://github.com/maziyarpanahi/openmed",
+      "description": "open-source healthcare ai",
+      "stars": 1916,
+      "forks": 217,
+      "stars_today": 191,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个开源的医疗人工智能项目，提供基于Python的医疗AI工具或模型",
+        "purpose": "解决医疗领域的人工智能应用问题，如辅助诊断、医学数据分析等",
+        "scene": "临床辅助诊断、医学影像分析、健康管理咨询"
       },
       "appear_days": 4
     },
@@ -119,99 +155,63 @@
       "appear_days": 4
     },
     {
-      "rank": 16,
-      "name": "agent-skills",
-      "owner": "addyosmani",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 49884,
-      "forks": 5572,
-      "stars_today": 443,
-      "language": "Shell",
+      "rank": 5,
+      "name": "plugins",
+      "owner": "openai",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "stars": 1804,
+      "forks": 257,
+      "stars_today": 213,
+      "language": "JavaScript",
       "topics": [],
       "summary": {
-        "what": "作者创建了一套面向AI编码代理的生产级Shell工程技能脚本",
-        "purpose": "解决AI代理缺乏标准化工程实践和自动化能力的问题",
-        "scene": "自动化部署与运维、代码质量检查与修复、开发环境配置与初始化"
+        "what": "OpenAI创建了ChatGPT插件示例和开发规范",
+        "purpose": "让开发者扩展ChatGPT功能，集成外部API和服务",
+        "scene": "实时信息检索、第三方服务集成、自定义工具调用"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 17,
+      "name": "container",
+      "owner": "apple",
+      "url": "https://github.com/apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "stars": 30050,
+      "forks": 837,
+      "stars_today": 1611,
+      "language": "Swift",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个基于Swift的轻量级虚拟机工具，用于在Mac上创建和运行Linux容器，并针对Apple芯片优化。",
+        "purpose": "解决在Apple Silicon Mac上高效、原生地运行Linux容器的问题。",
+        "scene": "开发者在Mac上本地测试Linux应用、构建和运行跨平台容器化服务、在macOS上隔离运行Linux工作负载"
       },
       "appear_days": 3
     },
     {
-      "rank": 14,
-      "name": "openmed",
-      "owner": "maziyarpanahi",
-      "url": "https://github.com/maziyarpanahi/openmed",
-      "description": "open-source healthcare ai",
-      "stars": 1916,
-      "forks": 217,
-      "stars_today": 191,
-      "language": "Python",
+      "rank": 8,
+      "name": "MasterDnsVPN",
+      "owner": "masterking32",
+      "url": "https://github.com/masterking32/MasterDnsVPN",
+      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "stars": 5280,
+      "forks": 498,
+      "stars_today": 354,
+      "language": "Go",
       "topics": [],
       "summary": {
-        "what": "作者开发了一个开源的医疗人工智能项目，提供基于Python的医疗AI工具或模型",
-        "purpose": "解决医疗领域的人工智能应用问题，如辅助诊断、医学数据分析等",
-        "scene": "临床辅助诊断、医学影像分析、健康管理咨询"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 9,
-      "name": "system-prompts-and-models-of-ai-tools",
-      "owner": "x1xhlol",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 139216,
-      "forks": 34562,
-      "stars_today": 79,
-      "language": "Unknown",
-      "topics": [],
-      "summary": {
-        "what": "作者收集并整理了多种AI工具的系统提示、内部工具和AI模型",
-        "purpose": "为研究者和开发者提供参考，了解不同AI工具的内部机制和提示设计",
-        "scene": "AI安全研究、提示工程学习、工具对比分析"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 12,
-      "name": "superpowers",
-      "owner": "obra",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 219731,
-      "forks": 19552,
-      "stars_today": 700,
-      "language": "Shell",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个基于Shell脚本的代理技能框架与软件开发方法论，用于指导和管理智能代理的行为与任务执行。",
-        "purpose": "解决在复杂任务中如何系统化地定义、组合和调度代理技能，以实现可靠且可复用的自动化软件开发流程。",
-        "scene": "自动化代码审查与修复、多步骤软件部署流水线、智能代理的任务规划与执行"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 12,
-      "name": "supervision",
-      "owner": "roboflow",
-      "url": "https://github.com/roboflow/supervision",
-      "description": "We write your reusable computer vision tools. 💜",
-      "stars": 42401,
-      "forks": 3786,
-      "stars_today": 1288,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一套可重用的计算机视觉工具库，提供目标检测、跟踪、标注等现成功能。",
-        "purpose": "简化计算机视觉任务的开发流程，让开发者无需从零构建常用视觉处理模块。",
-        "scene": "视频监控分析、自动驾驶感知、工业缺陷检测"
+        "what": "作者开发了一个基于DNS隧道的高级VPN工具，通过优化ARQ、负载均衡和抗丢包机制实现高速稳定的审查绕过。",
+        "purpose": "解决在严格网络审查环境下安全、稳定地访问自由互联网的问题。",
+        "scene": "在受审查国家绕过防火墙访问被屏蔽网站、在丢包严重的移动网络下保持VPN连接稳定、在公共Wi-Fi等受限环境中安全传输数据"
       },
       "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向无疑是AI Agent与技能生态。多个高星项目（如last30days-skill、agent-skills、pm-skills）都围绕为AI编码助手提供可复用、可组合的技能包，形成类似“技能市场”的协作模式，反映出行业正从单一大模型能力转向构建可落地的智能体工作流。同时，system-prompts-and-models-of-ai-tools以超高星数揭示了社区对AI工具内部提示与模型透明化的强烈需求，进一步印证了AI生态从模型层向应用与交互层的深度延伸。",
-    "language_trend": "Python以43次出现稳居主导，主要得益于AI/ML项目几乎全部采用Python作为开发语言，其生态在数据处理、模型训练与智能体框架上的优势无可替代。TypeScript（20次）与JavaScript（10次）合计占比近半，显示前端工具、桌面应用（如Tolaria）及全栈CLI工具正在快速崛起，TypeScript凭借类型安全与工程化特性正逐步取代纯JavaScript在非AI工具领域的地位。Shell（8次）的稳定出现则表明自动化与DevOps脚本仍不可或缺，但整体趋势是静态强类型语言在工具开发中更受青睐。",
-    "notable_projects": "1. addyosmani/agent-skills（⭐49.8k）：该项目定义了生产级工程技能，为AI编码助手注入结构化、可验证的专业能力，标志着AI辅助开发从“代码补全”向“自主执行复杂工程任务”的关键跃迁，值得关注其如何影响开发者工作流。2. x1xhlol/system-prompts-and-models-of-ai-tools（⭐139k）：收集了大量AI工具的系统提示与模型配置，不仅满足了社区对黑盒AI内部机制的好奇，更可能成为安全审计、提示注入防御与个性化定制的重要参考，其爆发式增长反映了对AI透明度的迫切需求。3. mvanhorn/last30days-skill（⭐28.2k）：作为AI Agent技能，可跨领域研究任意话题，展示了通用智能体在知识整合与自动研究上的潜力，其高上榜天数说明市场对“全能型研究助手”的强烈兴趣，可能推动AI在知识工作领域的进一步渗透。"
+    "hot_direction": "本周最热技术方向无疑是AI Agent与技能框架，多个高星项目均围绕为AI编码代理提供可复用、生产级技能展开，反映出社区正从通用大模型转向可组合、可执行的智能体生态构建。同时，知识管理工具和教材资源类项目也表现突出，说明实用型个人效率与教育内容仍有强劲需求。",
+    "language_trend": "Python以39次出现稳居第一，得益于大量AI/LLM项目、数据处理脚本和代理框架均以Python为首选开发语言。TypeScript和JavaScript合计28次，主要支撑前端工具、桌面应用与插件生态，Shell的11次则多用于自动化部署和开发环境配置，整体呈现AI驱动Python强势、全栈工具偏向TS/JS的格局。",
+    "notable_projects": "obra/superpowers（⭐219731）以极高压倒性星数登顶，其定位为代理技能框架与软件开发平台，有望成为AI编码代理的标准化技能市场，值得长期跟踪。addyosmani/agent-skills（⭐49884）由知名工程师维护，提供生产级工程技能，直接提升AI编码质量，对开发者工具链影响深远。TapXWorld/ChinaTextbook（⭐72598）聚合全部K12与大学PDF教材，反映出大规模知识资料开源共享的强烈需求，兼具实用与社会价值。"
   }
 }
