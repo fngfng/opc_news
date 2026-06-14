@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-13T02:57:47.395511",
-  "week_range": "2026-06-07 ~ 2026-06-13",
+  "generated_at": "2026-06-14T03:35:20.630091",
+  "week_range": "2026-06-08 ~ 2026-06-14",
   "days_collected": 7,
-  "total_projects": 59,
-  "total_stars_today": 74129,
+  "total_projects": 52,
+  "total_stars_today": 75597,
   "top_languages": [
     [
       "Python",
-      39
+      37
     ],
     [
       "TypeScript",
-      20
+      17
     ],
     [
       "Shell",
-      11
+      12
     ],
     [
       "Unknown",
-      9
+      10
     ],
     [
-      "JavaScript",
-      8
+      "Go",
+      6
     ]
   ],
   "trending_topics": [],
@@ -47,6 +47,24 @@
       "appear_days": 6
     },
     {
+      "rank": 16,
+      "name": "agent-skills",
+      "owner": "addyosmani",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 49884,
+      "forks": 5572,
+      "stars_today": 443,
+      "language": "Shell",
+      "topics": [],
+      "summary": {
+        "what": "作者创建了一套面向AI编码代理的生产级Shell工程技能脚本",
+        "purpose": "解决AI代理缺乏标准化工程实践和自动化能力的问题",
+        "scene": "自动化部署与运维、代码质量检查与修复、开发环境配置与初始化"
+      },
+      "appear_days": 5
+    },
+    {
       "rank": 8,
       "name": "pm-skills",
       "owner": "phuryn",
@@ -65,56 +83,56 @@
       "appear_days": 5
     },
     {
-      "rank": 1,
-      "name": "last30days-skill",
-      "owner": "mvanhorn",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": 28939,
-      "forks": 2450,
-      "stars_today": 439,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个AI代理技能，能够跨Reddit、X、YouTube、Hacker News、Polymarket和网络研究任意主题，并生成基于事实的综合摘要。",
-        "purpose": "解决从多个分散平台快速获取主题综合信息并形成可靠摘要的问题。",
-        "scene": "市场分析师快速了解产品舆情、内容创作者收集多源素材、投资者跟踪预测市场情绪"
-      },
-      "appear_days": 5
-    },
-    {
-      "rank": 16,
-      "name": "agent-skills",
-      "owner": "addyosmani",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 49884,
-      "forks": 5572,
-      "stars_today": 443,
-      "language": "Shell",
-      "topics": [],
-      "summary": {
-        "what": "作者创建了一套面向AI编码代理的生产级Shell工程技能脚本",
-        "purpose": "解决AI代理缺乏标准化工程实践和自动化能力的问题",
-        "scene": "自动化部署与运维、代码质量检查与修复、开发环境配置与初始化"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 12,
+      "rank": 7,
       "name": "superpowers",
       "owner": "obra",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 219731,
-      "forks": 19552,
-      "stars_today": 700,
+      "stars": 223758,
+      "forks": 19898,
+      "stars_today": 1104,
       "language": "Shell",
       "topics": [],
       "summary": {
         "what": "作者构建了一个基于Shell脚本的代理技能框架与软件开发方法论，用于指导和管理智能代理的行为与任务执行。",
         "purpose": "解决在复杂任务中如何系统化地定义、组合和调度代理技能，以实现可靠且可复用的自动化软件开发流程。",
         "scene": "自动化代码审查与修复、多步骤软件部署流水线、智能代理的任务规划与执行"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 17,
+      "name": "container",
+      "owner": "apple",
+      "url": "https://github.com/apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "stars": 30050,
+      "forks": 837,
+      "stars_today": 1611,
+      "language": "Swift",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个基于Swift的轻量级虚拟机工具，用于在Mac上创建和运行Linux容器，并针对Apple芯片优化。",
+        "purpose": "解决在Apple Silicon Mac上高效、原生地运行Linux容器的问题。",
+        "scene": "开发者在Mac上本地测试Linux应用、构建和运行跨平台容器化服务、在macOS上隔离运行Linux工作负载"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 9,
+      "name": "system-prompts-and-models-of-ai-tools",
+      "owner": "x1xhlol",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "stars": 139216,
+      "forks": 34562,
+      "stars_today": 79,
+      "language": "Unknown",
+      "topics": [],
+      "summary": {
+        "what": "作者收集并整理了多种AI工具的系统提示、内部工具和AI模型",
+        "purpose": "为研究者和开发者提供参考，了解不同AI工具的内部机制和提示设计",
+        "scene": "AI安全研究、提示工程学习、工具对比分析"
       },
       "appear_days": 4
     },
@@ -155,40 +173,22 @@
       "appear_days": 4
     },
     {
-      "rank": 5,
-      "name": "plugins",
-      "owner": "openai",
-      "url": "https://github.com/openai/plugins",
-      "description": "OpenAI Plugins",
-      "stars": 1804,
-      "forks": 257,
-      "stars_today": 213,
-      "language": "JavaScript",
+      "rank": 1,
+      "name": "last30days-skill",
+      "owner": "mvanhorn",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 31556,
+      "forks": 2629,
+      "stars_today": 1111,
+      "language": "Python",
       "topics": [],
       "summary": {
-        "what": "OpenAI创建了ChatGPT插件示例和开发规范",
-        "purpose": "让开发者扩展ChatGPT功能，集成外部API和服务",
-        "scene": "实时信息检索、第三方服务集成、自定义工具调用"
+        "what": "作者开发了一个AI代理技能，能够跨Reddit、X、YouTube、Hacker News、Polymarket和网络研究任意主题，并生成基于事实的综合摘要。",
+        "purpose": "解决从多个分散平台快速获取主题综合信息并形成可靠摘要的问题。",
+        "scene": "市场分析师快速了解产品舆情、内容创作者收集多源素材、投资者跟踪预测市场情绪"
       },
       "appear_days": 4
-    },
-    {
-      "rank": 17,
-      "name": "container",
-      "owner": "apple",
-      "url": "https://github.com/apple/container",
-      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "stars": 30050,
-      "forks": 837,
-      "stars_today": 1611,
-      "language": "Swift",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个基于Swift的轻量级虚拟机工具，用于在Mac上创建和运行Linux容器，并针对Apple芯片优化。",
-        "purpose": "解决在Apple Silicon Mac上高效、原生地运行Linux容器的问题。",
-        "scene": "开发者在Mac上本地测试Linux应用、构建和运行跨平台容器化服务、在macOS上隔离运行Linux工作负载"
-      },
-      "appear_days": 3
     },
     {
       "rank": 8,
@@ -210,8 +210,8 @@
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向无疑是AI Agent与技能框架，多个高星项目均围绕为AI编码代理提供可复用、生产级技能展开，反映出社区正从通用大模型转向可组合、可执行的智能体生态构建。同时，知识管理工具和教材资源类项目也表现突出，说明实用型个人效率与教育内容仍有强劲需求。",
-    "language_trend": "Python以39次出现稳居第一，得益于大量AI/LLM项目、数据处理脚本和代理框架均以Python为首选开发语言。TypeScript和JavaScript合计28次，主要支撑前端工具、桌面应用与插件生态，Shell的11次则多用于自动化部署和开发环境配置，整体呈现AI驱动Python强势、全栈工具偏向TS/JS的格局。",
-    "notable_projects": "obra/superpowers（⭐219731）以极高压倒性星数登顶，其定位为代理技能框架与软件开发平台，有望成为AI编码代理的标准化技能市场，值得长期跟踪。addyosmani/agent-skills（⭐49884）由知名工程师维护，提供生产级工程技能，直接提升AI编码质量，对开发者工具链影响深远。TapXWorld/ChinaTextbook（⭐72598）聚合全部K12与大学PDF教材，反映出大规模知识资料开源共享的强烈需求，兼具实用与社会价值。"
+    "hot_direction": "本周最热技术方向无疑是AI代理技能与工具链，尤其是面向软件开发的Agentic Skills框架和AI编码辅助。多个高星项目（如superpowers、agent-skills、pm-skills）均聚焦于将AI能力封装为可复用的“技能”，反映出社区正从通用大模型转向工程化、可组合的智能体应用构建。同时，AI工具的系统提示与模型收集项目（system-prompts-and-models-of-ai-tools）爆火，表明开发者对AI工具内部机制透明化和逆向工程的兴趣激增。",
+    "language_trend": "Python以37次出现稳居绝对主导，主要受AI/ML项目（如openmed、各类技能框架）驱动，其数据科学生态优势持续放大。TypeScript（17次）保持前端与全栈开发的活跃度，但本周缺乏现象级TS项目，增长势头相对平稳。Shell（12次）和Go（6次）多出现在容器、基础设施类项目（如apple/container），Go虽在云原生领域根基深厚，但本周未出现高星Go项目，热度暂时让位于AI工具链语言。",
+    "notable_projects": "1. obra/superpowers（⭐223758）：作为Agentic Skills框架与软件开发平台，以超22万星成为本周绝对爆款，它定义了AI代理技能的标准化与复用范式，可能重塑AI辅助开发的工作流。2. x1xhlol/system-prompts-and-models-of-ai-tools（⭐139216）：系统性地收集Augment Code、Claude Code等主流AI工具的系统提示与模型信息，反映了开发者对AI工具“黑箱”的解构需求，对安全研究、提示工程和工具链透明度有深远影响。3. addyosmani/agent-skills（⭐49884）：提供生产级AI编码技能集合，由业界知名工程师维护，将AI编码从实验推向实际工程落地，值得关注其技能库的演进与企业采纳情况。"
   }
 }
