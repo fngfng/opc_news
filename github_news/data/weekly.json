@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-15T03:47:10.331319",
-  "week_range": "2026-06-09 ~ 2026-06-15",
+  "generated_at": "2026-06-16T03:43:49.809643",
+  "week_range": "2026-06-10 ~ 2026-06-16",
   "days_collected": 7,
-  "total_projects": 54,
-  "total_stars_today": 72592,
+  "total_projects": 59,
+  "total_stars_today": 70544,
   "top_languages": [
     [
       "Python",
-      39
+      37
     ],
     [
       "TypeScript",
@@ -47,40 +47,76 @@
       "appear_days": 5
     },
     {
-      "rank": 4,
-      "name": "tolaria",
-      "owner": "refactoringhq",
-      "url": "https://github.com/refactoringhq/tolaria",
-      "description": "Desktop app to manage markdown knowledge bases",
-      "stars": 13642,
-      "forks": 955,
-      "stars_today": 651,
+      "rank": 5,
+      "name": "iptv",
+      "owner": "iptv-org",
+      "url": "https://github.com/iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "stars": 118071,
+      "forks": 6304,
+      "stars_today": 179,
       "language": "TypeScript",
       "topics": [],
       "summary": {
-        "what": "作者开发了一款桌面应用，用于管理基于Markdown的知识库。",
-        "purpose": "解决个人或团队在本地高效组织、浏览和编辑Markdown笔记与文档的需求。",
-        "scene": "个人知识管理、团队文档协作、技术笔记整理"
+        "what": "作者收集并维护全球公开可用的IPTV频道列表，提供自动化工具生成和验证播放列表",
+        "purpose": "解决用户难以找到稳定、免费、全球范围的IPTV直播源的问题",
+        "scene": "个人用户通过播放器观看全球电视直播、开发者集成IPTV功能到应用中、媒体研究者分析频道分布与可用性"
       },
-      "appear_days": 5
+      "appear_days": 4
     },
     {
-      "rank": 8,
-      "name": "pm-skills",
-      "owner": "phuryn",
-      "url": "https://github.com/phuryn/pm-skills",
-      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "stars": 12781,
-      "forks": 1503,
-      "stars_today": 164,
-      "language": "Unknown",
+      "rank": 13,
+      "name": "chatwoot",
+      "owner": "chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "stars": 30407,
+      "forks": 7509,
+      "stars_today": 67,
+      "language": "Ruby",
       "topics": [],
       "summary": {
-        "what": "作者构建了一个产品经理技能市场，提供超过100个代理技能、命令和插件，覆盖产品全生命周期。",
-        "purpose": "解决产品经理在从发现到增长的全流程中缺乏自动化、可复用的代理技能的问题。",
-        "scene": "产品发现与市场调研、产品策略与路线图制定、产品发布与增长运营"
+        "what": "作者开发了一个开源的全渠道客户沟通平台，支持实时聊天、邮件和社交媒体整合",
+        "purpose": "解决企业依赖昂贵商业客服软件（如Intercom、Zendesk）的问题，提供可自托管的替代方案",
+        "scene": "网站实时在线客服、邮件工单管理、社交媒体消息统一处理"
       },
-      "appear_days": 5
+      "appear_days": 4
+    },
+    {
+      "rank": 2,
+      "name": "server",
+      "owner": "music-assistant",
+      "url": "https://github.com/music-assistant/server",
+      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+      "stars": 1804,
+      "forks": 422,
+      "stars_today": 20,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "构建了一个音乐助手服务器，用于集中管理媒体库并连接流媒体服务和扬声器",
+        "purpose": "统一管理多个流媒体服务和本地音乐，实现多房间音频播放控制",
+        "scene": "家庭多房间音乐播放、整合Spotify等流媒体服务、本地NAS音乐库管理"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 5,
+      "name": "SkillSpector",
+      "owner": "NVIDIA",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "stars": 2782,
+      "forks": 219,
+      "stars_today": 319,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个针对AI代理技能的安全扫描工具SkillSpector",
+        "purpose": "检测AI代理技能中的漏洞、恶意模式和安全风险",
+        "scene": "AI代理开发阶段的安全审计、AI代理部署前的安全评估、持续集成流程中的自动化安全扫描"
+      },
+      "appear_days": 4
     },
     {
       "rank": 7,
@@ -137,6 +173,24 @@
       "appear_days": 4
     },
     {
+      "rank": 5,
+      "name": "tolaria",
+      "owner": "refactoringhq",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "stars": 14402,
+      "forks": 999,
+      "stars_today": 829,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一款桌面应用，用于管理基于Markdown的知识库。",
+        "purpose": "解决个人或团队在本地高效组织、浏览和编辑Markdown笔记与文档的需求。",
+        "scene": "个人知识管理、团队文档协作、技术笔记整理"
+      },
+      "appear_days": 4
+    },
+    {
       "rank": 14,
       "name": "openmed",
       "owner": "maziyarpanahi",
@@ -153,65 +207,11 @@
         "scene": "临床辅助诊断、医学影像分析、健康管理咨询"
       },
       "appear_days": 4
-    },
-    {
-      "rank": 5,
-      "name": "iptv",
-      "owner": "iptv-org",
-      "url": "https://github.com/iptv-org/iptv",
-      "description": "Collection of publicly available IPTV channels from all over the world",
-      "stars": 118071,
-      "forks": 6304,
-      "stars_today": 179,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者收集并维护全球公开可用的IPTV频道列表，提供自动化工具生成和验证播放列表",
-        "purpose": "解决用户难以找到稳定、免费、全球范围的IPTV直播源的问题",
-        "scene": "个人用户通过播放器观看全球电视直播、开发者集成IPTV功能到应用中、媒体研究者分析频道分布与可用性"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 13,
-      "name": "chatwoot",
-      "owner": "chatwoot",
-      "url": "https://github.com/chatwoot/chatwoot",
-      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-      "stars": 30407,
-      "forks": 7509,
-      "stars_today": 67,
-      "language": "Ruby",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个开源的全渠道客户沟通平台，支持实时聊天、邮件和社交媒体整合",
-        "purpose": "解决企业依赖昂贵商业客服软件（如Intercom、Zendesk）的问题，提供可自托管的替代方案",
-        "scene": "网站实时在线客服、邮件工单管理、社交媒体消息统一处理"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 5,
-      "name": "SkillSpector",
-      "owner": "NVIDIA",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-      "stars": 2782,
-      "forks": 219,
-      "stars_today": 319,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个针对AI代理技能的安全扫描工具SkillSpector",
-        "purpose": "检测AI代理技能中的漏洞、恶意模式和安全风险",
-        "scene": "AI代理开发阶段的安全审计、AI代理部署前的安全评估、持续集成流程中的自动化安全扫描"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向无疑是AI Agent与技能框架，相关项目如agent-skills、pm-skills和superpowers占据榜单头部，显示出社区对可组合、可复用的AI编程与自动化技能体系的强烈需求。同时，系统提示词与AI工具模型集合类项目（system-prompts-and-models-of-ai-tools）的高星数增长，反映出开发者对AI工具内部机制透明化与定制化的关注，进一步巩固了AI工程化方向的强势地位。",
-    "language_trend": "Python以39次出现频率遥遥领先，主要受AI/ML项目、数据处理和自动化脚本驱动，其在AI生态中的核心地位持续强化。TypeScript以18次位居第二，表明前端工具、开发者体验（DX）和跨平台应用（如Tolaria桌面应用）仍保持高活跃度；Go仅出现6次，在AI主导的周期中暂时退居基础设施和云原生细分领域，整体占比下降。",
-    "notable_projects": "1. obra/superpowers（22.3万星）：作为现象级Agentic技能框架，其极高星数意味着社区正在寻求统一的AI软件开发范式，可能定义下一代AI编程交互标准。2. addyosmani/agent-skills（近5万星）：由知名开发者维护的生产级AI编程技能集，直接面向实际工程落地，对提升AI编码质量和可靠性具有标杆意义。3. x1xhlol/system-prompts-and-models-of-ai-tools（13.9万星）：系统化收集主流AI工具的内部提示与模型信息，为研究AI行为、安全性和提示工程提供了宝贵知识库，反映出行业对AI透明度的迫切需求。"
+    "hot_direction": "本周AI代理技能与安全方向最为强势。Top 8 中有5个项目直接围绕AI编码、代理框架、技能安全与提示工程，如 agent-skills、SkillSpector、superpowers 等，反映出社区从通用AI模型转向可工程化、可安全评估的代理技能体系。同时，IPTV 和开源客服等工具类项目仍保持热度，但AI方向在星数和上榜天数上占据绝对主导。",
+    "language_trend": "Python 以37次出现遥遥领先，主要受AI/ML项目驱动，巩固了其作为AI时代首选语言的地位。TypeScript 以18次稳居第二，体现前端与全栈生态的持续活力。Unknown 和 Shell 合计22次，说明大量项目包含文档、配置或脚本类内容，可能与AI项目中的提示词、模型配置等非代码资源有关。Go 仅6次，本周缺乏现象级Go项目，但并未代表其长期下降趋势。",
+    "notable_projects": "addyosmani/agent-skills 以近5万星成为本周最热，它定义了AI编码的生产级工程技能，有望成为AI辅助开发的最佳实践标准。NVIDIA/SkillSpector 聚焦AI代理技能的安全扫描，在AI代理快速部署的背景下，安全评估工具的需求将激增，该项目填补了关键空白。obra/superpowers 虽非新项目，但本周再次上榜，其22万+星表明代理式软件开发框架已拥有庞大的社区基础，对开发者工作流的变革潜力值得长期关注。"
   }
 }
