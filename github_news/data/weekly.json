@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-18T03:32:34.892191",
-  "week_range": "2026-06-12 ~ 2026-06-18",
+  "generated_at": "2026-06-19T03:54:03.428318",
+  "week_range": "2026-06-13 ~ 2026-06-19",
   "days_collected": 7,
-  "total_projects": 60,
-  "total_stars_today": 57854,
+  "total_projects": 64,
+  "total_stars_today": 52034,
   "top_languages": [
     [
       "Python",
@@ -11,38 +11,38 @@
     ],
     [
       "TypeScript",
-      26
-    ],
-    [
-      "Shell",
-      10
+      29
     ],
     [
       "Rust",
+      10
+    ],
+    [
+      "Shell",
       8
     ],
     [
       "Unknown",
-      7
+      6
     ]
   ],
   "trending_topics": [],
   "top_picks": [
     {
-      "rank": 13,
-      "name": "chatwoot",
-      "owner": "chatwoot",
-      "url": "https://github.com/chatwoot/chatwoot",
-      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-      "stars": 30407,
-      "forks": 7509,
-      "stars_today": 67,
-      "language": "Ruby",
+      "rank": 2,
+      "name": "freeCodeCamp",
+      "owner": "freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "stars": 447332,
+      "forks": 44960,
+      "stars_today": 146,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
-        "what": "作者开发了一个开源的全渠道客户沟通平台，支持实时聊天、邮件和社交媒体整合",
-        "purpose": "解决企业依赖昂贵商业客服软件（如Intercom、Zendesk）的问题，提供可自托管的替代方案",
-        "scene": "网站实时在线客服、邮件工单管理、社交媒体消息统一处理"
+        "what": "构建了免费的开源编程学习平台和交互式课程体系",
+        "purpose": "解决全球学习者免费获取高质量编程与计算机科学教育资源的问题",
+        "scene": "自学编程入门与进阶、学校或培训机构的教学辅助、职业转型者的技能提升"
       },
       "appear_days": 5
     },
@@ -83,6 +83,24 @@
       "appear_days": 5
     },
     {
+      "rank": 6,
+      "name": "superpowers",
+      "owner": "obra",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 226089,
+      "forks": 20093,
+      "stars_today": 1275,
+      "language": "Shell",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个基于Shell脚本的代理技能框架与软件开发方法论，用于指导和管理智能代理的行为与任务执行。",
+        "purpose": "解决在复杂任务中如何系统化地定义、组合和调度代理技能，以实现可靠且可复用的自动化软件开发流程。",
+        "scene": "自动化代码审查与修复、多步骤软件部署流水线、智能代理的任务规划与执行"
+      },
+      "appear_days": 4
+    },
+    {
       "rank": 7,
       "name": "meshery",
       "owner": "meshery",
@@ -101,58 +119,58 @@
       "appear_days": 4
     },
     {
+      "rank": 3,
+      "name": "chatwoot",
+      "owner": "chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "stars": 30902,
+      "forks": 7555,
+      "stars_today": 83,
+      "language": "Ruby",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个开源的全渠道客户沟通平台，支持实时聊天、邮件和社交媒体整合",
+        "purpose": "解决企业依赖昂贵商业客服软件（如Intercom、Zendesk）的问题，提供可自托管的替代方案",
+        "scene": "网站实时在线客服、邮件工单管理、社交媒体消息统一处理"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 13,
+      "name": "iroh",
+      "owner": "n0-computer",
+      "url": "https://github.com/n0-computer/iroh",
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "stars": 9334,
+      "forks": 438,
+      "stars_today": 334,
+      "language": "Rust",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个基于密钥拨号的模块化网络栈，用Rust实现，替代传统IP寻址",
+        "purpose": "解决IP地址频繁变动导致连接中断的问题，实现稳定、安全的端到端通信",
+        "scene": "去中心化文件共享、实时协作应用、物联网设备直连"
+      },
+      "appear_days": 3
+    },
+    {
       "rank": 9,
-      "name": "superpowers",
-      "owner": "obra",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 225018,
-      "forks": 20007,
-      "stars_today": 1322,
-      "language": "Shell",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个基于Shell脚本的代理技能框架与软件开发方法论，用于指导和管理智能代理的行为与任务执行。",
-        "purpose": "解决在复杂任务中如何系统化地定义、组合和调度代理技能，以实现可靠且可复用的自动化软件开发流程。",
-        "scene": "自动化代码审查与修复、多步骤软件部署流水线、智能代理的任务规划与执行"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 2,
-      "name": "freeCodeCamp",
-      "owner": "freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "stars": 447332,
-      "forks": 44960,
+      "name": "universal-android-debloater-next-generation",
+      "owner": "Universal-Debloater-Alliance",
+      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "stars": 7363,
+      "forks": 316,
       "stars_today": 146,
-      "language": "TypeScript",
+      "language": "Rust",
       "topics": [],
       "summary": {
-        "what": "构建了免费的开源编程学习平台和交互式课程体系",
-        "purpose": "解决全球学习者免费获取高质量编程与计算机科学教育资源的问题",
-        "scene": "自学编程入门与进阶、学校或培训机构的教学辅助、职业转型者的技能提升"
+        "what": "作者开发了一个跨平台GUI工具，使用Rust和ADB在非root Android设备上移除预装软件",
+        "purpose": "解决非root Android设备无法轻松卸载系统预装软件的问题，提升隐私、安全和电池寿命",
+        "scene": "普通用户清理不必要的预装应用以释放空间、隐私敏感用户移除可能收集数据的系统应用、希望提升设备性能和电池续航的用户"
       },
-      "appear_days": 4
-    },
-    {
-      "rank": 5,
-      "name": "SkillSpector",
-      "owner": "NVIDIA",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-      "stars": 2782,
-      "forks": 219,
-      "stars_today": 319,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个针对AI代理技能的安全扫描工具SkillSpector",
-        "purpose": "检测AI代理技能中的漏洞、恶意模式和安全风险",
-        "scene": "AI代理开发阶段的安全审计、AI代理部署前的安全评估、持续集成流程中的自动化安全扫描"
-      },
-      "appear_days": 4
+      "appear_days": 3
     },
     {
       "rank": 13,
@@ -173,45 +191,27 @@
       "appear_days": 3
     },
     {
-      "rank": 2,
-      "name": "agent-skills",
-      "owner": "addyosmani",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 55068,
-      "forks": 5978,
-      "stars_today": 3278,
-      "language": "Shell",
+      "rank": 11,
+      "name": "SkillSpector",
+      "owner": "NVIDIA",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "stars": 4526,
+      "forks": 345,
+      "stars_today": 804,
+      "language": "Python",
       "topics": [],
       "summary": {
-        "what": "作者创建了一套面向AI编码代理的生产级Shell工程技能脚本",
-        "purpose": "解决AI代理缺乏标准化工程实践和自动化能力的问题",
-        "scene": "自动化部署与运维、代码质量检查与修复、开发环境配置与初始化"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 1,
-      "name": "container",
-      "owner": "apple",
-      "url": "https://github.com/apple/container",
-      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "stars": 32912,
-      "forks": 919,
-      "stars_today": 2430,
-      "language": "Swift",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个基于Swift的轻量级虚拟机工具，用于在Mac上创建和运行Linux容器，并针对Apple芯片优化。",
-        "purpose": "解决在Apple Silicon Mac上高效、原生地运行Linux容器的问题。",
-        "scene": "开发者在Mac上本地测试Linux应用、构建和运行跨平台容器化服务、在macOS上隔离运行Linux工作负载"
+        "what": "作者开发了一个针对AI代理技能的安全扫描工具SkillSpector",
+        "purpose": "检测AI代理技能中的漏洞、恶意模式和安全风险",
+        "scene": "AI代理开发阶段的安全审计、AI代理部署前的安全评估、持续集成流程中的自动化安全扫描"
       },
       "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向是AI代理技能与安全。NVIDIA的SkillSpector和obra/superpowers同时上榜，反映出AI代理从框架构建到安全审计的全链路需求正在爆发，安全扫描与技能编排成为落地关键。此外，智能助手类项目（如music-assistant）连续上榜，表明AI正加速渗透到个人媒体与家庭自动化场景。",
-    "language_trend": "Python和TypeScript继续主导，分别因AI/数据生态和全栈开发需求而保持高频出现；Rust凭借swc等高性能工具项目上榜次数增多，显示其在Web基础设施和系统工具链中的崛起态势。传统后端语言如Java、Go本周未进入高频统计，侧面反映热点向AI、前端工具和云原生管理倾斜，脚本语言Shell仍因运维自动化需求占有一席之地。",
-    "notable_projects": "NVIDIA/SkillSpector：首个针对AI代理技能的安全扫描器，直击代理技能漏洞检测空白，随着代理应用爆发，其安全审计需求将指数级增长，极具前瞻性。obra/superpowers：代理技能框架与开发套件，试图标准化代理技能的构建与复用，有望成为AI代理时代的“npm”，生态卡位价值高。music-assistant/server：开源音乐媒体库助手，整合多平台流媒体与智能家居控制，体现了AI从文本对话向多媒体、物联网渗透的实用化趋势，用户需求强劲。"
+    "hot_direction": "本周最热技术方向是AI/智能体与云原生工具。以obra/superpowers为代表的智能体技能框架强势上榜，反映出开发者对构建可组合、可扩展的AI Agent系统的浓厚兴趣。同时，meshery作为云原生管理器连续多日上榜，说明云原生基础设施管理与可观测性仍是社区持续投入的重点领域。",
+    "language_trend": "Python与TypeScript以各29次的上榜次数并列第一，维持了在AI、全栈开发与工具链中的统治地位。Rust以10次上榜稳居第三，其在系统工具、网络库（如iroh）和安卓去 bloater 等场景中应用增多，反映出社区对性能与安全兼备语言的偏好持续上升。Shell和Unknown类型的存在则表明自动化脚本与配置类项目仍有一定需求，但未形成主流增长。",
+    "notable_projects": "obra/superpowers（⭐226k）值得重点关注，它提出了一种可组合的智能体技能框架，直接呼应了当前AI Agent开发从单体模型向模块化、工具调用演进的技术趋势。n0-computer/iroh（⭐9.3k）同样引人注目，它通过“拨号密钥”替代IP地址来构建模块化网络，为去中心化应用和点对点通信提供了更稳定的连接抽象，思路新颖且实用。meshery（⭐10.4k）作为云原生管理器，持续上榜体现了社区对多云、多集群环境下统一治理与可视化的强烈需求，其生态整合能力使其成为平台工程的重要参考。"
   }
 }
