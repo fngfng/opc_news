@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-06-19T03:54:03.428318",
-  "week_range": "2026-06-13 ~ 2026-06-19",
+  "generated_at": "2026-06-20T02:55:56.099370",
+  "week_range": "2026-06-14 ~ 2026-06-20",
   "days_collected": 7,
-  "total_projects": 64,
-  "total_stars_today": 52034,
+  "total_projects": 63,
+  "total_stars_today": 51413,
   "top_languages": [
     [
       "Python",
-      29
+      30
     ],
     [
       "TypeScript",
-      29
+      30
     ],
     [
       "Rust",
-      10
-    ],
-    [
-      "Shell",
-      8
+      11
     ],
     [
       "Unknown",
+      6
+    ],
+    [
+      "Shell",
       6
     ]
   ],
@@ -47,50 +47,32 @@
       "appear_days": 5
     },
     {
-      "rank": 5,
-      "name": "iptv",
-      "owner": "iptv-org",
-      "url": "https://github.com/iptv-org/iptv",
-      "description": "Collection of publicly available IPTV channels from all over the world",
-      "stars": 118071,
-      "forks": 6304,
-      "stars_today": 179,
-      "language": "TypeScript",
+      "rank": 13,
+      "name": "iroh",
+      "owner": "n0-computer",
+      "url": "https://github.com/n0-computer/iroh",
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "stars": 9334,
+      "forks": 438,
+      "stars_today": 334,
+      "language": "Rust",
       "topics": [],
       "summary": {
-        "what": "作者收集并维护全球公开可用的IPTV频道列表，提供自动化工具生成和验证播放列表",
-        "purpose": "解决用户难以找到稳定、免费、全球范围的IPTV直播源的问题",
-        "scene": "个人用户通过播放器观看全球电视直播、开发者集成IPTV功能到应用中、媒体研究者分析频道分布与可用性"
+        "what": "作者构建了一个基于密钥拨号的模块化网络栈，用Rust实现，替代传统IP寻址",
+        "purpose": "解决IP地址频繁变动导致连接中断的问题，实现稳定、安全的端到端通信",
+        "scene": "去中心化文件共享、实时协作应用、物联网设备直连"
       },
-      "appear_days": 5
+      "appear_days": 4
     },
     {
-      "rank": 2,
-      "name": "server",
-      "owner": "music-assistant",
-      "url": "https://github.com/music-assistant/server",
-      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
-      "stars": 1804,
-      "forks": 422,
-      "stars_today": 20,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "构建了一个音乐助手服务器，用于集中管理媒体库并连接流媒体服务和扬声器",
-        "purpose": "统一管理多个流媒体服务和本地音乐，实现多房间音频播放控制",
-        "scene": "家庭多房间音乐播放、整合Spotify等流媒体服务、本地NAS音乐库管理"
-      },
-      "appear_days": 5
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "name": "superpowers",
       "owner": "obra",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 226089,
-      "forks": 20093,
-      "stars_today": 1275,
+      "stars": 227032,
+      "forks": 20195,
+      "stars_today": 924,
       "language": "Shell",
       "topics": [],
       "summary": {
@@ -137,20 +119,74 @@
       "appear_days": 4
     },
     {
-      "rank": 13,
-      "name": "iroh",
-      "owner": "n0-computer",
-      "url": "https://github.com/n0-computer/iroh",
-      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-      "stars": 9334,
-      "forks": 438,
-      "stars_today": 334,
-      "language": "Rust",
+      "rank": 1,
+      "name": "iptv",
+      "owner": "iptv-org",
+      "url": "https://github.com/iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "stars": 119264,
+      "forks": 6377,
+      "stars_today": 530,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
-        "what": "作者构建了一个基于密钥拨号的模块化网络栈，用Rust实现，替代传统IP寻址",
-        "purpose": "解决IP地址频繁变动导致连接中断的问题，实现稳定、安全的端到端通信",
-        "scene": "去中心化文件共享、实时协作应用、物联网设备直连"
+        "what": "作者收集并维护全球公开可用的IPTV频道列表，提供自动化工具生成和验证播放列表",
+        "purpose": "解决用户难以找到稳定、免费、全球范围的IPTV直播源的问题",
+        "scene": "个人用户通过播放器观看全球电视直播、开发者集成IPTV功能到应用中、媒体研究者分析频道分布与可用性"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 6,
+      "name": "server",
+      "owner": "music-assistant",
+      "url": "https://github.com/music-assistant/server",
+      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+      "stars": 2022,
+      "forks": 430,
+      "stars_today": 270,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "构建了一个音乐助手服务器，用于集中管理媒体库并连接流媒体服务和扬声器",
+        "purpose": "统一管理多个流媒体服务和本地音乐，实现多房间音频播放控制",
+        "scene": "家庭多房间音乐播放、整合Spotify等流媒体服务、本地NAS音乐库管理"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 1,
+      "name": "codebase-memory-mcp",
+      "owner": "DeusData",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "stars": 5579,
+      "forks": 494,
+      "stars_today": 371,
+      "language": "C",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个高性能代码智能MCP服务器，将代码库索引为持久知识图谱，实现毫秒级索引和亚毫秒级查询。",
+        "purpose": "解决大型代码库理解与查询效率低、AI交互令牌消耗过高的问题。",
+        "scene": "AI编程助手实时获取代码上下文、大型代码库的语义搜索与导航、代码审查与依赖分析"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 6,
+      "name": "timesfm",
+      "owner": "google-research",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "stars": 21983,
+      "forks": 2134,
+      "stars_today": 606,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "Google Research开发了一个预训练的时间序列基础模型TimesFM，用于通用时间序列预测。",
+        "purpose": "解决传统时间序列模型需要大量特定领域训练数据的问题，实现零样本或少样本的准确预测。",
+        "scene": "零售需求预测、金融时间序列分析、能源负荷预测"
       },
       "appear_days": 3
     },
@@ -171,47 +207,11 @@
         "scene": "普通用户清理不必要的预装应用以释放空间、隐私敏感用户移除可能收集数据的系统应用、希望提升设备性能和电池续航的用户"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 13,
-      "name": "swc",
-      "owner": "swc-project",
-      "url": "https://github.com/swc-project/swc",
-      "description": "Rust-based platform for the Web",
-      "stars": 33652,
-      "forks": 1398,
-      "stars_today": 20,
-      "language": "Rust",
-      "topics": [],
-      "summary": {
-        "what": "作者用Rust开发了一个高性能的JavaScript/TypeScript编译器及打包工具",
-        "purpose": "解决现有JavaScript工具链速度慢的问题，提供极速的编译和打包体验",
-        "scene": "前端项目构建时快速转译代码、服务端渲染时实时编译、作为其他构建工具（如Next.js）的底层引擎"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 11,
-      "name": "SkillSpector",
-      "owner": "NVIDIA",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-      "stars": 4526,
-      "forks": 345,
-      "stars_today": 804,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个针对AI代理技能的安全扫描工具SkillSpector",
-        "purpose": "检测AI代理技能中的漏洞、恶意模式和安全风险",
-        "scene": "AI代理开发阶段的安全审计、AI代理部署前的安全评估、持续集成流程中的自动化安全扫描"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向是AI/智能体与云原生工具。以obra/superpowers为代表的智能体技能框架强势上榜，反映出开发者对构建可组合、可扩展的AI Agent系统的浓厚兴趣。同时，meshery作为云原生管理器连续多日上榜，说明云原生基础设施管理与可观测性仍是社区持续投入的重点领域。",
-    "language_trend": "Python与TypeScript以各29次的上榜次数并列第一，维持了在AI、全栈开发与工具链中的统治地位。Rust以10次上榜稳居第三，其在系统工具、网络库（如iroh）和安卓去 bloater 等场景中应用增多，反映出社区对性能与安全兼备语言的偏好持续上升。Shell和Unknown类型的存在则表明自动化脚本与配置类项目仍有一定需求，但未形成主流增长。",
-    "notable_projects": "obra/superpowers（⭐226k）值得重点关注，它提出了一种可组合的智能体技能框架，直接呼应了当前AI Agent开发从单体模型向模块化、工具调用演进的技术趋势。n0-computer/iroh（⭐9.3k）同样引人注目，它通过“拨号密钥”替代IP地址来构建模块化网络，为去中心化应用和点对点通信提供了更稳定的连接抽象，思路新颖且实用。meshery（⭐10.4k）作为云原生管理器，持续上榜体现了社区对多云、多集群环境下统一治理与可视化的强烈需求，其生态整合能力使其成为平台工程的重要参考。"
+    "hot_direction": "本周最热技术方向是AI代理与智能工具集成。superpowers和codebase-memory-mcp等项目聚焦agentic框架与MCP协议，表明行业正从单一模型能力转向构建可组合、可扩展的智能代理应用。同时，云原生管理（meshery）和实时通信（chatwoot）等工具类项目持续活跃，但AI代理方向的爆发力最为突出。",
+    "language_trend": "Python和TypeScript以30次上榜次数并列第一，反映出AI/数据科学与全栈开发的持续主导地位。Rust上榜11次，在iroh等网络基础设施项目中表现亮眼，显示出系统编程语言在性能与安全敏感领域的崛起趋势。Shell和Unknown类型的存在则说明运维脚本与非代码资源仍有一定需求。",
+    "notable_projects": "obra/superpowers（⭐227k）提出agentic技能框架，可能重新定义AI时代的软件开发范式，其高星数和快速上榜值得深度跟踪。n0-computer/iroh（⭐9.3k）用dial keys替代IP地址，探索模块化去中心网络，技术理念极具颠覆性。DeusData/codebase-memory-mcp（⭐5.5k）作为高性能代码智能MCP服务器，直接呼应AI编程助手生态的标准化需求，增长迅猛。"
   }
 }
