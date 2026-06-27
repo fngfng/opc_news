@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-06-26T02:59:04.709106",
-  "week_range": "2026-06-20 ~ 2026-06-26",
+  "generated_at": "2026-06-27T02:45:39.373996",
+  "week_range": "2026-06-21 ~ 2026-06-27",
   "days_collected": 7,
   "total_projects": 60,
-  "total_stars_today": 89491,
+  "total_stars_today": 92236,
   "top_languages": [
     [
       "Python",
-      36
+      39
     ],
     [
       "TypeScript",
-      29
+      30
     ],
     [
       "Swift",
-      7
-    ],
-    [
-      "Rust",
       6
     ],
     [
       "HTML",
+      5
+    ],
+    [
+      "Rust",
       5
     ]
   ],
   "trending_topics": [],
   "top_picks": [
     {
-      "rank": 8,
+      "rank": 3,
       "name": "OpenMontage",
       "owner": "calesthio",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "stars": 6337,
-      "forks": 1086,
-      "stars_today": 156,
+      "stars": 7155,
+      "forks": 1160,
+      "stars_today": 677,
       "language": "Python",
       "topics": [],
       "summary": {
@@ -45,42 +45,6 @@
         "scene": "自动化视频剪辑与后期处理、AI辅助创意视频内容生成、多工具协同的流水线式视频制作"
       },
       "appear_days": 7
-    },
-    {
-      "rank": 3,
-      "name": "palmier-pro",
-      "owner": "palmier-io",
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "description": "macOS video editor built for AI",
-      "stars": 1980,
-      "forks": 192,
-      "stars_today": 756,
-      "language": "Swift",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个专为AI集成设计的macOS视频编辑器",
-        "purpose": "解决传统视频编辑器无法高效融入AI工作流的问题",
-        "scene": "AI辅助视频创作、自动化视频编辑、macOS平台上的智能视频处理"
-      },
-      "appear_days": 5
-    },
-    {
-      "rank": 1,
-      "name": "codebase-memory-mcp",
-      "owner": "DeusData",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "stars": 8321,
-      "forks": 633,
-      "stars_today": 1058,
-      "language": "C",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个高性能代码智能MCP服务器，将代码库索引为持久知识图谱，实现毫秒级索引和亚毫秒级查询。",
-        "purpose": "解决大型代码库理解与查询效率低、AI交互令牌消耗过高的问题。",
-        "scene": "AI编程助手实时获取代码上下文、大型代码库的语义搜索与导航、代码审查与依赖分析"
-      },
-      "appear_days": 5
     },
     {
       "rank": 14,
@@ -97,6 +61,24 @@
         "what": "作者构建了一个基于AI编码代理的命令行工具，通过单条命令克隆任意网站。",
         "purpose": "解决手动克隆网站耗时且需要大量编码的问题，利用AI自动化生成网站副本。",
         "scene": "快速创建竞品网站原型、批量生成相似风格网站、自动化网站迁移或备份"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 7,
+      "name": "gstack",
+      "owner": "garrytan",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 113237,
+      "forks": 16803,
+      "stars_today": 573,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一套包含23个工具的Claude Code配置，模拟CEO、设计师、工程经理、发布经理、文档工程师和QA等角色",
+        "purpose": "解决软件开发中多角色协作与自动化问题，通过AI代理覆盖从产品构思到发布的全流程",
+        "scene": "产品构思与决策辅助、UI/UX设计生成、自动化发布与文档生成"
       },
       "appear_days": 4
     },
@@ -137,38 +119,56 @@
       "appear_days": 4
     },
     {
-      "rank": 13,
-      "name": "penpot",
-      "owner": "penpot",
-      "url": "https://github.com/penpot/penpot",
-      "description": "Penpot: The open-source design tool for design and code collaboration",
-      "stars": 50622,
-      "forks": 3269,
-      "stars_today": 85,
-      "language": "Clojure",
+      "rank": 1,
+      "name": "palmier-pro",
+      "owner": "palmier-io",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "stars": 3541,
+      "forks": 288,
+      "stars_today": 902,
+      "language": "Swift",
       "topics": [],
       "summary": {
-        "what": "作者开发了一个开源的设计与代码协作工具，支持矢量设计、原型制作和开发者交接。",
-        "purpose": "解决设计团队与开发团队在协作中因工具不互通、格式不兼容导致的效率低下和沟通成本高的问题。",
-        "scene": "产品团队在同一个平台上实时协作评审设计，并同步更新到开发流程中"
+        "what": "作者开发了一个专为AI集成设计的macOS视频编辑器",
+        "purpose": "解决传统视频编辑器无法高效融入AI工作流的问题",
+        "scene": "AI辅助视频创作、自动化视频编辑、macOS平台上的智能视频处理"
       },
       "appear_days": 4
     },
     {
-      "rank": 7,
-      "name": "gstack",
-      "owner": "garrytan",
-      "url": "https://github.com/garrytan/gstack",
-      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "stars": 113237,
-      "forks": 16803,
-      "stars_today": 573,
+      "rank": 5,
+      "name": "codebase-memory-mcp",
+      "owner": "DeusData",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "stars": 9468,
+      "forks": 717,
+      "stars_today": 1271,
+      "language": "C",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个高性能代码智能MCP服务器，将代码库索引为持久知识图谱，实现毫秒级索引和亚毫秒级查询。",
+        "purpose": "解决大型代码库理解与查询效率低、AI交互令牌消耗过高的问题。",
+        "scene": "AI编程助手实时获取代码上下文、大型代码库的语义搜索与导航、代码审查与依赖分析"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 10,
+      "name": "design.md",
+      "owner": "google-labs-code",
+      "url": "https://github.com/google-labs-code/design.md",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "stars": 17448,
+      "forks": 1570,
+      "stars_today": 619,
       "language": "TypeScript",
       "topics": [],
       "summary": {
-        "what": "作者构建了一套包含23个工具的Claude Code配置，模拟CEO、设计师、工程经理、发布经理、文档工程师和QA等角色",
-        "purpose": "解决软件开发中多角色协作与自动化问题，通过AI代理覆盖从产品构思到发布的全流程",
-        "scene": "产品构思与决策辅助、UI/UX设计生成、自动化发布与文档生成"
+        "what": "作者创建了一个名为DESIGN.md的格式规范，用于向AI编码代理描述视觉标识和设计系统。",
+        "purpose": "解决AI编码代理在生成用户界面时缺乏持久、结构化的设计知识，导致输出不一致的问题。",
+        "scene": "开发者使用AI编码助手生成前端代码时，通过DESIGN.md提供设计约束；团队协作中确保AI生成的UI符合品牌视觉规范；自动化设计到代码的转换流程中，保持设计一致性。"
       },
       "appear_days": 3
     },
@@ -191,27 +191,27 @@
       "appear_days": 3
     },
     {
-      "rank": 4,
-      "name": "worldmonitor",
-      "owner": "koala73",
-      "url": "https://github.com/koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "stars": 57318,
-      "forks": 9143,
-      "stars_today": 156,
+      "rank": 11,
+      "name": "voicebox",
+      "owner": "jamiepine",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "stars": 31054,
+      "forks": 3838,
+      "stars_today": 145,
       "language": "TypeScript",
       "topics": [],
       "summary": {
-        "what": "作者构建了一个AI驱动的实时全球情报仪表板，聚合新闻、监控地缘政治与基础设施状态",
-        "purpose": "解决多源信息碎片化，提供统一的态势感知与决策支持",
-        "scene": "地缘政治风险实时监控、关键基础设施状态跟踪、全球新闻事件聚合分析"
+        "what": "作者开发了一个开源AI语音工作室，支持语音克隆、听写和语音生成。",
+        "purpose": "解决用户需要便捷、开源的工具来克隆声音、将语音转文字以及生成自定义语音的问题。",
+        "scene": "场景1: 内容创作者克隆自己的声音用于视频配音、场景2: 记者将采访录音快速转为文字稿、场景3: 开发者集成语音合成功能到应用中"
       },
       "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向无疑是AI驱动的工具与代理（Agent）。上榜项目中，从视频制作、代码智能到网站克隆和股票分析，几乎全部围绕LLM和AI代理展开，尤其以OpenMontage、gstack和Anthropic-Cybersecurity-Skills为代表，显示出Agent化、自动化工作流的强势崛起。这一趋势的爆发力源于开发者对‘用AI替代重复性创作与工程任务’的迫切需求，以及Claude Code等AI编程工具生态的快速成熟。",
-    "language_trend": "Python和TypeScript继续占据绝对主导，分别出现36次和29次，这得益于AI/ML生态（Python）与全栈工具、前端及AI应用层（TypeScript）的双轮驱动。Swift因macOS端AI视频编辑工具palmier-pro的出现而获得7次曝光，反映出桌面端AI应用正在催生原生语言的需求；Rust保持6次稳定出现，在系统级和高性能场景中持续渗透，而HTML的5次则多与静态模板或AI生成的页面相关，整体格局未见语言明显衰落，但AI进一步巩固了Python和TypeScript的统治地位。",
-    "notable_projects": "1. gstack（⭐113237）：Garry Tan公开的Claude Code完整配置，一夜爆火，代表了开发者对‘开箱即用’的AI编程最佳实践的强烈渴望，有望推动AI编程配置标准化。2. daily_stock_analysis（⭐44772）：LLM驱动的多市场股票分析系统，支持零成本定时运行，将AI决策落地到金融实战，体现了LLM在数据密集、实时性要求高的垂直领域的巨大潜力。3. ai-website-cloner-template（⭐17847）：一条命令克隆任意网站，展示了AI编码从辅助到全自动生成的跨越，极低的使用门槛使其成为快速原型和学习的现象级工具。"
+    "hot_direction": "本周最热技术方向无疑是AI应用与智能代理。上榜项目几乎全部围绕AI展开，涵盖AI视频制作、AI编程配置、AI安全技能、LLM金融分析等细分领域，说明AI正从通用模型快速渗透到具体生产工具和工作流中。尤其是'agentic'（代理式）视频生产和Claude Code配置的高热度，反映出业界对自主执行复杂任务的AI代理需求爆发。",
+    "language_trend": "Python以39次出现继续稳居榜首，主要受AI/ML项目驱动，如LLM分析系统和代码智能服务器；TypeScript以30次紧随其后，支撑大量Web及工具类项目，保持全栈开发主流地位。Rust（5次）虽总量不大，但在高性能工具中持续出现，显示其在系统级和性能敏感场景的认可度提升；Swift因macOS原生AI应用上榜，表明苹果生态在AI工具领域的参与度增加。",
+    "notable_projects": "1. calesthio/OpenMontage：作为世界首个开源代理式视频制作工具，它将AI代理引入视频生产全流程，可能重塑内容创作方式，具有开创性意义。2. garrytan/gstack：知名投资人Garry Tan的Claude Code配置以超11万星登顶，代表顶级开发者对AI编程工作流的标杆级实践，会推动更多团队采用类似AI辅助编码模式。3. ZhuLinsen/daily_stock_analysis：LLM驱动的多市场股票分析系统获4.4万星，展示了大模型在金融决策中的实用落地，其零成本定时运行特性降低了个人量化投资门槛，极具应用潜力。"
   }
 }
