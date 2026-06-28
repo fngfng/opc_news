@@ -1,51 +1,33 @@
 {
-  "generated_at": "2026-06-27T02:45:39.373996",
-  "week_range": "2026-06-21 ~ 2026-06-27",
+  "generated_at": "2026-06-28T03:01:25.422765",
+  "week_range": "2026-06-22 ~ 2026-06-28",
   "days_collected": 7,
   "total_projects": 60,
-  "total_stars_today": 92236,
+  "total_stars_today": 87870,
   "top_languages": [
     [
       "Python",
-      39
+      43
     ],
     [
       "TypeScript",
-      30
-    ],
-    [
-      "Swift",
-      6
+      31
     ],
     [
       "HTML",
+      6
+    ],
+    [
+      "Go",
       5
     ],
     [
-      "Rust",
+      "Swift",
       5
     ]
   ],
   "trending_topics": [],
   "top_picks": [
-    {
-      "rank": 3,
-      "name": "OpenMontage",
-      "owner": "calesthio",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "stars": 7155,
-      "forks": 1160,
-      "stars_today": 677,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了首个开源代理式视频制作系统，包含12条流水线、52个工具和500多项代理技能。",
-        "purpose": "解决将AI编程助手转化为完整视频制作工作室的问题，实现自动化视频生产。",
-        "scene": "自动化视频剪辑与后期处理、AI辅助创意视频内容生成、多工具协同的流水线式视频制作"
-      },
-      "appear_days": 7
-    },
     {
       "rank": 14,
       "name": "ai-website-cloner-template",
@@ -62,7 +44,25 @@
         "purpose": "解决手动克隆网站耗时且需要大量编码的问题，利用AI自动化生成网站副本。",
         "scene": "快速创建竞品网站原型、批量生成相似风格网站、自动化网站迁移或备份"
       },
-      "appear_days": 5
+      "appear_days": 6
+    },
+    {
+      "rank": 2,
+      "name": "OpenMontage",
+      "owner": "calesthio",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "stars": 9182,
+      "forks": 1335,
+      "stars_today": 987,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了首个开源代理式视频制作系统，包含12条流水线、52个工具和500多项代理技能。",
+        "purpose": "解决将AI编程助手转化为完整视频制作工作室的问题，实现自动化视频生产。",
+        "scene": "自动化视频剪辑与后期处理、AI辅助创意视频内容生成、多工具协同的流水线式视频制作"
+      },
+      "appear_days": 6
     },
     {
       "rank": 7,
@@ -79,6 +79,24 @@
         "what": "作者构建了一套包含23个工具的Claude Code配置，模拟CEO、设计师、工程经理、发布经理、文档工程师和QA等角色",
         "purpose": "解决软件开发中多角色协作与自动化问题，通过AI代理覆盖从产品构思到发布的全流程",
         "scene": "产品构思与决策辅助、UI/UX设计生成、自动化发布与文档生成"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 10,
+      "name": "design.md",
+      "owner": "google-labs-code",
+      "url": "https://github.com/google-labs-code/design.md",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "stars": 17448,
+      "forks": 1570,
+      "stars_today": 619,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者创建了一个名为DESIGN.md的格式规范，用于向AI编码代理描述视觉标识和设计系统。",
+        "purpose": "解决AI编码代理在生成用户界面时缺乏持久、结构化的设计知识，导致输出不一致的问题。",
+        "scene": "开发者使用AI编码助手生成前端代码时，通过DESIGN.md提供设计约束；团队协作中确保AI生成的UI符合品牌视觉规范；自动化设计到代码的转换流程中，保持设计一致性。"
       },
       "appear_days": 4
     },
@@ -119,56 +137,56 @@
       "appear_days": 4
     },
     {
-      "rank": 1,
-      "name": "palmier-pro",
-      "owner": "palmier-io",
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "description": "macOS video editor built for AI",
-      "stars": 3541,
-      "forks": 288,
-      "stars_today": 902,
-      "language": "Swift",
+      "rank": 3,
+      "name": "ai-berkshire",
+      "owner": "xbtlin",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "stars": 2098,
+      "forks": 318,
+      "stars_today": 309,
+      "language": "Python",
       "topics": [],
       "summary": {
-        "what": "作者开发了一个专为AI集成设计的macOS视频编辑器",
-        "purpose": "解决传统视频编辑器无法高效融入AI工作流的问题",
-        "scene": "AI辅助视频创作、自动化视频编辑、macOS平台上的智能视频处理"
+        "what": "作者构建了一个基于Claude Code的价值投资研究框架，融合巴菲特、芒格、段永平、李录四位投资大师的方法论，并实现多Agent并行分析。",
+        "purpose": "解决传统价值投资研究依赖人工、效率低、难以系统化整合多维度分析的问题，通过AI自动化研究流程。",
+        "scene": "个人投资者快速评估股票价值、投资团队进行多维度并行研究、投资学习与模拟训练"
       },
-      "appear_days": 4
+      "appear_days": 3
     },
     {
-      "rank": 5,
-      "name": "codebase-memory-mcp",
-      "owner": "DeusData",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "stars": 9468,
-      "forks": 717,
-      "stars_today": 1271,
-      "language": "C",
+      "rank": 12,
+      "name": "CasaOS",
+      "owner": "IceWhaleTech",
+      "url": "https://github.com/IceWhaleTech/CasaOS",
+      "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+      "stars": 34876,
+      "forks": 1993,
+      "stars_today": 223,
+      "language": "Go",
       "topics": [],
       "summary": {
-        "what": "作者构建了一个高性能代码智能MCP服务器，将代码库索引为持久知识图谱，实现毫秒级索引和亚毫秒级查询。",
-        "purpose": "解决大型代码库理解与查询效率低、AI交互令牌消耗过高的问题。",
-        "scene": "AI编程助手实时获取代码上下文、大型代码库的语义搜索与导航、代码审查与依赖分析"
+        "what": "作者构建了一个基于Go语言的轻量级个人云操作系统，提供文件管理、应用商店和智能家居控制等功能。",
+        "purpose": "解决普通用户搭建私有云门槛高、操作复杂的问题，实现数据自主可控和家庭数字中心化。",
+        "scene": "家庭私有云存储与共享、智能家居设备统一管理、个人媒体服务器搭建"
       },
-      "appear_days": 4
+      "appear_days": 3
     },
     {
-      "rank": 10,
-      "name": "design.md",
-      "owner": "google-labs-code",
-      "url": "https://github.com/google-labs-code/design.md",
-      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
-      "stars": 17448,
-      "forks": 1570,
-      "stars_today": 619,
-      "language": "TypeScript",
+      "rank": 16,
+      "name": "MediaCrawler",
+      "owner": "NanmiCoder",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "stars": 52850,
+      "forks": 10930,
+      "stars_today": 398,
+      "language": "Python",
       "topics": [],
       "summary": {
-        "what": "作者创建了一个名为DESIGN.md的格式规范，用于向AI编码代理描述视觉标识和设计系统。",
-        "purpose": "解决AI编码代理在生成用户界面时缺乏持久、结构化的设计知识，导致输出不一致的问题。",
-        "scene": "开发者使用AI编码助手生成前端代码时，通过DESIGN.md提供设计约束；团队协作中确保AI生成的UI符合品牌视觉规范；自动化设计到代码的转换流程中，保持设计一致性。"
+        "what": "作者开发了一个支持小红书、抖音、快手、B站、微博、百度贴吧、知乎等多平台的内容与评论爬虫工具",
+        "purpose": "解决从多个主流社交平台批量采集公开笔记、视频、帖子、评论等数据的问题",
+        "scene": "社交媒体舆情监控、竞品内容分析、用户评论情感分析"
       },
       "appear_days": 3
     },
@@ -189,29 +207,11 @@
         "scene": "自动化文献调研与报告生成、复杂软件项目的端到端开发与调试、多工具协同的创意内容创作与迭代"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 11,
-      "name": "voicebox",
-      "owner": "jamiepine",
-      "url": "https://github.com/jamiepine/voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "stars": 31054,
-      "forks": 3838,
-      "stars_today": 145,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个开源AI语音工作室，支持语音克隆、听写和语音生成。",
-        "purpose": "解决用户需要便捷、开源的工具来克隆声音、将语音转文字以及生成自定义语音的问题。",
-        "scene": "场景1: 内容创作者克隆自己的声音用于视频配音、场景2: 记者将采访录音快速转为文字稿、场景3: 开发者集成语音合成功能到应用中"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向无疑是AI应用与智能代理。上榜项目几乎全部围绕AI展开，涵盖AI视频制作、AI编程配置、AI安全技能、LLM金融分析等细分领域，说明AI正从通用模型快速渗透到具体生产工具和工作流中。尤其是'agentic'（代理式）视频生产和Claude Code配置的高热度，反映出业界对自主执行复杂任务的AI代理需求爆发。",
-    "language_trend": "Python以39次出现继续稳居榜首，主要受AI/ML项目驱动，如LLM分析系统和代码智能服务器；TypeScript以30次紧随其后，支撑大量Web及工具类项目，保持全栈开发主流地位。Rust（5次）虽总量不大，但在高性能工具中持续出现，显示其在系统级和性能敏感场景的认可度提升；Swift因macOS原生AI应用上榜，表明苹果生态在AI工具领域的参与度增加。",
-    "notable_projects": "1. calesthio/OpenMontage：作为世界首个开源代理式视频制作工具，它将AI代理引入视频生产全流程，可能重塑内容创作方式，具有开创性意义。2. garrytan/gstack：知名投资人Garry Tan的Claude Code配置以超11万星登顶，代表顶级开发者对AI编程工作流的标杆级实践，会推动更多团队采用类似AI辅助编码模式。3. ZhuLinsen/daily_stock_analysis：LLM驱动的多市场股票分析系统获4.4万星，展示了大模型在金融决策中的实用落地，其零成本定时运行特性降低了个人量化投资门槛，极具应用潜力。"
+    "hot_direction": "本周AI方向绝对强势，特别是LLM驱动的编码、智能体与投资分析类项目占据主导，如AI网站克隆、Claude Code配置、LLM股票分析等，体现了开发者对AI辅助开发与决策的极高热情。安全方向因Anthropic-Cybersecurity-Skills的上榜显示出与AI智能体结合的新趋势，但整体热度仍远不及AI应用与工具。工具类项目如CasaOS也有出现，但AI是本周最核心的技术主题。",
+    "language_trend": "Python以43次出现遥遥领先，主要得益于其在AI、数据科学和LLM生态中的统治地位；TypeScript以31次紧随其后，反映出全栈开发和AI工具前端界面的旺盛需求。HTML、Go、Swift等语言出现次数较少，但维持稳定，没有明显下降趋势，说明多语言并存，但AI浪潮进一步巩固了Python和TypeScript的崛起地位。",
+    "notable_projects": "garrytan/gstack本周暴涨至113k星，这是知名投资人Garry Tan的Claude Code完整配置，包含23个定制化观点与工作流，其名人效应和实用价值可能引领AI编码配置的标准化潮流。google-labs-code/design.md是谷歌实验室提出的视觉设计格式规范，旨在用结构化方式描述UI设计，有望成为设计与代码之间的新桥梁，值得关注其对前端工具链的影响。ZhuLinsen/daily_stock_analysis以44k星展示了LLM在金融分析中的强大落地潜力，多市场、零成本定时运行的设计使其成为个人投资者AI决策看板的标杆项目。"
   }
 }
