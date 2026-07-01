@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-30T02:55:24.327121",
-  "week_range": "2026-06-24 ~ 2026-06-30",
+  "generated_at": "2026-07-01T03:02:08.729221",
+  "week_range": "2026-06-25 ~ 2026-07-01",
   "days_collected": 7,
-  "total_projects": 62,
-  "total_stars_today": 78544,
+  "total_projects": 65,
+  "total_stars_today": 76074,
   "top_languages": [
     [
       "Python",
-      46
+      48
     ],
     [
       "TypeScript",
-      26
+      25
     ],
     [
       "HTML",
@@ -22,7 +22,7 @@
       5
     ],
     [
-      "Go",
+      "Haskell",
       5
     ]
   ],
@@ -44,23 +44,23 @@
         "purpose": "解决传统价值投资研究依赖人工、效率低、难以系统化整合多维度分析的问题，通过AI自动化研究流程。",
         "scene": "个人投资者快速评估股票价值、投资团队进行多维度并行研究、投资学习与模拟训练"
       },
-      "appear_days": 5
+      "appear_days": 6
     },
     {
-      "rank": 12,
-      "name": "ai-website-cloner-template",
-      "owner": "JCodesMore",
-      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-      "description": "Clone any website with one command using AI coding agents",
-      "stars": 18630,
-      "forks": 2808,
-      "stars_today": 826,
-      "language": "TypeScript",
+      "rank": 6,
+      "name": "free-for-dev",
+      "owner": "ripienaar",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "stars": 123764,
+      "forks": 13053,
+      "stars_today": 90,
+      "language": "HTML",
       "topics": [],
       "summary": {
-        "what": "作者构建了一个基于AI编码代理的命令行工具，通过单条命令克隆任意网站。",
-        "purpose": "解决手动克隆网站耗时且需要大量编码的问题，利用AI自动化生成网站副本。",
-        "scene": "快速创建竞品网站原型、批量生成相似风格网站、自动化网站迁移或备份"
+        "what": "作者维护了一个包含大量SaaS、PaaS和IaaS免费层服务的精选列表",
+        "purpose": "帮助开发者和运维人员发现可用于开发、测试或小规模部署的免费云资源",
+        "scene": "寻找免费CI/CD工具、寻找免费数据库服务、寻找免费监控和日志服务"
       },
       "appear_days": 5
     },
@@ -79,6 +79,24 @@
         "what": "作者开发了首个不依赖任何用户标识符的即时通讯网络及跨平台客户端应用",
         "purpose": "解决传统即时通讯依赖用户标识符导致的隐私泄露和追踪问题，实现完全私密的通讯",
         "scene": "个人隐私保护下的日常聊天、记者与线人之间的安全通讯、企业内部敏感信息交流"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 18,
+      "name": "Vibe-Trading",
+      "owner": "HKUDS",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 13745,
+      "forks": 2593,
+      "stars_today": 92,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个基于市场情绪分析的个人自动化交易代理",
+        "purpose": "帮助个人投资者通过情绪信号自动化执行交易决策，降低情绪化交易风险",
+        "scene": "股票日内交易辅助、加密货币趋势跟踪、外汇市场情绪择时"
       },
       "appear_days": 4
     },
@@ -101,24 +119,6 @@
       "appear_days": 4
     },
     {
-      "rank": 6,
-      "name": "free-for-dev",
-      "owner": "ripienaar",
-      "url": "https://github.com/ripienaar/free-for-dev",
-      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-      "stars": 123764,
-      "forks": 13053,
-      "stars_today": 90,
-      "language": "HTML",
-      "topics": [],
-      "summary": {
-        "what": "作者维护了一个包含大量SaaS、PaaS和IaaS免费层服务的精选列表",
-        "purpose": "帮助开发者和运维人员发现可用于开发、测试或小规模部署的免费云资源",
-        "scene": "寻找免费CI/CD工具、寻找免费数据库服务、寻找免费监控和日志服务"
-      },
-      "appear_days": 4
-    },
-    {
       "rank": 10,
       "name": "design.md",
       "owner": "google-labs-code",
@@ -137,56 +137,56 @@
       "appear_days": 4
     },
     {
-      "rank": 4,
-      "name": "gstack",
-      "owner": "garrytan",
-      "url": "https://github.com/garrytan/gstack",
-      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "stars": 114181,
-      "forks": 16898,
-      "stars_today": 1011,
+      "rank": 5,
+      "name": "ai-website-cloner-template",
+      "owner": "JCodesMore",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
+      "stars": 19419,
+      "forks": 2894,
+      "stars_today": 692,
       "language": "TypeScript",
       "topics": [],
       "summary": {
-        "what": "作者构建了一套包含23个工具的Claude Code配置，模拟CEO、设计师、工程经理、发布经理、文档工程师和QA等角色",
-        "purpose": "解决软件开发中多角色协作与自动化问题，通过AI代理覆盖从产品构思到发布的全流程",
-        "scene": "产品构思与决策辅助、UI/UX设计生成、自动化发布与文档生成"
+        "what": "作者构建了一个基于AI编码代理的命令行工具，通过单条命令克隆任意网站。",
+        "purpose": "解决手动克隆网站耗时且需要大量编码的问题，利用AI自动化生成网站副本。",
+        "scene": "快速创建竞品网站原型、批量生成相似风格网站、自动化网站迁移或备份"
       },
       "appear_days": 4
     },
     {
-      "rank": 1,
-      "name": "OpenMontage",
-      "owner": "calesthio",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "stars": 16019,
-      "forks": 1897,
-      "stars_today": 3592,
-      "language": "Python",
+      "rank": 8,
+      "name": "FluidVoice",
+      "owner": "altic-dev",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
+      "stars": 3822,
+      "forks": 243,
+      "stars_today": 365,
+      "language": "Swift",
       "topics": [],
       "summary": {
-        "what": "作者开发了首个开源代理式视频制作系统，包含12条流水线、52个工具和500多项代理技能。",
-        "purpose": "解决将AI编程助手转化为完整视频制作工作室的问题，实现自动化视频生产。",
-        "scene": "自动化视频剪辑与后期处理、AI辅助创意视频内容生成、多工具协同的流水线式视频制作"
+        "what": "开发了最快的macOS离线听写应用，将语音实时转为文本",
+        "purpose": "提供完全本地运行、无需联网的语音转文字功能，保护隐私并降低延迟",
+        "scene": "会议记录、写作辅助、无障碍语音输入"
       },
-      "appear_days": 4
+      "appear_days": 3
     },
     {
-      "rank": 18,
-      "name": "Vibe-Trading",
-      "owner": "HKUDS",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "stars": 13745,
-      "forks": 2593,
-      "stars_today": 92,
+      "rank": 13,
+      "name": "video-use",
+      "owner": "browser-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "stars": 11194,
+      "forks": 1531,
+      "stars_today": 196,
       "language": "Python",
       "topics": [],
       "summary": {
-        "what": "作者开发了一个基于市场情绪分析的个人自动化交易代理",
-        "purpose": "帮助个人投资者通过情绪信号自动化执行交易决策，降低情绪化交易风险",
-        "scene": "股票日内交易辅助、加密货币趋势跟踪、外汇市场情绪择时"
+        "what": "作者构建了一个基于Python的框架，让编码代理能够通过自然语言指令自动化编辑视频。",
+        "purpose": "解决视频编辑过程中手动操作繁琐、重复性高的问题，实现用代码代理自动完成剪辑任务。",
+        "scene": "自动化批量视频剪辑、基于脚本的智能视频处理、非专业用户的简易视频编辑"
       },
       "appear_days": 3
     },
@@ -210,8 +210,8 @@
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向无疑是AI应用与自动化，尤其是AI编程与智能体（Agent）类项目占据主导。ai-website-cloner-template、gstack和OpenMontage等项目均体现了将大模型能力直接转化为生产力工具的强烈趋势，开发者正从“用AI辅助编码”转向“用AI一键生成完整产品”。同时，AI与传统领域的深度融合也在加速，如ai-berkshire将Claude Code应用于价值投资研究，表明AI正在渗透金融分析等知识密集型行业。",
-    "language_trend": "Python以46次出现稳居绝对主导，反映出其在AI/ML生态、数据处理和自动化脚本中的不可替代性，几乎所有AI项目都深度依赖Python。TypeScript以26次位居第二，显示全栈开发与AI工具的前端交互层正在快速膨胀，Next.js/React生态与AI的结合成为新标准。HTML出现8次，多为AI生成或展示型项目，而Swift和Go各5次，说明移动端和系统级工具仍有稳定需求，但增长势头远不及AI驱动的语言生态。",
-    "notable_projects": "ai-website-cloner-template（⭐18630）值得重点关注，因为它将“一句话克隆任意网站”的AI编码能力产品化，极低的门槛可能彻底改变网页复刻与原型开发的方式，背后反映的是AI代码生成从辅助到全自动的跨越。gstack（⭐114181）同样关键，它直接复刻了知名投资人Garry Tan的Claude Code配置，将个人工作流转化为可共享的“AI配置即产品”，预示着个性化AI助手配置的社交化与工具化趋势。OpenMontage（⭐16019）作为世界首个开源智能体视频制作平台，将多智能体协作引入视频创作，可能重塑内容生产流程，是AI Agent在创意产业落地的标杆。"
+    "hot_direction": "本周最热技术方向是AI应用与自动化工具，尤其是基于大模型的智能代理和开发辅助。上榜项目大量聚焦于AI驱动的投资研究、交易代理、网站克隆和语音识别，显示出开发者正将AI能力快速产品化，降低专业任务门槛。同时，隐私通信和机器人操作系统等底层基础设施也保持热度，但AI应用类项目的上榜数量和星数增长更为突出。",
+    "language_trend": "Python继续主导，凭借在AI/ML生态中的核心地位，在AI代理、交易和机器人项目中广泛使用，上榜次数遥遥领先。TypeScript保持第二，主要支撑Web工具和全栈克隆类项目，反映出前后端一体化的AI应用开发趋势。Haskell和Swift等语言出现在特定领域（如隐私通信和macOS应用），显示小众语言在专精场景中仍有稳定需求，但整体占比远低于通用AI语言。",
+    "notable_projects": "xbtlin/ai-berkshire将价值投资理念与Claude Code结合，开创了AI辅助深度研究的范式，其快速增长的星数表明金融与AI交叉领域需求旺盛。simplex-chat作为首个无用户标识的隐私通信网络，在数据安全日益受关注的背景下，代表了去中心化通信的重要尝试。google-labs-code/design.md提出视觉设计描述格式规范，有望成为AI生成UI的标准化中间语言，对设计-开发协作工具链具有潜在影响。"
   }
 }
