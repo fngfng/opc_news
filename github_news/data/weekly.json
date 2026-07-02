@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-01T03:02:08.729221",
-  "week_range": "2026-06-25 ~ 2026-07-01",
+  "generated_at": "2026-07-02T02:50:49.509412",
+  "week_range": "2026-06-26 ~ 2026-07-02",
   "days_collected": 7,
-  "total_projects": 65,
-  "total_stars_today": 76074,
+  "total_projects": 61,
+  "total_stars_today": 78460,
   "top_languages": [
     [
       "Python",
-      48
+      50
     ],
     [
       "TypeScript",
-      25
+      28
     ],
     [
       "HTML",
       8
     ],
     [
-      "Swift",
-      5
+      "Shell",
+      6
     ],
     [
-      "Haskell",
+      "Rust",
       5
     ]
   ],
@@ -45,6 +45,24 @@
         "scene": "个人投资者快速评估股票价值、投资团队进行多维度并行研究、投资学习与模拟训练"
       },
       "appear_days": 6
+    },
+    {
+      "rank": 18,
+      "name": "Vibe-Trading",
+      "owner": "HKUDS",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 13745,
+      "forks": 2593,
+      "stars_today": 92,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个基于市场情绪分析的个人自动化交易代理",
+        "purpose": "帮助个人投资者通过情绪信号自动化执行交易决策，降低情绪化交易风险",
+        "scene": "股票日内交易辅助、加密货币趋势跟踪、外汇市场情绪择时"
+      },
+      "appear_days": 5
     },
     {
       "rank": 6,
@@ -83,20 +101,38 @@
       "appear_days": 5
     },
     {
-      "rank": 18,
-      "name": "Vibe-Trading",
-      "owner": "HKUDS",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "stars": 13745,
-      "forks": 2593,
-      "stars_today": 92,
+      "rank": 8,
+      "name": "FluidVoice",
+      "owner": "altic-dev",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
+      "stars": 3822,
+      "forks": 243,
+      "stars_today": 365,
+      "language": "Swift",
+      "topics": [],
+      "summary": {
+        "what": "开发了最快的macOS离线听写应用，将语音实时转为文本",
+        "purpose": "提供完全本地运行、无需联网的语音转文字功能，保护隐私并降低延迟",
+        "scene": "会议记录、写作辅助、无障碍语音输入"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 13,
+      "name": "video-use",
+      "owner": "browser-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "stars": 11194,
+      "forks": 1531,
+      "stars_today": 196,
       "language": "Python",
       "topics": [],
       "summary": {
-        "what": "作者开发了一个基于市场情绪分析的个人自动化交易代理",
-        "purpose": "帮助个人投资者通过情绪信号自动化执行交易决策，降低情绪化交易风险",
-        "scene": "股票日内交易辅助、加密货币趋势跟踪、外汇市场情绪择时"
+        "what": "作者构建了一个基于Python的框架，让编码代理能够通过自然语言指令自动化编辑视频。",
+        "purpose": "解决视频编辑过程中手动操作繁琐、重复性高的问题，实现用代码代理自动完成剪辑任务。",
+        "scene": "自动化批量视频剪辑、基于脚本的智能视频处理、非专业用户的简易视频编辑"
       },
       "appear_days": 4
     },
@@ -119,74 +155,38 @@
       "appear_days": 4
     },
     {
-      "rank": 10,
-      "name": "design.md",
-      "owner": "google-labs-code",
-      "url": "https://github.com/google-labs-code/design.md",
-      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
-      "stars": 17448,
-      "forks": 1570,
-      "stars_today": 619,
-      "language": "TypeScript",
+      "rank": 2,
+      "name": "agency-agents",
+      "owner": "msitarzewski",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": 119082,
+      "forks": 19493,
+      "stars_today": 1425,
+      "language": "Shell",
       "topics": [],
       "summary": {
-        "what": "作者创建了一个名为DESIGN.md的格式规范，用于向AI编码代理描述视觉标识和设计系统。",
-        "purpose": "解决AI编码代理在生成用户界面时缺乏持久、结构化的设计知识，导致输出不一致的问题。",
-        "scene": "开发者使用AI编码助手生成前端代码时，通过DESIGN.md提供设计约束；团队协作中确保AI生成的UI符合品牌视觉规范；自动化设计到代码的转换流程中，保持设计一致性。"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 5,
-      "name": "ai-website-cloner-template",
-      "owner": "JCodesMore",
-      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-      "description": "Clone any website with one command using AI coding agents",
-      "stars": 19419,
-      "forks": 2894,
-      "stars_today": 692,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个基于AI编码代理的命令行工具，通过单条命令克隆任意网站。",
-        "purpose": "解决手动克隆网站耗时且需要大量编码的问题，利用AI自动化生成网站副本。",
-        "scene": "快速创建竞品网站原型、批量生成相似风格网站、自动化网站迁移或备份"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 8,
-      "name": "FluidVoice",
-      "owner": "altic-dev",
-      "url": "https://github.com/altic-dev/FluidVoice",
-      "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
-      "stars": 3822,
-      "forks": 243,
-      "stars_today": 365,
-      "language": "Swift",
-      "topics": [],
-      "summary": {
-        "what": "开发了最快的macOS离线听写应用，将语音实时转为文本",
-        "purpose": "提供完全本地运行、无需联网的语音转文字功能，保护隐私并降低延迟",
-        "scene": "会议记录、写作辅助、无障碍语音输入"
+        "what": "作者创建了一组基于Shell脚本的AI代理，每个代理扮演特定专家角色（如前端向导、Reddit社区忍者、奇思妙想注入者、现实检查员等），具备个性、流程和可交付成果。",
+        "purpose": "提供一个完整的AI代理团队，用于自动化执行各种专业任务，如前端开发、社区管理、创意生成和现实检查。",
+        "scene": "前端开发辅助、Reddit社区管理、创意内容注入、项目现实检查"
       },
       "appear_days": 3
     },
     {
-      "rank": 13,
-      "name": "video-use",
-      "owner": "browser-use",
-      "url": "https://github.com/browser-use/video-use",
-      "description": "Edit videos with coding agents",
-      "stars": 11194,
-      "forks": 1531,
-      "stars_today": 196,
+      "rank": 12,
+      "name": "strix",
+      "owner": "usestrix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
+      "stars": 26828,
+      "forks": 2994,
+      "stars_today": 122,
       "language": "Python",
       "topics": [],
       "summary": {
-        "what": "作者构建了一个基于Python的框架，让编码代理能够通过自然语言指令自动化编辑视频。",
-        "purpose": "解决视频编辑过程中手动操作繁琐、重复性高的问题，实现用代码代理自动完成剪辑任务。",
-        "scene": "自动化批量视频剪辑、基于脚本的智能视频处理、非专业用户的简易视频编辑"
+        "what": "作者构建了一个开源AI黑客工具，用于自动发现并修复应用安全漏洞。",
+        "purpose": "解决应用安全测试中人工渗透成本高、效率低的问题，通过AI自动化漏洞挖掘与修复。",
+        "scene": "场景1：开发阶段集成到CI/CD流水线，自动扫描代码漏洞；场景2：安全团队用于定期渗透测试，替代部分人工；场景3：应用上线后持续监控，实时发现新漏洞并生成修复建议。"
       },
       "appear_days": 3
     },
@@ -210,8 +210,8 @@
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向是AI应用与自动化工具，尤其是基于大模型的智能代理和开发辅助。上榜项目大量聚焦于AI驱动的投资研究、交易代理、网站克隆和语音识别，显示出开发者正将AI能力快速产品化，降低专业任务门槛。同时，隐私通信和机器人操作系统等底层基础设施也保持热度，但AI应用类项目的上榜数量和星数增长更为突出。",
-    "language_trend": "Python继续主导，凭借在AI/ML生态中的核心地位，在AI代理、交易和机器人项目中广泛使用，上榜次数遥遥领先。TypeScript保持第二，主要支撑Web工具和全栈克隆类项目，反映出前后端一体化的AI应用开发趋势。Haskell和Swift等语言出现在特定领域（如隐私通信和macOS应用），显示小众语言在专精场景中仍有稳定需求，但整体占比远低于通用AI语言。",
-    "notable_projects": "xbtlin/ai-berkshire将价值投资理念与Claude Code结合，开创了AI辅助深度研究的范式，其快速增长的星数表明金融与AI交叉领域需求旺盛。simplex-chat作为首个无用户标识的隐私通信网络，在数据安全日益受关注的背景下，代表了去中心化通信的重要尝试。google-labs-code/design.md提出视觉设计描述格式规范，有望成为AI生成UI的标准化中间语言，对设计-开发协作工具链具有潜在影响。"
+    "hot_direction": "本周AI代理与多模态应用方向最为强势，多个上榜项目均围绕自主智能体展开，如Vibe-Trading、video-use和agency-agents，显示业界正从对话式AI向可执行复杂任务的代理框架快速演进。同时AI与金融、音视频处理的结合也异常活跃，反映出垂直场景的深度渗透。",
+    "language_trend": "Python以50次出现稳居榜首，主要受益于AI/ML生态的绝对主导地位；TypeScript以28次保持前端及全栈工具链的活跃度。Rust虽仅5次，但在系统工具与基础设施领域持续缓慢上升，而HTML和Shell作为辅助语言地位稳定，未出现明显下降趋势。",
+    "notable_projects": "HKUDS/Vibe-Trading（⭐13745）将AI代理引入个人交易决策，体现了金融科技与自主智能体的创新融合，值得关注其后续对散户投资方式的改变。browser-use/video-use（⭐11194）通过编码代理实现视频编辑，展示了多模态AI在创意工具领域的实用化突破。msitarzewski/agency-agents（⭐119082）提供完整的AI代理机构框架，其超高星标数反映了开发者对构建可编排、多代理协作系统的强烈需求，可能成为下一波应用开发的基石。"
   }
 }
