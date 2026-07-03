@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-02T02:50:49.509412",
-  "week_range": "2026-06-26 ~ 2026-07-02",
+  "generated_at": "2026-07-03T02:34:41.808172",
+  "week_range": "2026-06-27 ~ 2026-07-03",
   "days_collected": 7,
-  "total_projects": 61,
-  "total_stars_today": 78460,
+  "total_projects": 67,
+  "total_stars_today": 78456,
   "top_languages": [
     [
       "Python",
@@ -11,41 +11,23 @@
     ],
     [
       "TypeScript",
-      28
+      24
+    ],
+    [
+      "Shell",
+      8
     ],
     [
       "HTML",
       8
     ],
     [
-      "Shell",
+      "JavaScript",
       6
-    ],
-    [
-      "Rust",
-      5
     ]
   ],
   "trending_topics": [],
   "top_picks": [
-    {
-      "rank": 3,
-      "name": "ai-berkshire",
-      "owner": "xbtlin",
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "stars": 2098,
-      "forks": 318,
-      "stars_today": 309,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个基于Claude Code的价值投资研究框架，融合巴菲特、芒格、段永平、李录四位投资大师的方法论，并实现多Agent并行分析。",
-        "purpose": "解决传统价值投资研究依赖人工、效率低、难以系统化整合多维度分析的问题，通过AI自动化研究流程。",
-        "scene": "个人投资者快速评估股票价值、投资团队进行多维度并行研究、投资学习与模拟训练"
-      },
-      "appear_days": 6
-    },
     {
       "rank": 18,
       "name": "Vibe-Trading",
@@ -61,6 +43,42 @@
         "what": "作者开发了一个基于市场情绪分析的个人自动化交易代理",
         "purpose": "帮助个人投资者通过情绪信号自动化执行交易决策，降低情绪化交易风险",
         "scene": "股票日内交易辅助、加密货币趋势跟踪、外汇市场情绪择时"
+      },
+      "appear_days": 6
+    },
+    {
+      "rank": 13,
+      "name": "video-use",
+      "owner": "browser-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "stars": 11194,
+      "forks": 1531,
+      "stars_today": 196,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个基于Python的框架，让编码代理能够通过自然语言指令自动化编辑视频。",
+        "purpose": "解决视频编辑过程中手动操作繁琐、重复性高的问题，实现用代码代理自动完成剪辑任务。",
+        "scene": "自动化批量视频剪辑、基于脚本的智能视频处理、非专业用户的简易视频编辑"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 10,
+      "name": "ai-berkshire",
+      "owner": "xbtlin",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "stars": 3176,
+      "forks": 469,
+      "stars_today": 1274,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个基于Claude Code的价值投资研究框架，融合巴菲特、芒格、段永平、李录四位投资大师的方法论，并实现多Agent并行分析。",
+        "purpose": "解决传统价值投资研究依赖人工、效率低、难以系统化整合多维度分析的问题，通过AI自动化研究流程。",
+        "scene": "个人投资者快速评估股票价值、投资团队进行多维度并行研究、投资学习与模拟训练"
       },
       "appear_days": 5
     },
@@ -101,6 +119,42 @@
       "appear_days": 5
     },
     {
+      "rank": 12,
+      "name": "strix",
+      "owner": "usestrix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
+      "stars": 26828,
+      "forks": 2994,
+      "stars_today": 122,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个开源AI黑客工具，用于自动发现并修复应用安全漏洞。",
+        "purpose": "解决应用安全测试中人工渗透成本高、效率低的问题，通过AI自动化漏洞挖掘与修复。",
+        "scene": "场景1：开发阶段集成到CI/CD流水线，自动扫描代码漏洞；场景2：安全团队用于定期渗透测试，替代部分人工；场景3：应用上线后持续监控，实时发现新漏洞并生成修复建议。"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 2,
+      "name": "agency-agents",
+      "owner": "msitarzewski",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": 119082,
+      "forks": 19493,
+      "stars_today": 1425,
+      "language": "Shell",
+      "topics": [],
+      "summary": {
+        "what": "作者创建了一组基于Shell脚本的AI代理，每个代理扮演特定专家角色（如前端向导、Reddit社区忍者、奇思妙想注入者、现实检查员等），具备个性、流程和可交付成果。",
+        "purpose": "提供一个完整的AI代理团队，用于自动化执行各种专业任务，如前端开发、社区管理、创意生成和现实检查。",
+        "scene": "前端开发辅助、Reddit社区管理、创意内容注入、项目现实检查"
+      },
+      "appear_days": 4
+    },
+    {
       "rank": 8,
       "name": "FluidVoice",
       "owner": "altic-dev",
@@ -115,24 +169,6 @@
         "what": "开发了最快的macOS离线听写应用，将语音实时转为文本",
         "purpose": "提供完全本地运行、无需联网的语音转文字功能，保护隐私并降低延迟",
         "scene": "会议记录、写作辅助、无障碍语音输入"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 13,
-      "name": "video-use",
-      "owner": "browser-use",
-      "url": "https://github.com/browser-use/video-use",
-      "description": "Edit videos with coding agents",
-      "stars": 11194,
-      "forks": 1531,
-      "stars_today": 196,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个基于Python的框架，让编码代理能够通过自然语言指令自动化编辑视频。",
-        "purpose": "解决视频编辑过程中手动操作繁琐、重复性高的问题，实现用代码代理自动完成剪辑任务。",
-        "scene": "自动化批量视频剪辑、基于脚本的智能视频处理、非专业用户的简易视频编辑"
       },
       "appear_days": 4
     },
@@ -155,63 +191,27 @@
       "appear_days": 4
     },
     {
-      "rank": 2,
-      "name": "agency-agents",
-      "owner": "msitarzewski",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "stars": 119082,
-      "forks": 19493,
-      "stars_today": 1425,
-      "language": "Shell",
+      "rank": 1,
+      "name": "exercises-dataset",
+      "owner": "hasaneyldrm",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+      "stars": 6904,
+      "forks": 824,
+      "stars_today": 1343,
+      "language": "HTML",
       "topics": [],
       "summary": {
-        "what": "作者创建了一组基于Shell脚本的AI代理，每个代理扮演特定专家角色（如前端向导、Reddit社区忍者、奇思妙想注入者、现实检查员等），具备个性、流程和可交付成果。",
-        "purpose": "提供一个完整的AI代理团队，用于自动化执行各种专业任务，如前端开发、社区管理、创意生成和现实检查。",
-        "scene": "前端开发辅助、Reddit社区管理、创意内容注入、项目现实检查"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 12,
-      "name": "strix",
-      "owner": "usestrix",
-      "url": "https://github.com/usestrix/strix",
-      "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
-      "stars": 26828,
-      "forks": 2994,
-      "stars_today": 122,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个开源AI黑客工具，用于自动发现并修复应用安全漏洞。",
-        "purpose": "解决应用安全测试中人工渗透成本高、效率低的问题，通过AI自动化漏洞挖掘与修复。",
-        "scene": "场景1：开发阶段集成到CI/CD流水线，自动扫描代码漏洞；场景2：安全团队用于定期渗透测试，替代部分人工；场景3：应用上线后持续监控，实时发现新漏洞并生成修复建议。"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 13,
-      "name": "MinerU",
-      "owner": "opendatalab",
-      "url": "https://github.com/opendatalab/MinerU",
-      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
-      "stars": 69663,
-      "forks": 5892,
-      "stars_today": 644,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个将PDF和Office文档转换为LLM可用的Markdown/JSON格式的工具",
-        "purpose": "解决复杂文档难以被大语言模型直接解析和利用的问题，提供高质量的结构化数据提取",
-        "scene": "RAG知识库构建、文档智能问答、Agent自动化工作流"
+        "what": "作者构建了一个包含433个健身动作的结构化数据集，提供名称、类别、目标肌群、器械、说明、缩略图和动画视频。",
+        "purpose": "为健身应用、运动分析或教育平台提供标准化的练习数据，减少重复收集和标注工作。",
+        "scene": "健身App开发时直接集成动作库、运动科学研究中作为基准数据集、在线健身课程平台展示动作示范"
       },
       "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周AI代理与多模态应用方向最为强势，多个上榜项目均围绕自主智能体展开，如Vibe-Trading、video-use和agency-agents，显示业界正从对话式AI向可执行复杂任务的代理框架快速演进。同时AI与金融、音视频处理的结合也异常活跃，反映出垂直场景的深度渗透。",
-    "language_trend": "Python以50次出现稳居榜首，主要受益于AI/ML生态的绝对主导地位；TypeScript以28次保持前端及全栈工具链的活跃度。Rust虽仅5次，但在系统工具与基础设施领域持续缓慢上升，而HTML和Shell作为辅助语言地位稳定，未出现明显下降趋势。",
-    "notable_projects": "HKUDS/Vibe-Trading（⭐13745）将AI代理引入个人交易决策，体现了金融科技与自主智能体的创新融合，值得关注其后续对散户投资方式的改变。browser-use/video-use（⭐11194）通过编码代理实现视频编辑，展示了多模态AI在创意工具领域的实用化突破。msitarzewski/agency-agents（⭐119082）提供完整的AI代理机构框架，其超高星标数反映了开发者对构建可编排、多代理协作系统的强烈需求，可能成为下一波应用开发的基石。"
+    "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
+    "language_trend": "主要语言：Python、TypeScript、Shell。",
+    "notable_projects": "HKUDS/Vibe-Trading、browser-use/video-use、xbtlin/ai-berkshire"
   }
 }
