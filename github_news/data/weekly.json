@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-03T02:34:41.808172",
-  "week_range": "2026-06-27 ~ 2026-07-03",
+  "generated_at": "2026-07-04T02:30:55.411938",
+  "week_range": "2026-06-28 ~ 2026-07-04",
   "days_collected": 7,
-  "total_projects": 67,
-  "total_stars_today": 78456,
+  "total_projects": 66,
+  "total_stars_today": 78051,
   "top_languages": [
     [
       "Python",
@@ -11,19 +11,19 @@
     ],
     [
       "TypeScript",
-      24
+      23
     ],
     [
       "Shell",
-      8
-    ],
-    [
-      "HTML",
-      8
+      10
     ],
     [
       "JavaScript",
-      6
+      8
+    ],
+    [
+      "Rust",
+      7
     ]
   ],
   "trending_topics": [],
@@ -47,78 +47,6 @@
       "appear_days": 6
     },
     {
-      "rank": 13,
-      "name": "video-use",
-      "owner": "browser-use",
-      "url": "https://github.com/browser-use/video-use",
-      "description": "Edit videos with coding agents",
-      "stars": 11194,
-      "forks": 1531,
-      "stars_today": 196,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个基于Python的框架，让编码代理能够通过自然语言指令自动化编辑视频。",
-        "purpose": "解决视频编辑过程中手动操作繁琐、重复性高的问题，实现用代码代理自动完成剪辑任务。",
-        "scene": "自动化批量视频剪辑、基于脚本的智能视频处理、非专业用户的简易视频编辑"
-      },
-      "appear_days": 5
-    },
-    {
-      "rank": 10,
-      "name": "ai-berkshire",
-      "owner": "xbtlin",
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "stars": 3176,
-      "forks": 469,
-      "stars_today": 1274,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个基于Claude Code的价值投资研究框架，融合巴菲特、芒格、段永平、李录四位投资大师的方法论，并实现多Agent并行分析。",
-        "purpose": "解决传统价值投资研究依赖人工、效率低、难以系统化整合多维度分析的问题，通过AI自动化研究流程。",
-        "scene": "个人投资者快速评估股票价值、投资团队进行多维度并行研究、投资学习与模拟训练"
-      },
-      "appear_days": 5
-    },
-    {
-      "rank": 6,
-      "name": "free-for-dev",
-      "owner": "ripienaar",
-      "url": "https://github.com/ripienaar/free-for-dev",
-      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-      "stars": 123764,
-      "forks": 13053,
-      "stars_today": 90,
-      "language": "HTML",
-      "topics": [],
-      "summary": {
-        "what": "作者维护了一个包含大量SaaS、PaaS和IaaS免费层服务的精选列表",
-        "purpose": "帮助开发者和运维人员发现可用于开发、测试或小规模部署的免费云资源",
-        "scene": "寻找免费CI/CD工具、寻找免费数据库服务、寻找免费监控和日志服务"
-      },
-      "appear_days": 5
-    },
-    {
-      "rank": 1,
-      "name": "simplex-chat",
-      "owner": "simplex-chat",
-      "url": "https://github.com/simplex-chat/simplex-chat",
-      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
-      "stars": 12671,
-      "forks": 716,
-      "stars_today": 432,
-      "language": "Haskell",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了首个不依赖任何用户标识符的即时通讯网络及跨平台客户端应用",
-        "purpose": "解决传统即时通讯依赖用户标识符导致的隐私泄露和追踪问题，实现完全私密的通讯",
-        "scene": "个人隐私保护下的日常聊天、记者与线人之间的安全通讯、企业内部敏感信息交流"
-      },
-      "appear_days": 5
-    },
-    {
       "rank": 12,
       "name": "strix",
       "owner": "usestrix",
@@ -134,7 +62,7 @@
         "purpose": "解决应用安全测试中人工渗透成本高、效率低的问题，通过AI自动化漏洞挖掘与修复。",
         "scene": "场景1：开发阶段集成到CI/CD流水线，自动扫描代码漏洞；场景2：安全团队用于定期渗透测试，替代部分人工；场景3：应用上线后持续监控，实时发现新漏洞并生成修复建议。"
       },
-      "appear_days": 4
+      "appear_days": 5
     },
     {
       "rank": 2,
@@ -152,7 +80,25 @@
         "purpose": "提供一个完整的AI代理团队，用于自动化执行各种专业任务，如前端开发、社区管理、创意生成和现实检查。",
         "scene": "前端开发辅助、Reddit社区管理、创意内容注入、项目现实检查"
       },
-      "appear_days": 4
+      "appear_days": 5
+    },
+    {
+      "rank": 13,
+      "name": "video-use",
+      "owner": "browser-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "stars": 11194,
+      "forks": 1531,
+      "stars_today": 196,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个基于Python的框架，让编码代理能够通过自然语言指令自动化编辑视频。",
+        "purpose": "解决视频编辑过程中手动操作繁琐、重复性高的问题，实现用代码代理自动完成剪辑任务。",
+        "scene": "自动化批量视频剪辑、基于脚本的智能视频处理、非专业用户的简易视频编辑"
+      },
+      "appear_days": 5
     },
     {
       "rank": 8,
@@ -173,45 +119,99 @@
       "appear_days": 4
     },
     {
-      "rank": 3,
-      "name": "openpilot",
-      "owner": "commaai",
-      "url": "https://github.com/commaai/openpilot",
-      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-      "stars": 61810,
-      "forks": 11050,
-      "stars_today": 80,
+      "rank": 2,
+      "name": "ai-berkshire",
+      "owner": "xbtlin",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "stars": 4255,
+      "forks": 594,
+      "stars_today": 685,
       "language": "Python",
       "topics": [],
       "summary": {
-        "what": "作者开发了一个开源机器人操作系统，通过软件升级将300多款车型的驾驶辅助系统提升至接近自动驾驶的水平。",
-        "purpose": "解决量产车驾驶辅助系统功能单一、无法持续进化的问题，让普通车辆获得高级辅助驾驶能力。",
-        "scene": "高速公路自适应巡航与车道居中保持、城市拥堵路况自动跟车启停、基于驾驶员监控的安全提醒与自动变道辅助"
+        "what": "作者构建了一个基于Claude Code的价值投资研究框架，融合巴菲特、芒格、段永平、李录四位投资大师的方法论，并实现多Agent并行分析。",
+        "purpose": "解决传统价值投资研究依赖人工、效率低、难以系统化整合多维度分析的问题，通过AI自动化研究流程。",
+        "scene": "个人投资者快速评估股票价值、投资团队进行多维度并行研究、投资学习与模拟训练"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 5,
+      "name": "free-for-dev",
+      "owner": "ripienaar",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "stars": 124199,
+      "forks": 13084,
+      "stars_today": 459,
+      "language": "HTML",
+      "topics": [],
+      "summary": {
+        "what": "作者维护了一个包含大量SaaS、PaaS和IaaS免费层服务的精选列表",
+        "purpose": "帮助开发者和运维人员发现可用于开发、测试或小规模部署的免费云资源",
+        "scene": "寻找免费CI/CD工具、寻找免费数据库服务、寻找免费监控和日志服务"
       },
       "appear_days": 4
     },
     {
       "rank": 1,
-      "name": "exercises-dataset",
-      "owner": "hasaneyldrm",
-      "url": "https://github.com/hasaneyldrm/exercises-dataset",
-      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
-      "stars": 6904,
-      "forks": 824,
-      "stars_today": 1343,
-      "language": "HTML",
+      "name": "simplex-chat",
+      "owner": "simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "stars": 13915,
+      "forks": 798,
+      "stars_today": 1469,
+      "language": "Haskell",
       "topics": [],
       "summary": {
-        "what": "作者构建了一个包含433个健身动作的结构化数据集，提供名称、类别、目标肌群、器械、说明、缩略图和动画视频。",
-        "purpose": "为健身应用、运动分析或教育平台提供标准化的练习数据，减少重复收集和标注工作。",
-        "scene": "健身App开发时直接集成动作库、运动科学研究中作为基准数据集、在线健身课程平台展示动作示范"
+        "what": "作者开发了首个不依赖任何用户标识符的即时通讯网络及跨平台客户端应用",
+        "purpose": "解决传统即时通讯依赖用户标识符导致的隐私泄露和追踪问题，实现完全私密的通讯",
+        "scene": "个人隐私保护下的日常聊天、记者与线人之间的安全通讯、企业内部敏感信息交流"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 16,
+      "name": "astryx",
+      "owner": "facebook",
+      "url": "https://github.com/facebook/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "stars": 1845,
+      "forks": 100,
+      "stars_today": 364,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "创建了一个完全可定制且支持AI代理的开源设计系统",
+        "purpose": "解决现有设计系统难以深度定制和与AI代理协作的问题",
+        "scene": "构建高度定制化的企业级UI、AI代理自动生成和调整界面、设计系统与智能代理协同工作"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 12,
+      "name": "herdr",
+      "owner": "ogulcancelik",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "stars": 9068,
+      "forks": 544,
+      "stars_today": 486,
+      "language": "Rust",
+      "topics": [],
+      "summary": {
+        "what": "作者用Rust开发了一个终端内的代理多路复用器",
+        "purpose": "解决在终端中高效管理和切换多个代理连接的问题",
+        "scene": "开发者在不同网络环境下快速切换代理、系统管理员集中管理多个代理连接、需要同时使用多个代理进行测试或爬虫"
       },
       "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
-    "language_trend": "主要语言：Python、TypeScript、Shell。",
-    "notable_projects": "HKUDS/Vibe-Trading、browser-use/video-use、xbtlin/ai-berkshire"
+    "hot_direction": "本周最热方向是AI代理与自动化工具，尤其是面向金融交易、安全测试和视频编辑的AI代理项目占据主导，反映出市场从传统AI助手向可自主执行复杂任务的Agent范式快速演进。安全领域也因Strix等开源AI黑客工具的上榜而强势，表明AI驱动的安全审计和漏洞修复成为新热点。此外，免费资源聚合类项目持续受关注，显示开发者对降低工具成本的一贯需求。",
+    "language_trend": "Python以50次上榜遥遥领先，主要因为AI代理、自动化脚本和数据处理项目几乎全部采用Python，其生态在AI领域的统治地位进一步巩固。TypeScript以23次位居第二，多用于前端工具和全栈应用，显示Web生态与AI的结合在加强。Rust上榜7次，虽数量不多但持续出现，反映系统级编程和性能敏感工具对内存安全语言的偏好上升。",
+    "notable_projects": "msitarzewski/agency-agents以近12万星成为本周现象级项目，它提供完整的AI代理机构框架，让用户从创意到执行一站式构建AI团队，代表了AI代理从单点工具向组织化协作的跃迁，极具长期关注价值。usestrix/strix聚焦AI驱动的应用安全测试与修复，将黑客思维与AI结合，在安全左移趋势下可能重塑DevSecOps流程，值得安全与开发团队重点跟踪。HKUDS/Vibe-Trading将AI代理引入个人量化交易，融合金融与AI Agent，若持续迭代可能对散户交易工具市场产生冲击。"
   }
 }
