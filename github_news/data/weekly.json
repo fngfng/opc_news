@@ -1,51 +1,33 @@
 {
-  "generated_at": "2026-07-04T02:30:55.411938",
-  "week_range": "2026-06-28 ~ 2026-07-04",
+  "generated_at": "2026-07-05T02:44:08.017295",
+  "week_range": "2026-06-29 ~ 2026-07-05",
   "days_collected": 7,
-  "total_projects": 66,
-  "total_stars_today": 78051,
+  "total_projects": 61,
+  "total_stars_today": 78015,
   "top_languages": [
     [
       "Python",
-      50
+      48
     ],
     [
       "TypeScript",
-      23
+      22
     ],
     [
       "Shell",
-      10
+      11
     ],
     [
       "JavaScript",
-      8
+      10
     ],
     [
       "Rust",
-      7
+      8
     ]
   ],
   "trending_topics": [],
   "top_picks": [
-    {
-      "rank": 18,
-      "name": "Vibe-Trading",
-      "owner": "HKUDS",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "stars": 13745,
-      "forks": 2593,
-      "stars_today": 92,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个基于市场情绪分析的个人自动化交易代理",
-        "purpose": "帮助个人投资者通过情绪信号自动化执行交易决策，降低情绪化交易风险",
-        "scene": "股票日内交易辅助、加密货币趋势跟踪、外汇市场情绪择时"
-      },
-      "appear_days": 6
-    },
     {
       "rank": 12,
       "name": "strix",
@@ -62,7 +44,7 @@
         "purpose": "解决应用安全测试中人工渗透成本高、效率低的问题，通过AI自动化漏洞挖掘与修复。",
         "scene": "场景1：开发阶段集成到CI/CD流水线，自动扫描代码漏洞；场景2：安全团队用于定期渗透测试，替代部分人工；场景3：应用上线后持续监控，实时发现新漏洞并生成修复建议。"
       },
-      "appear_days": 5
+      "appear_days": 6
     },
     {
       "rank": 2,
@@ -101,6 +83,42 @@
       "appear_days": 5
     },
     {
+      "rank": 10,
+      "name": "Vibe-Trading",
+      "owner": "HKUDS",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 14445,
+      "forks": 2644,
+      "stars_today": 492,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个基于市场情绪分析的个人自动化交易代理",
+        "purpose": "帮助个人投资者通过情绪信号自动化执行交易决策，降低情绪化交易风险",
+        "scene": "股票日内交易辅助、加密货币趋势跟踪、外汇市场情绪择时"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 12,
+      "name": "herdr",
+      "owner": "ogulcancelik",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "stars": 9068,
+      "forks": 544,
+      "stars_today": 486,
+      "language": "Rust",
+      "topics": [],
+      "summary": {
+        "what": "作者用Rust开发了一个终端内的代理多路复用器",
+        "purpose": "解决在终端中高效管理和切换多个代理连接的问题",
+        "scene": "开发者在不同网络环境下快速切换代理、系统管理员集中管理多个代理连接、需要同时使用多个代理进行测试或爬虫"
+      },
+      "appear_days": 4
+    },
+    {
       "rank": 8,
       "name": "FluidVoice",
       "owner": "altic-dev",
@@ -119,99 +137,81 @@
       "appear_days": 4
     },
     {
-      "rank": 2,
-      "name": "ai-berkshire",
-      "owner": "xbtlin",
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "stars": 4255,
-      "forks": 594,
-      "stars_today": 685,
-      "language": "Python",
+      "rank": 13,
+      "name": "codex-plugin-cc",
+      "owner": "openai",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "stars": 22673,
+      "forks": 1379,
+      "stars_today": 352,
+      "language": "JavaScript",
       "topics": [],
       "summary": {
-        "what": "作者构建了一个基于Claude Code的价值投资研究框架，融合巴菲特、芒格、段永平、李录四位投资大师的方法论，并实现多Agent并行分析。",
-        "purpose": "解决传统价值投资研究依赖人工、效率低、难以系统化整合多维度分析的问题，通过AI自动化研究流程。",
-        "scene": "个人投资者快速评估股票价值、投资团队进行多维度并行研究、投资学习与模拟训练"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 5,
-      "name": "free-for-dev",
-      "owner": "ripienaar",
-      "url": "https://github.com/ripienaar/free-for-dev",
-      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-      "stars": 124199,
-      "forks": 13084,
-      "stars_today": 459,
-      "language": "HTML",
-      "topics": [],
-      "summary": {
-        "what": "作者维护了一个包含大量SaaS、PaaS和IaaS免费层服务的精选列表",
-        "purpose": "帮助开发者和运维人员发现可用于开发、测试或小规模部署的免费云资源",
-        "scene": "寻找免费CI/CD工具、寻找免费数据库服务、寻找免费监控和日志服务"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 1,
-      "name": "simplex-chat",
-      "owner": "simplex-chat",
-      "url": "https://github.com/simplex-chat/simplex-chat",
-      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
-      "stars": 13915,
-      "forks": 798,
-      "stars_today": 1469,
-      "language": "Haskell",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了首个不依赖任何用户标识符的即时通讯网络及跨平台客户端应用",
-        "purpose": "解决传统即时通讯依赖用户标识符导致的隐私泄露和追踪问题，实现完全私密的通讯",
-        "scene": "个人隐私保护下的日常聊天、记者与线人之间的安全通讯、企业内部敏感信息交流"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 16,
-      "name": "astryx",
-      "owner": "facebook",
-      "url": "https://github.com/facebook/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "stars": 1845,
-      "forks": 100,
-      "stars_today": 364,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "创建了一个完全可定制且支持AI代理的开源设计系统",
-        "purpose": "解决现有设计系统难以深度定制和与AI代理协作的问题",
-        "scene": "构建高度定制化的企业级UI、AI代理自动生成和调整界面、设计系统与智能代理协同工作"
+        "what": "作者开发了一个Claude Code插件，集成OpenAI Codex以扩展代码审查和任务委派能力。",
+        "purpose": "解决Claude Code无法直接调用Codex进行高级代码分析和自动化任务的问题。",
+        "scene": "代码审查、任务委派、自动化开发工作流"
       },
       "appear_days": 3
     },
     {
-      "rank": 12,
-      "name": "herdr",
-      "owner": "ogulcancelik",
-      "url": "https://github.com/ogulcancelik/herdr",
-      "description": "agent multiplexer that lives in your terminal.",
-      "stars": 9068,
-      "forks": 544,
-      "stars_today": 486,
-      "language": "Rust",
+      "rank": 2,
+      "name": "caveman",
+      "owner": "JuliusBrussee",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "stars": 81147,
+      "forks": 4535,
+      "stars_today": 926,
+      "language": "JavaScript",
       "topics": [],
       "summary": {
-        "what": "作者用Rust开发了一个终端内的代理多路复用器",
-        "purpose": "解决在终端中高效管理和切换多个代理连接的问题",
-        "scene": "开发者在不同网络环境下快速切换代理、系统管理员集中管理多个代理连接、需要同时使用多个代理进行测试或爬虫"
+        "what": "作者创建了一个Claude Code技能，通过模仿穴居人的极简语言风格来大幅减少令牌消耗",
+        "purpose": "解决在Claude Code中使用过多令牌导致成本高、效率低的问题",
+        "scene": "在Claude Code中编写代码时压缩提示词、与AI助手交互时降低令牌用量、优化API调用成本"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 7,
+      "name": "chrome-devtools-mcp",
+      "owner": "ChromeDevTools",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "stars": 45119,
+      "forks": 2935,
+      "stars_today": 104,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个MCP服务器，使AI编码代理能够通过Chrome DevTools协议与浏览器交互。",
+        "purpose": "解决AI编码代理无法直接访问浏览器调试功能的问题。",
+        "scene": "AI辅助网页调试、自动化性能分析、AI驱动的端到端测试"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 16,
+      "name": "cs249r_book",
+      "owner": "harvard-edge",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "description": "Machine Learning Systems",
+      "stars": 25634,
+      "forks": 3070,
+      "stars_today": 68,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者编写了一本关于机器学习系统设计与实现的交互式开源书籍",
+        "purpose": "为学习者和从业者提供从硬件到软件全栈的机器学习系统工程知识",
+        "scene": "高校教学、自学参考、工业界系统设计指导"
       },
       "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热方向是AI代理与自动化工具，尤其是面向金融交易、安全测试和视频编辑的AI代理项目占据主导，反映出市场从传统AI助手向可自主执行复杂任务的Agent范式快速演进。安全领域也因Strix等开源AI黑客工具的上榜而强势，表明AI驱动的安全审计和漏洞修复成为新热点。此外，免费资源聚合类项目持续受关注，显示开发者对降低工具成本的一贯需求。",
-    "language_trend": "Python以50次上榜遥遥领先，主要因为AI代理、自动化脚本和数据处理项目几乎全部采用Python，其生态在AI领域的统治地位进一步巩固。TypeScript以23次位居第二，多用于前端工具和全栈应用，显示Web生态与AI的结合在加强。Rust上榜7次，虽数量不多但持续出现，反映系统级编程和性能敏感工具对内存安全语言的偏好上升。",
-    "notable_projects": "msitarzewski/agency-agents以近12万星成为本周现象级项目，它提供完整的AI代理机构框架，让用户从创意到执行一站式构建AI团队，代表了AI代理从单点工具向组织化协作的跃迁，极具长期关注价值。usestrix/strix聚焦AI驱动的应用安全测试与修复，将黑客思维与AI结合，在安全左移趋势下可能重塑DevSecOps流程，值得安全与开发团队重点跟踪。HKUDS/Vibe-Trading将AI代理引入个人量化交易，融合金融与AI Agent，若持续迭代可能对散户交易工具市场产生冲击。"
+    "hot_direction": "本周最热技术方向无疑是AI代理与AI辅助开发。多个高星项目聚焦于构建AI代理（如agency-agents、herdr）或让AI执行具体任务（安全检测、视频编辑、交易），表明行业正从通用大模型转向可自主行动的智能体。同时，OpenAI的codex-plugin-cc和caveman等工具则体现了开发者对提升编码效率与优化提示词的强烈需求，AI正深度嵌入开发工作流。",
+    "language_trend": "Python以48次出现稳居主导，因其是AI/ML生态的核心语言，几乎所有上榜的AI项目均用Python构建。TypeScript和JavaScript合计32次，显示前后端工具及全栈应用仍不可或缺。Rust出现8次，反映出系统级、高性能工具的需求在稳步上升，而Shell的11次则说明自动化与运维脚本的持续活跃。",
+    "notable_projects": "msitarzewski/agency-agents以超11.9万星成为本周现象级项目，它提供了一个完整的AI代理机构框架，让开发者能快速搭建多代理协作系统，代表了AI代理从概念到工程化的关键一步。usestrix/strix（2.6万星）专注于用AI黑客发现并修复应用漏洞，将AI应用于安全领域，体现了攻防自动化的前沿趋势。JuliusBrussee/caveman（8.1万星）则以幽默方式挑战“少token多办事”的提示词优化，引发社区对模型使用效率的重新思考，兼具趣味性与实用性。"
   }
 }
