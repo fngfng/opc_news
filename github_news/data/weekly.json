@@ -1,69 +1,33 @@
 {
-  "generated_at": "2026-07-07T02:42:21.181933",
-  "week_range": "2026-07-01 ~ 2026-07-07",
+  "generated_at": "2026-07-08T02:15:31.931240",
+  "week_range": "2026-07-02 ~ 2026-07-08",
   "days_collected": 7,
-  "total_projects": 68,
-  "total_stars_today": 83825,
+  "total_projects": 66,
+  "total_stars_today": 83700,
   "top_languages": [
     [
       "Python",
-      43
+      38
     ],
     [
       "TypeScript",
-      25
+      23
     ],
     [
       "JavaScript",
-      19
+      21
     ],
     [
       "Rust",
-      14
+      16
     ],
     [
       "Shell",
-      9
+      7
     ]
   ],
   "trending_topics": [],
   "top_picks": [
-    {
-      "rank": 12,
-      "name": "herdr",
-      "owner": "ogulcancelik",
-      "url": "https://github.com/ogulcancelik/herdr",
-      "description": "agent multiplexer that lives in your terminal.",
-      "stars": 9068,
-      "forks": 544,
-      "stars_today": 486,
-      "language": "Rust",
-      "topics": [],
-      "summary": {
-        "what": "作者用Rust开发了一个终端内的代理多路复用器",
-        "purpose": "解决在终端中高效管理和切换多个代理连接的问题",
-        "scene": "开发者在不同网络环境下快速切换代理、系统管理员集中管理多个代理连接、需要同时使用多个代理进行测试或爬虫"
-      },
-      "appear_days": 6
-    },
-    {
-      "rank": 2,
-      "name": "strix",
-      "owner": "usestrix",
-      "url": "https://github.com/usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "stars": 28221,
-      "forks": 3130,
-      "stars_today": 515,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个开源AI黑客工具，用于自动发现并修复应用安全漏洞。",
-        "purpose": "解决应用安全测试中人工渗透成本高、效率低的问题，通过AI自动化漏洞挖掘与修复。",
-        "scene": "场景1：开发阶段集成到CI/CD流水线，自动扫描代码漏洞；场景2：安全团队用于定期渗透测试，替代部分人工；场景3：应用上线后持续监控，实时发现新漏洞并生成修复建议。"
-      },
-      "appear_days": 6
-    },
     {
       "rank": 13,
       "name": "codex-plugin-cc",
@@ -81,6 +45,78 @@
         "scene": "代码审查、任务委派、自动化开发工作流"
       },
       "appear_days": 5
+    },
+    {
+      "rank": 14,
+      "name": "herdr",
+      "owner": "ogulcancelik",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "stars": 9652,
+      "forks": 567,
+      "stars_today": 609,
+      "language": "Rust",
+      "topics": [],
+      "summary": {
+        "what": "作者用Rust开发了一个终端内的代理多路复用器",
+        "purpose": "解决在终端中高效管理和切换多个代理连接的问题",
+        "scene": "开发者在不同网络环境下快速切换代理、系统管理员集中管理多个代理连接、需要同时使用多个代理进行测试或爬虫"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 2,
+      "name": "strix",
+      "owner": "usestrix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "stars": 29868,
+      "forks": 3232,
+      "stars_today": 1211,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个开源AI黑客工具，用于自动发现并修复应用安全漏洞。",
+        "purpose": "解决应用安全测试中人工渗透成本高、效率低的问题，通过AI自动化漏洞挖掘与修复。",
+        "scene": "场景1：开发阶段集成到CI/CD流水线，自动扫描代码漏洞；场景2：安全团队用于定期渗透测试，替代部分人工；场景3：应用上线后持续监控，实时发现新漏洞并生成修复建议。"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 6,
+      "name": "meetily",
+      "owner": "Zackriya-Solutions",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+      "stars": 15352,
+      "forks": 1677,
+      "stars_today": 718,
+      "language": "Rust",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个基于Rust的隐私优先AI会议助手，实现本地实时转录、说话人分离和摘要。",
+        "purpose": "解决会议记录依赖云服务导致的隐私泄露问题，提供完全本地处理的会议笔记方案。",
+        "scene": "企业保密会议记录、个人远程会议笔记、无网络环境下的会议转录"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 7,
+      "name": "system_prompts_leaks",
+      "owner": "asgeirtj",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "stars": 48983,
+      "forks": 7989,
+      "stars_today": 471,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": {
+        "what": "作者收集并公开了多个主流AI模型的系统提示信息",
+        "purpose": "揭示AI模型的内部指令，便于安全研究、行为分析和提示工程",
+        "scene": "安全研究人员分析AI潜在漏洞、提示工程师借鉴设计系统提示、普通用户了解AI底层运作机制"
+      },
+      "appear_days": 4
     },
     {
       "rank": 16,
@@ -119,99 +155,63 @@
       "appear_days": 4
     },
     {
-      "rank": 16,
-      "name": "astryx",
-      "owner": "facebook",
-      "url": "https://github.com/facebook/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "stars": 1845,
-      "forks": 100,
-      "stars_today": 364,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "创建了一个完全可定制且支持AI代理的开源设计系统",
-        "purpose": "解决现有设计系统难以深度定制和与AI代理协作的问题",
-        "scene": "构建高度定制化的企业级UI、AI代理自动生成和调整界面、设计系统与智能代理协同工作"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 3,
-      "name": "agency-agents",
-      "owner": "msitarzewski",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "stars": 121097,
-      "forks": 19781,
-      "stars_today": 1791,
-      "language": "Shell",
-      "topics": [],
-      "summary": {
-        "what": "作者创建了一组基于Shell脚本的AI代理，每个代理扮演特定专家角色（如前端向导、Reddit社区忍者、奇思妙想注入者、现实检查员等），具备个性、流程和可交付成果。",
-        "purpose": "提供一个完整的AI代理团队，用于自动化执行各种专业任务，如前端开发、社区管理、创意生成和现实检查。",
-        "scene": "前端开发辅助、Reddit社区管理、创意内容注入、项目现实检查"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 7,
-      "name": "system_prompts_leaks",
-      "owner": "asgeirtj",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "stars": 48983,
-      "forks": 7989,
-      "stars_today": 471,
-      "language": "JavaScript",
-      "topics": [],
-      "summary": {
-        "what": "作者收集并公开了多个主流AI模型的系统提示信息",
-        "purpose": "揭示AI模型的内部指令，便于安全研究、行为分析和提示工程",
-        "scene": "安全研究人员分析AI潜在漏洞、提示工程师借鉴设计系统提示、普通用户了解AI底层运作机制"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 6,
-      "name": "meetily",
-      "owner": "Zackriya-Solutions",
-      "url": "https://github.com/Zackriya-Solutions/meetily",
-      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
-      "stars": 15352,
-      "forks": 1677,
-      "stars_today": 718,
+      "rank": 17,
+      "name": "RuView",
+      "owner": "ruvnet",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars": 76754,
+      "forks": 10288,
+      "stars_today": 161,
       "language": "Rust",
       "topics": [],
       "summary": {
-        "what": "作者开发了一个基于Rust的隐私优先AI会议助手，实现本地实时转录、说话人分离和摘要。",
-        "purpose": "解决会议记录依赖云服务导致的隐私泄露问题，提供完全本地处理的会议笔记方案。",
-        "scene": "企业保密会议记录、个人远程会议笔记、无网络环境下的会议转录"
+        "what": "作者用Rust开发了RuView系统，将普通WiFi信号转化为实时空间感知、生命体征监测和人员存在检测能力。",
+        "purpose": "解决在不使用摄像头的情况下，利用现有WiFi基础设施实现非侵入式环境感知和健康监测的问题。",
+        "scene": "智能家居中的人员存在检测与活动识别、医疗健康场景下的非接触式呼吸与心跳监测、安防领域的无摄像头入侵检测与空间感知"
       },
       "appear_days": 3
     },
     {
-      "rank": 17,
-      "name": "claude-skills",
-      "owner": "alirezarezvani",
-      "url": "https://github.com/alirezarezvani/claude-skills",
-      "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
-      "stars": 20182,
-      "forks": 2760,
-      "stars_today": 136,
-      "language": "Python",
+      "rank": 18,
+      "name": "CubeSandbox",
+      "owner": "TencentCloud",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "stars": 6829,
+      "forks": 571,
+      "stars_today": 79,
+      "language": "Rust",
       "topics": [],
       "summary": {
-        "what": "作者构建了一个包含337个Claude Code技能、代理和插件的集合，支持多种编码代理，覆盖工程、营销、产品、合规、C级咨询、研究、业务运营、商业与金融及日常生产力等领域。",
-        "purpose": "为开发者提供可复用的技能和代理，增强Claude Code等编码代理的功能，提升开发效率和跨领域任务处理能力。",
-        "scene": "软件开发与工程任务自动化、商业运营与金融分析、日常生产力提升与多代理协作"
+        "what": "作者开发了一个基于Rust的即时、并发、安全且轻量级的AI代理沙箱环境",
+        "purpose": "为AI代理提供安全隔离的代码执行环境，防止恶意或错误操作影响宿主系统",
+        "scene": "AI代理执行用户提交的不可信代码、多租户AI服务间的安全隔离、自动化安全测试与漏洞分析"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 21,
+      "name": "CodexBar",
+      "owner": "steipete",
+      "url": "https://github.com/steipete/CodexBar",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "stars": 16287,
+      "forks": 1353,
+      "stars_today": 153,
+      "language": "Swift",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个macOS菜单栏应用，用于本地显示OpenAI Codex和Claude Code的使用统计",
+        "purpose": "让用户无需登录即可快速查看AI编程助手的使用量，避免频繁访问网页或API",
+        "scene": "开发者想随时了解自己的Codex/Claude使用情况、在菜单栏直接查看用量统计、无需打开浏览器或登录账户"
       },
       "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向无疑是AI与安全，尤其是AI安全与自动化渗透测试。多个高星项目如Strix（AI渗透测试）、system_prompts_leaks（系统提示词泄露）和caveman（极简token利用）都集中在AI攻防与提示词工程领域，反映出社区对AI系统脆弱性和高效利用的强烈关注。同时，AI代理和自动化工具（herdr、agency-agents）持续火热，说明从AI模型到AI工作流的落地应用正在加速。",
-    "language_trend": "Python以43次出现稳居榜首，主要得益于其在AI/ML、安全工具和脚本自动化中的核心地位，几乎所有上榜的AI项目都使用Python。TypeScript（25次）和JavaScript（19次）紧随其后，表明前端与全栈开发以及AI工具的用户界面/CLI工具需求依然旺盛。Rust（14次）在系统级工具和性能敏感场景中持续渗透，而Shell（9次）的活跃则与终端复用器、AI工作流编排等命令行工具的热度相呼应，整体呈现‘Python主导AI，TS/JS构建交互，Rust强化底层’的多语言协同趋势。",
-    "notable_projects": "1. usestrix/strix（⭐28k+）：作为开源AI渗透测试工具，它直接切入了安全自动化这一高价值领域，将AI用于发现漏洞和攻击面，代表了安全测试从人工向智能体转变的前沿方向。2. asgeirtj/system_prompts_leaks（⭐48k+）：该项目汇总了从Anthropic Claude等模型提取的系统提示词，揭示了AI模型背后的指令设计，对提示词工程、AI安全研究和模型行为理解具有极高参考价值，短期内爆发式增长也反映了社区对‘越狱’和透明度的狂热。3. JuliusBrussee/caveman（⭐81k+）：以极简token使用挑战大模型极限，用幽默方式探索提示词压缩与效率边界，这种反直觉的‘少即是多’理念引发了广泛共鸣，体现了开发者对降低AI成本、提升推理速度的极致追求。"
+    "hot_direction": "本周最热技术方向是AI与安全的交叉领域，以及AI开发工具。多个高星项目聚焦于AI渗透测试（Strix）、系统提示泄露（system_prompts_leaks）和AI代码审查（Codex CLI），反映出社区对AI自身安全性和AI赋能安全的高度关注，同时AI辅助开发工具依然保持强劲势头。",
+    "language_trend": "Python以38次出现稳居第一，主要得益于AI/ML项目的持续爆发；TypeScript和JavaScript合计44次，在前端工具和全栈应用中保持活跃。Rust出现16次，在安全工具、终端代理等底层高性能场景中崛起明显，而Shell仅7次，表明脚本语言热度相对下降。",
+    "notable_projects": "usestrix/strix（⭐29.8k）是开源AI渗透测试工具，将AI用于自动化安全攻击，代表AI与安全深度融合的新方向；asgeirtj/system_prompts_leaks（⭐48.9k）公开了从Claude提取的系统提示，直接触及大模型内部安全与提示工程核心，引发广泛讨论；JuliusBrussee/caveman（⭐81.1k）用极简token与Claude交互，展示了提示压缩和效率优化的极端实践，极具启发意义。"
   }
 }
