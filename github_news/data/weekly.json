@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-07-09T02:35:48.727223",
-  "week_range": "2026-07-03 ~ 2026-07-09",
+  "generated_at": "2026-07-10T02:38:51.173603",
+  "week_range": "2026-07-04 ~ 2026-07-10",
   "days_collected": 7,
-  "total_projects": 60,
-  "total_stars_today": 80955,
+  "total_projects": 59,
+  "total_stars_today": 84172,
   "top_languages": [
     [
       "Python",
-      34
-    ],
-    [
-      "JavaScript",
-      23
+      30
     ],
     [
       "TypeScript",
+      21
+    ],
+    [
+      "JavaScript",
       20
     ],
     [
@@ -23,7 +23,7 @@
     ],
     [
       "C#",
-      7
+      9
     ]
   ],
   "trending_topics": [],
@@ -44,25 +44,43 @@
         "purpose": "揭示AI模型的内部指令，便于安全研究、行为分析和提示工程",
         "scene": "安全研究人员分析AI潜在漏洞、提示工程师借鉴设计系统提示、普通用户了解AI底层运作机制"
       },
-      "appear_days": 5
+      "appear_days": 6
     },
     {
-      "rank": 13,
-      "name": "codex-plugin-cc",
-      "owner": "openai",
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "stars": 22673,
-      "forks": 1379,
-      "stars_today": 352,
+      "rank": 2,
+      "name": "agent-skills",
+      "owner": "addyosmani",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 70935,
+      "forks": 7680,
+      "stars_today": 1112,
       "language": "JavaScript",
       "topics": [],
       "summary": {
-        "what": "作者开发了一个Claude Code插件，集成OpenAI Codex以扩展代码审查和任务委派能力。",
-        "purpose": "解决Claude Code无法直接调用Codex进行高级代码分析和自动化任务的问题。",
-        "scene": "代码审查、任务委派、自动化开发工作流"
+        "what": "作者构建了一套面向AI编程代理的生产级工程技能库，提供可复用的JavaScript模块和最佳实践。",
+        "purpose": "解决AI代理在真实开发环境中缺乏标准化工程能力的问题，提升代码质量与可靠性。",
+        "scene": "AI辅助代码生成与审查、自动化测试与部署流水线、智能代码重构与维护"
       },
-      "appear_days": 5
+      "appear_days": 4
+    },
+    {
+      "rank": 10,
+      "name": "claude-video",
+      "owner": "bradautomates",
+      "url": "https://github.com/bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "stars": 4316,
+      "forks": 607,
+      "stars_today": 427,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个Python工具，通过/watch命令下载视频、提取帧、转录音频，并将所有内容交给Claude分析。",
+        "purpose": "解决Claude无法直接处理视频内容的问题，使其能理解视频中的视觉和音频信息。",
+        "scene": "视频内容摘要与问答、视频教程关键步骤提取、监控录像事件检测"
+      },
+      "appear_days": 4
     },
     {
       "rank": 17,
@@ -101,6 +119,24 @@
       "appear_days": 4
     },
     {
+      "rank": 2,
+      "name": "codex-plugin-cc",
+      "owner": "openai",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "stars": 23260,
+      "forks": 1407,
+      "stars_today": 634,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个Claude Code插件，集成OpenAI Codex以扩展代码审查和任务委派能力。",
+        "purpose": "解决Claude Code无法直接调用Codex进行高级代码分析和自动化任务的问题。",
+        "scene": "代码审查、任务委派、自动化开发工作流"
+      },
+      "appear_days": 4
+    },
+    {
       "rank": 14,
       "name": "herdr",
       "owner": "ogulcancelik",
@@ -119,99 +155,63 @@
       "appear_days": 4
     },
     {
-      "rank": 16,
-      "name": "cs249r_book",
-      "owner": "harvard-edge",
-      "url": "https://github.com/harvard-edge/cs249r_book",
-      "description": "Machine Learning Systems",
-      "stars": 25634,
-      "forks": 3070,
-      "stars_today": 68,
-      "language": "Python",
+      "rank": 10,
+      "name": "OfficeCLI",
+      "owner": "iOfficeAI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "stars": 10107,
+      "forks": 684,
+      "stars_today": 893,
+      "language": "C#",
       "topics": [],
       "summary": {
-        "what": "作者编写了一本关于机器学习系统设计与实现的交互式开源书籍",
-        "purpose": "为学习者和从业者提供从硬件到软件全栈的机器学习系统工程知识",
-        "scene": "高校教学、自学参考、工业界系统设计指导"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 1,
-      "name": "strix",
-      "owner": "usestrix",
-      "url": "https://github.com/usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "stars": 32396,
-      "forks": 3388,
-      "stars_today": 2137,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个开源AI黑客工具，用于自动发现并修复应用安全漏洞。",
-        "purpose": "解决应用安全测试中人工渗透成本高、效率低的问题，通过AI自动化漏洞挖掘与修复。",
-        "scene": "场景1：开发阶段集成到CI/CD流水线，自动扫描代码漏洞；场景2：安全团队用于定期渗透测试，替代部分人工；场景3：应用上线后持续监控，实时发现新漏洞并生成修复建议。"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 2,
-      "name": "caveman",
-      "owner": "JuliusBrussee",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "stars": 81147,
-      "forks": 4535,
-      "stars_today": 926,
-      "language": "JavaScript",
-      "topics": [],
-      "summary": {
-        "what": "作者创建了一个Claude Code技能，通过模仿穴居人的极简语言风格来大幅减少令牌消耗",
-        "purpose": "解决在Claude Code中使用过多令牌导致成本高、效率低的问题",
-        "scene": "在Claude Code中编写代码时压缩提示词、与AI助手交互时降低令牌用量、优化API调用成本"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 2,
-      "name": "agent-skills",
-      "owner": "addyosmani",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 70935,
-      "forks": 7680,
-      "stars_today": 1112,
-      "language": "JavaScript",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一套面向AI编程代理的生产级工程技能库，提供可复用的JavaScript模块和最佳实践。",
-        "purpose": "解决AI代理在真实开发环境中缺乏标准化工程能力的问题，提升代码质量与可靠性。",
-        "scene": "AI辅助代码生成与审查、自动化测试与部署流水线、智能代码重构与维护"
+        "what": "作者开发了一个命令行工具，让AI代理能直接读取、编辑和自动化Word、Excel、PowerPoint文件。",
+        "purpose": "解决AI代理无法直接处理Office文档的问题，无需安装Office即可操作。",
+        "scene": "AI代理自动化办公文档处理、批量文档格式转换与数据提取、无Office环境的服务器端文档生成与修改"
       },
       "appear_days": 3
     },
     {
-      "rank": 6,
-      "name": "superpowers",
-      "owner": "obra",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 244523,
-      "forks": 21689,
-      "stars_today": 897,
-      "language": "Shell",
+      "rank": 18,
+      "name": "CubeSandbox",
+      "owner": "TencentCloud",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "stars": 7186,
+      "forks": 592,
+      "stars_today": 60,
+      "language": "Rust",
       "topics": [],
       "summary": {
-        "what": "作者创建了一个基于Shell脚本的代理技能框架与软件开发方法论，提供可组合的技能模块和开发流程。",
-        "purpose": "解决AI代理开发中技能复用性差、流程不规范的问题，使代理能快速集成和扩展能力。",
-        "scene": "构建具备多种技能的AI代理、自动化软件开发生命周期、快速原型化代理行为"
+        "what": "作者开发了一个基于Rust的即时、并发、安全且轻量级的AI代理沙箱环境",
+        "purpose": "为AI代理提供安全隔离的代码执行环境，防止恶意或错误操作影响宿主系统",
+        "scene": "AI代理执行用户提交的不可信代码、多租户AI服务间的安全隔离、自动化安全测试与漏洞分析"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 21,
+      "name": "CodexBar",
+      "owner": "steipete",
+      "url": "https://github.com/steipete/CodexBar",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "stars": 16287,
+      "forks": 1353,
+      "stars_today": 153,
+      "language": "Swift",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个macOS菜单栏应用，用于本地显示OpenAI Codex和Claude Code的使用统计",
+        "purpose": "让用户无需登录即可快速查看AI编程助手的使用量，避免频繁访问网页或API",
+        "scene": "开发者想随时了解自己的Codex/Claude使用情况、在菜单栏直接查看用量统计、无需打开浏览器或登录账户"
       },
       "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向是AI安全与提示词逆向工程，因为排名第一的项目直接提取并泄露了Anthropic Claude的系统提示，引发社区对AI模型内部机制和安全的广泛关注。同时AI工具与自动化方向依然强势，多个项目聚焦于AI辅助编程、会议助手和渗透测试，显示开发者对AI应用落地的持续热情。",
-    "language_trend": "Python以34次上榜次数稳居主导，主要得益于AI/ML生态和快速原型开发需求。TypeScript和JavaScript合计43次，反映全栈与前端工具链的活跃，但Rust以15次上榜显示出在系统工具和性能敏感场景中的崛起趋势，而C#仅7次，相对下降，表明其在开源趋势项目中的影响力减弱。",
-    "notable_projects": "asgeirtj/system_prompts_leaks 值得重点关注，因为它揭示了Claude模型系统提示的细节，可能影响AI安全研究及未来模型防护策略。JuliusBrussee/caveman 以极简Token使用理念引发对AI交互效率的重新思考，其幽默方式背后蕴含降低API成本的实用价值。usestrix/strix 作为开源AI渗透测试工具，将AI能力引入安全测试自动化，代表了安全工具智能化的前沿探索。"
+    "hot_direction": "本周最热方向是AI系统提示词泄露与逆向工程，以及AI代理工具链的爆发。asgeirtj/system_prompts_leaks以近5万星登顶，反映社区对闭源大模型内部指令的强烈好奇与安全研究需求；同时addyosmani/agent-skills、openai/codex-plugin-cc等项目集中涌现，表明开发者正从单纯使用模型转向构建可组合、可扩展的AI代理技能与插件生态，AI工具化与自动化成为绝对主导。",
+    "language_trend": "Python以30次出现稳居第一，其在AI脚本、数据处理和代理开发中的核心地位无可撼动；TypeScript（21次）与JavaScript（20次）紧随其后，显示前端与全栈工具、浏览器插件及终端应用对类型安全与跨平台能力的需求持续旺盛。Rust（15次）的强势出现反映出高性能系统工具和WebAssembly场景的扩张，而C#（9次）的上榜则与Office自动化等企业级应用绑定，整体呈现多语言围绕AI工具链分化的趋势。",
+    "notable_projects": "asgeirtj/system_prompts_leaks（⭐48.9k）值得重点关注，因为它直接暴露了Anthropic Claude的系统提示，可能引发行业对模型安全、提示注入防御的重新评估，并推动提示词透明化讨论。addyosmani/agent-skills（⭐70.9k）以“生产级工程技能”为AI编码提供标准化模块，有望成为AI代理能力复用的基石项目，影响后续工具链设计。ruvnet/RuView（⭐76.7k）将普通WiFi信号转化为实时感知数据，展示了无线信号处理与AI结合的新颖应用场景，技术跨界潜力巨大。"
   }
 }
