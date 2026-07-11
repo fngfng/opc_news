@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-10T02:38:51.173603",
-  "week_range": "2026-07-04 ~ 2026-07-10",
+  "generated_at": "2026-07-11T02:12:33.575356",
+  "week_range": "2026-07-05 ~ 2026-07-11",
   "days_collected": 7,
-  "total_projects": 59,
-  "total_stars_today": 84172,
+  "total_projects": 65,
+  "total_stars_today": 78301,
   "top_languages": [
     [
       "Python",
-      30
+      24
     ],
     [
       "TypeScript",
@@ -19,11 +19,11 @@
     ],
     [
       "Rust",
-      15
+      14
     ],
     [
-      "C#",
-      9
+      "C++",
+      10
     ]
   ],
   "trending_topics": [],
@@ -61,6 +61,24 @@
         "what": "作者构建了一套面向AI编程代理的生产级工程技能库，提供可复用的JavaScript模块和最佳实践。",
         "purpose": "解决AI代理在真实开发环境中缺乏标准化工程能力的问题，提升代码质量与可靠性。",
         "scene": "AI辅助代码生成与审查、自动化测试与部署流水线、智能代码重构与维护"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 10,
+      "name": "OfficeCLI",
+      "owner": "iOfficeAI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "stars": 10107,
+      "forks": 684,
+      "stars_today": 893,
+      "language": "C#",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个命令行工具，让AI代理能直接读取、编辑和自动化Word、Excel、PowerPoint文件。",
+        "purpose": "解决AI代理无法直接处理Office文档的问题，无需安装Office即可操作。",
+        "scene": "AI代理自动化办公文档处理、批量文档格式转换与数据提取、无Office环境的服务器端文档生成与修改"
       },
       "appear_days": 4
     },
@@ -119,74 +137,20 @@
       "appear_days": 4
     },
     {
-      "rank": 2,
-      "name": "codex-plugin-cc",
-      "owner": "openai",
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "stars": 23260,
-      "forks": 1407,
-      "stars_today": 634,
-      "language": "JavaScript",
+      "rank": 12,
+      "name": "DesktopCommanderMCP",
+      "owner": "wonderwhy-er",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "stars": 6395,
+      "forks": 750,
+      "stars_today": 28,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
-        "what": "作者开发了一个Claude Code插件，集成OpenAI Codex以扩展代码审查和任务委派能力。",
-        "purpose": "解决Claude Code无法直接调用Codex进行高级代码分析和自动化任务的问题。",
-        "scene": "代码审查、任务委派、自动化开发工作流"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 14,
-      "name": "herdr",
-      "owner": "ogulcancelik",
-      "url": "https://github.com/ogulcancelik/herdr",
-      "description": "agent multiplexer that lives in your terminal.",
-      "stars": 10830,
-      "forks": 640,
-      "stars_today": 478,
-      "language": "Rust",
-      "topics": [],
-      "summary": {
-        "what": "作者用Rust开发了一个终端内的代理多路复用器",
-        "purpose": "解决在终端中高效管理和切换多个代理连接的问题",
-        "scene": "开发者在不同网络环境下快速切换代理、系统管理员集中管理多个代理连接、需要同时使用多个代理进行测试或爬虫"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 10,
-      "name": "OfficeCLI",
-      "owner": "iOfficeAI",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "stars": 10107,
-      "forks": 684,
-      "stars_today": 893,
-      "language": "C#",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个命令行工具，让AI代理能直接读取、编辑和自动化Word、Excel、PowerPoint文件。",
-        "purpose": "解决AI代理无法直接处理Office文档的问题，无需安装Office即可操作。",
-        "scene": "AI代理自动化办公文档处理、批量文档格式转换与数据提取、无Office环境的服务器端文档生成与修改"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 18,
-      "name": "CubeSandbox",
-      "owner": "TencentCloud",
-      "url": "https://github.com/TencentCloud/CubeSandbox",
-      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-      "stars": 7186,
-      "forks": 592,
-      "stars_today": 60,
-      "language": "Rust",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个基于Rust的即时、并发、安全且轻量级的AI代理沙箱环境",
-        "purpose": "为AI代理提供安全隔离的代码执行环境，防止恶意或错误操作影响宿主系统",
-        "scene": "AI代理执行用户提交的不可信代码、多租户AI服务间的安全隔离、自动化安全测试与漏洞分析"
+        "what": "作者构建了一个MCP服务器，使Claude能够执行终端命令、搜索文件系统和进行差异文件编辑。",
+        "purpose": "解决Claude无法直接操作本地文件系统和执行命令的问题，扩展其自动化能力。",
+        "scene": "利用Claude进行文件差异对比和编辑"
       },
       "appear_days": 3
     },
@@ -207,11 +171,47 @@
         "scene": "开发者想随时了解自己的Codex/Claude使用情况、在菜单栏直接查看用量统计、无需打开浏览器或登录账户"
       },
       "appear_days": 3
+    },
+    {
+      "rank": 11,
+      "name": "skills",
+      "owner": "dotnet",
+      "url": "https://github.com/dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "stars": 3824,
+      "forks": 289,
+      "stars_today": 59,
+      "language": "C#",
+      "topics": [],
+      "summary": {
+        "what": "微软创建了一个技能库，为AI编码代理提供可复用的.NET和C#开发技能。",
+        "purpose": "解决AI代理在.NET生态中缺乏标准化、可扩展的编码辅助能力的问题。",
+        "scene": "AI辅助编写C#代码、自动化.NET项目构建与测试、智能代码审查与重构"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 17,
+      "name": "claude-skills",
+      "owner": "alirezarezvani",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "stars": 20182,
+      "forks": 2760,
+      "stars_today": 136,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个包含337个Claude Code技能、代理和插件的集合，支持多种编码代理，覆盖工程、营销、产品、合规、C级咨询、研究、业务运营、商业与金融及日常生产力等领域。",
+        "purpose": "为开发者提供可复用的技能和代理，增强Claude Code等编码代理的功能，提升开发效率和跨领域任务处理能力。",
+        "scene": "软件开发与工程任务自动化、商业运营与金融分析、日常生产力提升与多代理协作"
+      },
+      "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热方向是AI系统提示词泄露与逆向工程，以及AI代理工具链的爆发。asgeirtj/system_prompts_leaks以近5万星登顶，反映社区对闭源大模型内部指令的强烈好奇与安全研究需求；同时addyosmani/agent-skills、openai/codex-plugin-cc等项目集中涌现，表明开发者正从单纯使用模型转向构建可组合、可扩展的AI代理技能与插件生态，AI工具化与自动化成为绝对主导。",
-    "language_trend": "Python以30次出现稳居第一，其在AI脚本、数据处理和代理开发中的核心地位无可撼动；TypeScript（21次）与JavaScript（20次）紧随其后，显示前端与全栈工具、浏览器插件及终端应用对类型安全与跨平台能力的需求持续旺盛。Rust（15次）的强势出现反映出高性能系统工具和WebAssembly场景的扩张，而C#（9次）的上榜则与Office自动化等企业级应用绑定，整体呈现多语言围绕AI工具链分化的趋势。",
-    "notable_projects": "asgeirtj/system_prompts_leaks（⭐48.9k）值得重点关注，因为它直接暴露了Anthropic Claude的系统提示，可能引发行业对模型安全、提示注入防御的重新评估，并推动提示词透明化讨论。addyosmani/agent-skills（⭐70.9k）以“生产级工程技能”为AI编码提供标准化模块，有望成为AI代理能力复用的基石项目，影响后续工具链设计。ruvnet/RuView（⭐76.7k）将普通WiFi信号转化为实时感知数据，展示了无线信号处理与AI结合的新颖应用场景，技术跨界潜力巨大。"
+    "hot_direction": "本周最热技术方向无疑是AI，尤其是围绕Claude等大模型的工具、安全与工程化应用。Top项目中多数直接与AI相关，如系统提示泄露、AI编程技能库、AI会议助手、Claude视频能力扩展等，反映出开发者对模型能力边界探索、安全透明性和生产级集成的强烈需求。AI方向不仅项目数量多，而且星数增长迅猛，显示出社区对实用化AI工具的极高关注度。",
+    "language_trend": "Python以24次出现稳居第一，主要得益于其在AI/ML生态中的核心地位，大量模型交互与数据处理项目依赖Python。TypeScript和JavaScript合计41次，显示全栈工具与前端交互类项目持续活跃，许多AI工具提供Web或CLI界面。Rust出现14次，在系统级工具、高性能MCP服务器中采用率上升，反映出对安全与效率并重的趋势；C++使用较少，传统系统编程领域正被Rust逐步分流。",
+    "notable_projects": "asgeirtj/system_prompts_leaks 值得重点关注，因为它直接暴露了Claude的系统提示，触及AI安全与透明度的敏感议题，引发社区对模型内部指令的广泛讨论。addyosmani/agent-skills 提供了面向AI编码的生产级工程技能库，将最佳实践系统化，有望成为AI辅助开发的标准参考。ruvnet/RuView 将普通WiFi信号转化为实时感知数据，创意新颖且跨领域，展示了无线信号与AI结合的新可能，技术突破性强。"
   }
 }
