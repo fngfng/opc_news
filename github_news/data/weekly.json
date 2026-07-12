@@ -1,51 +1,33 @@
 {
-  "generated_at": "2026-07-11T02:12:33.575356",
-  "week_range": "2026-07-05 ~ 2026-07-11",
+  "generated_at": "2026-07-12T02:23:05.628506",
+  "week_range": "2026-07-06 ~ 2026-07-12",
   "days_collected": 7,
-  "total_projects": 65,
-  "total_stars_today": 78301,
+  "total_projects": 72,
+  "total_stars_today": 73992,
   "top_languages": [
     [
-      "Python",
-      24
+      "TypeScript",
+      23
     ],
     [
-      "TypeScript",
-      21
+      "Python",
+      22
     ],
     [
       "JavaScript",
-      20
+      19
+    ],
+    [
+      "C++",
+      15
     ],
     [
       "Rust",
       14
-    ],
-    [
-      "C++",
-      10
     ]
   ],
   "trending_topics": [],
   "top_picks": [
-    {
-      "rank": 7,
-      "name": "system_prompts_leaks",
-      "owner": "asgeirtj",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "stars": 48983,
-      "forks": 7989,
-      "stars_today": 471,
-      "language": "JavaScript",
-      "topics": [],
-      "summary": {
-        "what": "作者收集并公开了多个主流AI模型的系统提示信息",
-        "purpose": "揭示AI模型的内部指令，便于安全研究、行为分析和提示工程",
-        "scene": "安全研究人员分析AI潜在漏洞、提示工程师借鉴设计系统提示、普通用户了解AI底层运作机制"
-      },
-      "appear_days": 6
-    },
     {
       "rank": 2,
       "name": "agent-skills",
@@ -63,6 +45,42 @@
         "scene": "AI辅助代码生成与审查、自动化测试与部署流水线、智能代码重构与维护"
       },
       "appear_days": 5
+    },
+    {
+      "rank": 3,
+      "name": "system_prompts_leaks",
+      "owner": "asgeirtj",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "stars": 50098,
+      "forks": 8192,
+      "stars_today": 981,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": {
+        "what": "作者收集并公开了多个主流AI模型的系统提示信息",
+        "purpose": "揭示AI模型的内部指令，便于安全研究、行为分析和提示工程",
+        "scene": "安全研究人员分析AI潜在漏洞、提示工程师借鉴设计系统提示、普通用户了解AI底层运作机制"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 12,
+      "name": "DesktopCommanderMCP",
+      "owner": "wonderwhy-er",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "stars": 6395,
+      "forks": 750,
+      "stars_today": 28,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个MCP服务器，使Claude能够执行终端命令、搜索文件系统和进行差异文件编辑。",
+        "purpose": "解决Claude无法直接操作本地文件系统和执行命令的问题，扩展其自动化能力。",
+        "scene": "利用Claude进行文件差异对比和编辑"
+      },
+      "appear_days": 4
     },
     {
       "rank": 10,
@@ -119,38 +137,56 @@
       "appear_days": 4
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "name": "prisma",
+      "owner": "prisma",
+      "url": "https://github.com/prisma/prisma",
+      "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+      "stars": 46588,
+      "forks": 2282,
+      "stars_today": 46,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个类型安全的ORM，自动生成数据库客户端并支持声明式数据建模与迁移。",
+        "purpose": "解决Node.js和TypeScript应用中数据库访问的类型安全、开发效率和数据迁移问题。",
+        "scene": "Web应用后端开发、微服务数据层构建、快速原型开发"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 9,
+      "name": "superpowers",
+      "owner": "obra",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 249910,
+      "forks": 22174,
+      "stars_today": 1116,
+      "language": "Shell",
+      "topics": [],
+      "summary": {
+        "what": "作者创建了一个基于Shell脚本的代理技能框架与软件开发方法论，提供可组合的技能模块和开发流程。",
+        "purpose": "解决AI代理开发中技能复用性差、流程不规范的问题，使代理能快速集成和扩展能力。",
+        "scene": "构建具备多种技能的AI代理、自动化软件开发生命周期、快速原型化代理行为"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 1,
       "name": "meetily",
       "owner": "Zackriya-Solutions",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
-      "stars": 15352,
-      "forks": 1677,
-      "stars_today": 718,
+      "stars": 17254,
+      "forks": 1815,
+      "stars_today": 1409,
       "language": "Rust",
       "topics": [],
       "summary": {
         "what": "作者开发了一个基于Rust的隐私优先AI会议助手，实现本地实时转录、说话人分离和摘要。",
         "purpose": "解决会议记录依赖云服务导致的隐私泄露问题，提供完全本地处理的会议笔记方案。",
         "scene": "企业保密会议记录、个人远程会议笔记、无网络环境下的会议转录"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 12,
-      "name": "DesktopCommanderMCP",
-      "owner": "wonderwhy-er",
-      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-      "stars": 6395,
-      "forks": 750,
-      "stars_today": 28,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个MCP服务器，使Claude能够执行终端命令、搜索文件系统和进行差异文件编辑。",
-        "purpose": "解决Claude无法直接操作本地文件系统和执行命令的问题，扩展其自动化能力。",
-        "scene": "利用Claude进行文件差异对比和编辑"
       },
       "appear_days": 3
     },
@@ -171,47 +207,11 @@
         "scene": "开发者想随时了解自己的Codex/Claude使用情况、在菜单栏直接查看用量统计、无需打开浏览器或登录账户"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 11,
-      "name": "skills",
-      "owner": "dotnet",
-      "url": "https://github.com/dotnet/skills",
-      "description": "Repository for skills to assist AI coding agents with .NET and C#",
-      "stars": 3824,
-      "forks": 289,
-      "stars_today": 59,
-      "language": "C#",
-      "topics": [],
-      "summary": {
-        "what": "微软创建了一个技能库，为AI编码代理提供可复用的.NET和C#开发技能。",
-        "purpose": "解决AI代理在.NET生态中缺乏标准化、可扩展的编码辅助能力的问题。",
-        "scene": "AI辅助编写C#代码、自动化.NET项目构建与测试、智能代码审查与重构"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 17,
-      "name": "claude-skills",
-      "owner": "alirezarezvani",
-      "url": "https://github.com/alirezarezvani/claude-skills",
-      "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
-      "stars": 20182,
-      "forks": 2760,
-      "stars_today": 136,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个包含337个Claude Code技能、代理和插件的集合，支持多种编码代理，覆盖工程、营销、产品、合规、C级咨询、研究、业务运营、商业与金融及日常生产力等领域。",
-        "purpose": "为开发者提供可复用的技能和代理，增强Claude Code等编码代理的功能，提升开发效率和跨领域任务处理能力。",
-        "scene": "软件开发与工程任务自动化、商业运营与金融分析、日常生产力提升与多代理协作"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向无疑是AI，尤其是围绕Claude等大模型的工具、安全与工程化应用。Top项目中多数直接与AI相关，如系统提示泄露、AI编程技能库、AI会议助手、Claude视频能力扩展等，反映出开发者对模型能力边界探索、安全透明性和生产级集成的强烈需求。AI方向不仅项目数量多，而且星数增长迅猛，显示出社区对实用化AI工具的极高关注度。",
-    "language_trend": "Python以24次出现稳居第一，主要得益于其在AI/ML生态中的核心地位，大量模型交互与数据处理项目依赖Python。TypeScript和JavaScript合计41次，显示全栈工具与前端交互类项目持续活跃，许多AI工具提供Web或CLI界面。Rust出现14次，在系统级工具、高性能MCP服务器中采用率上升，反映出对安全与效率并重的趋势；C++使用较少，传统系统编程领域正被Rust逐步分流。",
-    "notable_projects": "asgeirtj/system_prompts_leaks 值得重点关注，因为它直接暴露了Claude的系统提示，触及AI安全与透明度的敏感议题，引发社区对模型内部指令的广泛讨论。addyosmani/agent-skills 提供了面向AI编码的生产级工程技能库，将最佳实践系统化，有望成为AI辅助开发的标准参考。ruvnet/RuView 将普通WiFi信号转化为实时感知数据，创意新颖且跨领域，展示了无线信号与AI结合的新可能，技术突破性强。"
+    "hot_direction": "本周最热方向是AI代理与工具链，尤其是围绕Claude等大模型的系统提示泄露、技能框架和桌面/终端控制MCP服务器，反映出社区对AI可编程性、安全边界和工程化落地的强烈兴趣。安全领域因system_prompts_leaks项目引爆了对模型内部指令透明度的关注，而工具方向则通过DesktopCommanderMCP和agent-skills等项目推动AI从对话走向实际系统操作。",
+    "language_trend": "TypeScript和Python继续主导，分别出现23次和22次，主要得益于AI工具链、MCP服务器和全栈开发项目大量采用这两门语言。Rust（14次）和C++（15次）保持稳定，多用于高性能底层和系统级项目，未见明显下降，但JavaScript（19次）相比以往略有回落，部分场景被TypeScript取代。",
+    "notable_projects": "obra/superpowers（⭐249910）作为代理技能框架与软件开发平台，星数极高且上榜3天，代表AI代理从单点能力走向系统化开发范式的趋势，值得长期关注。asgeirtj/system_prompts_leaks（⭐50098）揭示了Claude等模型系统提示的提取与泄露问题，直接触及AI安全与对齐的敏感地带，可能引发行业对提示工程透明度的重新审视。addyo/agent-skills（⭐70935）将AI编码提升到生产级工程技能层面，反映出业界对AI辅助开发质量与可靠性的迫切需求。"
   }
 }
