@@ -1,33 +1,51 @@
 {
-  "generated_at": "2026-07-12T02:23:05.628506",
-  "week_range": "2026-07-06 ~ 2026-07-12",
+  "generated_at": "2026-07-13T02:26:44.560677",
+  "week_range": "2026-07-07 ~ 2026-07-13",
   "days_collected": 7,
-  "total_projects": 72,
-  "total_stars_today": 73992,
+  "total_projects": 73,
+  "total_stars_today": 67032,
   "top_languages": [
     [
       "TypeScript",
-      23
+      24
     ],
     [
       "Python",
-      22
-    ],
-    [
-      "JavaScript",
-      19
+      21
     ],
     [
       "C++",
       15
     ],
     [
-      "Rust",
+      "JavaScript",
       14
+    ],
+    [
+      "Rust",
+      13
     ]
   ],
   "trending_topics": [],
   "top_picks": [
+    {
+      "rank": 12,
+      "name": "DesktopCommanderMCP",
+      "owner": "wonderwhy-er",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "stars": 6395,
+      "forks": 750,
+      "stars_today": 28,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个MCP服务器，使Claude能够执行终端命令、搜索文件系统和进行差异文件编辑。",
+        "purpose": "解决Claude无法直接操作本地文件系统和执行命令的问题，扩展其自动化能力。",
+        "scene": "利用Claude进行文件差异对比和编辑"
+      },
+      "appear_days": 5
+    },
     {
       "rank": 2,
       "name": "agent-skills",
@@ -45,42 +63,6 @@
         "scene": "AI辅助代码生成与审查、自动化测试与部署流水线、智能代码重构与维护"
       },
       "appear_days": 5
-    },
-    {
-      "rank": 3,
-      "name": "system_prompts_leaks",
-      "owner": "asgeirtj",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "stars": 50098,
-      "forks": 8192,
-      "stars_today": 981,
-      "language": "JavaScript",
-      "topics": [],
-      "summary": {
-        "what": "作者收集并公开了多个主流AI模型的系统提示信息",
-        "purpose": "揭示AI模型的内部指令，便于安全研究、行为分析和提示工程",
-        "scene": "安全研究人员分析AI潜在漏洞、提示工程师借鉴设计系统提示、普通用户了解AI底层运作机制"
-      },
-      "appear_days": 5
-    },
-    {
-      "rank": 12,
-      "name": "DesktopCommanderMCP",
-      "owner": "wonderwhy-er",
-      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-      "stars": 6395,
-      "forks": 750,
-      "stars_today": 28,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个MCP服务器，使Claude能够执行终端命令、搜索文件系统和进行差异文件编辑。",
-        "purpose": "解决Claude无法直接操作本地文件系统和执行命令的问题，扩展其自动化能力。",
-        "scene": "利用Claude进行文件差异对比和编辑"
-      },
-      "appear_days": 4
     },
     {
       "rank": 10,
@@ -119,22 +101,58 @@
       "appear_days": 4
     },
     {
-      "rank": 17,
-      "name": "RuView",
-      "owner": "ruvnet",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": 76754,
-      "forks": 10288,
-      "stars_today": 161,
-      "language": "Rust",
+      "rank": 1,
+      "name": "system_prompts_leaks",
+      "owner": "asgeirtj",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "stars": 51678,
+      "forks": 8421,
+      "stars_today": 1378,
+      "language": "JavaScript",
       "topics": [],
       "summary": {
-        "what": "作者用Rust开发了RuView系统，将普通WiFi信号转化为实时空间感知、生命体征监测和人员存在检测能力。",
-        "purpose": "解决在不使用摄像头的情况下，利用现有WiFi基础设施实现非侵入式环境感知和健康监测的问题。",
-        "scene": "智能家居中的人员存在检测与活动识别、医疗健康场景下的非接触式呼吸与心跳监测、安防领域的无摄像头入侵检测与空间感知"
+        "what": "作者收集并公开了多个主流AI模型的系统提示信息",
+        "purpose": "揭示AI模型的内部指令，便于安全研究、行为分析和提示工程",
+        "scene": "安全研究人员分析AI潜在漏洞、提示工程师借鉴设计系统提示、普通用户了解AI底层运作机制"
       },
       "appear_days": 4
+    },
+    {
+      "rank": 7,
+      "name": "claude-cookbooks",
+      "owner": "anthropics",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "stars": 47203,
+      "forks": 5556,
+      "stars_today": 194,
+      "language": "Jupyter Notebook",
+      "topics": [],
+      "summary": {
+        "what": "作者提供了一系列Jupyter Notebook示例，展示如何用Claude完成各种任务。",
+        "purpose": "帮助用户快速上手并掌握Claude的多种实用技巧，降低使用门槛。",
+        "scene": "自动化文本处理、数据分析与可视化、创意内容生成"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 12,
+      "name": "claude-code-templates",
+      "owner": "davila7",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "stars": 28778,
+      "forks": 3163,
+      "stars_today": 118,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个命令行工具，用于配置和监控Claude Code模板",
+        "purpose": "简化Claude Code的配置与运行状态监控，提升开发效率",
+        "scene": "快速配置Claude Code模板、实时监控Claude Code执行状态、管理多个Claude Code项目配置"
+      },
+      "appear_days": 3
     },
     {
       "rank": 4,
@@ -173,45 +191,27 @@
       "appear_days": 3
     },
     {
-      "rank": 1,
-      "name": "meetily",
-      "owner": "Zackriya-Solutions",
-      "url": "https://github.com/Zackriya-Solutions/meetily",
-      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
-      "stars": 17254,
-      "forks": 1815,
-      "stars_today": 1409,
+      "rank": 4,
+      "name": "RuView",
+      "owner": "ruvnet",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars": 77593,
+      "forks": 10422,
+      "stars_today": 470,
       "language": "Rust",
       "topics": [],
       "summary": {
-        "what": "作者开发了一个基于Rust的隐私优先AI会议助手，实现本地实时转录、说话人分离和摘要。",
-        "purpose": "解决会议记录依赖云服务导致的隐私泄露问题，提供完全本地处理的会议笔记方案。",
-        "scene": "企业保密会议记录、个人远程会议笔记、无网络环境下的会议转录"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 21,
-      "name": "CodexBar",
-      "owner": "steipete",
-      "url": "https://github.com/steipete/CodexBar",
-      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
-      "stars": 16287,
-      "forks": 1353,
-      "stars_today": 153,
-      "language": "Swift",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个macOS菜单栏应用，用于本地显示OpenAI Codex和Claude Code的使用统计",
-        "purpose": "让用户无需登录即可快速查看AI编程助手的使用量，避免频繁访问网页或API",
-        "scene": "开发者想随时了解自己的Codex/Claude使用情况、在菜单栏直接查看用量统计、无需打开浏览器或登录账户"
+        "what": "作者用Rust开发了RuView系统，将普通WiFi信号转化为实时空间感知、生命体征监测和人员存在检测能力。",
+        "purpose": "解决在不使用摄像头的情况下，利用现有WiFi基础设施实现非侵入式环境感知和健康监测的问题。",
+        "scene": "智能家居中的人员存在检测与活动识别、医疗健康场景下的非接触式呼吸与心跳监测、安防领域的无摄像头入侵检测与空间感知"
       },
       "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热方向是AI代理与工具链，尤其是围绕Claude等大模型的系统提示泄露、技能框架和桌面/终端控制MCP服务器，反映出社区对AI可编程性、安全边界和工程化落地的强烈兴趣。安全领域因system_prompts_leaks项目引爆了对模型内部指令透明度的关注，而工具方向则通过DesktopCommanderMCP和agent-skills等项目推动AI从对话走向实际系统操作。",
-    "language_trend": "TypeScript和Python继续主导，分别出现23次和22次，主要得益于AI工具链、MCP服务器和全栈开发项目大量采用这两门语言。Rust（14次）和C++（15次）保持稳定，多用于高性能底层和系统级项目，未见明显下降，但JavaScript（19次）相比以往略有回落，部分场景被TypeScript取代。",
-    "notable_projects": "obra/superpowers（⭐249910）作为代理技能框架与软件开发平台，星数极高且上榜3天，代表AI代理从单点能力走向系统化开发范式的趋势，值得长期关注。asgeirtj/system_prompts_leaks（⭐50098）揭示了Claude等模型系统提示的提取与泄露问题，直接触及AI安全与对齐的敏感地带，可能引发行业对提示工程透明度的重新审视。addyo/agent-skills（⭐70935）将AI编码提升到生产级工程技能层面，反映出业界对AI辅助开发质量与可靠性的迫切需求。"
+    "hot_direction": "本周最热技术方向是AI代理与Claude生态扩展。多个上榜项目直接围绕Claude模型构建工具、MCP服务器、技能包和提示词工程，反映出开发者正从单纯使用大模型转向深度定制和自动化工作流。尤其是MCP协议和AI编程辅助的工程化实践成为绝对焦点，说明AI正从对话界面渗透到终端控制、视频理解等更复杂的代理场景。",
+    "language_trend": "TypeScript和Python以明显优势领先，分别出现24次和21次，主要得益于AI工具链、Web全栈开发和MCP服务器的广泛采用。Rust（13次）保持稳定增长，反映系统级编程和性能敏感场景的持续需求；JavaScript（14次）和C++（15次）虽仍常见，但热度相对平稳，前者因TypeScript的替代效应有所减弱，后者则集中在特定底层库和遗留项目。",
+    "notable_projects": "1. addyosmani/agent-skills（⭐70935）：以生产级工程技能包的形式为AI编程提供标准化实践，星数极高，代表AI辅助开发从零散脚本走向系统化、可复用的工程能力，是AI编程工具链成熟化的标志。2. asgeirtj/system_prompts_leaks（⭐51678）：提取并公开Claude等模型的系统提示，触及AI安全、透明度和逆向工程等敏感话题，引发社区对模型行为约束和提示注入风险的广泛讨论。3. wonderwhy-er/DesktopCommanderMCP（⭐6395）：通过MCP服务器让Claude直接操控终端，将AI代理能力延伸到桌面自动化，展示了MCP协议在跨应用、跨环境代理场景中的巨大潜力。"
   }
 }
