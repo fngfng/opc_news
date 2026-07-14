@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-13T02:26:44.560677",
-  "week_range": "2026-07-07 ~ 2026-07-13",
+  "generated_at": "2026-07-14T02:05:23.436903",
+  "week_range": "2026-07-08 ~ 2026-07-14",
   "days_collected": 7,
-  "total_projects": 73,
-  "total_stars_today": 67032,
+  "total_projects": 72,
+  "total_stars_today": 61014,
   "top_languages": [
     [
       "TypeScript",
@@ -11,19 +11,19 @@
     ],
     [
       "Python",
-      21
+      22
     ],
     [
       "C++",
-      15
-    ],
-    [
-      "JavaScript",
       14
     ],
     [
+      "JavaScript",
+      11
+    ],
+    [
       "Rust",
-      13
+      10
     ]
   ],
   "trending_topics": [],
@@ -47,14 +47,14 @@
       "appear_days": 5
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "agent-skills",
       "owner": "addyosmani",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 70935,
-      "forks": 7680,
-      "stars_today": 1112,
+      "stars": 72225,
+      "forks": 7824,
+      "stars_today": 1317,
       "language": "JavaScript",
       "topics": [],
       "summary": {
@@ -62,7 +62,7 @@
         "purpose": "解决AI代理在真实开发环境中缺乏标准化工程能力的问题，提升代码质量与可靠性。",
         "scene": "AI辅助代码生成与审查、自动化测试与部署流水线、智能代码重构与维护"
       },
-      "appear_days": 5
+      "appear_days": 4
     },
     {
       "rank": 10,
@@ -79,42 +79,6 @@
         "what": "作者开发了一个命令行工具，让AI代理能直接读取、编辑和自动化Word、Excel、PowerPoint文件。",
         "purpose": "解决AI代理无法直接处理Office文档的问题，无需安装Office即可操作。",
         "scene": "AI代理自动化办公文档处理、批量文档格式转换与数据提取、无Office环境的服务器端文档生成与修改"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 10,
-      "name": "claude-video",
-      "owner": "bradautomates",
-      "url": "https://github.com/bradautomates/claude-video",
-      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "stars": 4316,
-      "forks": 607,
-      "stars_today": 427,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个Python工具，通过/watch命令下载视频、提取帧、转录音频，并将所有内容交给Claude分析。",
-        "purpose": "解决Claude无法直接处理视频内容的问题，使其能理解视频中的视觉和音频信息。",
-        "scene": "视频内容摘要与问答、视频教程关键步骤提取、监控录像事件检测"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 1,
-      "name": "system_prompts_leaks",
-      "owner": "asgeirtj",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "stars": 51678,
-      "forks": 8421,
-      "stars_today": 1378,
-      "language": "JavaScript",
-      "topics": [],
-      "summary": {
-        "what": "作者收集并公开了多个主流AI模型的系统提示信息",
-        "purpose": "揭示AI模型的内部指令，便于安全研究、行为分析和提示工程",
-        "scene": "安全研究人员分析AI潜在漏洞、提示工程师借鉴设计系统提示、普通用户了解AI底层运作机制"
       },
       "appear_days": 4
     },
@@ -191,27 +155,63 @@
       "appear_days": 3
     },
     {
-      "rank": 4,
-      "name": "RuView",
-      "owner": "ruvnet",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": 77593,
-      "forks": 10422,
-      "stars_today": 470,
-      "language": "Rust",
+      "rank": 11,
+      "name": "claude-video",
+      "owner": "bradautomates",
+      "url": "https://github.com/bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "stars": 5219,
+      "forks": 664,
+      "stars_today": 965,
+      "language": "Python",
       "topics": [],
       "summary": {
-        "what": "作者用Rust开发了RuView系统，将普通WiFi信号转化为实时空间感知、生命体征监测和人员存在检测能力。",
-        "purpose": "解决在不使用摄像头的情况下，利用现有WiFi基础设施实现非侵入式环境感知和健康监测的问题。",
-        "scene": "智能家居中的人员存在检测与活动识别、医疗健康场景下的非接触式呼吸与心跳监测、安防领域的无摄像头入侵检测与空间感知"
+        "what": "作者开发了一个Python工具，通过/watch命令下载视频、提取帧、转录音频，并将所有内容交给Claude分析。",
+        "purpose": "解决Claude无法直接处理视频内容的问题，使其能理解视频中的视觉和音频信息。",
+        "scene": "视频内容摘要与问答、视频教程关键步骤提取、监控录像事件检测"
       },
       "appear_days": 3
+    },
+    {
+      "rank": 5,
+      "name": "system_prompts_leaks",
+      "owner": "asgeirtj",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "stars": 53076,
+      "forks": 8652,
+      "stars_today": 1691,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": {
+        "what": "作者收集并公开了多个主流AI模型的系统提示信息",
+        "purpose": "揭示AI模型的内部指令，便于安全研究、行为分析和提示工程",
+        "scene": "安全研究人员分析AI潜在漏洞、提示工程师借鉴设计系统提示、普通用户了解AI底层运作机制"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 3,
+      "name": "Vibe-Trading",
+      "owner": "HKUDS",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 20637,
+      "forks": 3603,
+      "stars_today": 768,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个基于大语言模型的个人交易代理，能够理解自然语言指令并执行金融交易操作",
+        "purpose": "降低普通用户参与金融交易的门槛，通过对话式交互实现自动化策略执行与市场分析",
+        "scene": "个人投资者通过聊天界面下达交易指令、实时监控市场动态并获取AI投资建议、自动化执行预设交易策略"
+      },
+      "appear_days": 2
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向是AI代理与Claude生态扩展。多个上榜项目直接围绕Claude模型构建工具、MCP服务器、技能包和提示词工程，反映出开发者正从单纯使用大模型转向深度定制和自动化工作流。尤其是MCP协议和AI编程辅助的工程化实践成为绝对焦点，说明AI正从对话界面渗透到终端控制、视频理解等更复杂的代理场景。",
-    "language_trend": "TypeScript和Python以明显优势领先，分别出现24次和21次，主要得益于AI工具链、Web全栈开发和MCP服务器的广泛采用。Rust（13次）保持稳定增长，反映系统级编程和性能敏感场景的持续需求；JavaScript（14次）和C++（15次）虽仍常见，但热度相对平稳，前者因TypeScript的替代效应有所减弱，后者则集中在特定底层库和遗留项目。",
-    "notable_projects": "1. addyosmani/agent-skills（⭐70935）：以生产级工程技能包的形式为AI编程提供标准化实践，星数极高，代表AI辅助开发从零散脚本走向系统化、可复用的工程能力，是AI编程工具链成熟化的标志。2. asgeirtj/system_prompts_leaks（⭐51678）：提取并公开Claude等模型的系统提示，触及AI安全、透明度和逆向工程等敏感话题，引发社区对模型行为约束和提示注入风险的广泛讨论。3. wonderwhy-er/DesktopCommanderMCP（⭐6395）：通过MCP服务器让Claude直接操控终端，将AI代理能力延伸到桌面自动化，展示了MCP协议在跨应用、跨环境代理场景中的巨大潜力。"
+    "hot_direction": "本周最热技术方向无疑是AI代理与LLM工具链，特别是围绕Claude生态的MCP协议、代理技能框架和自动化工具。Top项目中超过半数直接与Claude集成或AI编程相关，反映了开发者正从模型本身转向构建可执行、可扩展的智能体应用。",
+    "language_trend": "TypeScript以24次高居榜首，Python紧随其后，两者主导了AI工具和全栈开发；TypeScript的强势表明其在工具链和前端领域的统治力，而Python保持AI核心地位。Rust（10次）作为高性能语言正在工具和基础设施领域崛起，C++（14次）可能用于底层组件，但整体趋势是TS/Python为主，Rust增长。",
+    "notable_projects": "addyosmani/agent-skills（⭐72k）和obra/superpowers（⭐250k）均以极高星数展示了社区对AI代理工程化框架的渴求，它们提供了生产级技能和开发范式。wonderwhy-er/DesktopCommanderMCP则代表了MCP协议的实际应用，让AI直接操控桌面，开启了人机交互新可能。"
   }
 }
