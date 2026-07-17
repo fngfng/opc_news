@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-16T02:12:05.876403",
-  "week_range": "2026-07-10 ~ 2026-07-16",
+  "generated_at": "2026-07-17T02:16:44.258913",
+  "week_range": "2026-07-11 ~ 2026-07-17",
   "days_collected": 7,
-  "total_projects": 68,
-  "total_stars_today": 63393,
+  "total_projects": 66,
+  "total_stars_today": 63341,
   "top_languages": [
     [
-      "TypeScript",
+      "Python",
       26
     ],
     [
-      "Python",
-      24
+      "TypeScript",
+      26
     ],
     [
       "C++",
@@ -19,11 +19,11 @@
     ],
     [
       "Rust",
-      8
+      9
     ],
     [
-      "JavaScript",
-      8
+      "Shell",
+      7
     ]
   ],
   "trending_topics": [],
@@ -43,6 +43,78 @@
         "what": "作者创建了一套CSS设计技能，用于在Claude Code、Cursor和Codex等AI编码工具中生成高质量、非模板化的界面样式。",
         "purpose": "解决AI生成代码时界面设计千篇一律、缺乏创意和细节的“AI slop”问题。",
         "scene": "在Claude Code中快速生成独特风格的网页组件、在Cursor中为项目定制非标准UI样式、在Codex中避免生成雷同的界面设计"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 5,
+      "name": "awesome-llm-apps",
+      "owner": "Shubhamsaboo",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "stars": 118637,
+      "forks": 17640,
+      "stars_today": 408,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者收集并开源了100多个可运行的AI Agent和RAG应用示例，支持克隆、定制和部署。",
+        "purpose": "为开发者提供可直接使用的LLM应用模板，降低构建智能代理和检索增强生成系统的门槛。",
+        "scene": "快速原型开发、学习AI Agent设计模式、构建定制化RAG问答系统"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 1,
+      "name": "OpenCut",
+      "owner": "OpenCut-app",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "stars": 66601,
+      "forks": 7006,
+      "stars_today": 1229,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者使用TypeScript开发了一个开源的视频编辑应用，作为CapCut的替代品。",
+        "purpose": "解决用户对免费、无广告、开源视频编辑工具的需求，避免专有软件的隐私和功能限制。",
+        "scene": "个人日常Vlog剪辑、社交媒体短视频创作、小型商业宣传视频制作"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 8,
+      "name": "exercises-dataset",
+      "owner": "hasaneyldrm",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "stars": 12654,
+      "forks": 1485,
+      "stars_today": 451,
+      "language": "HTML",
+      "topics": [],
+      "summary": {
+        "what": "作者创建了一个包含1324个健身练习的数据集，提供动画GIF、缩略图、肌肉群与器械数据及6种语言的逐步说明。",
+        "purpose": "为健身应用提供标准化的练习数据层，简化开发并支持多语言内容。",
+        "scene": "健身应用开发、运动科学研究、多语言健身内容平台"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 6,
+      "name": "skills",
+      "owner": "mattpocock",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "stars": 164698,
+      "forks": 14171,
+      "stars_today": 1712,
+      "language": "Shell",
+      "topics": [],
+      "summary": {
+        "what": "Matt Pocock 将个人 Claude 配置目录中的实用技能脚本公开分享",
+        "purpose": "为工程师提供可直接集成到 Claude 工作流中的自动化技能，提升开发效率",
+        "scene": "代码审查与重构建议、技术文档自动生成、日常开发任务自动化"
       },
       "appear_days": 4
     },
@@ -65,74 +137,20 @@
       "appear_days": 4
     },
     {
-      "rank": 5,
-      "name": "awesome-llm-apps",
-      "owner": "Shubhamsaboo",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-      "stars": 118637,
-      "forks": 17640,
-      "stars_today": 408,
+      "rank": 7,
+      "name": "graphify",
+      "owner": "Graphify-Labs",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "stars": 84813,
+      "forks": 8348,
+      "stars_today": 1095,
       "language": "Python",
       "topics": [],
       "summary": {
-        "what": "作者收集并开源了100多个可运行的AI Agent和RAG应用示例，支持克隆、定制和部署。",
-        "purpose": "为开发者提供可直接使用的LLM应用模板，降低构建智能代理和检索增强生成系统的门槛。",
-        "scene": "快速原型开发、学习AI Agent设计模式、构建定制化RAG问答系统"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 6,
-      "name": "DesktopCommanderMCP",
-      "owner": "wonderwhy-er",
-      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-      "stars": 6592,
-      "forks": 781,
-      "stars_today": 185,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个MCP服务器，使Claude能够执行终端命令、搜索文件系统和进行差异文件编辑。",
-        "purpose": "解决Claude无法直接操作本地文件系统和执行命令的问题，扩展其自动化能力。",
-        "scene": "利用Claude进行文件差异对比和编辑"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 1,
-      "name": "OpenCut",
-      "owner": "OpenCut-app",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
-      "stars": 66601,
-      "forks": 7006,
-      "stars_today": 1229,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者使用TypeScript开发了一个开源的视频编辑应用，作为CapCut的替代品。",
-        "purpose": "解决用户对免费、无广告、开源视频编辑工具的需求，避免专有软件的隐私和功能限制。",
-        "scene": "个人日常Vlog剪辑、社交媒体短视频创作、小型商业宣传视频制作"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 6,
-      "name": "skills",
-      "owner": "mattpocock",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "stars": 164698,
-      "forks": 14171,
-      "stars_today": 1712,
-      "language": "Shell",
-      "topics": [],
-      "summary": {
-        "what": "Matt Pocock 将个人 Claude 配置目录中的实用技能脚本公开分享",
-        "purpose": "为工程师提供可直接集成到 Claude 工作流中的自动化技能，提升开发效率",
-        "scene": "代码审查与重构建议、技术文档自动生成、日常开发任务自动化"
+        "what": "作者开发了一个Python工具，能将代码、文档、数据库模式等多种文件自动转化为统一的知识图谱，供AI编码助手查询。",
+        "purpose": "解决AI编码助手在理解复杂项目时缺乏全局上下文和代码关系的问题，通过知识图谱提供可查询的项目全貌。",
+        "scene": "场景1：开发者接手新项目时，快速生成知识图谱以理解整体架构；场景2：在大型代码库中进行跨文件依赖分析，辅助重构；场景3：将数据库模式与应用代码关联，便于调试和优化查询。"
       },
       "appear_days": 3
     },
@@ -155,38 +173,20 @@
       "appear_days": 3
     },
     {
-      "rank": 8,
-      "name": "exercises-dataset",
-      "owner": "hasaneyldrm",
-      "url": "https://github.com/hasaneyldrm/exercises-dataset",
-      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
-      "stars": 12654,
-      "forks": 1485,
-      "stars_today": 451,
-      "language": "HTML",
+      "rank": 1,
+      "name": "DesktopCommanderMCP",
+      "owner": "wonderwhy-er",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "stars": 7329,
+      "forks": 933,
+      "stars_today": 328,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
-        "what": "作者创建了一个包含1324个健身练习的数据集，提供动画GIF、缩略图、肌肉群与器械数据及6种语言的逐步说明。",
-        "purpose": "为健身应用提供标准化的练习数据层，简化开发并支持多语言内容。",
-        "scene": "健身应用开发、运动科学研究、多语言健身内容平台"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 7,
-      "name": "claude-cookbooks",
-      "owner": "anthropics",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "stars": 47203,
-      "forks": 5556,
-      "stars_today": 194,
-      "language": "Jupyter Notebook",
-      "topics": [],
-      "summary": {
-        "what": "作者提供了一系列Jupyter Notebook示例，展示如何用Claude完成各种任务。",
-        "purpose": "帮助用户快速上手并掌握Claude的多种实用技巧，降低使用门槛。",
-        "scene": "自动化文本处理、数据分析与可视化、创意内容生成"
+        "what": "作者构建了一个MCP服务器，使Claude能够执行终端命令、搜索文件系统和进行差异文件编辑。",
+        "purpose": "解决Claude无法直接操作本地文件系统和执行命令的问题，扩展其自动化能力。",
+        "scene": "利用Claude进行文件差异对比和编辑"
       },
       "appear_days": 3
     },
@@ -210,8 +210,8 @@
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向是AI，特别是AI Agent和MCP（Model Context Protocol）生态。Top项目中多数与AI相关，如awesome-llm-apps提供上百个可运行的AI应用，Vibe-Trading展示AI在金融交易的应用，DesktopCommanderMCP和hallmark则扩展了Claude等AI工具的能力。这反映出开发者对AI应用落地和AI开发工具链的强烈兴趣。",
-    "language_trend": "TypeScript和Python以26次和24次上榜次数保持主导地位，分别支撑工具链/全栈开发和AI/数据应用。C++以13次上榜，显示其在性能敏感领域的稳定需求；Rust上榜8次，在安全工具和系统编程中逐渐崛起。JavaScript单独上榜8次，可能因TypeScript的普及而占比下降。",
-    "notable_projects": "Shubhamsaboo/awesome-llm-apps以超11万星成为本周最热门项目，它汇集了100+可运行的AI Agent和RAG应用，是AI应用开发者的实战宝库。HKUDS/Vibe-Trading将AI代理用于个人交易，星数超2万，体现了AI在金融垂直领域的创新落地。wonderwhy-er/DesktopCommanderMCP作为Claude的MCP服务器，赋予AI终端控制能力，是AI工具链生态扩展的典型代表。"
+    "hot_direction": "本周最热技术方向无疑是AI，多个高星项目聚焦于AI Agent、RAG应用和AI编程助手，如awesome-llm-apps和graphify，表明开发者对AI实际应用和开发工具集成的高度关注。安全方向虽有destructive_command_guard等项目，但热度远不及AI。整体来看，AI正在从理论走向工程化落地，成为本周绝对主导。",
+    "language_trend": "Python和TypeScript以26次并列第一，反映出AI与Web开发的双引擎驱动：Python主导AI/ML项目，TypeScript则广泛用于全栈和工具开发。Rust出现9次，显示出其在系统编程领域的崛起，得益于内存安全和性能优势；C++仍有13次但份额相对下降，可能被Rust分流。Shell脚本保持稳定，用于自动化和DevOps。",
+    "notable_projects": "Shubhamsaboo/awesome-llm-apps以超11万星成为本周最热项目，它提供了100+可运行的AI Agent和RAG应用，是开发者快速上手AI的宝贵资源。OpenCut-app/OpenCut作为开源CapCut替代品，获得6.6万星，体现了开源在视频编辑领域的突破，有望吸引大量创作者。Graphify-Labs/graphify以8.4万星上榜，作为AI编程助手技能，它增强了Claude Code等工具的代码生成质量，代表了AI辅助开发的新范式。"
   }
 }
