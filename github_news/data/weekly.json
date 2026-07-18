@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-17T02:16:44.258913",
-  "week_range": "2026-07-11 ~ 2026-07-17",
+  "generated_at": "2026-07-18T02:04:32.780022",
+  "week_range": "2026-07-12 ~ 2026-07-18",
   "days_collected": 7,
-  "total_projects": 66,
-  "total_stars_today": 63341,
+  "total_projects": 64,
+  "total_stars_today": 62442,
   "top_languages": [
     [
       "Python",
-      26
+      29
     ],
     [
       "TypeScript",
-      26
-    ],
-    [
-      "C++",
-      13
+      25
     ],
     [
       "Rust",
       9
     ],
     [
-      "Shell",
-      7
+      "C++",
+      8
+    ],
+    [
+      "CSS",
+      6
     ]
   ],
   "trending_topics": [],
@@ -43,6 +43,24 @@
         "what": "作者创建了一套CSS设计技能，用于在Claude Code、Cursor和Codex等AI编码工具中生成高质量、非模板化的界面样式。",
         "purpose": "解决AI生成代码时界面设计千篇一律、缺乏创意和细节的“AI slop”问题。",
         "scene": "在Claude Code中快速生成独特风格的网页组件、在Cursor中为项目定制非标准UI样式、在Codex中避免生成雷同的界面设计"
+      },
+      "appear_days": 6
+    },
+    {
+      "rank": 1,
+      "name": "OpenCut",
+      "owner": "OpenCut-app",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "stars": 66601,
+      "forks": 7006,
+      "stars_today": 1229,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者使用TypeScript开发了一个开源的视频编辑应用，作为CapCut的替代品。",
+        "purpose": "解决用户对免费、无广告、开源视频编辑工具的需求，避免专有软件的隐私和功能限制。",
+        "scene": "个人日常Vlog剪辑、社交媒体短视频创作、小型商业宣传视频制作"
       },
       "appear_days": 5
     },
@@ -65,24 +83,6 @@
       "appear_days": 5
     },
     {
-      "rank": 1,
-      "name": "OpenCut",
-      "owner": "OpenCut-app",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
-      "stars": 66601,
-      "forks": 7006,
-      "stars_today": 1229,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者使用TypeScript开发了一个开源的视频编辑应用，作为CapCut的替代品。",
-        "purpose": "解决用户对免费、无广告、开源视频编辑工具的需求，避免专有软件的隐私和功能限制。",
-        "scene": "个人日常Vlog剪辑、社交媒体短视频创作、小型商业宣传视频制作"
-      },
-      "appear_days": 4
-    },
-    {
       "rank": 8,
       "name": "exercises-dataset",
       "owner": "hasaneyldrm",
@@ -97,24 +97,6 @@
         "what": "作者创建了一个包含1324个健身练习的数据集，提供动画GIF、缩略图、肌肉群与器械数据及6种语言的逐步说明。",
         "purpose": "为健身应用提供标准化的练习数据层，简化开发并支持多语言内容。",
         "scene": "健身应用开发、运动科学研究、多语言健身内容平台"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 6,
-      "name": "skills",
-      "owner": "mattpocock",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "stars": 164698,
-      "forks": 14171,
-      "stars_today": 1712,
-      "language": "Shell",
-      "topics": [],
-      "summary": {
-        "what": "Matt Pocock 将个人 Claude 配置目录中的实用技能脚本公开分享",
-        "purpose": "为工程师提供可直接集成到 Claude 工作流中的自动化技能，提升开发效率",
-        "scene": "代码审查与重构建议、技术文档自动生成、日常开发任务自动化"
       },
       "appear_days": 4
     },
@@ -137,6 +119,78 @@
       "appear_days": 4
     },
     {
+      "rank": 15,
+      "name": "maths-cs-ai-compendium",
+      "owner": "HenryNdubuaku",
+      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "description": "Become a cracked AI/ML Research Engineer",
+      "stars": 5277,
+      "forks": 704,
+      "stars_today": 112,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者创建了一个综合性的学习纲要，涵盖数学、计算机科学和AI/ML的核心知识，并辅以TypeScript代码示例。",
+        "purpose": "帮助学习者系统化地掌握成为顶尖AI/ML研究工程师所需的技能与理论基础。",
+        "scene": "自学AI/ML的开发者、准备技术面试的研究员、需要快速查阅基础知识的工程师"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 7,
+      "name": "openinterpreter",
+      "owner": "openinterpreter",
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "description": "A coding agent for low-cost models",
+      "stars": 65520,
+      "forks": 5655,
+      "stars_today": 299,
+      "language": "Rust",
+      "topics": [],
+      "summary": {
+        "what": "作者用Rust构建了一个面向低成本语言模型的编码代理，使模型能够安全地在本地执行代码。",
+        "purpose": "解决现有编码代理资源消耗高、难以在低成本模型或资源受限环境运行的问题，通过Rust实现高性能和低开销。",
+        "scene": "本地开发中使用低成本LLM进行代码生成与调试、在边缘设备或低配机器上部署编码助手、自动化运维和脚本编写任务"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 8,
+      "name": "DeepTutor",
+      "owner": "HKUDS",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+      "stars": 26321,
+      "forks": 3570,
+      "stars_today": 172,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个基于深度学习的终身个性化智能辅导系统，通过持续追踪学习者知识状态提供定制化教学与反馈。",
+        "purpose": "解决传统教育中缺乏长期、个性化学习支持的问题，实现因材施教的终身学习陪伴。",
+        "scene": "K-12学生课后自适应辅导、高等教育中个性化课程助教、职场人士终身技能提升训练"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 2,
+      "name": "skills",
+      "owner": "mattpocock",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "stars": 170356,
+      "forks": 14659,
+      "stars_today": 1679,
+      "language": "Shell",
+      "topics": [],
+      "summary": {
+        "what": "Matt Pocock 将个人 Claude 配置目录中的实用技能脚本公开分享",
+        "purpose": "为工程师提供可直接集成到 Claude 工作流中的自动化技能，提升开发效率",
+        "scene": "代码审查与重构建议、技术文档自动生成、日常开发任务自动化"
+      },
+      "appear_days": 3
+    },
+    {
       "rank": 7,
       "name": "graphify",
       "owner": "Graphify-Labs",
@@ -153,65 +207,11 @@
         "scene": "场景1：开发者接手新项目时，快速生成知识图谱以理解整体架构；场景2：在大型代码库中进行跨文件依赖分析，辅助重构；场景3：将数据库模式与应用代码关联，便于调试和优化查询。"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 1,
-      "name": "destructive_command_guard",
-      "owner": "Dicklesworthstone",
-      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
-      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
-      "stars": 2995,
-      "forks": 109,
-      "stars_today": 444,
-      "language": "Rust",
-      "topics": [],
-      "summary": {
-        "what": "作者用Rust开发了一个命令行守护工具，用于拦截和阻止AI代理执行危险的Git和Shell命令。",
-        "purpose": "解决AI代理在自动化操作中可能误执行破坏性命令（如强制推送、递归删除）导致数据丢失或系统损坏的问题。",
-        "scene": "场景1：AI编码代理尝试运行`git push --force origin main`时，dcg识别并阻止该操作，避免覆盖远程仓库；场景2：代理执行包含`rm -rf /`的Shell命令，dcg拦截并提示危险；场景3：代理在自动化脚本中调用`sudo`执行高风险操作，dcg要求确认或直接拒绝。"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 1,
-      "name": "DesktopCommanderMCP",
-      "owner": "wonderwhy-er",
-      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-      "stars": 7329,
-      "forks": 933,
-      "stars_today": 328,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个MCP服务器，使Claude能够执行终端命令、搜索文件系统和进行差异文件编辑。",
-        "purpose": "解决Claude无法直接操作本地文件系统和执行命令的问题，扩展其自动化能力。",
-        "scene": "利用Claude进行文件差异对比和编辑"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 12,
-      "name": "claude-code-templates",
-      "owner": "davila7",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "stars": 28778,
-      "forks": 3163,
-      "stars_today": 118,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个命令行工具，用于配置和监控Claude Code模板",
-        "purpose": "简化Claude Code的配置与运行状态监控，提升开发效率",
-        "scene": "快速配置Claude Code模板、实时监控Claude Code执行状态、管理多个Claude Code项目配置"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向无疑是AI，多个高星项目聚焦于AI Agent、RAG应用和AI编程助手，如awesome-llm-apps和graphify，表明开发者对AI实际应用和开发工具集成的高度关注。安全方向虽有destructive_command_guard等项目，但热度远不及AI。整体来看，AI正在从理论走向工程化落地，成为本周绝对主导。",
-    "language_trend": "Python和TypeScript以26次并列第一，反映出AI与Web开发的双引擎驱动：Python主导AI/ML项目，TypeScript则广泛用于全栈和工具开发。Rust出现9次，显示出其在系统编程领域的崛起，得益于内存安全和性能优势；C++仍有13次但份额相对下降，可能被Rust分流。Shell脚本保持稳定，用于自动化和DevOps。",
-    "notable_projects": "Shubhamsaboo/awesome-llm-apps以超11万星成为本周最热项目，它提供了100+可运行的AI Agent和RAG应用，是开发者快速上手AI的宝贵资源。OpenCut-app/OpenCut作为开源CapCut替代品，获得6.6万星，体现了开源在视频编辑领域的突破，有望吸引大量创作者。Graphify-Labs/graphify以8.4万星上榜，作为AI编程助手技能，它增强了Claude Code等工具的代码生成质量，代表了AI辅助开发的新范式。"
+    "hot_direction": "本周最热技术方向无疑是AI/LLM应用。Top8项目中多数与AI直接相关，涵盖AI设计、LLM应用集合、AI交易代理、AI编程工具和AI辅导等，显示AI正从模型开发转向多元化应用落地。尤其是AI Agent和RAG应用的高星项目，反映出开发者对可运行AI解决方案的强烈需求。",
+    "language_trend": "Python和TypeScript继续主导，分别以29次和25次上榜，Python因AI/ML生态持续强势，TypeScript则在前端和全栈领域保持主流。Rust以9次上榜显示其在系统编程和安全领域的崛起趋势，而C++和CSS等语言保持稳定但份额相对较小，传统后端语言如Java未见上榜，可能反映新项目更倾向现代语言。",
+    "notable_projects": "OpenCut-app/OpenCut作为开源CapCut替代品，以66601星成为本周最受关注项目之一，反映出视频编辑工具的开源需求旺盛。Shubhamsaboo/awesome-llm-apps收集了超100个可运行的AI Agent和RAG应用，星数达118637，为开发者提供了丰富的LLM实践案例。openinterpreter/openinterpreter则聚焦低成本模型的编程代理，65520星表明AI编程工具的实用化趋势。"
   }
 }
