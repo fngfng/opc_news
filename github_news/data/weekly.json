@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-18T02:04:32.780022",
-  "week_range": "2026-07-12 ~ 2026-07-18",
+  "generated_at": "2026-07-19T02:16:09.282574",
+  "week_range": "2026-07-13 ~ 2026-07-19",
   "days_collected": 7,
-  "total_projects": 64,
-  "total_stars_today": 62442,
+  "total_projects": 51,
+  "total_stars_today": 60740,
   "top_languages": [
     [
       "Python",
-      29
+      32
     ],
     [
       "TypeScript",
-      25
+      21
     ],
     [
       "Rust",
-      9
-    ],
-    [
-      "C++",
-      8
+      7
     ],
     [
       "CSS",
       6
+    ],
+    [
+      "Shell",
+      5
     ]
   ],
   "trending_topics": [],
@@ -119,6 +119,42 @@
       "appear_days": 4
     },
     {
+      "rank": 4,
+      "name": "posthog",
+      "owner": "PostHog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "stars": 35865,
+      "forks": 2993,
+      "stars_today": 77,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了开源产品分析平台PostHog，集成AI可观测性、事件分析、会话回放、特性标志、A/B实验、错误追踪和日志等开发者工具。",
+        "purpose": "解决产品团队缺乏统一上下文来诊断问题、发现机会和快速交付修复的问题，实现数据驱动的自驱动产品开发。",
+        "scene": "产品经理通过分析仪表板了解用户行为并优化功能；开发者利用会话回放和错误追踪快速定位并修复缺陷；团队通过特性标志和A/B实验安全发布新特性并评估效果。"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 16,
+      "name": "build-your-own-x",
+      "owner": "codecrafters-io",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "stars": 526361,
+      "forks": 49801,
+      "stars_today": 435,
+      "language": "Markdown",
+      "topics": [],
+      "summary": {
+        "what": "作者收集并整理了从零开始构建各种软件和技术的教程资源列表。",
+        "purpose": "帮助开发者通过亲手实现来深入理解常用技术的内部原理，提升编程能力。",
+        "scene": "自学编程与系统设计、技术面试准备、编程教学与培训"
+      },
+      "appear_days": 3
+    },
+    {
       "rank": 15,
       "name": "maths-cs-ai-compendium",
       "owner": "HenryNdubuaku",
@@ -171,47 +207,11 @@
         "scene": "K-12学生课后自适应辅导、高等教育中个性化课程助教、职场人士终身技能提升训练"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 2,
-      "name": "skills",
-      "owner": "mattpocock",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "stars": 170356,
-      "forks": 14659,
-      "stars_today": 1679,
-      "language": "Shell",
-      "topics": [],
-      "summary": {
-        "what": "Matt Pocock 将个人 Claude 配置目录中的实用技能脚本公开分享",
-        "purpose": "为工程师提供可直接集成到 Claude 工作流中的自动化技能，提升开发效率",
-        "scene": "代码审查与重构建议、技术文档自动生成、日常开发任务自动化"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 7,
-      "name": "graphify",
-      "owner": "Graphify-Labs",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-      "stars": 84813,
-      "forks": 8348,
-      "stars_today": 1095,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个Python工具，能将代码、文档、数据库模式等多种文件自动转化为统一的知识图谱，供AI编码助手查询。",
-        "purpose": "解决AI编码助手在理解复杂项目时缺乏全局上下文和代码关系的问题，通过知识图谱提供可查询的项目全貌。",
-        "scene": "场景1：开发者接手新项目时，快速生成知识图谱以理解整体架构；场景2：在大型代码库中进行跨文件依赖分析，辅助重构；场景3：将数据库模式与应用代码关联，便于调试和优化查询。"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向无疑是AI/LLM应用。Top8项目中多数与AI直接相关，涵盖AI设计、LLM应用集合、AI交易代理、AI编程工具和AI辅导等，显示AI正从模型开发转向多元化应用落地。尤其是AI Agent和RAG应用的高星项目，反映出开发者对可运行AI解决方案的强烈需求。",
-    "language_trend": "Python和TypeScript继续主导，分别以29次和25次上榜，Python因AI/ML生态持续强势，TypeScript则在前端和全栈领域保持主流。Rust以9次上榜显示其在系统编程和安全领域的崛起趋势，而C++和CSS等语言保持稳定但份额相对较小，传统后端语言如Java未见上榜，可能反映新项目更倾向现代语言。",
-    "notable_projects": "OpenCut-app/OpenCut作为开源CapCut替代品，以66601星成为本周最受关注项目之一，反映出视频编辑工具的开源需求旺盛。Shubhamsaboo/awesome-llm-apps收集了超100个可运行的AI Agent和RAG应用，星数达118637，为开发者提供了丰富的LLM实践案例。openinterpreter/openinterpreter则聚焦低成本模型的编程代理，65520星表明AI编程工具的实用化趋势。"
+    "hot_direction": "本周最热技术方向无疑是AI，尤其是AI代理、AI辅助开发工具和可运行的AI应用集合。多个上榜项目直接聚焦AI领域，如awesome-llm-apps提供上百个可执行的AI Agent与RAG应用，Vibe-Trading打造个人AI交易代理，hallmark则致力于提升AI生成代码的设计质量，反映出开发者对AI实用化、自动化及开发体验优化的强烈需求。此外，开源替代品（如OpenCut）也异军突起，显示用户对免费、透明工具的偏好正在加速。",
+    "language_trend": "Python以32次出现稳居榜首，主要受AI/ML项目持续爆发的推动，其作为数据科学和AI生态首选语言的地位进一步巩固。TypeScript以21次紧随其后，凸显其在现代Web开发、工具链及全栈应用中的核心角色。Rust出现7次，表明系统级编程语言在性能、安全领域的采用率稳步上升；CSS和Shell等辅助语言出现较少，整体格局呈现Python与TypeScript双强、Rust崛起的趋势。",
+    "notable_projects": "1. Shubhamsaboo/awesome-llm-apps：汇集100+可直接运行的AI Agent与RAG应用，星数超118k，为开发者提供了从理论到实践的完整蓝图，是观察AI应用落地趋势的绝佳窗口。2. OpenCut-app/OpenCut：作为开源版CapCut，5天内斩获66k星，反映出市场对免费、无隐私顾虑的专业视频编辑工具的旺盛需求，有望重塑创作工具生态。3. Nutlope/hallmark：针对Claude Code、Cursor等AI编程工具的“反AI-slop”设计技能，精准切中开发者对AI生成代码质量与审美的痛点，开辟了AI辅助开发的质量控制新赛道。"
   }
 }
