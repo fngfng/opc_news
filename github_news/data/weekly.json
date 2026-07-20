@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-07-19T02:16:09.282574",
-  "week_range": "2026-07-13 ~ 2026-07-19",
+  "generated_at": "2026-07-20T03:30:28.085698",
+  "week_range": "2026-07-14 ~ 2026-07-20",
   "days_collected": 7,
   "total_projects": 51,
-  "total_stars_today": 60740,
+  "total_stars_today": 62910,
   "top_languages": [
     [
       "Python",
-      32
+      34
     ],
     [
       "TypeScript",
-      21
+      19
     ],
     [
       "Rust",
       7
     ],
     [
-      "CSS",
-      6
+      "HTML",
+      7
     ],
     [
-      "Shell",
+      "CSS",
       5
     ]
   ],
   "trending_topics": [],
   "top_picks": [
     {
-      "rank": 17,
+      "rank": 5,
       "name": "hallmark",
       "owner": "Nutlope",
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "stars": 4331,
-      "forks": 253,
-      "stars_today": 155,
+      "stars": 5198,
+      "forks": 274,
+      "stars_today": 794,
       "language": "CSS",
       "topics": [],
       "summary": {
@@ -44,7 +44,7 @@
         "purpose": "解决AI生成代码时界面设计千篇一律、缺乏创意和细节的“AI slop”问题。",
         "scene": "在Claude Code中快速生成独特风格的网页组件、在Cursor中为项目定制非标准UI样式、在Codex中避免生成雷同的界面设计"
       },
-      "appear_days": 6
+      "appear_days": 5
     },
     {
       "rank": 1,
@@ -65,22 +65,40 @@
       "appear_days": 5
     },
     {
-      "rank": 5,
-      "name": "awesome-llm-apps",
-      "owner": "Shubhamsaboo",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-      "stars": 118637,
-      "forks": 17640,
-      "stars_today": 408,
+      "rank": 4,
+      "name": "posthog",
+      "owner": "PostHog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "stars": 35865,
+      "forks": 2993,
+      "stars_today": 77,
       "language": "Python",
       "topics": [],
       "summary": {
-        "what": "作者收集并开源了100多个可运行的AI Agent和RAG应用示例，支持克隆、定制和部署。",
-        "purpose": "为开发者提供可直接使用的LLM应用模板，降低构建智能代理和检索增强生成系统的门槛。",
-        "scene": "快速原型开发、学习AI Agent设计模式、构建定制化RAG问答系统"
+        "what": "作者构建了开源产品分析平台PostHog，集成AI可观测性、事件分析、会话回放、特性标志、A/B实验、错误追踪和日志等开发者工具。",
+        "purpose": "解决产品团队缺乏统一上下文来诊断问题、发现机会和快速交付修复的问题，实现数据驱动的自驱动产品开发。",
+        "scene": "产品经理通过分析仪表板了解用户行为并优化功能；开发者利用会话回放和错误追踪快速定位并修复缺陷；团队通过特性标志和A/B实验安全发布新特性并评估效果。"
       },
-      "appear_days": 5
+      "appear_days": 4
+    },
+    {
+      "rank": 16,
+      "name": "build-your-own-x",
+      "owner": "codecrafters-io",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "stars": 526361,
+      "forks": 49801,
+      "stars_today": 435,
+      "language": "Markdown",
+      "topics": [],
+      "summary": {
+        "what": "作者收集并整理了从零开始构建各种软件和技术的教程资源列表。",
+        "purpose": "帮助开发者通过亲手实现来深入理解常用技术的内部原理，提升编程能力。",
+        "scene": "自学编程与系统设计、技术面试准备、编程教学与培训"
+      },
+      "appear_days": 4
     },
     {
       "rank": 8,
@@ -101,56 +119,56 @@
       "appear_days": 4
     },
     {
-      "rank": 3,
-      "name": "Vibe-Trading",
-      "owner": "HKUDS",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "stars": 20637,
-      "forks": 3603,
-      "stars_today": 768,
+      "rank": 4,
+      "name": "awesome-llm-apps",
+      "owner": "Shubhamsaboo",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "stars": 119687,
+      "forks": 17747,
+      "stars_today": 996,
       "language": "Python",
       "topics": [],
       "summary": {
-        "what": "开发了一个基于大语言模型的个人交易代理，能够理解自然语言指令并执行金融交易操作",
-        "purpose": "降低普通用户参与金融交易的门槛，通过对话式交互实现自动化策略执行与市场分析",
-        "scene": "个人投资者通过聊天界面下达交易指令、实时监控市场动态并获取AI投资建议、自动化执行预设交易策略"
+        "what": "作者收集并开源了100多个可运行的AI Agent和RAG应用示例，支持克隆、定制和部署。",
+        "purpose": "为开发者提供可直接使用的LLM应用模板，降低构建智能代理和检索增强生成系统的门槛。",
+        "scene": "快速原型开发、学习AI Agent设计模式、构建定制化RAG问答系统"
       },
       "appear_days": 4
     },
     {
-      "rank": 4,
-      "name": "posthog",
-      "owner": "PostHog",
-      "url": "https://github.com/PostHog/posthog",
-      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-      "stars": 35865,
-      "forks": 2993,
-      "stars_today": 77,
+      "rank": 9,
+      "name": "code-review-graph",
+      "owner": "tirth8205",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "stars": 19768,
+      "forks": 2108,
+      "stars_today": 74,
       "language": "Python",
       "topics": [],
       "summary": {
-        "what": "作者构建了开源产品分析平台PostHog，集成AI可观测性、事件分析、会话回放、特性标志、A/B实验、错误追踪和日志等开发者工具。",
-        "purpose": "解决产品团队缺乏统一上下文来诊断问题、发现机会和快速交付修复的问题，实现数据驱动的自驱动产品开发。",
-        "scene": "产品经理通过分析仪表板了解用户行为并优化功能；开发者利用会话回放和错误追踪快速定位并修复缺陷；团队通过特性标志和A/B实验安全发布新特性并评估效果。"
+        "what": "作者构建了一个本地优先的代码智能图谱工具，为AI编码工具生成代码库的持久化关系地图，实现精准的上下文缩减。",
+        "purpose": "解决AI编码工具在处理大型代码库时上下文窗口过载、信息冗余的问题，通过图谱仅提供相关代码。",
+        "scene": "代码审查时自动提取相关上下文、大型仓库中AI辅助开发精准定位代码、与MCP服务器集成提供智能代码导航"
       },
       "appear_days": 3
     },
     {
-      "rank": 16,
-      "name": "build-your-own-x",
-      "owner": "codecrafters-io",
-      "url": "https://github.com/codecrafters-io/build-your-own-x",
-      "description": "Master programming by recreating your favorite technologies from scratch.",
-      "stars": 526361,
-      "forks": 49801,
-      "stars_today": 435,
-      "language": "Markdown",
+      "rank": 13,
+      "name": "copilot-sdk",
+      "owner": "github",
+      "url": "https://github.com/github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "stars": 9650,
+      "forks": 1318,
+      "stars_today": 13,
+      "language": "Java",
       "topics": [],
       "summary": {
-        "what": "作者收集并整理了从零开始构建各种软件和技术的教程资源列表。",
-        "purpose": "帮助开发者通过亲手实现来深入理解常用技术的内部原理，提升编程能力。",
-        "scene": "自学编程与系统设计、技术面试准备、编程教学与培训"
+        "what": "作者开发了一个多平台Java SDK，用于将GitHub Copilot Agent集成到各种应用程序和服务中。",
+        "purpose": "解决开发者难以在自己的应用中集成GitHub Copilot智能编程助手的问题，提供标准化的API和工具。",
+        "scene": "在IDE插件中集成Copilot代码补全功能、在CI/CD流水线中利用Copilot进行代码审查或自动修复、在聊天机器人或客服系统中集成Copilot的问答能力"
       },
       "appear_days": 3
     },
@@ -189,29 +207,11 @@
         "scene": "本地开发中使用低成本LLM进行代码生成与调试、在边缘设备或低配机器上部署编码助手、自动化运维和脚本编写任务"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 8,
-      "name": "DeepTutor",
-      "owner": "HKUDS",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
-      "stars": 26321,
-      "forks": 3570,
-      "stars_today": 172,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个基于深度学习的终身个性化智能辅导系统，通过持续追踪学习者知识状态提供定制化教学与反馈。",
-        "purpose": "解决传统教育中缺乏长期、个性化学习支持的问题，实现因材施教的终身学习陪伴。",
-        "scene": "K-12学生课后自适应辅导、高等教育中个性化课程助教、职场人士终身技能提升训练"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向无疑是AI，尤其是AI代理、AI辅助开发工具和可运行的AI应用集合。多个上榜项目直接聚焦AI领域，如awesome-llm-apps提供上百个可执行的AI Agent与RAG应用，Vibe-Trading打造个人AI交易代理，hallmark则致力于提升AI生成代码的设计质量，反映出开发者对AI实用化、自动化及开发体验优化的强烈需求。此外，开源替代品（如OpenCut）也异军突起，显示用户对免费、透明工具的偏好正在加速。",
-    "language_trend": "Python以32次出现稳居榜首，主要受AI/ML项目持续爆发的推动，其作为数据科学和AI生态首选语言的地位进一步巩固。TypeScript以21次紧随其后，凸显其在现代Web开发、工具链及全栈应用中的核心角色。Rust出现7次，表明系统级编程语言在性能、安全领域的采用率稳步上升；CSS和Shell等辅助语言出现较少，整体格局呈现Python与TypeScript双强、Rust崛起的趋势。",
-    "notable_projects": "1. Shubhamsaboo/awesome-llm-apps：汇集100+可直接运行的AI Agent与RAG应用，星数超118k，为开发者提供了从理论到实践的完整蓝图，是观察AI应用落地趋势的绝佳窗口。2. OpenCut-app/OpenCut：作为开源版CapCut，5天内斩获66k星，反映出市场对免费、无隐私顾虑的专业视频编辑工具的旺盛需求，有望重塑创作工具生态。3. Nutlope/hallmark：针对Claude Code、Cursor等AI编程工具的“反AI-slop”设计技能，精准切中开发者对AI生成代码质量与审美的痛点，开辟了AI辅助开发的质量控制新赛道。"
+    "hot_direction": "本周最热技术方向是AI与LLM应用开发，相关项目如hallmark、awesome-llm-apps和copilot-sdk占据了榜单前列，反映出开发者对AI辅助设计、AI Agent及编程工具集成的高度关注。同时，开源替代品（如OpenCut）和开发者工具（如PostHog）也持续热门，显示实用工具类项目依然强势。",
+    "language_trend": "Python以34次出现稳居语言榜首，主要得益于AI/数据科学和脚本工具项目的爆发；TypeScript以19次紧随其后，体现前端和全栈开发的主流地位。Rust出现7次，在系统工具和性能敏感领域持续增长，而HTML/CSS的出现则多与文档或静态内容项目相关。",
+    "notable_projects": "OpenCut-app/OpenCut作为开源CapCut替代品，以66k星快速崛起，反映了视频编辑工具的开源需求和社区活跃度。Nutlope/hallmark聚焦于反AI粗糙内容的设计技能，直击当前AI生成内容质量痛点，具有创新性和实用性。github/copilot-sdk是GitHub官方推出的多平台SDK，有望加速AI编程助手在各类开发环境中的集成，生态意义重大。"
   }
 }
