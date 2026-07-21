@@ -1,68 +1,50 @@
 {
-  "generated_at": "2026-07-20T03:30:28.085698",
-  "week_range": "2026-07-14 ~ 2026-07-20",
+  "generated_at": "2026-07-21T02:16:46.142611",
+  "week_range": "2026-07-15 ~ 2026-07-21",
   "days_collected": 7,
-  "total_projects": 51,
-  "total_stars_today": 62910,
+  "total_projects": 61,
+  "total_stars_today": 73703,
   "top_languages": [
     [
       "Python",
-      34
+      39
     ],
     [
       "TypeScript",
-      19
+      24
     ],
     [
       "Rust",
-      7
+      9
     ],
     [
-      "HTML",
-      7
+      "Shell",
+      6
     ],
     [
-      "CSS",
-      5
+      "C++",
+      6
     ]
   ],
   "trending_topics": [],
   "top_picks": [
     {
-      "rank": 5,
-      "name": "hallmark",
-      "owner": "Nutlope",
-      "url": "https://github.com/Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "stars": 5198,
-      "forks": 274,
-      "stars_today": 794,
-      "language": "CSS",
+      "rank": 9,
+      "name": "code-review-graph",
+      "owner": "tirth8205",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "stars": 19768,
+      "forks": 2108,
+      "stars_today": 74,
+      "language": "Python",
       "topics": [],
       "summary": {
-        "what": "作者创建了一套CSS设计技能，用于在Claude Code、Cursor和Codex等AI编码工具中生成高质量、非模板化的界面样式。",
-        "purpose": "解决AI生成代码时界面设计千篇一律、缺乏创意和细节的“AI slop”问题。",
-        "scene": "在Claude Code中快速生成独特风格的网页组件、在Cursor中为项目定制非标准UI样式、在Codex中避免生成雷同的界面设计"
+        "what": "作者构建了一个本地优先的代码智能图谱工具，为AI编码工具生成代码库的持久化关系地图，实现精准的上下文缩减。",
+        "purpose": "解决AI编码工具在处理大型代码库时上下文窗口过载、信息冗余的问题，通过图谱仅提供相关代码。",
+        "scene": "代码审查时自动提取相关上下文、大型仓库中AI辅助开发精准定位代码、与MCP服务器集成提供智能代码导航"
       },
-      "appear_days": 5
-    },
-    {
-      "rank": 1,
-      "name": "OpenCut",
-      "owner": "OpenCut-app",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
-      "stars": 66601,
-      "forks": 7006,
-      "stars_today": 1229,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者使用TypeScript开发了一个开源的视频编辑应用，作为CapCut的替代品。",
-        "purpose": "解决用户对免费、无广告、开源视频编辑工具的需求，避免专有软件的隐私和功能限制。",
-        "scene": "个人日常Vlog剪辑、社交媒体短视频创作、小型商业宣传视频制作"
-      },
-      "appear_days": 5
+      "appear_days": 4
     },
     {
       "rank": 4,
@@ -101,56 +83,92 @@
       "appear_days": 4
     },
     {
-      "rank": 8,
-      "name": "exercises-dataset",
-      "owner": "hasaneyldrm",
-      "url": "https://github.com/hasaneyldrm/exercises-dataset",
-      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
-      "stars": 12654,
-      "forks": 1485,
-      "stars_today": 451,
-      "language": "HTML",
+      "rank": 6,
+      "name": "hallmark",
+      "owner": "Nutlope",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars": 6194,
+      "forks": 354,
+      "stars_today": 1015,
+      "language": "CSS",
       "topics": [],
       "summary": {
-        "what": "作者创建了一个包含1324个健身练习的数据集，提供动画GIF、缩略图、肌肉群与器械数据及6种语言的逐步说明。",
-        "purpose": "为健身应用提供标准化的练习数据层，简化开发并支持多语言内容。",
-        "scene": "健身应用开发、运动科学研究、多语言健身内容平台"
+        "what": "作者创建了一套CSS设计技能，用于在Claude Code、Cursor和Codex等AI编码工具中生成高质量、非模板化的界面样式。",
+        "purpose": "解决AI生成代码时界面设计千篇一律、缺乏创意和细节的“AI slop”问题。",
+        "scene": "在Claude Code中快速生成独特风格的网页组件、在Cursor中为项目定制非标准UI样式、在Codex中避免生成雷同的界面设计"
       },
       "appear_days": 4
     },
     {
       "rank": 4,
-      "name": "awesome-llm-apps",
-      "owner": "Shubhamsaboo",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-      "stars": 119687,
-      "forks": 17747,
-      "stars_today": 996,
-      "language": "Python",
+      "name": "OpenCut",
+      "owner": "OpenCut-app",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "stars": 69268,
+      "forks": 7214,
+      "stars_today": 4276,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
-        "what": "作者收集并开源了100多个可运行的AI Agent和RAG应用示例，支持克隆、定制和部署。",
-        "purpose": "为开发者提供可直接使用的LLM应用模板，降低构建智能代理和检索增强生成系统的门槛。",
-        "scene": "快速原型开发、学习AI Agent设计模式、构建定制化RAG问答系统"
+        "what": "作者使用TypeScript开发了一个开源的视频编辑应用，作为CapCut的替代品。",
+        "purpose": "解决用户对免费、无广告、开源视频编辑工具的需求，避免专有软件的隐私和功能限制。",
+        "scene": "个人日常Vlog剪辑、社交媒体短视频创作、小型商业宣传视频制作"
       },
       "appear_days": 4
     },
     {
-      "rank": 9,
-      "name": "code-review-graph",
-      "owner": "tirth8205",
-      "url": "https://github.com/tirth8205/code-review-graph",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "stars": 19768,
-      "forks": 2108,
-      "stars_today": 74,
+      "rank": 5,
+      "name": "ai-engineering-from-scratch",
+      "owner": "rohitg00",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": 39126,
+      "forks": 6553,
+      "stars_today": 191,
       "language": "Python",
       "topics": [],
       "summary": {
-        "what": "作者构建了一个本地优先的代码智能图谱工具，为AI编码工具生成代码库的持久化关系地图，实现精准的上下文缩减。",
-        "purpose": "解决AI编码工具在处理大型代码库时上下文窗口过载、信息冗余的问题，通过图谱仅提供相关代码。",
-        "scene": "代码审查时自动提取相关上下文、大型仓库中AI辅助开发精准定位代码、与MCP服务器集成提供智能代码导航"
+        "what": "作者构建了一个从零开始学习、实现和部署AI工程项目的Python教程代码库。",
+        "purpose": "帮助开发者通过动手实践掌握AI工程全流程，从基础理论到实际应用交付。",
+        "scene": "学习AI工程核心概念、构建端到端的AI应用原型、将AI模型部署为可交付的产品"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 11,
+      "name": "kimi-cli",
+      "owner": "MoonshotAI",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "stars": 9511,
+      "forks": 1166,
+      "stars_today": 65,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个基于Kimi大模型的命令行AI编程助手",
+        "purpose": "让开发者能在终端中直接与Kimi交互，提高编程效率",
+        "scene": "代码生成、代码解释、调试辅助"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 9,
+      "name": "wigolo",
+      "owner": "KnockOutEZ",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "stars": 1266,
+      "forks": 84,
+      "stars_today": 203,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个本地优先、零成本的网络搜索与爬取工具，通过MCP协议为AI编程代理提供网络访问能力。",
+        "purpose": "解决AI编程代理依赖付费API或云服务进行网络搜索和研究的问题，提供免费、本地、无需API密钥的替代方案。",
+        "scene": "AI代理搜索技术文档、AI代理爬取网页内容进行分析、AI代理进行网络研究获取信息"
       },
       "appear_days": 3
     },
@@ -189,29 +207,11 @@
         "scene": "自学AI/ML的开发者、准备技术面试的研究员、需要快速查阅基础知识的工程师"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 7,
-      "name": "openinterpreter",
-      "owner": "openinterpreter",
-      "url": "https://github.com/openinterpreter/openinterpreter",
-      "description": "A coding agent for low-cost models",
-      "stars": 65520,
-      "forks": 5655,
-      "stars_today": 299,
-      "language": "Rust",
-      "topics": [],
-      "summary": {
-        "what": "作者用Rust构建了一个面向低成本语言模型的编码代理，使模型能够安全地在本地执行代码。",
-        "purpose": "解决现有编码代理资源消耗高、难以在低成本模型或资源受限环境运行的问题，通过Rust实现高性能和低开销。",
-        "scene": "本地开发中使用低成本LLM进行代码生成与调试、在边缘设备或低配机器上部署编码助手、自动化运维和脚本编写任务"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向是AI与LLM应用开发，相关项目如hallmark、awesome-llm-apps和copilot-sdk占据了榜单前列，反映出开发者对AI辅助设计、AI Agent及编程工具集成的高度关注。同时，开源替代品（如OpenCut）和开发者工具（如PostHog）也持续热门，显示实用工具类项目依然强势。",
-    "language_trend": "Python以34次出现稳居语言榜首，主要得益于AI/数据科学和脚本工具项目的爆发；TypeScript以19次紧随其后，体现前端和全栈开发的主流地位。Rust出现7次，在系统工具和性能敏感领域持续增长，而HTML/CSS的出现则多与文档或静态内容项目相关。",
-    "notable_projects": "OpenCut-app/OpenCut作为开源CapCut替代品，以66k星快速崛起，反映了视频编辑工具的开源需求和社区活跃度。Nutlope/hallmark聚焦于反AI粗糙内容的设计技能，直击当前AI生成内容质量痛点，具有创新性和实用性。github/copilot-sdk是GitHub官方推出的多平台SDK，有望加速AI编程助手在各类开发环境中的集成，生态意义重大。"
+    "hot_direction": "本周最热技术方向是AI，因为多个上榜项目聚焦AI编码代理、AI工程学习和AI辅助开发工具，反映出开发者对AI驱动开发范式的强烈需求。同时，开源工具类项目如OpenCut也表现突出，但整体上AI相关项目占据主导，表明行业正加速向智能化、自动化开发转型。",
+    "language_trend": "Python以39次出现稳居首位，主要得益于AI/ML生态和脚本工具的广泛使用；TypeScript以24次紧随其后，体现全栈开发和Web工具的需求。Rust出现9次，显示其在系统工具和CLI应用中逐渐崛起，而Shell和C++使用较少，反映传统系统语言在热门项目中的占比有所下降。",
+    "notable_projects": "rohitg00/ai-engineering-from-scratch（⭐39.1k）值得关注，因为它系统性地教授AI工程化实践，切中当前开发者从理论转向落地的痛点，增长迅猛。MoonshotAI/kimi-cli（⭐9.5k）作为国内大模型厂商推出的CLI代理，展示了AI与命令行工具结合的新形态，可能引领下一代开发工具潮流。OpenCut-app/OpenCut（⭐69.2k）作为开源视频编辑软件，以高星数证明开源替代商业软件的强大需求，其社区活跃度和跨平台能力值得跟踪。"
   }
 }
