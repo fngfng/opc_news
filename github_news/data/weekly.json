@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-21T02:16:46.142611",
-  "week_range": "2026-07-15 ~ 2026-07-21",
+  "generated_at": "2026-07-22T02:15:07.444249",
+  "week_range": "2026-07-16 ~ 2026-07-22",
   "days_collected": 7,
-  "total_projects": 61,
-  "total_stars_today": 73703,
+  "total_projects": 67,
+  "total_stars_today": 78450,
   "top_languages": [
     [
       "Python",
-      39
+      40
     ],
     [
       "TypeScript",
-      24
+      28
     ],
     [
       "Rust",
-      9
-    ],
-    [
-      "Shell",
-      6
+      11
     ],
     [
       "C++",
-      6
+      7
+    ],
+    [
+      "Shell",
+      5
     ]
   ],
   "trending_topics": [],
@@ -43,6 +43,24 @@
         "what": "作者构建了一个本地优先的代码智能图谱工具，为AI编码工具生成代码库的持久化关系地图，实现精准的上下文缩减。",
         "purpose": "解决AI编码工具在处理大型代码库时上下文窗口过载、信息冗余的问题，通过图谱仅提供相关代码。",
         "scene": "代码审查时自动提取相关上下文、大型仓库中AI辅助开发精准定位代码、与MCP服务器集成提供智能代码导航"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 9,
+      "name": "wigolo",
+      "owner": "KnockOutEZ",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "stars": 1266,
+      "forks": 84,
+      "stars_today": 203,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个本地优先、零成本的网络搜索与爬取工具，通过MCP协议为AI编程代理提供网络访问能力。",
+        "purpose": "解决AI编程代理依赖付费API或云服务进行网络搜索和研究的问题，提供免费、本地、无需API密钥的替代方案。",
+        "scene": "AI代理搜索技术文档、AI代理爬取网页内容进行分析、AI代理进行网络研究获取信息"
       },
       "appear_days": 4
     },
@@ -83,40 +101,58 @@
       "appear_days": 4
     },
     {
-      "rank": 6,
-      "name": "hallmark",
-      "owner": "Nutlope",
-      "url": "https://github.com/Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "stars": 6194,
-      "forks": 354,
-      "stars_today": 1015,
-      "language": "CSS",
+      "rank": 1,
+      "name": "ai-agent-book",
+      "owner": "bojieli",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "stars": 6371,
+      "forks": 593,
+      "stars_today": 1734,
+      "language": "Python",
       "topics": [],
       "summary": {
-        "what": "作者创建了一套CSS设计技能，用于在Claude Code、Cursor和Codex等AI编码工具中生成高质量、非模板化的界面样式。",
-        "purpose": "解决AI生成代码时界面设计千篇一律、缺乏创意和细节的“AI slop”问题。",
-        "scene": "在Claude Code中快速生成独特风格的网页组件、在Cursor中为项目定制非标准UI样式、在Codex中避免生成雷同的界面设计"
+        "what": "作者李博杰撰写并开源了《深入理解 AI Agent：设计原理与工程实践》一书，提供全书正文、编译版PDF和按章配套的Python代码。",
+        "purpose": "解决AI Agent领域缺乏系统性从原理到工程实践的学习资源问题，帮助读者深入理解并动手实现AI Agent。",
+        "scene": "个人自学AI Agent理论与开发、企业团队构建智能Agent应用、高校或培训机构作为AI课程教材"
       },
-      "appear_days": 4
+      "appear_days": 3
     },
     {
-      "rank": 4,
-      "name": "OpenCut",
-      "owner": "OpenCut-app",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
-      "stars": 69268,
-      "forks": 7214,
-      "stars_today": 4276,
-      "language": "TypeScript",
+      "rank": 12,
+      "name": "jcode",
+      "owner": "1jehuang",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "stars": 8969,
+      "forks": 1040,
+      "stars_today": 235,
+      "language": "Rust",
       "topics": [],
       "summary": {
-        "what": "作者使用TypeScript开发了一个开源的视频编辑应用，作为CapCut的替代品。",
-        "purpose": "解决用户对免费、无广告、开源视频编辑工具的需求，避免专有软件的隐私和功能限制。",
-        "scene": "个人日常Vlog剪辑、社交媒体短视频创作、小型商业宣传视频制作"
+        "what": "作者使用Rust构建了一个编码代理的集成测试与执行框架",
+        "purpose": "为编码代理提供标准化的开发、评估和部署环境，简化代理与代码库的交互",
+        "scene": "自动化代码生成与单元测试验证、多代理协作完成复杂重构任务、持续集成中代理辅助的代码审查与修复"
       },
-      "appear_days": 4
+      "appear_days": 3
+    },
+    {
+      "rank": 11,
+      "name": "AstrBot",
+      "owner": "AstrBotDevs",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "stars": 36733,
+      "forks": 2547,
+      "stars_today": 83,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个集成多种即时通讯平台和大语言模型的AI助手开发框架",
+        "purpose": "解决在不同聊天平台上快速构建和部署AI助手的问题",
+        "scene": "智能客服、个人助理、自动化工作流"
+      },
+      "appear_days": 3
     },
     {
       "rank": 5,
@@ -155,24 +191,6 @@
       "appear_days": 3
     },
     {
-      "rank": 9,
-      "name": "wigolo",
-      "owner": "KnockOutEZ",
-      "url": "https://github.com/KnockOutEZ/wigolo",
-      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
-      "stars": 1266,
-      "forks": 84,
-      "stars_today": 203,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个本地优先、零成本的网络搜索与爬取工具，通过MCP协议为AI编程代理提供网络访问能力。",
-        "purpose": "解决AI编程代理依赖付费API或云服务进行网络搜索和研究的问题，提供免费、本地、无需API密钥的替代方案。",
-        "scene": "AI代理搜索技术文档、AI代理爬取网页内容进行分析、AI代理进行网络研究获取信息"
-      },
-      "appear_days": 3
-    },
-    {
       "rank": 13,
       "name": "copilot-sdk",
       "owner": "github",
@@ -189,29 +207,11 @@
         "scene": "在IDE插件中集成Copilot代码补全功能、在CI/CD流水线中利用Copilot进行代码审查或自动修复、在聊天机器人或客服系统中集成Copilot的问答能力"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 15,
-      "name": "maths-cs-ai-compendium",
-      "owner": "HenryNdubuaku",
-      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-      "description": "Become a cracked AI/ML Research Engineer",
-      "stars": 5277,
-      "forks": 704,
-      "stars_today": 112,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者创建了一个综合性的学习纲要，涵盖数学、计算机科学和AI/ML的核心知识，并辅以TypeScript代码示例。",
-        "purpose": "帮助学习者系统化地掌握成为顶尖AI/ML研究工程师所需的技能与理论基础。",
-        "scene": "自学AI/ML的开发者、准备技术面试的研究员、需要快速查阅基础知识的工程师"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向是AI，因为多个上榜项目聚焦AI编码代理、AI工程学习和AI辅助开发工具，反映出开发者对AI驱动开发范式的强烈需求。同时，开源工具类项目如OpenCut也表现突出，但整体上AI相关项目占据主导，表明行业正加速向智能化、自动化开发转型。",
-    "language_trend": "Python以39次出现稳居首位，主要得益于AI/ML生态和脚本工具的广泛使用；TypeScript以24次紧随其后，体现全栈开发和Web工具的需求。Rust出现9次，显示其在系统工具和CLI应用中逐渐崛起，而Shell和C++使用较少，反映传统系统语言在热门项目中的占比有所下降。",
-    "notable_projects": "rohitg00/ai-engineering-from-scratch（⭐39.1k）值得关注，因为它系统性地教授AI工程化实践，切中当前开发者从理论转向落地的痛点，增长迅猛。MoonshotAI/kimi-cli（⭐9.5k）作为国内大模型厂商推出的CLI代理，展示了AI与命令行工具结合的新形态，可能引领下一代开发工具潮流。OpenCut-app/OpenCut（⭐69.2k）作为开源视频编辑软件，以高星数证明开源替代商业软件的强大需求，其社区活跃度和跨平台能力值得跟踪。"
+    "hot_direction": "本周最热技术方向无疑是AI Agent与智能开发工具。Top项目中超过半数直接与AI Agent、代码智能或AI工程化相关，如code-review-graph、jcode、AstrBot等，反映出行业正从通用大模型转向聚焦Agent设计与工程落地的趋势。同时，'build-your-own-x'等经典项目持续上榜，说明开发者对底层原理和实践能力的需求依然旺盛，但AI方向的强势主导地位不可撼动。",
+    "language_trend": "Python以40次出现稳居榜首，主要得益于其在AI/ML生态中的核心地位以及大量Agent框架、数据处理工具均采用Python构建。TypeScript以28次紧随其后，反映出全栈开发与前端工具链的持续繁荣，许多AI应用的交互界面与CLI工具也倾向使用TS。Rust（11次）虽仍属小众但稳步增长，主要被用于高性能系统工具和部分AI底层组件，而C++和Shell则更多出现在特定领域，整体趋势是Python与TypeScript双强并立，Rust作为新兴力量缓慢崛起。",
+    "notable_projects": "1. **tirth8205/code-review-graph**：该项目将本地优先的代码智能图谱与MCP（模型上下文协议）结合，为AI编程助手提供结构化代码理解能力，有望成为下一代智能开发基础设施的关键组件，值得关注其技术架构与生态扩展。2. **bojieli/ai-agent-book**：作为一本系统阐述AI Agent设计原理与工程实践的开源书籍，它填补了从理论到落地的知识空白，其高星增长反映出社区对Agent系统化学习的迫切需求，对从业者极具参考价值。3. **codecrafters-io/build-your-own-x**：虽非新项目，但本周再度上榜，它通过引导开发者从零重建经典技术来深化理解，这种'做中学'的模式在AI工具泛滥的当下反而凸显了扎实基本功的重要性，是工程师持续精进的优质资源。"
   }
 }
