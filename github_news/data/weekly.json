@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-22T02:15:07.444249",
-  "week_range": "2026-07-16 ~ 2026-07-22",
+  "generated_at": "2026-07-23T02:25:25.251290",
+  "week_range": "2026-07-17 ~ 2026-07-23",
   "days_collected": 7,
-  "total_projects": 67,
-  "total_stars_today": 78450,
+  "total_projects": 69,
+  "total_stars_today": 83264,
   "top_languages": [
     [
       "Python",
-      40
+      43
     ],
     [
       "TypeScript",
-      28
+      32
     ],
     [
       "Rust",
-      11
+      12
     ],
     [
       "C++",
@@ -23,7 +23,7 @@
     ],
     [
       "Shell",
-      5
+      4
     ]
   ],
   "trending_topics": [],
@@ -44,7 +44,25 @@
         "purpose": "解决AI编码工具在处理大型代码库时上下文窗口过载、信息冗余的问题，通过图谱仅提供相关代码。",
         "scene": "代码审查时自动提取相关上下文、大型仓库中AI辅助开发精准定位代码、与MCP服务器集成提供智能代码导航"
       },
-      "appear_days": 5
+      "appear_days": 6
+    },
+    {
+      "rank": 5,
+      "name": "ai-engineering-from-scratch",
+      "owner": "rohitg00",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": 39126,
+      "forks": 6553,
+      "stars_today": 191,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个从零开始学习、实现和部署AI工程项目的Python教程代码库。",
+        "purpose": "帮助开发者通过动手实践掌握AI工程全流程，从基础理论到实际应用交付。",
+        "scene": "学习AI工程核心概念、构建端到端的AI应用原型、将AI模型部署为可交付的产品"
+      },
+      "appear_days": 4
     },
     {
       "rank": 9,
@@ -101,6 +119,60 @@
       "appear_days": 4
     },
     {
+      "rank": 5,
+      "name": "voicebox",
+      "owner": "jamiepine",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "stars": 43465,
+      "forks": 5304,
+      "stars_today": 610,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个集语音克隆、语音识别和语音生成为一体的开源AI语音工作室。",
+        "purpose": "提供一站式AI语音处理解决方案，降低高质量语音合成和转换的门槛。",
+        "scene": "用户克隆名人声音制作趣味内容、记者使用听写功能快速转录采访录音、作家使用创作功能将文本转为有声书"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 4,
+      "name": "OmniRoute",
+      "owner": "diegosouzapw",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
+      "stars": 21956,
+      "forks": 2974,
+      "stars_today": 1107,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个聚合268+AI提供商和500+模型的统一API网关，支持自动回退和令牌压缩。",
+        "purpose": "解决开发者需对接多个AI服务、管理配额和成本的问题，通过单一端点简化集成并优化使用。",
+        "scene": "在Claude Code等编程工具中无缝切换AI模型、构建多模态应用时通过一个API调用不同模型、在桌面或PWA应用中集成AI功能以利用免费提供商降低成本。"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 18,
+      "name": "openship",
+      "owner": "oblien",
+      "url": "https://github.com/oblien/openship",
+      "description": "Self-hosted deployment platform",
+      "stars": 4886,
+      "forks": 339,
+      "stars_today": 1641,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个自托管的部署平台，支持自动化应用部署和托管。",
+        "purpose": "解决开发者需要简单、可控的自托管部署方案，避免依赖第三方平台的问题。",
+        "scene": "个人开发者快速部署静态网站或全栈应用、团队内部搭建私有PaaS平台、用于学习和演示现代部署流程"
+      },
+      "appear_days": 3
+    },
+    {
       "rank": 1,
       "name": "ai-agent-book",
       "owner": "bojieli",
@@ -135,83 +207,11 @@
         "scene": "自动化代码生成与单元测试验证、多代理协作完成复杂重构任务、持续集成中代理辅助的代码审查与修复"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 11,
-      "name": "AstrBot",
-      "owner": "AstrBotDevs",
-      "url": "https://github.com/AstrBotDevs/AstrBot",
-      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "stars": 36733,
-      "forks": 2547,
-      "stars_today": 83,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个集成多种即时通讯平台和大语言模型的AI助手开发框架",
-        "purpose": "解决在不同聊天平台上快速构建和部署AI助手的问题",
-        "scene": "智能客服、个人助理、自动化工作流"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 5,
-      "name": "ai-engineering-from-scratch",
-      "owner": "rohitg00",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "stars": 39126,
-      "forks": 6553,
-      "stars_today": 191,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个从零开始学习、实现和部署AI工程项目的Python教程代码库。",
-        "purpose": "帮助开发者通过动手实践掌握AI工程全流程，从基础理论到实际应用交付。",
-        "scene": "学习AI工程核心概念、构建端到端的AI应用原型、将AI模型部署为可交付的产品"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 11,
-      "name": "kimi-cli",
-      "owner": "MoonshotAI",
-      "url": "https://github.com/MoonshotAI/kimi-cli",
-      "description": "Kimi Code CLI is your next CLI agent.",
-      "stars": 9511,
-      "forks": 1166,
-      "stars_today": 65,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个基于Kimi大模型的命令行AI编程助手",
-        "purpose": "让开发者能在终端中直接与Kimi交互，提高编程效率",
-        "scene": "代码生成、代码解释、调试辅助"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 13,
-      "name": "copilot-sdk",
-      "owner": "github",
-      "url": "https://github.com/github/copilot-sdk",
-      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-      "stars": 9650,
-      "forks": 1318,
-      "stars_today": 13,
-      "language": "Java",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个多平台Java SDK，用于将GitHub Copilot Agent集成到各种应用程序和服务中。",
-        "purpose": "解决开发者难以在自己的应用中集成GitHub Copilot智能编程助手的问题，提供标准化的API和工具。",
-        "scene": "在IDE插件中集成Copilot代码补全功能、在CI/CD流水线中利用Copilot进行代码审查或自动修复、在聊天机器人或客服系统中集成Copilot的问答能力"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向无疑是AI Agent与智能开发工具。Top项目中超过半数直接与AI Agent、代码智能或AI工程化相关，如code-review-graph、jcode、AstrBot等，反映出行业正从通用大模型转向聚焦Agent设计与工程落地的趋势。同时，'build-your-own-x'等经典项目持续上榜，说明开发者对底层原理和实践能力的需求依然旺盛，但AI方向的强势主导地位不可撼动。",
-    "language_trend": "Python以40次出现稳居榜首，主要得益于其在AI/ML生态中的核心地位以及大量Agent框架、数据处理工具均采用Python构建。TypeScript以28次紧随其后，反映出全栈开发与前端工具链的持续繁荣，许多AI应用的交互界面与CLI工具也倾向使用TS。Rust（11次）虽仍属小众但稳步增长，主要被用于高性能系统工具和部分AI底层组件，而C++和Shell则更多出现在特定领域，整体趋势是Python与TypeScript双强并立，Rust作为新兴力量缓慢崛起。",
-    "notable_projects": "1. **tirth8205/code-review-graph**：该项目将本地优先的代码智能图谱与MCP（模型上下文协议）结合，为AI编程助手提供结构化代码理解能力，有望成为下一代智能开发基础设施的关键组件，值得关注其技术架构与生态扩展。2. **bojieli/ai-agent-book**：作为一本系统阐述AI Agent设计原理与工程实践的开源书籍，它填补了从理论到落地的知识空白，其高星增长反映出社区对Agent系统化学习的迫切需求，对从业者极具参考价值。3. **codecrafters-io/build-your-own-x**：虽非新项目，但本周再度上榜，它通过引导开发者从零重建经典技术来深化理解，这种'做中学'的模式在AI工具泛滥的当下反而凸显了扎实基本功的重要性，是工程师持续精进的优质资源。"
+    "hot_direction": "本周最热技术方向是AI工具与基础设施，特别是面向AI编码代理的本地优先工具（如code-review-graph、wigolo）和开源AI语音应用（voicebox）占据主导。多个项目围绕模型上下文协议（MCP）、AI网关和自托管部署展开，反映出开发者正在从模型应用转向构建围绕大模型的实用化、隐私优先的工程生态。",
+    "language_trend": "Python以43次出现高居榜首，主要得益于其在AI/ML生态中的核心地位，大量AI项目均使用Python构建。TypeScript以32次紧随其后，体现了全栈Web开发和AI工具前端接口的广泛需求；Rust出现12次，虽总量不大但增长明显，因其高性能和安全性正被越来越多地用于系统级工具（如部署平台和代码分析），而C++和Shell的使用相对平稳或略有下降。",
+    "notable_projects": "tirth8205/code-review-graph（上榜6天，⭐19.7k）将代码智能图与MCP协议结合，可能开创AI辅助开发的新交互范式，值得重点关注。rohitg00/ai-engineering-from-scratch（上榜4天，⭐39.1k）以极快增速反映了社区对系统化学习AI工程化的强烈需求，是AI教育领域的爆款。jamiepine/voicebox（上榜3天，⭐43.4k）作为开源AI语音工作室，展示了语音克隆与生成技术的实用化突破，代表AI多媒体应用的前沿趋势。"
   }
 }
