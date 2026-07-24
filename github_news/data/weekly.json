@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-23T02:25:25.251290",
-  "week_range": "2026-07-17 ~ 2026-07-23",
+  "generated_at": "2026-07-24T02:16:13.653413",
+  "week_range": "2026-07-18 ~ 2026-07-24",
   "days_collected": 7,
-  "total_projects": 69,
-  "total_stars_today": 83264,
+  "total_projects": 67,
+  "total_stars_today": 82275,
   "top_languages": [
     [
       "Python",
-      43
+      40
     ],
     [
       "TypeScript",
-      32
+      33
     ],
     [
       "Rust",
-      12
+      15
     ],
     [
       "C++",
-      7
+      6
     ],
     [
-      "Shell",
+      "JavaScript",
       4
     ]
   ],
@@ -45,6 +45,24 @@
         "scene": "代码审查时自动提取相关上下文、大型仓库中AI辅助开发精准定位代码、与MCP服务器集成提供智能代码导航"
       },
       "appear_days": 6
+    },
+    {
+      "rank": 4,
+      "name": "OmniRoute",
+      "owner": "diegosouzapw",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
+      "stars": 21956,
+      "forks": 2974,
+      "stars_today": 1107,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个聚合268+AI提供商和500+模型的统一API网关，支持自动回退和令牌压缩。",
+        "purpose": "解决开发者需对接多个AI服务、管理配额和成本的问题，通过单一端点简化集成并优化使用。",
+        "scene": "在Claude Code等编程工具中无缝切换AI模型、构建多模态应用时通过一个API调用不同模型、在桌面或PWA应用中集成AI功能以利用免费提供商降低成本。"
+      },
+      "appear_days": 4
     },
     {
       "rank": 5,
@@ -83,40 +101,58 @@
       "appear_days": 4
     },
     {
-      "rank": 4,
-      "name": "posthog",
-      "owner": "PostHog",
-      "url": "https://github.com/PostHog/posthog",
-      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-      "stars": 35865,
-      "forks": 2993,
-      "stars_today": 77,
-      "language": "Python",
+      "rank": 1,
+      "name": "worldmonitor",
+      "owner": "koala73",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "stars": 65652,
+      "forks": 10213,
+      "stars_today": 1295,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
-        "what": "作者构建了开源产品分析平台PostHog，集成AI可观测性、事件分析、会话回放、特性标志、A/B实验、错误追踪和日志等开发者工具。",
-        "purpose": "解决产品团队缺乏统一上下文来诊断问题、发现机会和快速交付修复的问题，实现数据驱动的自驱动产品开发。",
-        "scene": "产品经理通过分析仪表板了解用户行为并优化功能；开发者利用会话回放和错误追踪快速定位并修复缺陷；团队通过特性标志和A/B实验安全发布新特性并评估效果。"
+        "what": "作者构建了一个AI驱动的实时全球情报仪表板，聚合新闻、监控地缘政治事件并跟踪基础设施状态。",
+        "purpose": "解决多源信息碎片化问题，提供统一的实时态势感知界面，帮助用户快速掌握全球动态。",
+        "scene": "安全分析师监控全球安全事件、企业风险团队评估地缘政治风险、新闻机构实时聚合多源信息"
       },
-      "appear_days": 4
+      "appear_days": 3
     },
     {
-      "rank": 16,
-      "name": "build-your-own-x",
-      "owner": "codecrafters-io",
-      "url": "https://github.com/codecrafters-io/build-your-own-x",
-      "description": "Master programming by recreating your favorite technologies from scratch.",
-      "stars": 526361,
-      "forks": 49801,
-      "stars_today": 435,
-      "language": "Markdown",
+      "rank": 13,
+      "name": "Apollo-11",
+      "owner": "chrislgarry",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "stars": 69981,
+      "forks": 7842,
+      "stars_today": 1235,
+      "language": "Assembly",
       "topics": [],
       "summary": {
-        "what": "作者收集并整理了从零开始构建各种软件和技术的教程资源列表。",
-        "purpose": "帮助开发者通过亲手实现来深入理解常用技术的内部原理，提升编程能力。",
-        "scene": "自学编程与系统设计、技术面试准备、编程教学与培训"
+        "what": "作者将阿波罗11号指令舱和登月舱的制导计算机原始汇编源代码整理并开源发布",
+        "purpose": "为公众提供人类首次登月任务的核心软件原始资料，促进航天历史与计算机科学的教育研究",
+        "scene": "航天历史研究、计算机科学教学、软件遗产保护"
       },
-      "appear_days": 4
+      "appear_days": 3
+    },
+    {
+      "rank": 17,
+      "name": "pi-web",
+      "owner": "agegr",
+      "url": "https://github.com/agegr/pi-web",
+      "description": "Web UI for the pi coding agent",
+      "stars": 1746,
+      "forks": 279,
+      "stars_today": 298,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者为pi编码代理开发了一个TypeScript实现的Web用户界面",
+        "purpose": "让开发者通过浏览器可视化地使用pi代理进行编码，降低命令行交互门槛",
+        "scene": "浏览器端代码生成与编辑、与AI代理实时对话协作、项目文件与配置管理"
+      },
+      "appear_days": 3
     },
     {
       "rank": 5,
@@ -133,24 +169,6 @@
         "what": "作者构建了一个集语音克隆、语音识别和语音生成为一体的开源AI语音工作室。",
         "purpose": "提供一站式AI语音处理解决方案，降低高质量语音合成和转换的门槛。",
         "scene": "用户克隆名人声音制作趣味内容、记者使用听写功能快速转录采访录音、作家使用创作功能将文本转为有声书"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 4,
-      "name": "OmniRoute",
-      "owner": "diegosouzapw",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
-      "stars": 21956,
-      "forks": 2974,
-      "stars_today": 1107,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个聚合268+AI提供商和500+模型的统一API网关，支持自动回退和令牌压缩。",
-        "purpose": "解决开发者需对接多个AI服务、管理配额和成本的问题，通过单一端点简化集成并优化使用。",
-        "scene": "在Claude Code等编程工具中无缝切换AI模型、构建多模态应用时通过一个API调用不同模型、在桌面或PWA应用中集成AI功能以利用免费提供商降低成本。"
       },
       "appear_days": 3
     },
@@ -189,29 +207,11 @@
         "scene": "个人自学AI Agent理论与开发、企业团队构建智能Agent应用、高校或培训机构作为AI课程教材"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 12,
-      "name": "jcode",
-      "owner": "1jehuang",
-      "url": "https://github.com/1jehuang/jcode",
-      "description": "Coding Agent Harness",
-      "stars": 8969,
-      "forks": 1040,
-      "stars_today": 235,
-      "language": "Rust",
-      "topics": [],
-      "summary": {
-        "what": "作者使用Rust构建了一个编码代理的集成测试与执行框架",
-        "purpose": "为编码代理提供标准化的开发、评估和部署环境，简化代理与代码库的交互",
-        "scene": "自动化代码生成与单元测试验证、多代理协作完成复杂重构任务、持续集成中代理辅助的代码审查与修复"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向是AI工具与基础设施，特别是面向AI编码代理的本地优先工具（如code-review-graph、wigolo）和开源AI语音应用（voicebox）占据主导。多个项目围绕模型上下文协议（MCP）、AI网关和自托管部署展开，反映出开发者正在从模型应用转向构建围绕大模型的实用化、隐私优先的工程生态。",
-    "language_trend": "Python以43次出现高居榜首，主要得益于其在AI/ML生态中的核心地位，大量AI项目均使用Python构建。TypeScript以32次紧随其后，体现了全栈Web开发和AI工具前端接口的广泛需求；Rust出现12次，虽总量不大但增长明显，因其高性能和安全性正被越来越多地用于系统级工具（如部署平台和代码分析），而C++和Shell的使用相对平稳或略有下降。",
-    "notable_projects": "tirth8205/code-review-graph（上榜6天，⭐19.7k）将代码智能图与MCP协议结合，可能开创AI辅助开发的新交互范式，值得重点关注。rohitg00/ai-engineering-from-scratch（上榜4天，⭐39.1k）以极快增速反映了社区对系统化学习AI工程化的强烈需求，是AI教育领域的爆款。jamiepine/voicebox（上榜3天，⭐43.4k）作为开源AI语音工作室，展示了语音克隆与生成技术的实用化突破，代表AI多媒体应用的前沿趋势。"
+    "hot_direction": "本周最热技术方向是AI代理与开发工具，多个项目聚焦于AI编码助手（如code-review-graph、wigolo）、AI网关（OmniRoute）和AI语音（voicebox），反映了社区对AI应用落地的强烈兴趣。同时，从零学习AI工程的项目（ai-engineering-from-scratch）获得极高关注，说明开发者正积极寻求将AI集成到工作流中的实践方法。",
+    "language_trend": "Python以40次出现稳居榜首，主要得益于其在AI/ML和数据科学领域的统治地位；TypeScript紧随其后（33次），体现出全栈开发和前端工具链的持续繁荣。Rust（15次）的上升趋势明显，反映出系统编程和性能敏感场景对内存安全语言的青睐，而JavaScript（4次）的式微可能与TypeScript的替代效应有关。",
+    "notable_projects": "rohitg00/ai-engineering-from-scratch（⭐39k）是一份从零构建AI工程的学习指南，其高星数表明开发者对系统化掌握AI工程化的迫切需求。koala73/worldmonitor（⭐65k）作为AI驱动的实时全球情报仪表板，展示了AI在数据聚合与可视化领域的创新应用。jamiepine/voicebox（⭐43k）则代表了开源AI语音技术的爆发，提供语音克隆、听写等功能，凸显语音交互成为新热点。"
   }
 }
