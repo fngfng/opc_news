@@ -1,51 +1,33 @@
 {
-  "generated_at": "2026-07-24T02:16:13.653413",
-  "week_range": "2026-07-18 ~ 2026-07-24",
+  "generated_at": "2026-07-25T02:18:12.540770",
+  "week_range": "2026-07-19 ~ 2026-07-25",
   "days_collected": 7,
-  "total_projects": 67,
-  "total_stars_today": 82275,
+  "total_projects": 62,
+  "total_stars_today": 91690,
   "top_languages": [
     [
       "Python",
-      40
+      38
     ],
     [
       "TypeScript",
-      33
+      34
     ],
     [
       "Rust",
-      15
-    ],
-    [
-      "C++",
-      6
+      18
     ],
     [
       "JavaScript",
-      4
+      5
+    ],
+    [
+      "C++",
+      5
     ]
   ],
   "trending_topics": [],
   "top_picks": [
-    {
-      "rank": 9,
-      "name": "code-review-graph",
-      "owner": "tirth8205",
-      "url": "https://github.com/tirth8205/code-review-graph",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "stars": 19768,
-      "forks": 2108,
-      "stars_today": 74,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个本地优先的代码智能图谱工具，为AI编码工具生成代码库的持久化关系地图，实现精准的上下文缩减。",
-        "purpose": "解决AI编码工具在处理大型代码库时上下文窗口过载、信息冗余的问题，通过图谱仅提供相关代码。",
-        "scene": "代码审查时自动提取相关上下文、大型仓库中AI辅助开发精准定位代码、与MCP服务器集成提供智能代码导航"
-      },
-      "appear_days": 6
-    },
     {
       "rank": 4,
       "name": "OmniRoute",
@@ -61,6 +43,60 @@
         "what": "作者构建了一个聚合268+AI提供商和500+模型的统一API网关，支持自动回退和令牌压缩。",
         "purpose": "解决开发者需对接多个AI服务、管理配额和成本的问题，通过单一端点简化集成并优化使用。",
         "scene": "在Claude Code等编程工具中无缝切换AI模型、构建多模态应用时通过一个API调用不同模型、在桌面或PWA应用中集成AI功能以利用免费提供商降低成本。"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 6,
+      "name": "code-review-graph",
+      "owner": "tirth8205",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "stars": 20194,
+      "forks": 2125,
+      "stars_today": 355,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个本地优先的代码智能图谱工具，为AI编码工具生成代码库的持久化关系地图，实现精准的上下文缩减。",
+        "purpose": "解决AI编码工具在处理大型代码库时上下文窗口过载、信息冗余的问题，通过图谱仅提供相关代码。",
+        "scene": "代码审查时自动提取相关上下文、大型仓库中AI辅助开发精准定位代码、与MCP服务器集成提供智能代码导航"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 1,
+      "name": "worldmonitor",
+      "owner": "koala73",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "stars": 65652,
+      "forks": 10213,
+      "stars_today": 1295,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个AI驱动的实时全球情报仪表板，聚合新闻、监控地缘政治事件并跟踪基础设施状态。",
+        "purpose": "解决多源信息碎片化问题，提供统一的实时态势感知界面，帮助用户快速掌握全球动态。",
+        "scene": "安全分析师监控全球安全事件、企业风险团队评估地缘政治风险、新闻机构实时聚合多源信息"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 13,
+      "name": "Apollo-11",
+      "owner": "chrislgarry",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "stars": 69981,
+      "forks": 7842,
+      "stars_today": 1235,
+      "language": "Assembly",
+      "topics": [],
+      "summary": {
+        "what": "作者将阿波罗11号指令舱和登月舱的制导计算机原始汇编源代码整理并开源发布",
+        "purpose": "为公众提供人类首次登月任务的核心软件原始资料，促进航天历史与计算机科学的教育研究",
+        "scene": "航天历史研究、计算机科学教学、软件遗产保护"
       },
       "appear_days": 4
     },
@@ -101,117 +137,81 @@
       "appear_days": 4
     },
     {
-      "rank": 1,
-      "name": "worldmonitor",
-      "owner": "koala73",
-      "url": "https://github.com/koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "stars": 65652,
-      "forks": 10213,
-      "stars_today": 1295,
-      "language": "TypeScript",
+      "rank": 10,
+      "name": "awesome-claude-skills",
+      "owner": "ComposioHQ",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "stars": 68827,
+      "forks": 7809,
+      "stars_today": 163,
+      "language": "Python",
       "topics": [],
       "summary": {
-        "what": "作者构建了一个AI驱动的实时全球情报仪表板，聚合新闻、监控地缘政治事件并跟踪基础设施状态。",
-        "purpose": "解决多源信息碎片化问题，提供统一的实时态势感知界面，帮助用户快速掌握全球动态。",
-        "scene": "安全分析师监控全球安全事件、企业风险团队评估地缘政治风险、新闻机构实时聚合多源信息"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 13,
-      "name": "Apollo-11",
-      "owner": "chrislgarry",
-      "url": "https://github.com/chrislgarry/Apollo-11",
-      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "stars": 69981,
-      "forks": 7842,
-      "stars_today": 1235,
-      "language": "Assembly",
-      "topics": [],
-      "summary": {
-        "what": "作者将阿波罗11号指令舱和登月舱的制导计算机原始汇编源代码整理并开源发布",
-        "purpose": "为公众提供人类首次登月任务的核心软件原始资料，促进航天历史与计算机科学的教育研究",
-        "scene": "航天历史研究、计算机科学教学、软件遗产保护"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 17,
-      "name": "pi-web",
-      "owner": "agegr",
-      "url": "https://github.com/agegr/pi-web",
-      "description": "Web UI for the pi coding agent",
-      "stars": 1746,
-      "forks": 279,
-      "stars_today": 298,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者为pi编码代理开发了一个TypeScript实现的Web用户界面",
-        "purpose": "让开发者通过浏览器可视化地使用pi代理进行编码，降低命令行交互门槛",
-        "scene": "浏览器端代码生成与编辑、与AI代理实时对话协作、项目文件与配置管理"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 5,
-      "name": "voicebox",
-      "owner": "jamiepine",
-      "url": "https://github.com/jamiepine/voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "stars": 43465,
-      "forks": 5304,
-      "stars_today": 610,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个集语音克隆、语音识别和语音生成为一体的开源AI语音工作室。",
-        "purpose": "提供一站式AI语音处理解决方案，降低高质量语音合成和转换的门槛。",
-        "scene": "用户克隆名人声音制作趣味内容、记者使用听写功能快速转录采访录音、作家使用创作功能将文本转为有声书"
+        "what": "作者创建了一个精选的Claude技能、资源和工具列表，帮助用户定制Claude AI工作流。",
+        "purpose": "解决用户难以发现和整合Claude自定义技能与工具的问题，加速Claude工作流的构建。",
+        "scene": "开发者寻找现成的Claude技能集成、用户学习如何自定义Claude行为、企业构建基于Claude的自动化流程"
       },
       "appear_days": 3
     },
     {
       "rank": 18,
-      "name": "openship",
-      "owner": "oblien",
-      "url": "https://github.com/oblien/openship",
-      "description": "Self-hosted deployment platform",
-      "stars": 4886,
-      "forks": 339,
-      "stars_today": 1641,
-      "language": "TypeScript",
+      "name": "Pumpkin",
+      "owner": "Pumpkin-MC",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "stars": 8451,
+      "forks": 591,
+      "stars_today": 108,
+      "language": "Rust",
       "topics": [],
       "summary": {
-        "what": "作者开发了一个自托管的部署平台，支持自动化应用部署和托管。",
-        "purpose": "解决开发者需要简单、可控的自托管部署方案，避免依赖第三方平台的问题。",
-        "scene": "个人开发者快速部署静态网站或全栈应用、团队内部搭建私有PaaS平台、用于学习和演示现代部署流程"
+        "what": "作者用Rust语言开发了一个高性能、高效率的Minecraft服务器软件。",
+        "purpose": "解决现有Minecraft服务器性能瓶颈和资源占用高的问题，提供更快速、更稳定的游戏托管体验。",
+        "scene": "个人玩家搭建小型私服、大型社区运营公共服务器、教育机构用于编程教学或游戏研究、开发者进行插件或模组测试"
       },
       "appear_days": 3
     },
     {
-      "rank": 1,
-      "name": "ai-agent-book",
-      "owner": "bojieli",
-      "url": "https://github.com/bojieli/ai-agent-book",
-      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "stars": 6371,
-      "forks": 593,
-      "stars_today": 1734,
+      "rank": 9,
+      "name": "Kronos",
+      "owner": "shiyu-coder",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars": 32625,
+      "forks": 5601,
+      "stars_today": 137,
       "language": "Python",
       "topics": [],
       "summary": {
-        "what": "作者李博杰撰写并开源了《深入理解 AI Agent：设计原理与工程实践》一书，提供全书正文、编译版PDF和按章配套的Python代码。",
-        "purpose": "解决AI Agent领域缺乏系统性从原理到工程实践的学习资源问题，帮助读者深入理解并动手实现AI Agent。",
-        "scene": "个人自学AI Agent理论与开发、企业团队构建智能Agent应用、高校或培训机构作为AI课程教材"
+        "what": "作者开发了一个面向金融市场的基座模型Kronos，将金融时间序列和文本统一建模为语言进行预训练。",
+        "purpose": "解决金融领域缺乏通用预训练模型、传统方法依赖人工特征且泛化能力不足的问题。",
+        "scene": "股票价格趋势预测、金融新闻事件驱动分析、自动化交易策略生成"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 5,
+      "name": "likec4",
+      "owner": "likec4",
+      "url": "https://github.com/likec4/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "stars": 4312,
+      "forks": 303,
+      "stars_today": 80,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个从代码自动生成并实时更新软件架构图的工具",
+        "purpose": "解决软件架构文档与代码实际状态脱节、手动绘制架构图耗时且易过时的问题",
+        "scene": "开发人员实时查看架构图确保设计与实现一致、团队协作共享架构视图促进沟通、架构演进时通过代码变更自动更新图表支持持续重构"
       },
       "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向是AI代理与开发工具，多个项目聚焦于AI编码助手（如code-review-graph、wigolo）、AI网关（OmniRoute）和AI语音（voicebox），反映了社区对AI应用落地的强烈兴趣。同时，从零学习AI工程的项目（ai-engineering-from-scratch）获得极高关注，说明开发者正积极寻求将AI集成到工作流中的实践方法。",
-    "language_trend": "Python以40次出现稳居榜首，主要得益于其在AI/ML和数据科学领域的统治地位；TypeScript紧随其后（33次），体现出全栈开发和前端工具链的持续繁荣。Rust（15次）的上升趋势明显，反映出系统编程和性能敏感场景对内存安全语言的青睐，而JavaScript（4次）的式微可能与TypeScript的替代效应有关。",
-    "notable_projects": "rohitg00/ai-engineering-from-scratch（⭐39k）是一份从零构建AI工程的学习指南，其高星数表明开发者对系统化掌握AI工程化的迫切需求。koala73/worldmonitor（⭐65k）作为AI驱动的实时全球情报仪表板，展示了AI在数据聚合与可视化领域的创新应用。jamiepine/voicebox（⭐43k）则代表了开源AI语音技术的爆发，提供语音克隆、听写等功能，凸显语音交互成为新热点。"
+    "hot_direction": "本周最热技术方向无疑是AI工具与基础设施，尤其是围绕大语言模型的应用网关、本地优先的代码智能图以及AI代理开发工具。多个项目如OmniRoute和wigolo聚焦于为AI编码代理提供统一接口和本地化支持，反映出开发者对简化AI集成和提升开发效率的强烈需求。同时，实时AI仪表板（worldmonitor）和Claude技能合集（awesome-claude-skills）的高星数增长，表明AI应用生态正在快速扩展，从模型能力延伸到具体场景的落地工具。",
+    "language_trend": "Python以38次出现稳居榜首，主要得益于其在AI/ML领域的统治地位，大量AI项目均采用Python开发。TypeScript紧随其后（34次），显示出其在全栈开发、工具构建及前端领域的持续强势，并逐渐取代传统JavaScript（仅5次）。Rust（18次）的崛起值得关注，其在系统级编程、高性能服务器（如Pumpkin-MC）中的应用增多，反映了行业对内存安全和并发性能的重视。",
+    "notable_projects": "1. koala73/worldmonitor：以65652星成为本周最亮眼项目，它提供AI驱动的实时全球情报仪表板，展示了AI在信息聚合与实时分析领域的巨大潜力，其爆炸式增长说明公众对智能化全球视野的渴求。2. ComposioHQ/awesome-claude-skills：68827星，作为Claude技能资源的精选集，直接反映了Claude生态的蓬勃发展和开发者对构建AI Agent技能的热情，是AI应用层创新的风向标。3. diegosouzapw/OmniRoute：21956星，作为MIT协议的免费AI网关，旨在统一多AI服务的端点，解决了当前AI API碎片化的痛点，体现了AI基础设施层走向标准化和简化的趋势。"
   }
 }
