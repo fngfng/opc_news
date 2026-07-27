@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-26T02:26:38.054078",
-  "week_range": "2026-07-20 ~ 2026-07-26",
+  "generated_at": "2026-07-27T02:35:29.164882",
+  "week_range": "2026-07-21 ~ 2026-07-27",
   "days_collected": 7,
-  "total_projects": 66,
-  "total_stars_today": 100063,
+  "total_projects": 62,
+  "total_stars_today": 100944,
   "top_languages": [
-    [
-      "Python",
-      36
-    ],
     [
       "TypeScript",
       32
+    ],
+    [
+      "Python",
+      30
     ],
     [
       "Rust",
@@ -19,15 +19,51 @@
     ],
     [
       "JavaScript",
-      7
+      10
     ],
     [
       "Go",
-      5
+      7
     ]
   ],
   "trending_topics": [],
   "top_picks": [
+    {
+      "rank": 9,
+      "name": "Kronos",
+      "owner": "shiyu-coder",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars": 32625,
+      "forks": 5601,
+      "stars_today": 137,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个面向金融市场的基座模型Kronos，将金融时间序列和文本统一建模为语言进行预训练。",
+        "purpose": "解决金融领域缺乏通用预训练模型、传统方法依赖人工特征且泛化能力不足的问题。",
+        "scene": "股票价格趋势预测、金融新闻事件驱动分析、自动化交易策略生成"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 18,
+      "name": "Pumpkin",
+      "owner": "Pumpkin-MC",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "stars": 8451,
+      "forks": 591,
+      "stars_today": 108,
+      "language": "Rust",
+      "topics": [],
+      "summary": {
+        "what": "作者用Rust语言开发了一个高性能、高效率的Minecraft服务器软件。",
+        "purpose": "解决现有Minecraft服务器性能瓶颈和资源占用高的问题，提供更快速、更稳定的游戏托管体验。",
+        "scene": "个人玩家搭建小型私服、大型社区运营公共服务器、教育机构用于编程教学或游戏研究、开发者进行插件或模组测试"
+      },
+      "appear_days": 5
+    },
     {
       "rank": 4,
       "name": "OmniRoute",
@@ -47,6 +83,42 @@
       "appear_days": 5
     },
     {
+      "rank": 5,
+      "name": "ego-lite",
+      "owner": "citrolabs",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "The best browser for both you and your AI agents work in parallel.",
+      "stars": 1714,
+      "forks": 94,
+      "stars_today": 247,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一款支持用户与AI代理并行工作的浏览器。",
+        "purpose": "解决传统浏览器无法同时满足人类和AI代理高效协作的问题。",
+        "scene": "用户浏览网页时AI代理在后台执行自动化任务、AI代理辅助用户进行信息检索和整理、多代理协作完成复杂在线工作流"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 1,
+      "name": "buzz",
+      "owner": "block",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "stars": 7065,
+      "forks": 563,
+      "stars_today": 2162,
+      "language": "Rust",
+      "topics": [],
+      "summary": {
+        "what": "作者使用Rust语言开发了一个名为buzz的蜂巢思维通信平台，实现去中心化实时消息传递与群体共识。",
+        "purpose": "解决分布式群体间高效、低延迟、抗审查的信息共享与集体决策问题。",
+        "scene": "去中心化自治组织（DAO）治理讨论、分布式团队实时协作、物联网设备群体智能调度"
+      },
+      "appear_days": 4
+    },
+    {
       "rank": 10,
       "name": "awesome-claude-skills",
       "owner": "ComposioHQ",
@@ -61,42 +133,6 @@
         "what": "作者创建了一个精选的Claude技能、资源和工具列表，帮助用户定制Claude AI工作流。",
         "purpose": "解决用户难以发现和整合Claude自定义技能与工具的问题，加速Claude工作流的构建。",
         "scene": "开发者寻找现成的Claude技能集成、用户学习如何自定义Claude行为、企业构建基于Claude的自动化流程"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 9,
-      "name": "Kronos",
-      "owner": "shiyu-coder",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "stars": 32625,
-      "forks": 5601,
-      "stars_today": 137,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个面向金融市场的基座模型Kronos，将金融时间序列和文本统一建模为语言进行预训练。",
-        "purpose": "解决金融领域缺乏通用预训练模型、传统方法依赖人工特征且泛化能力不足的问题。",
-        "scene": "股票价格趋势预测、金融新闻事件驱动分析、自动化交易策略生成"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 18,
-      "name": "Pumpkin",
-      "owner": "Pumpkin-MC",
-      "url": "https://github.com/Pumpkin-MC/Pumpkin",
-      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
-      "stars": 8451,
-      "forks": 591,
-      "stars_today": 108,
-      "language": "Rust",
-      "topics": [],
-      "summary": {
-        "what": "作者用Rust语言开发了一个高性能、高效率的Minecraft服务器软件。",
-        "purpose": "解决现有Minecraft服务器性能瓶颈和资源占用高的问题，提供更快速、更稳定的游戏托管体验。",
-        "scene": "个人玩家搭建小型私服、大型社区运营公共服务器、教育机构用于编程教学或游戏研究、开发者进行插件或模组测试"
       },
       "appear_days": 4
     },
@@ -137,81 +173,45 @@
       "appear_days": 4
     },
     {
-      "rank": 2,
-      "name": "code-review-graph",
-      "owner": "tirth8205",
-      "url": "https://github.com/tirth8205/code-review-graph",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "stars": 21472,
-      "forks": 2196,
-      "stars_today": 663,
-      "language": "Python",
+      "rank": 11,
+      "name": "Instatic",
+      "owner": "CoreBunch",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "stars": 4310,
+      "forks": 410,
+      "stars_today": 201,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
-        "what": "作者构建了一个本地优先的代码智能图谱工具，为AI编码工具生成代码库的持久化关系地图，实现精准的上下文缩减。",
-        "purpose": "解决AI编码工具在处理大型代码库时上下文窗口过载、信息冗余的问题，通过图谱仅提供相关代码。",
-        "scene": "代码审查时自动提取相关上下文、大型仓库中AI辅助开发精准定位代码、与MCP服务器集成提供智能代码导航"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 1,
-      "name": "buzz",
-      "owner": "block",
-      "url": "https://github.com/block/buzz",
-      "description": "A hive mind communication platform",
-      "stars": 7065,
-      "forks": 563,
-      "stars_today": 2162,
-      "language": "Rust",
-      "topics": [],
-      "summary": {
-        "what": "作者使用Rust语言开发了一个名为buzz的蜂巢思维通信平台，实现去中心化实时消息传递与群体共识。",
-        "purpose": "解决分布式群体间高效、低延迟、抗审查的信息共享与集体决策问题。",
-        "scene": "去中心化自治组织（DAO）治理讨论、分布式团队实时协作、物联网设备群体智能调度"
+        "what": "作者构建了开源自托管的可视化静态CMS Instatic，集成用户、角色、插件和数据库功能。",
+        "purpose": "提供Webflow/WordPress的开源替代，让用户自托管并输出干净静态页面，避免闭源和动态性能瓶颈。",
+        "scene": "个人创作者搭建作品集、企业构建营销官网、团队协作管理内容并自定义插件扩展。"
       },
       "appear_days": 3
     },
     {
-      "rank": 5,
-      "name": "ego-lite",
-      "owner": "citrolabs",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "description": "The best browser for both you and your AI agents work in parallel.",
-      "stars": 1714,
-      "forks": 94,
-      "stars_today": 247,
-      "language": "JavaScript",
+      "rank": 16,
+      "name": "Chat2DB",
+      "owner": "OtterMind",
+      "url": "https://github.com/OtterMind/Chat2DB",
+      "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+      "stars": 26350,
+      "forks": 2880,
+      "stars_today": 82,
+      "language": "Java",
       "topics": [],
       "summary": {
-        "what": "作者开发了一款支持用户与AI代理并行工作的浏览器。",
-        "purpose": "解决传统浏览器无法同时满足人类和AI代理高效协作的问题。",
-        "scene": "用户浏览网页时AI代理在后台执行自动化任务、AI代理辅助用户进行信息检索和整理、多代理协作完成复杂在线工作流"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 14,
-      "name": "harper",
-      "owner": "Automattic",
-      "url": "https://github.com/Automattic/harper",
-      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
-      "stars": 12368,
-      "forks": 459,
-      "stars_today": 624,
-      "language": "Rust",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了Harper，一个离线、隐私优先的语法检查器，使用Rust编写，快速且开源。",
-        "purpose": "解决现有语法检查工具依赖云端服务、可能泄露隐私且响应慢的问题，提供一个本地运行、保护隐私的替代方案。",
-        "scene": "在文本编辑器中实时检查语法错误、在命令行中批量检查文档、作为库集成到其他软件中提供语法检查功能"
+        "what": "作者开发了一个AI驱动的多数据库客户端，支持自然语言转SQL和智能数据库管理",
+        "purpose": "解决传统数据库工具需要手动编写SQL、操作门槛高的问题，通过AI对话简化数据查询与管理",
+        "scene": "业务人员通过自然语言自助查询数据、开发人员快速生成和调试SQL语句、数据库管理员利用AI进行日常运维和性能分析"
       },
       "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向无疑是人工智能（AI），尤其是围绕大语言模型（LLM）的应用、工具和基础设施。上榜项目中，awesome-claude-skills、Kronos、worldmonitor、code-review-graph 等均直接与 AI 相关，涵盖模型技能、垂直领域基础模型、AI 驱动仪表板和代码智能图谱，反映出社区从模型应用向生态工具和行业落地的深化。此外，MCP（Model Context Protocol）等 AI 集成协议的出现也表明 AI 开发正走向标准化和互操作。",
-    "language_trend": "Python 以 36 次出现稳居首位，主要得益于其在 AI/ML 生态中的核心地位，大量 AI 项目首选 Python。TypeScript 以 32 次紧随其后，显示全栈开发和前端工具持续活跃，许多 AI 工具也提供 TypeScript 接口。Rust 出现 21 次，增长显著，表明系统级编程语言在构建高性能、安全的 AI 基础设施和开发工具中日益受到青睐，而 JavaScript 和 Go 的出现次数相对较少，可能反映开发者逐渐向 TypeScript 和 Rust 迁移的趋势。",
-    "notable_projects": "ComposioHQ/awesome-claude-skills（⭐68.8k）值得重点关注，因为它汇聚了 Claude 模型的各类技能和资源，成为 Claude 生态的入口，反映了开发者对 Claude 应用的高度热情。shiyu-coder/Kronos（⭐32.6k）作为金融领域的基础模型，展示了 AI 在垂直行业的深度应用，可能推动金融分析的智能化变革。tirth8205/code-review-graph（⭐21.5k）结合本地优先和 AI 代码智能，代表了下一代代码审查工具的方向，强调隐私和智能辅助，有望改变开发者的工作方式。"
+    "hot_direction": "本周最热技术方向无疑是AI，特别是大模型应用和AI代理生态。上榜项目中Kronos、OmniRoute、ego-lite、awesome-claude-skills、worldmonitor等均与AI直接相关，涵盖金融模型、AI网关、AI浏览器、技能库和智能情报，显示出AI正从模型层向工具层和应用层快速渗透。",
+    "language_trend": "TypeScript以32次高居榜首，反映全栈开发和前端工具链的持续繁荣；Python紧随其后（30次），主要得益于AI与数据科学项目的活跃。Rust以21次稳居第三，表明其在系统工具、高性能基础设施中的采用率显著提升，而JavaScript（10次）和Go（7次）则相对平稳，前者被TypeScript分流，后者在云原生领域保持稳定。",
+    "notable_projects": "Kronos作为金融语言基础模型，将大模型能力引入金融垂直领域，创新性强且星数增长迅猛，值得关注其后续应用落地。awesome-claude-skills以近7万星成为现象级项目，它系统整理了Claude的技能和资源，反映出AI代理生态的快速成熟和开发者对可复用AI能力的强烈需求。worldmonitor则展示了AI在实时全球情报聚合与可视化方面的潜力，结合多源数据和AI分析，是AI+信息决策的典型代表。"
   }
 }
