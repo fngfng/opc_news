@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-27T02:35:29.164882",
-  "week_range": "2026-07-21 ~ 2026-07-27",
+  "generated_at": "2026-07-28T02:09:34.340715",
+  "week_range": "2026-07-22 ~ 2026-07-28",
   "days_collected": 7,
-  "total_projects": 62,
-  "total_stars_today": 100944,
+  "total_projects": 60,
+  "total_stars_today": 91407,
   "top_languages": [
     [
       "TypeScript",
-      32
+      28
     ],
     [
       "Python",
-      30
+      25
     ],
     [
       "Rust",
-      21
+      19
     ],
     [
       "JavaScript",
-      10
+      11
     ],
     [
       "Go",
-      7
+      9
     ]
   ],
   "trending_topics": [],
@@ -44,7 +44,7 @@
         "purpose": "解决金融领域缺乏通用预训练模型、传统方法依赖人工特征且泛化能力不足的问题。",
         "scene": "股票价格趋势预测、金融新闻事件驱动分析、自动化交易策略生成"
       },
-      "appear_days": 5
+      "appear_days": 6
     },
     {
       "rank": 18,
@@ -65,22 +65,22 @@
       "appear_days": 5
     },
     {
-      "rank": 4,
-      "name": "OmniRoute",
-      "owner": "diegosouzapw",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
-      "stars": 21956,
-      "forks": 2974,
-      "stars_today": 1107,
-      "language": "TypeScript",
+      "rank": 11,
+      "name": "open-code-review",
+      "owner": "alibaba",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": 11608,
+      "forks": 798,
+      "stars_today": 180,
+      "language": "Go",
       "topics": [],
       "summary": {
-        "what": "作者构建了一个聚合268+AI提供商和500+模型的统一API网关，支持自动回退和令牌压缩。",
-        "purpose": "解决开发者需对接多个AI服务、管理配额和成本的问题，通过单一端点简化集成并优化使用。",
-        "scene": "在Claude Code等编程工具中无缝切换AI模型、构建多模态应用时通过一个API调用不同模型、在桌面或PWA应用中集成AI功能以利用免费提供商降低成本。"
+        "what": "阿里巴巴开源了一款混合架构的代码审查工具，结合确定性规则引擎与LLM代理，提供精确的行级评论和内置安全规则集。",
+        "purpose": "自动化检测代码中的空指针、线程安全、XSS、SQL注入等缺陷，提升代码质量并降低人工审查成本。",
+        "scene": "开发者本地提交前自检、CI/CD流水线集成自动审查、企业大规模代码库的日常质量监控"
       },
-      "appear_days": 5
+      "appear_days": 4
     },
     {
       "rank": 5,
@@ -173,45 +173,45 @@
       "appear_days": 4
     },
     {
-      "rank": 11,
-      "name": "Instatic",
-      "owner": "CoreBunch",
-      "url": "https://github.com/CoreBunch/Instatic",
-      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
-      "stars": 4310,
-      "forks": 410,
-      "stars_today": 201,
+      "rank": 16,
+      "name": "OmniRoute",
+      "owner": "diegosouzapw",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "stars": 23678,
+      "forks": 3164,
+      "stars_today": 2034,
       "language": "TypeScript",
       "topics": [],
       "summary": {
-        "what": "作者构建了开源自托管的可视化静态CMS Instatic，集成用户、角色、插件和数据库功能。",
-        "purpose": "提供Webflow/WordPress的开源替代，让用户自托管并输出干净静态页面，避免闭源和动态性能瓶颈。",
-        "scene": "个人创作者搭建作品集、企业构建营销官网、团队协作管理内容并自定义插件扩展。"
+        "what": "作者构建了一个聚合268+AI提供商和500+模型的统一API网关，支持自动回退和令牌压缩。",
+        "purpose": "解决开发者需对接多个AI服务、管理配额和成本的问题，通过单一端点简化集成并优化使用。",
+        "scene": "在Claude Code等编程工具中无缝切换AI模型、构建多模态应用时通过一个API调用不同模型、在桌面或PWA应用中集成AI功能以利用免费提供商降低成本。"
       },
-      "appear_days": 3
+      "appear_days": 4
     },
     {
-      "rank": 16,
-      "name": "Chat2DB",
-      "owner": "OtterMind",
-      "url": "https://github.com/OtterMind/Chat2DB",
-      "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
-      "stars": 26350,
-      "forks": 2880,
-      "stars_today": 82,
-      "language": "Java",
+      "rank": 10,
+      "name": "bitchat",
+      "owner": "permissionlesstech",
+      "url": "https://github.com/permissionlesstech/bitchat",
+      "description": "bluetooth mesh chat, IRC vibes",
+      "stars": 28757,
+      "forks": 4313,
+      "stars_today": 1720,
+      "language": "Swift",
       "topics": [],
       "summary": {
-        "what": "作者开发了一个AI驱动的多数据库客户端，支持自然语言转SQL和智能数据库管理",
-        "purpose": "解决传统数据库工具需要手动编写SQL、操作门槛高的问题，通过AI对话简化数据查询与管理",
-        "scene": "业务人员通过自然语言自助查询数据、开发人员快速生成和调试SQL语句、数据库管理员利用AI进行日常运维和性能分析"
+        "what": "作者开发了一个基于蓝牙Mesh网络的去中心化聊天应用，提供类似IRC的实时群聊体验。",
+        "purpose": "解决在没有互联网或蜂窝网络覆盖时，设备间无法进行去中心化、低功耗实时通信的问题。",
+        "scene": "户外无网络环境下的团队协作、音乐节或大型活动中与附近的人聊天、紧急情况下的应急通信"
       },
       "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向无疑是AI，特别是大模型应用和AI代理生态。上榜项目中Kronos、OmniRoute、ego-lite、awesome-claude-skills、worldmonitor等均与AI直接相关，涵盖金融模型、AI网关、AI浏览器、技能库和智能情报，显示出AI正从模型层向工具层和应用层快速渗透。",
-    "language_trend": "TypeScript以32次高居榜首，反映全栈开发和前端工具链的持续繁荣；Python紧随其后（30次），主要得益于AI与数据科学项目的活跃。Rust以21次稳居第三，表明其在系统工具、高性能基础设施中的采用率显著提升，而JavaScript（10次）和Go（7次）则相对平稳，前者被TypeScript分流，后者在云原生领域保持稳定。",
-    "notable_projects": "Kronos作为金融语言基础模型，将大模型能力引入金融垂直领域，创新性强且星数增长迅猛，值得关注其后续应用落地。awesome-claude-skills以近7万星成为现象级项目，它系统整理了Claude的技能和资源，反映出AI代理生态的快速成熟和开发者对可复用AI能力的强烈需求。worldmonitor则展示了AI在实时全球情报聚合与可视化方面的潜力，结合多源数据和AI分析，是AI+信息决策的典型代表。"
+    "hot_direction": "本周最热技术方向是AI/LLM应用与开发者工具。多个高星项目聚焦于垂直领域大模型（如金融领域的Kronos）、AI代理（如ego-lite浏览器）和AI技能生态（awesome-claude-skills），显示出AI正在深入具体场景。同时，阿里巴巴的开源代码审查工具也获得大量关注，反映开发者对高效协作工具的需求。",
+    "language_trend": "TypeScript和Python以高频出现保持领先，分别对应全栈Web开发和AI/数据科学生态。Rust的出现次数显著增加（19次），表明其在系统工具和安全领域的采用率持续上升。JavaScript和Go保持稳定，但整体趋势向强类型和高性能语言倾斜。",
+    "notable_projects": "shiyu-coder/Kronos（3.2万星）作为金融语言基础模型，展示了垂直领域大模型的巨大潜力，可能引领金融AI应用。ComposioHQ/awesome-claude-skills（6.8万星）汇聚了Claude技能资源，反映了AI助手生态的爆发式增长，是开发者必看的资源库。alibaba/open-code-review（1.1万星）是阿里巴巴开源的经验证代码审查工具，体现了企业级DevOps工具的开放和成熟，值得团队采纳。"
   }
 }
