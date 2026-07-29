@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-07-28T02:09:34.340715",
-  "week_range": "2026-07-22 ~ 2026-07-28",
+  "generated_at": "2026-07-29T02:11:42.677027",
+  "week_range": "2026-07-23 ~ 2026-07-29",
   "days_collected": 7,
-  "total_projects": 60,
-  "total_stars_today": 91407,
+  "total_projects": 57,
+  "total_stars_today": 77479,
   "top_languages": [
     [
-      "TypeScript",
-      28
+      "Python",
+      26
     ],
     [
-      "Python",
-      25
+      "TypeScript",
+      24
     ],
     [
       "Rust",
-      19
+      16
     ],
     [
       "JavaScript",
-      11
+      10
     ],
     [
       "Go",
@@ -63,6 +63,24 @@
         "scene": "个人玩家搭建小型私服、大型社区运营公共服务器、教育机构用于编程教学或游戏研究、开发者进行插件或模组测试"
       },
       "appear_days": 5
+    },
+    {
+      "rank": 9,
+      "name": "superfile",
+      "owner": "yorukot",
+      "url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "stars": 19606,
+      "forks": 598,
+      "stars_today": 338,
+      "language": "Go",
+      "topics": [],
+      "summary": {
+        "what": "作者用Go语言开发了一款界面精美、功能现代的终端文件管理器",
+        "purpose": "解决传统终端文件管理器界面简陋、操作不便的问题，提供更高效、美观的文件管理体验",
+        "scene": "开发者在终端中快速浏览和操作项目文件、系统管理员在远程服务器上管理文件系统、极客用户在日常工作中使用键盘高效处理文件"
+      },
+      "appear_days": 4
     },
     {
       "rank": 11,
@@ -137,58 +155,40 @@
       "appear_days": 4
     },
     {
-      "rank": 1,
-      "name": "worldmonitor",
-      "owner": "koala73",
-      "url": "https://github.com/koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "stars": 65652,
-      "forks": 10213,
-      "stars_today": 1295,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个AI驱动的实时全球情报仪表板，聚合新闻、监控地缘政治事件并跟踪基础设施状态。",
-        "purpose": "解决多源信息碎片化问题，提供统一的实时态势感知界面，帮助用户快速掌握全球动态。",
-        "scene": "安全分析师监控全球安全事件、企业风险团队评估地缘政治风险、新闻机构实时聚合多源信息"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 13,
-      "name": "Apollo-11",
-      "owner": "chrislgarry",
-      "url": "https://github.com/chrislgarry/Apollo-11",
-      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "stars": 69981,
-      "forks": 7842,
-      "stars_today": 1235,
-      "language": "Assembly",
-      "topics": [],
-      "summary": {
-        "what": "作者将阿波罗11号指令舱和登月舱的制导计算机原始汇编源代码整理并开源发布",
-        "purpose": "为公众提供人类首次登月任务的核心软件原始资料，促进航天历史与计算机科学的教育研究",
-        "scene": "航天历史研究、计算机科学教学、软件遗产保护"
-      },
-      "appear_days": 4
-    },
-    {
       "rank": 16,
-      "name": "OmniRoute",
-      "owner": "diegosouzapw",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
-      "stars": 23678,
-      "forks": 3164,
-      "stars_today": 2034,
-      "language": "TypeScript",
+      "name": "jenkins",
+      "owner": "jenkinsci",
+      "url": "https://github.com/jenkinsci/jenkins",
+      "description": "Jenkins automation server",
+      "stars": 25720,
+      "forks": 9655,
+      "stars_today": 18,
+      "language": "Java",
       "topics": [],
       "summary": {
-        "what": "作者构建了一个聚合268+AI提供商和500+模型的统一API网关，支持自动回退和令牌压缩。",
-        "purpose": "解决开发者需对接多个AI服务、管理配额和成本的问题，通过单一端点简化集成并优化使用。",
-        "scene": "在Claude Code等编程工具中无缝切换AI模型、构建多模态应用时通过一个API调用不同模型、在桌面或PWA应用中集成AI功能以利用免费提供商降低成本。"
+        "what": "创建了一个开源的自动化服务器，支持持续集成和持续交付。",
+        "purpose": "解决手动构建、测试和部署软件的低效和易出错问题。",
+        "scene": "代码提交后自动构建与测试、自动化部署到多环境、定时执行任务与生成报告"
       },
-      "appear_days": 4
+      "appear_days": 3
+    },
+    {
+      "rank": 17,
+      "name": "aisuite",
+      "owner": "andrewyng",
+      "url": "https://github.com/andrewyng/aisuite",
+      "description": "Simple, unified interface to multiple Generative AI providers",
+      "stars": 15234,
+      "forks": 1615,
+      "stars_today": 77,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "吴恩达团队开发了一个Python库，为多个生成式AI提供商提供简单统一的调用接口。",
+        "purpose": "解决开发者集成不同AI模型时需要处理多种API差异的复杂性问题。",
+        "scene": "场景1：快速切换不同LLM进行效果对比；场景2：构建支持多模型的后端服务；场景3：在统一框架下管理多个AI提供商的调用。"
+      },
+      "appear_days": 3
     },
     {
       "rank": 10,
@@ -210,8 +210,8 @@
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向是AI/LLM应用与开发者工具。多个高星项目聚焦于垂直领域大模型（如金融领域的Kronos）、AI代理（如ego-lite浏览器）和AI技能生态（awesome-claude-skills），显示出AI正在深入具体场景。同时，阿里巴巴的开源代码审查工具也获得大量关注，反映开发者对高效协作工具的需求。",
-    "language_trend": "TypeScript和Python以高频出现保持领先，分别对应全栈Web开发和AI/数据科学生态。Rust的出现次数显著增加（19次），表明其在系统工具和安全领域的采用率持续上升。JavaScript和Go保持稳定，但整体趋势向强类型和高性能语言倾斜。",
-    "notable_projects": "shiyu-coder/Kronos（3.2万星）作为金融语言基础模型，展示了垂直领域大模型的巨大潜力，可能引领金融AI应用。ComposioHQ/awesome-claude-skills（6.8万星）汇聚了Claude技能资源，反映了AI助手生态的爆发式增长，是开发者必看的资源库。alibaba/open-code-review（1.1万星）是阿里巴巴开源的经验证代码审查工具，体现了企业级DevOps工具的开放和成熟，值得团队采纳。"
+    "hot_direction": "本周最热技术方向是AI与开发者工具。AI方向强势，多个项目如Kronos金融大模型、awesome-claude-skills技能合集、ego-lite AI浏览器均获得高星，显示AI应用向垂直领域和Agent生态深入。同时，终端工具superfile和代码审查工具open-code-review上榜，反映开发者对效率工具的持续需求。",
+    "language_trend": "Python和TypeScript保持领先，分别出现26次和24次，主要受AI和全栈开发驱动。Rust以16次显著崛起，常用于高性能工具和系统开发，如superfile等终端应用。JavaScript热度相对下降，仅10次，部分被TypeScript取代；Go保持平稳，在云原生和基础设施领域仍有稳定需求。",
+    "notable_projects": "1. Kronos：金融领域的基础模型，6天获3.2万星，代表AI在垂直行业的深度应用，可能开启金融LLM新赛道。2. awesome-claude-skills：Claude技能合集，星数高达6.8万，反映AI Agent和技能生态的爆炸式增长，对开发者构建AI应用有重要参考价值。3. alibaba/open-code-review：阿里巴巴开源的代码审查工具，经过内部实战检验，有望成为企业级代码质量保障的标杆项目。"
   }
 }
