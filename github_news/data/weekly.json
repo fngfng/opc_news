@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-29T02:11:42.677027",
-  "week_range": "2026-07-23 ~ 2026-07-29",
+  "generated_at": "2026-07-30T02:02:51.580980",
+  "week_range": "2026-07-24 ~ 2026-07-30",
   "days_collected": 7,
-  "total_projects": 57,
-  "total_stars_today": 77479,
+  "total_projects": 54,
+  "total_stars_today": 71409,
   "top_languages": [
     [
       "Python",
@@ -11,15 +11,15 @@
     ],
     [
       "TypeScript",
-      24
+      21
     ],
     [
       "Rust",
-      16
+      14
     ],
     [
       "JavaScript",
-      10
+      11
     ],
     [
       "Go",
@@ -29,38 +29,38 @@
   "trending_topics": [],
   "top_picks": [
     {
-      "rank": 9,
+      "rank": 11,
+      "name": "open-code-review",
+      "owner": "alibaba",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": 11608,
+      "forks": 798,
+      "stars_today": 180,
+      "language": "Go",
+      "topics": [],
+      "summary": {
+        "what": "阿里巴巴开源了一款混合架构的代码审查工具，结合确定性规则引擎与LLM代理，提供精确的行级评论和内置安全规则集。",
+        "purpose": "自动化检测代码中的空指针、线程安全、XSS、SQL注入等缺陷，提升代码质量并降低人工审查成本。",
+        "scene": "开发者本地提交前自检、CI/CD流水线集成自动审查、企业大规模代码库的日常质量监控"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 3,
       "name": "Kronos",
       "owner": "shiyu-coder",
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "stars": 32625,
-      "forks": 5601,
-      "stars_today": 137,
+      "stars": 33099,
+      "forks": 5651,
+      "stars_today": 401,
       "language": "Python",
       "topics": [],
       "summary": {
         "what": "作者开发了一个面向金融市场的基座模型Kronos，将金融时间序列和文本统一建模为语言进行预训练。",
         "purpose": "解决金融领域缺乏通用预训练模型、传统方法依赖人工特征且泛化能力不足的问题。",
         "scene": "股票价格趋势预测、金融新闻事件驱动分析、自动化交易策略生成"
-      },
-      "appear_days": 6
-    },
-    {
-      "rank": 18,
-      "name": "Pumpkin",
-      "owner": "Pumpkin-MC",
-      "url": "https://github.com/Pumpkin-MC/Pumpkin",
-      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
-      "stars": 8451,
-      "forks": 591,
-      "stars_today": 108,
-      "language": "Rust",
-      "topics": [],
-      "summary": {
-        "what": "作者用Rust语言开发了一个高性能、高效率的Minecraft服务器软件。",
-        "purpose": "解决现有Minecraft服务器性能瓶颈和资源占用高的问题，提供更快速、更稳定的游戏托管体验。",
-        "scene": "个人玩家搭建小型私服、大型社区运营公共服务器、教育机构用于编程教学或游戏研究、开发者进行插件或模组测试"
       },
       "appear_days": 5
     },
@@ -79,24 +79,6 @@
         "what": "作者用Go语言开发了一款界面精美、功能现代的终端文件管理器",
         "purpose": "解决传统终端文件管理器界面简陋、操作不便的问题，提供更高效、美观的文件管理体验",
         "scene": "开发者在终端中快速浏览和操作项目文件、系统管理员在远程服务器上管理文件系统、极客用户在日常工作中使用键盘高效处理文件"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 11,
-      "name": "open-code-review",
-      "owner": "alibaba",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "stars": 11608,
-      "forks": 798,
-      "stars_today": 180,
-      "language": "Go",
-      "topics": [],
-      "summary": {
-        "what": "阿里巴巴开源了一款混合架构的代码审查工具，结合确定性规则引擎与LLM代理，提供精确的行级评论和内置安全规则集。",
-        "purpose": "自动化检测代码中的空指针、线程安全、XSS、SQL注入等缺陷，提升代码质量并降低人工审查成本。",
-        "scene": "开发者本地提交前自检、CI/CD流水线集成自动审查、企业大规模代码库的日常质量监控"
       },
       "appear_days": 4
     },
@@ -137,22 +119,76 @@
       "appear_days": 4
     },
     {
-      "rank": 10,
-      "name": "awesome-claude-skills",
-      "owner": "ComposioHQ",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "stars": 68827,
-      "forks": 7809,
-      "stars_today": 163,
-      "language": "Python",
+      "rank": 4,
+      "name": "Pumpkin",
+      "owner": "Pumpkin-MC",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "stars": 8948,
+      "forks": 616,
+      "stars_today": 565,
+      "language": "Rust",
       "topics": [],
       "summary": {
-        "what": "作者创建了一个精选的Claude技能、资源和工具列表，帮助用户定制Claude AI工作流。",
-        "purpose": "解决用户难以发现和整合Claude自定义技能与工具的问题，加速Claude工作流的构建。",
-        "scene": "开发者寻找现成的Claude技能集成、用户学习如何自定义Claude行为、企业构建基于Claude的自动化流程"
+        "what": "作者用Rust语言开发了一个高性能、高效率的Minecraft服务器软件。",
+        "purpose": "解决现有Minecraft服务器性能瓶颈和资源占用高的问题，提供更快速、更稳定的游戏托管体验。",
+        "scene": "个人玩家搭建小型私服、大型社区运营公共服务器、教育机构用于编程教学或游戏研究、开发者进行插件或模组测试"
       },
       "appear_days": 4
+    },
+    {
+      "rank": 4,
+      "name": "GeoLibre",
+      "owner": "opengeos",
+      "url": "https://github.com/opengeos/GeoLibre",
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "stars": 2738,
+      "forks": 357,
+      "stars_today": 420,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个轻量级、云原生的跨平台GIS平台，支持在浏览器、桌面、移动端和Jupyter中可视化与分析地理空间数据。",
+        "purpose": "解决传统GIS工具笨重、平台绑定、难以嵌入现代数据科学工作流的问题，提供随处可用的地理空间数据探索工具。",
+        "scene": "在Web浏览器中在线查看和分享交互式地图、在桌面端进行离线地理空间数据分析、在Jupyter笔记本中结合Python进行地理空间数据科学工作"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 3,
+      "name": "airi",
+      "owner": "moeru-ai",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "stars": 44086,
+      "forks": 4400,
+      "stars_today": 572,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个自托管的AI伴侣系统，支持实时语音聊天、Minecraft和Factorio游戏交互，旨在创建可定制的虚拟角色。",
+        "purpose": "提供一个私有的、用户完全控制的虚拟伴侣平台，避免依赖云端服务，实现类似Neuro-sama的自主AI角色。",
+        "scene": "日常语音陪伴与聊天、在Minecraft中与AI角色共同游玩、在Factorio中与AI角色协作"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 18,
+      "name": "ECC",
+      "owner": "affaan-m",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 233338,
+      "forks": 35575,
+      "stars_today": 377,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个面向AI编程助手的代理性能优化框架，集成技能、记忆与安全模块",
+        "purpose": "解决AI编程助手在复杂开发任务中响应慢、缺乏上下文记忆和安全保障的问题",
+        "scene": "在Claude Code中加速代码生成与调试、在Cursor中提供智能代码补全与重构建议、在Opencode中实现安全漏洞检测与修复"
+      },
+      "appear_days": 3
     },
     {
       "rank": 16,
@@ -171,47 +207,11 @@
         "scene": "代码提交后自动构建与测试、自动化部署到多环境、定时执行任务与生成报告"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 17,
-      "name": "aisuite",
-      "owner": "andrewyng",
-      "url": "https://github.com/andrewyng/aisuite",
-      "description": "Simple, unified interface to multiple Generative AI providers",
-      "stars": 15234,
-      "forks": 1615,
-      "stars_today": 77,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "吴恩达团队开发了一个Python库，为多个生成式AI提供商提供简单统一的调用接口。",
-        "purpose": "解决开发者集成不同AI模型时需要处理多种API差异的复杂性问题。",
-        "scene": "场景1：快速切换不同LLM进行效果对比；场景2：构建支持多模型的后端服务；场景3：在统一框架下管理多个AI提供商的调用。"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 10,
-      "name": "bitchat",
-      "owner": "permissionlesstech",
-      "url": "https://github.com/permissionlesstech/bitchat",
-      "description": "bluetooth mesh chat, IRC vibes",
-      "stars": 28757,
-      "forks": 4313,
-      "stars_today": 1720,
-      "language": "Swift",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个基于蓝牙Mesh网络的去中心化聊天应用，提供类似IRC的实时群聊体验。",
-        "purpose": "解决在没有互联网或蜂窝网络覆盖时，设备间无法进行去中心化、低功耗实时通信的问题。",
-        "scene": "户外无网络环境下的团队协作、音乐节或大型活动中与附近的人聊天、紧急情况下的应急通信"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向是AI与开发者工具。AI方向强势，多个项目如Kronos金融大模型、awesome-claude-skills技能合集、ego-lite AI浏览器均获得高星，显示AI应用向垂直领域和Agent生态深入。同时，终端工具superfile和代码审查工具open-code-review上榜，反映开发者对效率工具的持续需求。",
-    "language_trend": "Python和TypeScript保持领先，分别出现26次和24次，主要受AI和全栈开发驱动。Rust以16次显著崛起，常用于高性能工具和系统开发，如superfile等终端应用。JavaScript热度相对下降，仅10次，部分被TypeScript取代；Go保持平稳，在云原生和基础设施领域仍有稳定需求。",
-    "notable_projects": "1. Kronos：金融领域的基础模型，6天获3.2万星，代表AI在垂直行业的深度应用，可能开启金融LLM新赛道。2. awesome-claude-skills：Claude技能合集，星数高达6.8万，反映AI Agent和技能生态的爆炸式增长，对开发者构建AI应用有重要参考价值。3. alibaba/open-code-review：阿里巴巴开源的代码审查工具，经过内部实战检验，有望成为企业级代码质量保障的标杆项目。"
+    "hot_direction": "本周最热技术方向为AI与工具类。AI方向表现尤为强势，涵盖金融模型(Kronos)、AI代理浏览器(ego-lite)及AI伴侣(airi)等多个细分领域，反映出大模型应用生态的快速扩展。同时，开发者工具如代码审查(open-code-review)和终端文件管理器(superfile)也持续热门，显示开发者对效率工具的强烈需求。",
+    "language_trend": "Python以26次出现稳居首位，主要得益于AI/ML项目的持续爆发；TypeScript(21次)和Rust(14次)增长显著，TypeScript在前端及工具领域广泛应用，Rust则凭借性能与安全优势在系统工具中崛起。JavaScript(11次)和Go(9次)相对下降，但Go在云原生领域仍保持稳定地位。",
+    "notable_projects": "moeru-ai/airi(⭐44k)上榜仅3天即获超高人气，作为自托管AI伴侣，体现了用户对私有化AI交互的强烈兴趣；alibaba/open-code-review(⭐11.6k)来自阿里实战环境，为开源代码审查提供了可靠方案，对企业级开发具有参考价值；shiyu-coder/Kronos(⭐33k)聚焦金融语言模型，展示了AI在垂直领域的创新应用，值得关注其技术路径。"
   }
 }
