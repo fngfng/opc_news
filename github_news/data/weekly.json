@@ -1,42 +1,78 @@
 {
-  "generated_at": "2026-07-30T02:02:51.580980",
-  "week_range": "2026-07-24 ~ 2026-07-30",
+  "generated_at": "2026-07-31T02:26:20.826926",
+  "week_range": "2026-07-25 ~ 2026-07-31",
   "days_collected": 7,
-  "total_projects": 54,
-  "total_stars_today": 71409,
+  "total_projects": 58,
+  "total_stars_today": 62653,
   "top_languages": [
     [
       "Python",
-      26
+      28
     ],
     [
       "TypeScript",
-      21
-    ],
-    [
-      "Rust",
-      14
+      20
     ],
     [
       "JavaScript",
       11
     ],
     [
-      "Go",
-      9
+      "Rust",
+      11
+    ],
+    [
+      "Java",
+      8
     ]
   ],
   "trending_topics": [],
   "top_picks": [
     {
-      "rank": 11,
+      "rank": 16,
+      "name": "jenkins",
+      "owner": "jenkinsci",
+      "url": "https://github.com/jenkinsci/jenkins",
+      "description": "Jenkins automation server",
+      "stars": 25720,
+      "forks": 9655,
+      "stars_today": 18,
+      "language": "Java",
+      "topics": [],
+      "summary": {
+        "what": "创建了一个开源的自动化服务器，支持持续集成和持续交付。",
+        "purpose": "解决手动构建、测试和部署软件的低效和易出错问题。",
+        "scene": "代码提交后自动构建与测试、自动化部署到多环境、定时执行任务与生成报告"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 18,
+      "name": "ECC",
+      "owner": "affaan-m",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 233338,
+      "forks": 35575,
+      "stars_today": 377,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个面向AI编程助手的代理性能优化框架，集成技能、记忆与安全模块",
+        "purpose": "解决AI编程助手在复杂开发任务中响应慢、缺乏上下文记忆和安全保障的问题",
+        "scene": "在Claude Code中加速代码生成与调试、在Cursor中提供智能代码补全与重构建议、在Opencode中实现安全漏洞检测与修复"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 2,
       "name": "open-code-review",
       "owner": "alibaba",
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "stars": 11608,
-      "forks": 798,
-      "stars_today": 180,
+      "stars": 13009,
+      "forks": 888,
+      "stars_today": 431,
       "language": "Go",
       "topics": [],
       "summary": {
@@ -44,25 +80,7 @@
         "purpose": "自动化检测代码中的空指针、线程安全、XSS、SQL注入等缺陷，提升代码质量并降低人工审查成本。",
         "scene": "开发者本地提交前自检、CI/CD流水线集成自动审查、企业大规模代码库的日常质量监控"
       },
-      "appear_days": 5
-    },
-    {
-      "rank": 3,
-      "name": "Kronos",
-      "owner": "shiyu-coder",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "stars": 33099,
-      "forks": 5651,
-      "stars_today": 401,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个面向金融市场的基座模型Kronos，将金融时间序列和文本统一建模为语言进行预训练。",
-        "purpose": "解决金融领域缺乏通用预训练模型、传统方法依赖人工特征且泛化能力不足的问题。",
-        "scene": "股票价格趋势预测、金融新闻事件驱动分析、自动化交易策略生成"
-      },
-      "appear_days": 5
+      "appear_days": 4
     },
     {
       "rank": 9,
@@ -84,57 +102,75 @@
     },
     {
       "rank": 5,
-      "name": "ego-lite",
-      "owner": "citrolabs",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "description": "The best browser for both you and your AI agents work in parallel.",
-      "stars": 1714,
-      "forks": 94,
-      "stars_today": 247,
-      "language": "JavaScript",
+      "name": "Kronos",
+      "owner": "shiyu-coder",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars": 33505,
+      "forks": 5680,
+      "stars_today": 499,
+      "language": "Python",
       "topics": [],
       "summary": {
-        "what": "作者开发了一款支持用户与AI代理并行工作的浏览器。",
-        "purpose": "解决传统浏览器无法同时满足人类和AI代理高效协作的问题。",
-        "scene": "用户浏览网页时AI代理在后台执行自动化任务、AI代理辅助用户进行信息检索和整理、多代理协作完成复杂在线工作流"
+        "what": "作者开发了一个面向金融市场的基座模型Kronos，将金融时间序列和文本统一建模为语言进行预训练。",
+        "purpose": "解决金融领域缺乏通用预训练模型、传统方法依赖人工特征且泛化能力不足的问题。",
+        "scene": "股票价格趋势预测、金融新闻事件驱动分析、自动化交易策略生成"
       },
       "appear_days": 4
+    },
+    {
+      "rank": 7,
+      "name": "speech-to-speech",
+      "owner": "huggingface",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "description": "Build local voice agents with open-source models",
+      "stars": 7301,
+      "forks": 957,
+      "stars_today": 227,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个使用开源模型在本地构建语音到语音代理的框架",
+        "purpose": "解决语音代理依赖云服务带来的隐私和延迟问题，实现完全离线的语音交互",
+        "scene": "智能家居语音控制、个人离线语音助手、无障碍语音交流辅助"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 10,
+      "name": "awesome-systematic-trading",
+      "owner": "paperswithbacktest",
+      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "stars": 9667,
+      "forks": 1298,
+      "stars_today": 309,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者创建了一个精选的系统化交易资源列表，涵盖库、策略、书籍、博客和教程。",
+        "purpose": "帮助量化交易者和开发者快速发现高质量的系统化交易工具和学习资料。",
+        "scene": "场景1：量化交易初学者寻找学习资源；场景2：开发者寻找回测框架或交易库；场景3：研究人员查找交易策略和论文。"
+      },
+      "appear_days": 3
     },
     {
       "rank": 1,
-      "name": "buzz",
-      "owner": "block",
-      "url": "https://github.com/block/buzz",
-      "description": "A hive mind communication platform",
-      "stars": 7065,
-      "forks": 563,
-      "stars_today": 2162,
-      "language": "Rust",
+      "name": "editor",
+      "owner": "pascalorg",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "stars": 18784,
+      "forks": 2530,
+      "stars_today": 341,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
-        "what": "作者使用Rust语言开发了一个名为buzz的蜂巢思维通信平台，实现去中心化实时消息传递与群体共识。",
-        "purpose": "解决分布式群体间高效、低延迟、抗审查的信息共享与集体决策问题。",
-        "scene": "去中心化自治组织（DAO）治理讨论、分布式团队实时协作、物联网设备群体智能调度"
+        "what": "作者开发了一个基于Web的3D建筑编辑器，支持创建、编辑和分享三维建筑项目。",
+        "purpose": "降低3D建筑设计门槛，使非专业用户也能在浏览器中轻松设计和展示建筑方案。",
+        "scene": "场景1：个人用户设计住宅布局并在线分享；场景2：建筑师快速搭建建筑概念模型与客户沟通；场景3：教育场景中用于三维空间设计教学与演示。"
       },
-      "appear_days": 4
-    },
-    {
-      "rank": 4,
-      "name": "Pumpkin",
-      "owner": "Pumpkin-MC",
-      "url": "https://github.com/Pumpkin-MC/Pumpkin",
-      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
-      "stars": 8948,
-      "forks": 616,
-      "stars_today": 565,
-      "language": "Rust",
-      "topics": [],
-      "summary": {
-        "what": "作者用Rust语言开发了一个高性能、高效率的Minecraft服务器软件。",
-        "purpose": "解决现有Minecraft服务器性能瓶颈和资源占用高的问题，提供更快速、更稳定的游戏托管体验。",
-        "scene": "个人玩家搭建小型私服、大型社区运营公共服务器、教育机构用于编程教学或游戏研究、开发者进行插件或模组测试"
-      },
-      "appear_days": 4
+      "appear_days": 3
     },
     {
       "rank": 4,
@@ -171,47 +207,11 @@
         "scene": "日常语音陪伴与聊天、在Minecraft中与AI角色共同游玩、在Factorio中与AI角色协作"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 18,
-      "name": "ECC",
-      "owner": "affaan-m",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 233338,
-      "forks": 35575,
-      "stars_today": 377,
-      "language": "JavaScript",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个面向AI编程助手的代理性能优化框架，集成技能、记忆与安全模块",
-        "purpose": "解决AI编程助手在复杂开发任务中响应慢、缺乏上下文记忆和安全保障的问题",
-        "scene": "在Claude Code中加速代码生成与调试、在Cursor中提供智能代码补全与重构建议、在Opencode中实现安全漏洞检测与修复"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 16,
-      "name": "jenkins",
-      "owner": "jenkinsci",
-      "url": "https://github.com/jenkinsci/jenkins",
-      "description": "Jenkins automation server",
-      "stars": 25720,
-      "forks": 9655,
-      "stars_today": 18,
-      "language": "Java",
-      "topics": [],
-      "summary": {
-        "what": "创建了一个开源的自动化服务器，支持持续集成和持续交付。",
-        "purpose": "解决手动构建、测试和部署软件的低效和易出错问题。",
-        "scene": "代码提交后自动构建与测试、自动化部署到多环境、定时执行任务与生成报告"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向为AI与工具类。AI方向表现尤为强势，涵盖金融模型(Kronos)、AI代理浏览器(ego-lite)及AI伴侣(airi)等多个细分领域，反映出大模型应用生态的快速扩展。同时，开发者工具如代码审查(open-code-review)和终端文件管理器(superfile)也持续热门，显示开发者对效率工具的强烈需求。",
-    "language_trend": "Python以26次出现稳居首位，主要得益于AI/ML项目的持续爆发；TypeScript(21次)和Rust(14次)增长显著，TypeScript在前端及工具领域广泛应用，Rust则凭借性能与安全优势在系统工具中崛起。JavaScript(11次)和Go(9次)相对下降，但Go在云原生领域仍保持稳定地位。",
-    "notable_projects": "moeru-ai/airi(⭐44k)上榜仅3天即获超高人气，作为自托管AI伴侣，体现了用户对私有化AI交互的强烈兴趣；alibaba/open-code-review(⭐11.6k)来自阿里实战环境，为开源代码审查提供了可靠方案，对企业级开发具有参考价值；shiyu-coder/Kronos(⭐33k)聚焦金融语言模型，展示了AI在垂直领域的创新应用，值得关注其技术路径。"
+    "hot_direction": "本周最热技术方向无疑是AI，尤其是AI Agent与垂直领域模型。上榜项目中，affaan-m/ECC聚焦agent性能优化，huggingface/speech-to-speech构建本地语音代理，shiyu-coder/Kronos则是金融语言基础模型，加上alibaba/open-code-review很可能结合AI辅助代码审查，AI项目在数量与星数上均占据绝对优势。这反映出开源社区正从通用大模型转向更落地的AI应用与专用智能体，同时本地部署与垂直行业微调成为新热点。",
+    "language_trend": "Python以28次出现遥遥领先，主要得益于AI/ML生态的统治地位，几乎所有模型与数据处理项目均采用Python。TypeScript以20次紧随其后，体现全栈开发与前端工具链的持续繁荣；Rust（11次）与JavaScript（11次）持平，Rust凭借高性能与内存安全在系统工具（如终端文件管理器）中加速崛起，而Java（8次）虽仍有Jenkins等经典项目支撑，但整体增长乏力，逐渐让位于云原生时代的轻量级语言。",
+    "notable_projects": "1. huggingface/speech-to-speech：Hugging Face推出的开源语音代理框架，支持本地运行，将语音识别、合成与对话模型组合成端到端方案，极大降低了实时语音AI应用的开发门槛，是边缘智能与隐私保护趋势的标杆。2. alibaba/open-code-review：阿里巴巴开源且经过内部大规模实战检验的代码审查工具，若融合AI自动评审能力，可能改变团队协作与代码质量保障的流程，对国内开发者生态具有重要影响。3. shiyu-coder/Kronos：专为金融语言设计的基础模型，瞄准量化分析与财经文本理解，展示了领域大模型从通用走向专精的落地路径，对金融科技与另类数据挖掘有启发意义。"
   }
 }
