@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-07-31T02:26:20.826926",
-  "week_range": "2026-07-25 ~ 2026-07-31",
+  "generated_at": "2026-08-01T02:27:11.686737",
+  "week_range": "2026-07-26 ~ 2026-08-01",
   "days_collected": 7,
   "total_projects": 58,
-  "total_stars_today": 62653,
+  "total_stars_today": 52427,
   "top_languages": [
     [
       "Python",
-      28
+      29
     ],
     [
       "TypeScript",
-      20
+      18
     ],
     [
       "JavaScript",
-      11
+      10
     ],
     [
       "Rust",
-      11
+      9
     ],
     [
       "Java",
@@ -28,6 +28,24 @@
   ],
   "trending_topics": [],
   "top_picks": [
+    {
+      "rank": 10,
+      "name": "awesome-systematic-trading",
+      "owner": "paperswithbacktest",
+      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "stars": 9667,
+      "forks": 1298,
+      "stars_today": 309,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者创建了一个精选的系统化交易资源列表，涵盖库、策略、书籍、博客和教程。",
+        "purpose": "帮助量化交易者和开发者快速发现高质量的系统化交易工具和学习资料。",
+        "scene": "场景1：量化交易初学者寻找学习资源；场景2：开发者寻找回测框架或交易库；场景3：研究人员查找交易策略和论文。"
+      },
+      "appear_days": 4
+    },
     {
       "rank": 16,
       "name": "jenkins",
@@ -84,39 +102,39 @@
     },
     {
       "rank": 9,
-      "name": "superfile",
-      "owner": "yorukot",
-      "url": "https://github.com/yorukot/superfile",
-      "description": "Pretty fancy and modern terminal file manager",
-      "stars": 19606,
-      "forks": 598,
-      "stars_today": 338,
-      "language": "Go",
+      "name": "openwork",
+      "owner": "different-ai",
+      "url": "https://github.com/different-ai/openwork",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "stars": 17963,
+      "forks": 1859,
+      "stars_today": 97,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
-        "what": "作者用Go语言开发了一款界面精美、功能现代的终端文件管理器",
-        "purpose": "解决传统终端文件管理器界面简陋、操作不便的问题，提供更高效、美观的文件管理体验",
-        "scene": "开发者在终端中快速浏览和操作项目文件、系统管理员在远程服务器上管理文件系统、极客用户在日常工作中使用键盘高效处理文件"
+        "what": "作者开发了开源项目openwork，作为Claude Cowork的替代方案，利用opencode提供AI协同工作功能。",
+        "purpose": "解决依赖闭源AI协同工具的问题，提供可自托管、可定制的开源AI协作平台。",
+        "scene": "团队协作编程、文档协同撰写、项目任务自动化管理"
       },
-      "appear_days": 4
+      "appear_days": 3
     },
     {
-      "rank": 5,
-      "name": "Kronos",
-      "owner": "shiyu-coder",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "stars": 33505,
-      "forks": 5680,
-      "stars_today": 499,
+      "rank": 14,
+      "name": "last30days-skill",
+      "owner": "mvanhorn",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 54202,
+      "forks": 4700,
+      "stars_today": 240,
       "language": "Python",
       "topics": [],
       "summary": {
-        "what": "作者开发了一个面向金融市场的基座模型Kronos，将金融时间序列和文本统一建模为语言进行预训练。",
-        "purpose": "解决金融领域缺乏通用预训练模型、传统方法依赖人工特征且泛化能力不足的问题。",
-        "scene": "股票价格趋势预测、金融新闻事件驱动分析、自动化交易策略生成"
+        "what": "作者开发了一个AI代理技能，能够自动从Reddit、X、YouTube、Hacker News、Polymarket及全网搜索任意主题，并综合生成一份基于事实的摘要。",
+        "purpose": "解决手动跨多个平台搜集和总结信息效率低下的问题，快速获取多源综合洞察。",
+        "scene": "市场趋势分析、舆情监控、内容创作灵感搜集"
       },
-      "appear_days": 4
+      "appear_days": 3
     },
     {
       "rank": 7,
@@ -133,24 +151,6 @@
         "what": "作者开发了一个使用开源模型在本地构建语音到语音代理的框架",
         "purpose": "解决语音代理依赖云服务带来的隐私和延迟问题，实现完全离线的语音交互",
         "scene": "智能家居语音控制、个人离线语音助手、无障碍语音交流辅助"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 10,
-      "name": "awesome-systematic-trading",
-      "owner": "paperswithbacktest",
-      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
-      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
-      "stars": 9667,
-      "forks": 1298,
-      "stars_today": 309,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者创建了一个精选的系统化交易资源列表，涵盖库、策略、书籍、博客和教程。",
-        "purpose": "帮助量化交易者和开发者快速发现高质量的系统化交易工具和学习资料。",
-        "scene": "场景1：量化交易初学者寻找学习资源；场景2：开发者寻找回测框架或交易库；场景3：研究人员查找交易策略和论文。"
       },
       "appear_days": 3
     },
@@ -210,8 +210,8 @@
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向无疑是AI，尤其是AI Agent与垂直领域模型。上榜项目中，affaan-m/ECC聚焦agent性能优化，huggingface/speech-to-speech构建本地语音代理，shiyu-coder/Kronos则是金融语言基础模型，加上alibaba/open-code-review很可能结合AI辅助代码审查，AI项目在数量与星数上均占据绝对优势。这反映出开源社区正从通用大模型转向更落地的AI应用与专用智能体，同时本地部署与垂直行业微调成为新热点。",
-    "language_trend": "Python以28次出现遥遥领先，主要得益于AI/ML生态的统治地位，几乎所有模型与数据处理项目均采用Python。TypeScript以20次紧随其后，体现全栈开发与前端工具链的持续繁荣；Rust（11次）与JavaScript（11次）持平，Rust凭借高性能与内存安全在系统工具（如终端文件管理器）中加速崛起，而Java（8次）虽仍有Jenkins等经典项目支撑，但整体增长乏力，逐渐让位于云原生时代的轻量级语言。",
-    "notable_projects": "1. huggingface/speech-to-speech：Hugging Face推出的开源语音代理框架，支持本地运行，将语音识别、合成与对话模型组合成端到端方案，极大降低了实时语音AI应用的开发门槛，是边缘智能与隐私保护趋势的标杆。2. alibaba/open-code-review：阿里巴巴开源且经过内部大规模实战检验的代码审查工具，若融合AI自动评审能力，可能改变团队协作与代码质量保障的流程，对国内开发者生态具有重要影响。3. shiyu-coder/Kronos：专为金融语言设计的基础模型，瞄准量化分析与财经文本理解，展示了领域大模型从通用走向专精的落地路径，对金融科技与另类数据挖掘有启发意义。"
+    "hot_direction": "本周最热技术方向无疑是AI，特别是AI代理（Agent）和语音交互领域。上榜项目中，多个项目直接与AI代理相关，如OpenWork（Claude Cowork开源替代）、last30days-skill（AI研究技能）和speech-to-speech（本地语音代理），反映了社区对自主代理和实时语音AI的强烈兴趣。同时，量化交易系统化工具（awesome-systematic-trading）也体现了AI/ML在金融领域的持续渗透。",
+    "language_trend": "Python以29次上榜次数遥遥领先，主要得益于其在AI/ML、数据科学和自动化脚本领域的统治地位，本周多个AI项目均使用Python。TypeScript（18次）和JavaScript（10次）紧随其后，显示现代Web开发和全栈工具链的活跃，但JavaScript的份额相对下降，可能被TypeScript逐步替代。Rust（9次）和Java（8次）分别代表系统编程和企业级应用，Rust因性能和安全特性持续吸引关注，而Java在传统基础设施（如Jenkins）中仍占一席之地，但整体趋势上不及Python和TypeScript增长迅猛。",
+    "notable_projects": "1. affaan-m/ECC：以23万+星标高居榜首，尽管描述简短，但其作为‘代理工具性能优化系统’的定位与当前AI代理热潮高度契合，超高的社区关注度可能预示着一个新兴的AI基础设施工具，值得深入探究其实际功能与背景。2. different-ai/openwork：作为Claude Cowork的开源替代品，它瞄准了AI协作办公这一新兴赛道，开源特性有望推动AI辅助工作流的普及和定制化，对开发者生态具有潜在影响力。3. huggingface/speech-to-speech：由Hugging Face推出的本地语音代理构建工具，结合开源模型，降低了实时语音AI的开发门槛，体现了语音交互从云端向本地化、隐私保护方向演进的趋势，对物联网和智能助手领域意义重大。"
   }
 }
