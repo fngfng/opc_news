@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-01T02:27:11.686737",
-  "week_range": "2026-07-26 ~ 2026-08-01",
+  "generated_at": "2026-08-02T02:24:37.635963",
+  "week_range": "2026-07-27 ~ 2026-08-02",
   "days_collected": 7,
-  "total_projects": 58,
-  "total_stars_today": 52427,
+  "total_projects": 60,
+  "total_stars_today": 45954,
   "top_languages": [
     [
       "Python",
-      29
+      31
     ],
     [
       "TypeScript",
-      18
+      19
     ],
     [
       "JavaScript",
-      10
-    ],
-    [
-      "Rust",
       9
     ],
     [
       "Java",
       8
+    ],
+    [
+      "Go",
+      7
     ]
   ],
   "trending_topics": [],
@@ -43,6 +43,24 @@
         "what": "作者创建了一个精选的系统化交易资源列表，涵盖库、策略、书籍、博客和教程。",
         "purpose": "帮助量化交易者和开发者快速发现高质量的系统化交易工具和学习资料。",
         "scene": "场景1：量化交易初学者寻找学习资源；场景2：开发者寻找回测框架或交易库；场景3：研究人员查找交易策略和论文。"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 7,
+      "name": "speech-to-speech",
+      "owner": "huggingface",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "description": "Build local voice agents with open-source models",
+      "stars": 7301,
+      "forks": 957,
+      "stars_today": 227,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个使用开源模型在本地构建语音到语音代理的框架",
+        "purpose": "解决语音代理依赖云服务带来的隐私和延迟问题，实现完全离线的语音交互",
+        "scene": "智能家居语音控制、个人离线语音助手、无障碍语音交流辅助"
       },
       "appear_days": 4
     },
@@ -65,40 +83,22 @@
       "appear_days": 4
     },
     {
-      "rank": 18,
-      "name": "ECC",
-      "owner": "affaan-m",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 233338,
-      "forks": 35575,
-      "stars_today": 377,
-      "language": "JavaScript",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个面向AI编程助手的代理性能优化框架，集成技能、记忆与安全模块",
-        "purpose": "解决AI编程助手在复杂开发任务中响应慢、缺乏上下文记忆和安全保障的问题",
-        "scene": "在Claude Code中加速代码生成与调试、在Cursor中提供智能代码补全与重构建议、在Opencode中实现安全漏洞检测与修复"
-      },
-      "appear_days": 4
-    },
-    {
       "rank": 2,
-      "name": "open-code-review",
-      "owner": "alibaba",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "stars": 13009,
-      "forks": 888,
-      "stars_today": 431,
-      "language": "Go",
+      "name": "AI-For-Beginners",
+      "owner": "microsoft",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "stars": 54087,
+      "forks": 10971,
+      "stars_today": 155,
+      "language": "Jupyter Notebook",
       "topics": [],
       "summary": {
-        "what": "阿里巴巴开源了一款混合架构的代码审查工具，结合确定性规则引擎与LLM代理，提供精确的行级评论和内置安全规则集。",
-        "purpose": "自动化检测代码中的空指针、线程安全、XSS、SQL注入等缺陷，提升代码质量并降低人工审查成本。",
-        "scene": "开发者本地提交前自检、CI/CD流水线集成自动审查、企业大规模代码库的日常质量监控"
+        "what": "作者创建了一个为期12周共24节课的AI入门课程，使用Jupyter Notebook提供交互式学习材料",
+        "purpose": "解决AI初学者缺乏系统化、实践性学习资源的问题，降低AI学习门槛",
+        "scene": "个人自学AI基础知识、高校教师用于课堂教学、企业进行员工AI技能培训"
       },
-      "appear_days": 4
+      "appear_days": 3
     },
     {
       "rank": 9,
@@ -137,24 +137,6 @@
       "appear_days": 3
     },
     {
-      "rank": 7,
-      "name": "speech-to-speech",
-      "owner": "huggingface",
-      "url": "https://github.com/huggingface/speech-to-speech",
-      "description": "Build local voice agents with open-source models",
-      "stars": 7301,
-      "forks": 957,
-      "stars_today": 227,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个使用开源模型在本地构建语音到语音代理的框架",
-        "purpose": "解决语音代理依赖云服务带来的隐私和延迟问题，实现完全离线的语音交互",
-        "scene": "智能家居语音控制、个人离线语音助手、无障碍语音交流辅助"
-      },
-      "appear_days": 3
-    },
-    {
       "rank": 1,
       "name": "editor",
       "owner": "pascalorg",
@@ -169,6 +151,24 @@
         "what": "作者开发了一个基于Web的3D建筑编辑器，支持创建、编辑和分享三维建筑项目。",
         "purpose": "降低3D建筑设计门槛，使非专业用户也能在浏览器中轻松设计和展示建筑方案。",
         "scene": "场景1：个人用户设计住宅布局并在线分享；场景2：建筑师快速搭建建筑概念模型与客户沟通；场景3：教育场景中用于三维空间设计教学与演示。"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 5,
+      "name": "ECC",
+      "owner": "affaan-m",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 234858,
+      "forks": 35787,
+      "stars_today": 636,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个面向AI编程助手的代理性能优化框架，集成技能、记忆与安全模块",
+        "purpose": "解决AI编程助手在复杂开发任务中响应慢、缺乏上下文记忆和安全保障的问题",
+        "scene": "在Claude Code中加速代码生成与调试、在Cursor中提供智能代码补全与重构建议、在Opencode中实现安全漏洞检测与修复"
       },
       "appear_days": 3
     },
@@ -210,8 +210,8 @@
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向无疑是AI，特别是AI代理（Agent）和语音交互领域。上榜项目中，多个项目直接与AI代理相关，如OpenWork（Claude Cowork开源替代）、last30days-skill（AI研究技能）和speech-to-speech（本地语音代理），反映了社区对自主代理和实时语音AI的强烈兴趣。同时，量化交易系统化工具（awesome-systematic-trading）也体现了AI/ML在金融领域的持续渗透。",
-    "language_trend": "Python以29次上榜次数遥遥领先，主要得益于其在AI/ML、数据科学和自动化脚本领域的统治地位，本周多个AI项目均使用Python。TypeScript（18次）和JavaScript（10次）紧随其后，显示现代Web开发和全栈工具链的活跃，但JavaScript的份额相对下降，可能被TypeScript逐步替代。Rust（9次）和Java（8次）分别代表系统编程和企业级应用，Rust因性能和安全特性持续吸引关注，而Java在传统基础设施（如Jenkins）中仍占一席之地，但整体趋势上不及Python和TypeScript增长迅猛。",
-    "notable_projects": "1. affaan-m/ECC：以23万+星标高居榜首，尽管描述简短，但其作为‘代理工具性能优化系统’的定位与当前AI代理热潮高度契合，超高的社区关注度可能预示着一个新兴的AI基础设施工具，值得深入探究其实际功能与背景。2. different-ai/openwork：作为Claude Cowork的开源替代品，它瞄准了AI协作办公这一新兴赛道，开源特性有望推动AI辅助工作流的普及和定制化，对开发者生态具有潜在影响力。3. huggingface/speech-to-speech：由Hugging Face推出的本地语音代理构建工具，结合开源模型，降低了实时语音AI的开发门槛，体现了语音交互从云端向本地化、隐私保护方向演进的趋势，对物联网和智能助手领域意义重大。"
+    "hot_direction": "本周AI方向最为强势，尤其是AI代理和语音交互领域。多个高星项目如huggingface/speech-to-speech、different-ai/openwork和mvanhorn/last30days-skill均聚焦于构建自主AI代理和实用AI工具，反映出社区对本地化、可定制AI工作流的强烈需求。同时，量化交易系统项目也获得高关注，显示AI在金融领域的应用持续升温。",
+    "language_trend": "Python以31次出现稳居榜首，主要得益于AI、数据科学和自动化项目的爆发式增长。TypeScript以19次紧随其后，反映出AI工具前端及全栈应用的需求上升，而JavaScript和Java的份额相对下降。Go语言在云原生和基础设施领域保持稳定，但整体热度不及Python和TypeScript。",
+    "notable_projects": "huggingface/speech-to-speech（⭐7301）允许开发者用开源模型构建本地语音代理，代表了语音AI与隐私保护的融合趋势，极具应用潜力。different-ai/openwork（⭐17963）作为Claude Cowork的开源替代，展示了AI协作编辑的新范式，可能重塑生产力工具。microsoft/AI-For-Beginners（⭐54087）是微软官方的AI入门课程，以12周24课的系统化内容降低了AI学习门槛，对教育生态有积极影响。"
   }
 }
