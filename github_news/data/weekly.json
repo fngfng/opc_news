@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-02T02:24:37.635963",
-  "week_range": "2026-07-27 ~ 2026-08-02",
+  "generated_at": "2026-08-03T02:27:45.857406",
+  "week_range": "2026-07-28 ~ 2026-08-03",
   "days_collected": 7,
-  "total_projects": 60,
-  "total_stars_today": 45954,
+  "total_projects": 57,
+  "total_stars_today": 46906,
   "top_languages": [
     [
       "Python",
@@ -11,19 +11,19 @@
     ],
     [
       "TypeScript",
-      19
+      20
+    ],
+    [
+      "Jupyter Notebook",
+      7
     ],
     [
       "JavaScript",
-      9
-    ],
-    [
-      "Java",
-      8
+      7
     ],
     [
       "Go",
-      7
+      6
     ]
   ],
   "trending_topics": [],
@@ -47,6 +47,60 @@
       "appear_days": 5
     },
     {
+      "rank": 2,
+      "name": "AI-For-Beginners",
+      "owner": "microsoft",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "stars": 54087,
+      "forks": 10971,
+      "stars_today": 155,
+      "language": "Jupyter Notebook",
+      "topics": [],
+      "summary": {
+        "what": "作者创建了一个为期12周共24节课的AI入门课程，使用Jupyter Notebook提供交互式学习材料",
+        "purpose": "解决AI初学者缺乏系统化、实践性学习资源的问题，降低AI学习门槛",
+        "scene": "个人自学AI基础知识、高校教师用于课堂教学、企业进行员工AI技能培训"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 9,
+      "name": "openwork",
+      "owner": "different-ai",
+      "url": "https://github.com/different-ai/openwork",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "stars": 17963,
+      "forks": 1859,
+      "stars_today": 97,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了开源项目openwork，作为Claude Cowork的替代方案，利用opencode提供AI协同工作功能。",
+        "purpose": "解决依赖闭源AI协同工具的问题，提供可自托管、可定制的开源AI协作平台。",
+        "scene": "团队协作编程、文档协同撰写、项目任务自动化管理"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 14,
+      "name": "last30days-skill",
+      "owner": "mvanhorn",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 54202,
+      "forks": 4700,
+      "stars_today": 240,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个AI代理技能，能够自动从Reddit、X、YouTube、Hacker News、Polymarket及全网搜索任意主题，并综合生成一份基于事实的摘要。",
+        "purpose": "解决手动跨多个平台搜集和总结信息效率低下的问题，快速获取多源综合洞察。",
+        "scene": "市场趋势分析、舆情监控、内容创作灵感搜集"
+      },
+      "appear_days": 4
+    },
+    {
       "rank": 7,
       "name": "speech-to-speech",
       "owner": "huggingface",
@@ -65,74 +119,38 @@
       "appear_days": 4
     },
     {
-      "rank": 16,
-      "name": "jenkins",
-      "owner": "jenkinsci",
-      "url": "https://github.com/jenkinsci/jenkins",
-      "description": "Jenkins automation server",
-      "stars": 25720,
-      "forks": 9655,
-      "stars_today": 18,
-      "language": "Java",
-      "topics": [],
-      "summary": {
-        "what": "创建了一个开源的自动化服务器，支持持续集成和持续交付。",
-        "purpose": "解决手动构建、测试和部署软件的低效和易出错问题。",
-        "scene": "代码提交后自动构建与测试、自动化部署到多环境、定时执行任务与生成报告"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 2,
-      "name": "AI-For-Beginners",
-      "owner": "microsoft",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "description": "12 Weeks, 24 Lessons, AI for All!",
-      "stars": 54087,
-      "forks": 10971,
-      "stars_today": 155,
-      "language": "Jupyter Notebook",
-      "topics": [],
-      "summary": {
-        "what": "作者创建了一个为期12周共24节课的AI入门课程，使用Jupyter Notebook提供交互式学习材料",
-        "purpose": "解决AI初学者缺乏系统化、实践性学习资源的问题，降低AI学习门槛",
-        "scene": "个人自学AI基础知识、高校教师用于课堂教学、企业进行员工AI技能培训"
-      },
-      "appear_days": 3
-    },
-    {
       "rank": 9,
-      "name": "openwork",
-      "owner": "different-ai",
-      "url": "https://github.com/different-ai/openwork",
-      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
-      "stars": 17963,
-      "forks": 1859,
-      "stars_today": 97,
+      "name": "kaneo",
+      "owner": "usekaneo",
+      "url": "https://github.com/usekaneo/kaneo",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "stars": 5130,
+      "forks": 452,
+      "stars_today": 194,
       "language": "TypeScript",
       "topics": [],
       "summary": {
-        "what": "作者开发了开源项目openwork，作为Claude Cowork的替代方案，利用opencode提供AI协同工作功能。",
-        "purpose": "解决依赖闭源AI协同工具的问题，提供可自托管、可定制的开源AI协作平台。",
-        "scene": "团队协作编程、文档协同撰写、项目任务自动化管理"
+        "what": "作者开发了一个极简的开源项目管理工具，提供看板、任务和团队协作功能。",
+        "purpose": "解决现有项目管理软件功能臃肿、学习成本高的问题，提供一个轻量、自托管的替代方案。",
+        "scene": "个人任务规划、小型团队项目跟踪、自托管项目管理需求"
       },
       "appear_days": 3
     },
     {
-      "rank": 14,
-      "name": "last30days-skill",
-      "owner": "mvanhorn",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": 54202,
-      "forks": 4700,
-      "stars_today": 240,
-      "language": "Python",
+      "rank": 1,
+      "name": "reverse-skill",
+      "owner": "zhaoxuya520",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "stars": 10807,
+      "forks": 1660,
+      "stars_today": 335,
+      "language": "PowerShell",
       "topics": [],
       "summary": {
-        "what": "作者开发了一个AI代理技能，能够自动从Reddit、X、YouTube、Hacker News、Polymarket及全网搜索任意主题，并综合生成一份基于事实的摘要。",
-        "purpose": "解决手动跨多个平台搜集和总结信息效率低下的问题，快速获取多源综合洞察。",
-        "scene": "市场趋势分析、舆情监控、内容创作灵感搜集"
+        "what": "作者构建了一个AI驱动的逆向工程与渗透测试技能路由包，实现任务自动路由、工具链按需自举和知识库自进化",
+        "purpose": "解决安全研究中工具链复杂、知识分散、操作繁琐的问题，通过AI自动化提升逆向与渗透效率",
+        "scene": "逆向分析场景：自动识别文件类型并调用反汇编器、调试器等工具；渗透测试场景：根据目标自动编排信息收集、漏洞利用、后渗透工具链；安全研究场景：自动记录分析过程与技巧，形成可复用的经验知识库"
       },
       "appear_days": 3
     },
@@ -155,6 +173,24 @@
       "appear_days": 3
     },
     {
+      "rank": 10,
+      "name": "jenkins",
+      "owner": "jenkinsci",
+      "url": "https://github.com/jenkinsci/jenkins",
+      "description": "Jenkins automation server",
+      "stars": 25899,
+      "forks": 9680,
+      "stars_today": 180,
+      "language": "Java",
+      "topics": [],
+      "summary": {
+        "what": "创建了一个开源的自动化服务器，支持持续集成和持续交付。",
+        "purpose": "解决手动构建、测试和部署软件的低效和易出错问题。",
+        "scene": "代码提交后自动构建与测试、自动化部署到多环境、定时执行任务与生成报告"
+      },
+      "appear_days": 3
+    },
+    {
       "rank": 5,
       "name": "ECC",
       "owner": "affaan-m",
@@ -171,47 +207,11 @@
         "scene": "在Claude Code中加速代码生成与调试、在Cursor中提供智能代码补全与重构建议、在Opencode中实现安全漏洞检测与修复"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 4,
-      "name": "GeoLibre",
-      "owner": "opengeos",
-      "url": "https://github.com/opengeos/GeoLibre",
-      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
-      "stars": 2738,
-      "forks": 357,
-      "stars_today": 420,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个轻量级、云原生的跨平台GIS平台，支持在浏览器、桌面、移动端和Jupyter中可视化与分析地理空间数据。",
-        "purpose": "解决传统GIS工具笨重、平台绑定、难以嵌入现代数据科学工作流的问题，提供随处可用的地理空间数据探索工具。",
-        "scene": "在Web浏览器中在线查看和分享交互式地图、在桌面端进行离线地理空间数据分析、在Jupyter笔记本中结合Python进行地理空间数据科学工作"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 3,
-      "name": "airi",
-      "owner": "moeru-ai",
-      "url": "https://github.com/moeru-ai/airi",
-      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "stars": 44086,
-      "forks": 4400,
-      "stars_today": 572,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个自托管的AI伴侣系统，支持实时语音聊天、Minecraft和Factorio游戏交互，旨在创建可定制的虚拟角色。",
-        "purpose": "提供一个私有的、用户完全控制的虚拟伴侣平台，避免依赖云端服务，实现类似Neuro-sama的自主AI角色。",
-        "scene": "日常语音陪伴与聊天、在Minecraft中与AI角色共同游玩、在Factorio中与AI角色协作"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周AI方向最为强势，尤其是AI代理和语音交互领域。多个高星项目如huggingface/speech-to-speech、different-ai/openwork和mvanhorn/last30days-skill均聚焦于构建自主AI代理和实用AI工具，反映出社区对本地化、可定制AI工作流的强烈需求。同时，量化交易系统项目也获得高关注，显示AI在金融领域的应用持续升温。",
-    "language_trend": "Python以31次出现稳居榜首，主要得益于AI、数据科学和自动化项目的爆发式增长。TypeScript以19次紧随其后，反映出AI工具前端及全栈应用的需求上升，而JavaScript和Java的份额相对下降。Go语言在云原生和基础设施领域保持稳定，但整体热度不及Python和TypeScript。",
-    "notable_projects": "huggingface/speech-to-speech（⭐7301）允许开发者用开源模型构建本地语音代理，代表了语音AI与隐私保护的融合趋势，极具应用潜力。different-ai/openwork（⭐17963）作为Claude Cowork的开源替代，展示了AI协作编辑的新范式，可能重塑生产力工具。microsoft/AI-For-Beginners（⭐54087）是微软官方的AI入门课程，以12周24课的系统化内容降低了AI学习门槛，对教育生态有积极影响。"
+    "hot_direction": "本周最热技术方向无疑是AI，多个高星项目聚焦AI代理（如last30days-skill）、语音AI（speech-to-speech）及AI协作工具（openwork），表明AI应用层创新正加速落地。同时，AI与生产力工具的结合成为新热点，如开源替代Claude Cowork的项目。安全方向因逆向工程技能项目也保持一定热度，但整体热度不及AI。",
+    "language_trend": "Python以31次出现稳居榜首，主要得益于AI、量化交易等领域的广泛应用，其生态优势持续扩大。TypeScript以20次紧随其后，反映出Web开发、工具构建及全栈应用对类型安全的需求增长，正在逐步取代传统JavaScript。Jupyter Notebook出现7次，说明数据科学和AI教育领域对其依赖稳定；Go语言在云原生和系统工具中保持6次出现，地位稳固但未显著增长。",
+    "notable_projects": "microsoft/AI-For-Beginners（⭐54k）作为微软官方的系统性AI课程，以12周24课时的结构覆盖全AI领域，对初学者极具价值，体现了AI教育的旺盛需求。huggingface/speech-to-speech（⭐7.3k）利用开源模型实现本地语音代理，契合边缘计算和隐私保护趋势，技术前沿且实用性强。mvanhorn/last30days-skill（⭐54k）展示了AI代理在信息研究领域的强大能力，星数增长迅猛，代表AI Agent方向的重要探索。"
   }
 }
