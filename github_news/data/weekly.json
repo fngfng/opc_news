@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-03T02:27:45.857406",
-  "week_range": "2026-07-28 ~ 2026-08-03",
+  "generated_at": "2026-08-04T02:08:09.068796",
+  "week_range": "2026-07-29 ~ 2026-08-04",
   "days_collected": 7,
-  "total_projects": 57,
-  "total_stars_today": 46906,
+  "total_projects": 56,
+  "total_stars_today": 52557,
   "top_languages": [
     [
       "Python",
-      31
+      32
     ],
     [
       "TypeScript",
@@ -15,19 +15,37 @@
     ],
     [
       "Jupyter Notebook",
-      7
+      10
     ],
     [
       "JavaScript",
-      7
+      6
     ],
     [
-      "Go",
-      6
+      "Rust",
+      5
     ]
   ],
   "trending_topics": [],
   "top_picks": [
+    {
+      "rank": 2,
+      "name": "AI-For-Beginners",
+      "owner": "microsoft",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "stars": 54087,
+      "forks": 10971,
+      "stars_today": 155,
+      "language": "Jupyter Notebook",
+      "topics": [],
+      "summary": {
+        "what": "作者创建了一个为期12周共24节课的AI入门课程，使用Jupyter Notebook提供交互式学习材料",
+        "purpose": "解决AI初学者缺乏系统化、实践性学习资源的问题，降低AI学习门槛",
+        "scene": "个人自学AI基础知识、高校教师用于课堂教学、企业进行员工AI技能培训"
+      },
+      "appear_days": 5
+    },
     {
       "rank": 10,
       "name": "awesome-systematic-trading",
@@ -47,20 +65,38 @@
       "appear_days": 5
     },
     {
-      "rank": 2,
-      "name": "AI-For-Beginners",
-      "owner": "microsoft",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "description": "12 Weeks, 24 Lessons, AI for All!",
-      "stars": 54087,
-      "forks": 10971,
-      "stars_today": 155,
-      "language": "Jupyter Notebook",
+      "rank": 1,
+      "name": "reverse-skill",
+      "owner": "zhaoxuya520",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "stars": 10807,
+      "forks": 1660,
+      "stars_today": 335,
+      "language": "PowerShell",
       "topics": [],
       "summary": {
-        "what": "作者创建了一个为期12周共24节课的AI入门课程，使用Jupyter Notebook提供交互式学习材料",
-        "purpose": "解决AI初学者缺乏系统化、实践性学习资源的问题，降低AI学习门槛",
-        "scene": "个人自学AI基础知识、高校教师用于课堂教学、企业进行员工AI技能培训"
+        "what": "作者构建了一个AI驱动的逆向工程与渗透测试技能路由包，实现任务自动路由、工具链按需自举和知识库自进化",
+        "purpose": "解决安全研究中工具链复杂、知识分散、操作繁琐的问题，通过AI自动化提升逆向与渗透效率",
+        "scene": "逆向分析场景：自动识别文件类型并调用反汇编器、调试器等工具；渗透测试场景：根据目标自动编排信息收集、漏洞利用、后渗透工具链；安全研究场景：自动记录分析过程与技巧，形成可复用的经验知识库"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 9,
+      "name": "kaneo",
+      "owner": "usekaneo",
+      "url": "https://github.com/usekaneo/kaneo",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "stars": 5130,
+      "forks": 452,
+      "stars_today": 194,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个极简的开源项目管理工具，提供看板、任务和团队协作功能。",
+        "purpose": "解决现有项目管理软件功能臃肿、学习成本高的问题，提供一个轻量、自托管的替代方案。",
+        "scene": "个人任务规划、小型团队项目跟踪、自托管项目管理需求"
       },
       "appear_days": 4
     },
@@ -83,24 +119,6 @@
       "appear_days": 4
     },
     {
-      "rank": 14,
-      "name": "last30days-skill",
-      "owner": "mvanhorn",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": 54202,
-      "forks": 4700,
-      "stars_today": 240,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个AI代理技能，能够自动从Reddit、X、YouTube、Hacker News、Polymarket及全网搜索任意主题，并综合生成一份基于事实的摘要。",
-        "purpose": "解决手动跨多个平台搜集和总结信息效率低下的问题，快速获取多源综合洞察。",
-        "scene": "市场趋势分析、舆情监控、内容创作灵感搜集"
-      },
-      "appear_days": 4
-    },
-    {
       "rank": 7,
       "name": "speech-to-speech",
       "owner": "huggingface",
@@ -119,99 +137,81 @@
       "appear_days": 4
     },
     {
-      "rank": 9,
-      "name": "kaneo",
-      "owner": "usekaneo",
-      "url": "https://github.com/usekaneo/kaneo",
-      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
-      "stars": 5130,
-      "forks": 452,
-      "stars_today": 194,
+      "rank": 13,
+      "name": "TencentDB-Agent-Memory",
+      "owner": "TencentCloud",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "stars": 10320,
+      "forks": 991,
+      "stars_today": 227,
       "language": "TypeScript",
       "topics": [],
       "summary": {
-        "what": "作者开发了一个极简的开源项目管理工具，提供看板、任务和团队协作功能。",
-        "purpose": "解决现有项目管理软件功能臃肿、学习成本高的问题，提供一个轻量、自托管的替代方案。",
-        "scene": "个人任务规划、小型团队项目跟踪、自托管项目管理需求"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 1,
-      "name": "reverse-skill",
-      "owner": "zhaoxuya520",
-      "url": "https://github.com/zhaoxuya520/reverse-skill",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "stars": 10807,
-      "forks": 1660,
-      "stars_today": 335,
-      "language": "PowerShell",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个AI驱动的逆向工程与渗透测试技能路由包，实现任务自动路由、工具链按需自举和知识库自进化",
-        "purpose": "解决安全研究中工具链复杂、知识分散、操作繁琐的问题，通过AI自动化提升逆向与渗透效率",
-        "scene": "逆向分析场景：自动识别文件类型并调用反汇编器、调试器等工具；渗透测试场景：根据目标自动编排信息收集、漏洞利用、后渗透工具链；安全研究场景：自动记录分析过程与技巧，形成可复用的经验知识库"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 1,
-      "name": "editor",
-      "owner": "pascalorg",
-      "url": "https://github.com/pascalorg/editor",
-      "description": "Create and share 3D architectural projects.",
-      "stars": 18784,
-      "forks": 2530,
-      "stars_today": 341,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个基于Web的3D建筑编辑器，支持创建、编辑和分享三维建筑项目。",
-        "purpose": "降低3D建筑设计门槛，使非专业用户也能在浏览器中轻松设计和展示建筑方案。",
-        "scene": "场景1：个人用户设计住宅布局并在线分享；场景2：建筑师快速搭建建筑概念模型与客户沟通；场景3：教育场景中用于三维空间设计教学与演示。"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 10,
-      "name": "jenkins",
-      "owner": "jenkinsci",
-      "url": "https://github.com/jenkinsci/jenkins",
-      "description": "Jenkins automation server",
-      "stars": 25899,
-      "forks": 9680,
-      "stars_today": 180,
-      "language": "Java",
-      "topics": [],
-      "summary": {
-        "what": "创建了一个开源的自动化服务器，支持持续集成和持续交付。",
-        "purpose": "解决手动构建、测试和部署软件的低效和易出错问题。",
-        "scene": "代码提交后自动构建与测试、自动化部署到多环境、定时执行任务与生成报告"
+        "what": "构建了一个团队级AI代理记忆中心，将对话、文档和代码转化为四种可治理、共享的记忆资产（聊天记忆、技能、LLM-Wiki、代码图谱）",
+        "purpose": "解决AI代理在团队协作中缺乏统一、可重用记忆资产的问题，导致知识分散、难以共享和治理",
+        "scene": "团队协作中AI代理共享上下文和知识、跨项目代码库的智能问答与文档生成、多代理系统的记忆管理与复用"
       },
       "appear_days": 3
     },
     {
       "rank": 5,
-      "name": "ECC",
-      "owner": "affaan-m",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 234858,
-      "forks": 35787,
-      "stars_today": 636,
-      "language": "JavaScript",
+      "name": "generative-ai-for-beginners",
+      "owner": "microsoft",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "description": "21 Lessons, Get Started Building with Generative AI",
+      "stars": 114243,
+      "forks": 61222,
+      "stars_today": 108,
+      "language": "Jupyter Notebook",
       "topics": [],
       "summary": {
-        "what": "作者构建了一个面向AI编程助手的代理性能优化框架，集成技能、记忆与安全模块",
-        "purpose": "解决AI编程助手在复杂开发任务中响应慢、缺乏上下文记忆和安全保障的问题",
-        "scene": "在Claude Code中加速代码生成与调试、在Cursor中提供智能代码补全与重构建议、在Opencode中实现安全漏洞检测与修复"
+        "what": "微软推出了一个由21个Jupyter Notebook组成的生成式AI入门教程。",
+        "purpose": "为初学者提供系统化的生成式AI学习路径，降低入门门槛。",
+        "scene": "初学者跟随课程逐步学习、教育者用于开设AI课程、开发者查找代码示例和最佳实践"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 10,
+      "name": "invidious",
+      "owner": "iv-org",
+      "url": "https://github.com/iv-org/invidious",
+      "description": "Invidious is an alternative front-end to YouTube",
+      "stars": 21633,
+      "forks": 2431,
+      "stars_today": 435,
+      "language": "Crystal",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个用Crystal语言编写的YouTube替代前端Invidious，提供无广告、无需JavaScript的视频观看体验。",
+        "purpose": "解决YouTube官方前端存在的隐私追踪、广告干扰和强制JavaScript等问题，保护用户隐私并提供更自由的内容访问方式。",
+        "scene": "隐私敏感用户希望匿名观看YouTube视频、用户希望在没有广告干扰的环境下观看视频、自托管者搭建私人视频前端服务供社区使用"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 7,
+      "name": "last30days-skill",
+      "owner": "mvanhorn",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 55594,
+      "forks": 4788,
+      "stars_today": 378,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个AI代理技能，能够自动从Reddit、X、YouTube、Hacker News、Polymarket及全网搜索任意主题，并综合生成一份基于事实的摘要。",
+        "purpose": "解决手动跨多个平台搜集和总结信息效率低下的问题，快速获取多源综合洞察。",
+        "scene": "市场趋势分析、舆情监控、内容创作灵感搜集"
       },
       "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向无疑是AI，多个高星项目聚焦AI代理（如last30days-skill）、语音AI（speech-to-speech）及AI协作工具（openwork），表明AI应用层创新正加速落地。同时，AI与生产力工具的结合成为新热点，如开源替代Claude Cowork的项目。安全方向因逆向工程技能项目也保持一定热度，但整体热度不及AI。",
-    "language_trend": "Python以31次出现稳居榜首，主要得益于AI、量化交易等领域的广泛应用，其生态优势持续扩大。TypeScript以20次紧随其后，反映出Web开发、工具构建及全栈应用对类型安全的需求增长，正在逐步取代传统JavaScript。Jupyter Notebook出现7次，说明数据科学和AI教育领域对其依赖稳定；Go语言在云原生和系统工具中保持6次出现，地位稳固但未显著增长。",
-    "notable_projects": "microsoft/AI-For-Beginners（⭐54k）作为微软官方的系统性AI课程，以12周24课时的结构覆盖全AI领域，对初学者极具价值，体现了AI教育的旺盛需求。huggingface/speech-to-speech（⭐7.3k）利用开源模型实现本地语音代理，契合边缘计算和隐私保护趋势，技术前沿且实用性强。mvanhorn/last30days-skill（⭐54k）展示了AI代理在信息研究领域的强大能力，星数增长迅猛，代表AI Agent方向的重要探索。"
+    "hot_direction": "本周最热技术方向是AI，占据Top榜单多数席位，涵盖AI教育、AI代理、语音AI等细分领域。安全方向也有项目上榜，但AI凭借微软、Hugging Face等知名组织的开源项目，热度远超其他方向。",
+    "language_trend": "Python以32次出现稳居第一，主要受AI项目驱动；TypeScript（20次）在前端和工具领域持续增长，而JavaScript（6次）使用率相对下降。Jupyter Notebook（10次）因AI教程增多而频繁出现，Rust（5次）在系统工具领域保持稳定但未成主流。",
+    "notable_projects": "microsoft/generative-ai-for-beginners以超11万星成为生成式AI入门首选，反映学习需求爆发；different-ai/openwork作为Claude Cowork的开源替代，星数快速增长，显示AI协作工具的开源趋势；huggingface/speech-to-speech支持本地构建语音代理，体现了端侧AI和语音交互的热点。"
   }
 }
