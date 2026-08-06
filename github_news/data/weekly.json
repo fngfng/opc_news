@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-05T02:07:00.529147",
-  "week_range": "2026-07-30 ~ 2026-08-05",
+  "generated_at": "2026-08-06T02:09:50.723001",
+  "week_range": "2026-07-31 ~ 2026-08-06",
   "days_collected": 7,
-  "total_projects": 60,
-  "total_stars_today": 58872,
+  "total_projects": 56,
+  "total_stars_today": 58509,
   "top_languages": [
     [
       "Python",
-      29
+      27
     ],
     [
       "TypeScript",
-      23
+      22
     ],
     [
       "Jupyter Notebook",
-      12
+      13
     ],
     [
       "Rust",
@@ -23,11 +23,29 @@
     ],
     [
       "JavaScript",
-      6
+      7
     ]
   ],
   "trending_topics": [],
   "top_picks": [
+    {
+      "rank": 13,
+      "name": "TencentDB-Agent-Memory",
+      "owner": "TencentCloud",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "stars": 10320,
+      "forks": 991,
+      "stars_today": 227,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "构建了一个团队级AI代理记忆中心，将对话、文档和代码转化为四种可治理、共享的记忆资产（聊天记忆、技能、LLM-Wiki、代码图谱）",
+        "purpose": "解决AI代理在团队协作中缺乏统一、可重用记忆资产的问题，导致知识分散、难以共享和治理",
+        "scene": "团队协作中AI代理共享上下文和知识、跨项目代码库的智能问答与文档生成、多代理系统的记忆管理与复用"
+      },
+      "appear_days": 5
+    },
     {
       "rank": 1,
       "name": "reverse-skill",
@@ -83,20 +101,38 @@
       "appear_days": 5
     },
     {
-      "rank": 13,
-      "name": "TencentDB-Agent-Memory",
-      "owner": "TencentCloud",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "stars": 10320,
-      "forks": 991,
-      "stars_today": 227,
-      "language": "TypeScript",
+      "rank": 15,
+      "name": "DeepSeek-Reasonix",
+      "owner": "esengine",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars": 29145,
+      "forks": 1875,
+      "stars_today": 333,
+      "language": "Go",
       "topics": [],
       "summary": {
-        "what": "构建了一个团队级AI代理记忆中心，将对话、文档和代码转化为四种可治理、共享的记忆资产（聊天记忆、技能、LLM-Wiki、代码图谱）",
-        "purpose": "解决AI代理在团队协作中缺乏统一、可重用记忆资产的问题，导致知识分散、难以共享和治理",
-        "scene": "团队协作中AI代理共享上下文和知识、跨项目代码库的智能问答与文档生成、多代理系统的记忆管理与复用"
+        "what": "作者开发了一个基于DeepSeek模型的终端AI编程代理，通过前缀缓存稳定性设计实现持久化运行。",
+        "purpose": "解决终端AI编程工具因上下文丢失或缓存失效导致的不稳定问题，提供可长期驻留的编码助手。",
+        "scene": "开发者在终端中持续编码时获得实时智能建议、长时间会话中保持完整项目上下文以辅助复杂开发、作为后台代理自动执行代码审查或任务。"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 3,
+      "name": "airllm",
+      "owner": "lyogavin",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "stars": 25755,
+      "forks": 2890,
+      "stars_today": 819,
+      "language": "Jupyter Notebook",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了AirLLM工具，通过分层加载和量化等技术实现单GPU 4GB显存运行70B大模型推理。",
+        "purpose": "解决大模型推理对高显存的需求，使普通用户能在消费级硬件上运行大语言模型。",
+        "scene": "个人开发者本地测试大模型、边缘设备部署AI应用、教学演示中低成本展示大模型能力。"
       },
       "appear_days": 4
     },
@@ -119,74 +155,20 @@
       "appear_days": 4
     },
     {
-      "rank": 9,
-      "name": "openwork",
-      "owner": "different-ai",
-      "url": "https://github.com/different-ai/openwork",
-      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
-      "stars": 17963,
-      "forks": 1859,
-      "stars_today": 97,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了开源项目openwork，作为Claude Cowork的替代方案，利用opencode提供AI协同工作功能。",
-        "purpose": "解决依赖闭源AI协同工具的问题，提供可自托管、可定制的开源AI协作平台。",
-        "scene": "团队协作编程、文档协同撰写、项目任务自动化管理"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 14,
-      "name": "awesome-systematic-trading",
-      "owner": "paperswithbacktest",
-      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
-      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
-      "stars": 10407,
-      "forks": 1348,
-      "stars_today": 945,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者创建了一个精选的系统化交易资源列表，涵盖库、策略、书籍、博客和教程。",
-        "purpose": "帮助量化交易者和开发者快速发现高质量的系统化交易工具和学习资料。",
-        "scene": "场景1：量化交易初学者寻找学习资源；场景2：开发者寻找回测框架或交易库；场景3：研究人员查找交易策略和论文。"
-      },
-      "appear_days": 4
-    },
-    {
       "rank": 3,
-      "name": "airllm",
-      "owner": "lyogavin",
-      "url": "https://github.com/lyogavin/airllm",
-      "description": "AirLLM 70B inference with single 4GB GPU",
-      "stars": 25755,
-      "forks": 2890,
-      "stars_today": 819,
-      "language": "Jupyter Notebook",
+      "name": "pdf-inspector",
+      "owner": "firecrawl",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "stars": 8373,
+      "forks": 552,
+      "stars_today": 1699,
+      "language": "Rust",
       "topics": [],
       "summary": {
-        "what": "作者开发了AirLLM工具，通过分层加载和量化等技术实现单GPU 4GB显存运行70B大模型推理。",
-        "purpose": "解决大模型推理对高显存的需求，使普通用户能在消费级硬件上运行大语言模型。",
-        "scene": "个人开发者本地测试大模型、边缘设备部署AI应用、教学演示中低成本展示大模型能力。"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 15,
-      "name": "DeepSeek-Reasonix",
-      "owner": "esengine",
-      "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 29145,
-      "forks": 1875,
-      "stars_today": 333,
-      "language": "Go",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个基于DeepSeek模型的终端AI编程代理，通过前缀缓存稳定性设计实现持久化运行。",
-        "purpose": "解决终端AI编程工具因上下文丢失或缓存失效导致的不稳定问题，提供可长期驻留的编码助手。",
-        "scene": "开发者在终端中持续编码时获得实时智能建议、长时间会话中保持完整项目上下文以辅助复杂开发、作为后台代理自动执行代码审查或任务。"
+        "what": "作者开发了一个高性能Rust库，用于快速检查、分类和提取PDF文本，并智能识别扫描件与文本型PDF。",
+        "purpose": "解决在自动化处理PDF时无法高效区分扫描件和文本型PDF，导致路由决策困难的问题。",
+        "scene": "文档数字化流程中的自动分类、数据提取管道中的前置过滤、内容管理系统的智能上传处理"
       },
       "appear_days": 3
     },
@@ -207,11 +189,29 @@
         "scene": "隐私敏感用户希望匿名观看YouTube视频、用户希望在没有广告干扰的环境下观看视频、自托管者搭建私人视频前端服务供社区使用"
       },
       "appear_days": 3
+    },
+    {
+      "rank": 4,
+      "name": "openwork",
+      "owner": "different-ai",
+      "url": "https://github.com/different-ai/openwork",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "stars": 18799,
+      "forks": 1910,
+      "stars_today": 915,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了开源项目openwork，作为Claude Cowork的替代方案，利用opencode提供AI协同工作功能。",
+        "purpose": "解决依赖闭源AI协同工具的问题，提供可自托管、可定制的开源AI协作平台。",
+        "scene": "团队协作编程、文档协同撰写、项目任务自动化管理"
+      },
+      "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向是AI，尤其是生成式AI与AI Agent相关项目占据主导。微软的AI入门课程和生成式AI课程持续霸榜，腾讯Agent Memory和AirLLM等项目反映出从教育到工程落地的全面热度。此外，安全逆向工具reverse-skill的爆发也显示安全领域的持续关注。",
-    "language_trend": "Python以29次出现稳居首位，主要受AI/ML项目驱动；TypeScript以23次紧随其后，体现现代Web和工具开发对类型安全的需求增长。Jupyter Notebook（12次）作为AI教程和实验的首选媒介持续上升，而JavaScript（6次）占比下降，部分被TypeScript取代。",
-    "notable_projects": "zhaoxuya520/reverse-skill（逆向工程/渗透测试）5天破万星，是安全实战领域的黑马，值得关注其技术细节和社区反响。microsoft/generative-ai-for-beginners（11万+星）作为微软官方生成式AI课程，是开发者入门必看资源。TencentCloud/TencentDB-Agent-Memory（4天破万星）聚焦AI Agent记忆管理，可能成为Agent开发的关键基础设施。"
+    "hot_direction": "本周最热技术方向是人工智能，特别是AI代理和LLM应用。Top项目中多个涉及AI代理记忆、AI编程代理、LLM推理优化和AI教育，表明AI生态从模型训练向应用和基础设施扩展。安全方向也有一定热度，但AI的主导地位无可争议。",
+    "language_trend": "Python以27次出现稳居第一，主要受AI/ML项目驱动；TypeScript以22次紧随其后，用于现代Web和工具开发。Jupyter Notebook的13次反映了教育类项目的流行。Rust虽然次数较少，但在高性能工具（如pdf-inspector）中崭露头角，呈现崛起趋势。JavaScript热度相对下降，被TypeScript分流。",
+    "notable_projects": "TencentCloud/TencentDB-Agent-Memory（10320星）是腾讯云推出的团队级AI代理记忆中心，解决了AI代理长期记忆的关键问题，值得关注其架构和应用场景。esengine/DeepSeek-Reasonix（29145星）作为基于DeepSeek的终端AI编程代理，展示了国产模型在开发者工具领域的竞争力，其快速增长的星数反映了社区对AI编码工具的高度需求。lyogavin/airllm（25755星）实现了70B大模型在4GB GPU上的推理，是LLM推理优化的突破性项目，对降低AI应用门槛有重要意义。"
   }
 }
