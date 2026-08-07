@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-06T02:09:50.723001",
-  "week_range": "2026-07-31 ~ 2026-08-06",
+  "generated_at": "2026-08-07T02:28:50.651270",
+  "week_range": "2026-08-01 ~ 2026-08-07",
   "days_collected": 7,
-  "total_projects": 56,
-  "total_stars_today": 58509,
+  "total_projects": 55,
+  "total_stars_today": 64630,
   "top_languages": [
     [
       "Python",
@@ -11,11 +11,11 @@
     ],
     [
       "TypeScript",
-      22
+      21
     ],
     [
       "Jupyter Notebook",
-      13
+      12
     ],
     [
       "Rust",
@@ -23,7 +23,7 @@
     ],
     [
       "JavaScript",
-      7
+      6
     ]
   ],
   "trending_topics": [],
@@ -43,6 +43,24 @@
         "what": "构建了一个团队级AI代理记忆中心，将对话、文档和代码转化为四种可治理、共享的记忆资产（聊天记忆、技能、LLM-Wiki、代码图谱）",
         "purpose": "解决AI代理在团队协作中缺乏统一、可重用记忆资产的问题，导致知识分散、难以共享和治理",
         "scene": "团队协作中AI代理共享上下文和知识、跨项目代码库的智能问答与文档生成、多代理系统的记忆管理与复用"
+      },
+      "appear_days": 6
+    },
+    {
+      "rank": 15,
+      "name": "DeepSeek-Reasonix",
+      "owner": "esengine",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars": 29145,
+      "forks": 1875,
+      "stars_today": 333,
+      "language": "Go",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个基于DeepSeek模型的终端AI编程代理，通过前缀缓存稳定性设计实现持久化运行。",
+        "purpose": "解决终端AI编程工具因上下文丢失或缓存失效导致的不稳定问题，提供可长期驻留的编码助手。",
+        "scene": "开发者在终端中持续编码时获得实时智能建议、长时间会话中保持完整项目上下文以辅助复杂开发、作为后台代理自动执行代码审查或任务。"
       },
       "appear_days": 5
     },
@@ -83,38 +101,20 @@
       "appear_days": 5
     },
     {
-      "rank": 2,
-      "name": "AI-For-Beginners",
-      "owner": "microsoft",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "description": "12 Weeks, 24 Lessons, AI for All!",
-      "stars": 54087,
-      "forks": 10971,
-      "stars_today": 155,
-      "language": "Jupyter Notebook",
+      "rank": 3,
+      "name": "pdf-inspector",
+      "owner": "firecrawl",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "stars": 8373,
+      "forks": 552,
+      "stars_today": 1699,
+      "language": "Rust",
       "topics": [],
       "summary": {
-        "what": "作者创建了一个为期12周共24节课的AI入门课程，使用Jupyter Notebook提供交互式学习材料",
-        "purpose": "解决AI初学者缺乏系统化、实践性学习资源的问题，降低AI学习门槛",
-        "scene": "个人自学AI基础知识、高校教师用于课堂教学、企业进行员工AI技能培训"
-      },
-      "appear_days": 5
-    },
-    {
-      "rank": 15,
-      "name": "DeepSeek-Reasonix",
-      "owner": "esengine",
-      "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 29145,
-      "forks": 1875,
-      "stars_today": 333,
-      "language": "Go",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个基于DeepSeek模型的终端AI编程代理，通过前缀缓存稳定性设计实现持久化运行。",
-        "purpose": "解决终端AI编程工具因上下文丢失或缓存失效导致的不稳定问题，提供可长期驻留的编码助手。",
-        "scene": "开发者在终端中持续编码时获得实时智能建议、长时间会话中保持完整项目上下文以辅助复杂开发、作为后台代理自动执行代码审查或任务。"
+        "what": "作者开发了一个高性能Rust库，用于快速检查、分类和提取PDF文本，并智能识别扫描件与文本型PDF。",
+        "purpose": "解决在自动化处理PDF时无法高效区分扫描件和文本型PDF，导致路由决策困难的问题。",
+        "scene": "文档数字化流程中的自动分类、数据提取管道中的前置过滤、内容管理系统的智能上传处理"
       },
       "appear_days": 4
     },
@@ -155,20 +155,38 @@
       "appear_days": 4
     },
     {
-      "rank": 3,
-      "name": "pdf-inspector",
-      "owner": "firecrawl",
-      "url": "https://github.com/firecrawl/pdf-inspector",
-      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "stars": 8373,
-      "forks": 552,
-      "stars_today": 1699,
-      "language": "Rust",
+      "rank": 5,
+      "name": "AI-For-Beginners",
+      "owner": "microsoft",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "stars": 55375,
+      "forks": 11155,
+      "stars_today": 1592,
+      "language": "Jupyter Notebook",
       "topics": [],
       "summary": {
-        "what": "作者开发了一个高性能Rust库，用于快速检查、分类和提取PDF文本，并智能识别扫描件与文本型PDF。",
-        "purpose": "解决在自动化处理PDF时无法高效区分扫描件和文本型PDF，导致路由决策困难的问题。",
-        "scene": "文档数字化流程中的自动分类、数据提取管道中的前置过滤、内容管理系统的智能上传处理"
+        "what": "作者创建了一个为期12周共24节课的AI入门课程，使用Jupyter Notebook提供交互式学习材料",
+        "purpose": "解决AI初学者缺乏系统化、实践性学习资源的问题，降低AI学习门槛",
+        "scene": "个人自学AI基础知识、高校教师用于课堂教学、企业进行员工AI技能培训"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 5,
+      "name": "superpowers",
+      "owner": "obra",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 266521,
+      "forks": 23829,
+      "stars_today": 653,
+      "language": "Shell",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个基于Shell的代理技能框架，将软件开发方法论转化为可执行脚本。",
+        "purpose": "解决开发者在构建自动化代理和遵循高效开发实践时缺乏统一工具的问题。",
+        "scene": "场景1：自动化代码生成与模板创建；场景2：智能代码审查与修复；场景3：持续集成与部署流程编排。"
       },
       "appear_days": 3
     },
@@ -189,29 +207,11 @@
         "scene": "隐私敏感用户希望匿名观看YouTube视频、用户希望在没有广告干扰的环境下观看视频、自托管者搭建私人视频前端服务供社区使用"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 4,
-      "name": "openwork",
-      "owner": "different-ai",
-      "url": "https://github.com/different-ai/openwork",
-      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
-      "stars": 18799,
-      "forks": 1910,
-      "stars_today": 915,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了开源项目openwork，作为Claude Cowork的替代方案，利用opencode提供AI协同工作功能。",
-        "purpose": "解决依赖闭源AI协同工具的问题，提供可自托管、可定制的开源AI协作平台。",
-        "scene": "团队协作编程、文档协同撰写、项目任务自动化管理"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向是人工智能，特别是AI代理和LLM应用。Top项目中多个涉及AI代理记忆、AI编程代理、LLM推理优化和AI教育，表明AI生态从模型训练向应用和基础设施扩展。安全方向也有一定热度，但AI的主导地位无可争议。",
-    "language_trend": "Python以27次出现稳居第一，主要受AI/ML项目驱动；TypeScript以22次紧随其后，用于现代Web和工具开发。Jupyter Notebook的13次反映了教育类项目的流行。Rust虽然次数较少，但在高性能工具（如pdf-inspector）中崭露头角，呈现崛起趋势。JavaScript热度相对下降，被TypeScript分流。",
-    "notable_projects": "TencentCloud/TencentDB-Agent-Memory（10320星）是腾讯云推出的团队级AI代理记忆中心，解决了AI代理长期记忆的关键问题，值得关注其架构和应用场景。esengine/DeepSeek-Reasonix（29145星）作为基于DeepSeek的终端AI编程代理，展示了国产模型在开发者工具领域的竞争力，其快速增长的星数反映了社区对AI编码工具的高度需求。lyogavin/airllm（25755星）实现了70B大模型在4GB GPU上的推理，是LLM推理优化的突破性项目，对降低AI应用门槛有重要意义。"
+    "hot_direction": "本周最热技术方向是AI，尤其是AI代理、大模型推理和AI教育。多个项目如DeepSeek-Reasonix（AI编程代理）、AirLLM（大模型轻量推理）和微软的AI入门课程持续霸榜，反映出开发者对AI应用落地的强烈兴趣。同时，安全逆向工具也有一席之地，但AI方向无论从项目数量还是星数上都占据绝对优势。",
+    "language_trend": "Python以27次出现稳居榜首，主要得益于AI/ML项目的统治地位；Jupyter Notebook（12次）的频繁出现也印证了AI教程和实验的需求旺盛。TypeScript（21次）保持活跃，用于Web和工具开发；Rust（7次）在性能敏感工具（如PDF检查库）中崭露头角，显示出系统编程语言的增长潜力。",
+    "notable_projects": "DeepSeek-Reasonix（esengine/DeepSeek-Reasonix）作为终端AI编程代理，5天斩获近3万星，代表了AI与开发工具深度融合的前沿方向。TencentCloud/TencentDB-Agent-Memory是腾讯云推出的团队记忆中心，解决AI代理的记忆共享问题，具有企业级应用前景。AirLLM（lyogavin/airllm）实现了在4GB单卡上运行70B大模型，极大降低了AI推理硬件门槛，技术价值高。"
   }
 }
