@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-07T02:28:50.651270",
-  "week_range": "2026-08-01 ~ 2026-08-07",
+  "generated_at": "2026-08-08T01:17:33.934103",
+  "week_range": "2026-08-02 ~ 2026-08-08",
   "days_collected": 7,
-  "total_projects": 55,
-  "total_stars_today": 64630,
+  "total_projects": 60,
+  "total_stars_today": 69189,
   "top_languages": [
     [
       "Python",
-      27
+      29
     ],
     [
       "TypeScript",
@@ -15,15 +15,15 @@
     ],
     [
       "Jupyter Notebook",
-      12
+      11
     ],
     [
-      "Rust",
-      7
+      "Go",
+      8
     ],
     [
       "JavaScript",
-      6
+      7
     ]
   ],
   "trending_topics": [],
@@ -65,40 +65,22 @@
       "appear_days": 5
     },
     {
-      "rank": 1,
-      "name": "reverse-skill",
-      "owner": "zhaoxuya520",
-      "url": "https://github.com/zhaoxuya520/reverse-skill",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "stars": 10807,
-      "forks": 1660,
-      "stars_today": 335,
-      "language": "PowerShell",
+      "rank": 5,
+      "name": "superpowers",
+      "owner": "obra",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 266521,
+      "forks": 23829,
+      "stars_today": 653,
+      "language": "Shell",
       "topics": [],
       "summary": {
-        "what": "作者构建了一个AI驱动的逆向工程与渗透测试技能路由包，实现任务自动路由、工具链按需自举和知识库自进化",
-        "purpose": "解决安全研究中工具链复杂、知识分散、操作繁琐的问题，通过AI自动化提升逆向与渗透效率",
-        "scene": "逆向分析场景：自动识别文件类型并调用反汇编器、调试器等工具；渗透测试场景：根据目标自动编排信息收集、漏洞利用、后渗透工具链；安全研究场景：自动记录分析过程与技巧，形成可复用的经验知识库"
+        "what": "作者开发了一个基于Shell的代理技能框架，将软件开发方法论转化为可执行脚本。",
+        "purpose": "解决开发者在构建自动化代理和遵循高效开发实践时缺乏统一工具的问题。",
+        "scene": "场景1：自动化代码生成与模板创建；场景2：智能代码审查与修复；场景3：持续集成与部署流程编排。"
       },
-      "appear_days": 5
-    },
-    {
-      "rank": 9,
-      "name": "kaneo",
-      "owner": "usekaneo",
-      "url": "https://github.com/usekaneo/kaneo",
-      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
-      "stars": 5130,
-      "forks": 452,
-      "stars_today": 194,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个极简的开源项目管理工具，提供看板、任务和团队协作功能。",
-        "purpose": "解决现有项目管理软件功能臃肿、学习成本高的问题，提供一个轻量、自托管的替代方案。",
-        "scene": "个人任务规划、小型团队项目跟踪、自托管项目管理需求"
-      },
-      "appear_days": 5
+      "appear_days": 4
     },
     {
       "rank": 3,
@@ -137,6 +119,24 @@
       "appear_days": 4
     },
     {
+      "rank": 4,
+      "name": "reverse-skill",
+      "owner": "zhaoxuya520",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "stars": 11960,
+      "forks": 1811,
+      "stars_today": 1320,
+      "language": "PowerShell",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个AI驱动的逆向工程与渗透测试技能路由包，实现任务自动路由、工具链按需自举和知识库自进化",
+        "purpose": "解决安全研究中工具链复杂、知识分散、操作繁琐的问题，通过AI自动化提升逆向与渗透效率",
+        "scene": "逆向分析场景：自动识别文件类型并调用反汇编器、调试器等工具；渗透测试场景：根据目标自动编排信息收集、漏洞利用、后渗透工具链；安全研究场景：自动记录分析过程与技巧，形成可复用的经验知识库"
+      },
+      "appear_days": 4
+    },
+    {
       "rank": 5,
       "name": "generative-ai-for-beginners",
       "owner": "microsoft",
@@ -155,63 +155,63 @@
       "appear_days": 4
     },
     {
-      "rank": 5,
-      "name": "AI-For-Beginners",
-      "owner": "microsoft",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "description": "12 Weeks, 24 Lessons, AI for All!",
-      "stars": 55375,
-      "forks": 11155,
-      "stars_today": 1592,
-      "language": "Jupyter Notebook",
+      "rank": 3,
+      "name": "kaneo",
+      "owner": "usekaneo",
+      "url": "https://github.com/usekaneo/kaneo",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "stars": 5712,
+      "forks": 486,
+      "stars_today": 760,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
-        "what": "作者创建了一个为期12周共24节课的AI入门课程，使用Jupyter Notebook提供交互式学习材料",
-        "purpose": "解决AI初学者缺乏系统化、实践性学习资源的问题，降低AI学习门槛",
-        "scene": "个人自学AI基础知识、高校教师用于课堂教学、企业进行员工AI技能培训"
+        "what": "作者开发了一个极简的开源项目管理工具，提供看板、任务和团队协作功能。",
+        "purpose": "解决现有项目管理软件功能臃肿、学习成本高的问题，提供一个轻量、自托管的替代方案。",
+        "scene": "个人任务规划、小型团队项目跟踪、自托管项目管理需求"
       },
       "appear_days": 4
     },
     {
-      "rank": 5,
-      "name": "superpowers",
-      "owner": "obra",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 266521,
-      "forks": 23829,
-      "stars_today": 653,
-      "language": "Shell",
+      "rank": 7,
+      "name": "agent-skills",
+      "owner": "addyosmani",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 82010,
+      "forks": 8825,
+      "stars_today": 226,
+      "language": "JavaScript",
       "topics": [],
       "summary": {
-        "what": "作者开发了一个基于Shell的代理技能框架，将软件开发方法论转化为可执行脚本。",
-        "purpose": "解决开发者在构建自动化代理和遵循高效开发实践时缺乏统一工具的问题。",
-        "scene": "场景1：自动化代码生成与模板创建；场景2：智能代码审查与修复；场景3：持续集成与部署流程编排。"
+        "what": "Addy Osmani开发了一套面向AI编码代理的生产级工程技能模块，涵盖代码审查、测试、重构等最佳实践。",
+        "purpose": "解决AI编码代理在自动生成代码时缺乏工程严谨性和生产级质量的问题。",
+        "scene": "自动化代码审查与优化、智能单元测试生成、设计模式与架构建议"
       },
       "appear_days": 3
     },
     {
-      "rank": 10,
-      "name": "invidious",
-      "owner": "iv-org",
-      "url": "https://github.com/iv-org/invidious",
-      "description": "Invidious is an alternative front-end to YouTube",
-      "stars": 21633,
-      "forks": 2431,
-      "stars_today": 435,
-      "language": "Crystal",
+      "rank": 1,
+      "name": "computer",
+      "owner": "cloudflare",
+      "url": "https://github.com/cloudflare/computer",
+      "description": "Give your agent a computer 👾",
+      "stars": 3111,
+      "forks": 143,
+      "stars_today": 891,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
-        "what": "作者开发了一个用Crystal语言编写的YouTube替代前端Invidious，提供无广告、无需JavaScript的视频观看体验。",
-        "purpose": "解决YouTube官方前端存在的隐私追踪、广告干扰和强制JavaScript等问题，保护用户隐私并提供更自由的内容访问方式。",
-        "scene": "隐私敏感用户希望匿名观看YouTube视频、用户希望在没有广告干扰的环境下观看视频、自托管者搭建私人视频前端服务供社区使用"
+        "what": "作者构建了一个基于Cloudflare Workers的远程计算机环境，允许AI代理通过API控制虚拟桌面。",
+        "purpose": "解决AI代理缺乏安全、隔离且可扩展的计算环境来执行复杂任务的问题。",
+        "scene": "AI代理自动化网页操作、AI代理执行代码与命令行任务、AI代理进行数据采集与文件处理"
       },
       "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向是AI，尤其是AI代理、大模型推理和AI教育。多个项目如DeepSeek-Reasonix（AI编程代理）、AirLLM（大模型轻量推理）和微软的AI入门课程持续霸榜，反映出开发者对AI应用落地的强烈兴趣。同时，安全逆向工具也有一席之地，但AI方向无论从项目数量还是星数上都占据绝对优势。",
-    "language_trend": "Python以27次出现稳居榜首，主要得益于AI/ML项目的统治地位；Jupyter Notebook（12次）的频繁出现也印证了AI教程和实验的需求旺盛。TypeScript（21次）保持活跃，用于Web和工具开发；Rust（7次）在性能敏感工具（如PDF检查库）中崭露头角，显示出系统编程语言的增长潜力。",
-    "notable_projects": "DeepSeek-Reasonix（esengine/DeepSeek-Reasonix）作为终端AI编程代理，5天斩获近3万星，代表了AI与开发工具深度融合的前沿方向。TencentCloud/TencentDB-Agent-Memory是腾讯云推出的团队记忆中心，解决AI代理的记忆共享问题，具有企业级应用前景。AirLLM（lyogavin/airllm）实现了在4GB单卡上运行70B大模型，极大降低了AI推理硬件门槛，技术价值高。"
+    "hot_direction": "本周最热技术方向无疑是AI，特别是AI代理（Agent）和模型推理优化。上榜项目如DeepSeek-Reasonix（AI编码代理）、superpowers（代理技能框架）以及airllm（大模型推理）均体现了AI应用从理论到工具的快速落地。同时，生成式AI教育（微软教程）的高星数也反映出开发者对AI学习资源的旺盛需求。",
+    "language_trend": "Python以29次上榜次数遥遥领先，主要得益于其在AI/ML生态中的统治地位，大量AI项目均采用Python开发。TypeScript以21次紧随其后，显示其在全栈开发和工具链中的持续热度。Jupyter Notebook出现11次，与AI项目的演示和实验需求高度相关，而Go和JavaScript的出现次数相对较少，表明本周热点明显偏向AI与脚本语言。",
+    "notable_projects": "1. obra/superpowers（⭐266,521）：作为代理技能框架，其超高星数反映了社区对构建模块化、可扩展AI代理的强烈兴趣，可能成为AI代理开发的标准工具之一。2. esengine/DeepSeek-Reasonix（⭐29,145）：结合国产大模型DeepSeek与终端编码代理，展示了垂直领域AI应用的创新，且上榜5天增长迅猛，值得关注其后续发展。3. TencentCloud/TencentDB-Agent-Memory（⭐10,320）：上榜6天，聚焦AI记忆管理，解决了大模型上下文限制的痛点，可能成为企业级AI应用的关键基础设施。"
   }
 }
