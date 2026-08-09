@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-08-08T01:17:33.934103",
-  "week_range": "2026-08-02 ~ 2026-08-08",
+  "generated_at": "2026-08-09T01:20:14.715816",
+  "week_range": "2026-08-03 ~ 2026-08-09",
   "days_collected": 7,
-  "total_projects": 60,
-  "total_stars_today": 69189,
+  "total_projects": 56,
+  "total_stars_today": 70362,
   "top_languages": [
     [
       "Python",
-      29
+      26
     ],
     [
       "TypeScript",
-      21
+      20
     ],
     [
       "Jupyter Notebook",
-      11
+      9
     ],
     [
-      "Go",
+      "Rust",
       8
     ],
     [
@@ -29,14 +29,14 @@
   "trending_topics": [],
   "top_picks": [
     {
-      "rank": 13,
+      "rank": 10,
       "name": "TencentDB-Agent-Memory",
       "owner": "TencentCloud",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "stars": 10320,
-      "forks": 991,
-      "stars_today": 227,
+      "stars": 11130,
+      "forks": 1059,
+      "stars_today": 602,
       "language": "TypeScript",
       "topics": [],
       "summary": {
@@ -44,7 +44,7 @@
         "purpose": "解决AI代理在团队协作中缺乏统一、可重用记忆资产的问题，导致知识分散、难以共享和治理",
         "scene": "团队协作中AI代理共享上下文和知识、跨项目代码库的智能问答与文档生成、多代理系统的记忆管理与复用"
       },
-      "appear_days": 6
+      "appear_days": 5
     },
     {
       "rank": 15,
@@ -63,6 +63,24 @@
         "scene": "开发者在终端中持续编码时获得实时智能建议、长时间会话中保持完整项目上下文以辅助复杂开发、作为后台代理自动执行代码审查或任务。"
       },
       "appear_days": 5
+    },
+    {
+      "rank": 7,
+      "name": "agent-skills",
+      "owner": "addyosmani",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 82010,
+      "forks": 8825,
+      "stars_today": 226,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": {
+        "what": "Addy Osmani开发了一套面向AI编码代理的生产级工程技能模块，涵盖代码审查、测试、重构等最佳实践。",
+        "purpose": "解决AI编码代理在自动生成代码时缺乏工程严谨性和生产级质量的问题。",
+        "scene": "自动化代码审查与优化、智能单元测试生成、设计模式与架构建议"
+      },
+      "appear_days": 4
     },
     {
       "rank": 5,
@@ -120,73 +138,55 @@
     },
     {
       "rank": 4,
-      "name": "reverse-skill",
-      "owner": "zhaoxuya520",
-      "url": "https://github.com/zhaoxuya520/reverse-skill",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "stars": 11960,
-      "forks": 1811,
-      "stars_today": 1320,
-      "language": "PowerShell",
+      "name": "skills",
+      "owner": "mattpocock",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 207201,
+      "forks": 17896,
+      "stars_today": 1873,
+      "language": "Shell",
       "topics": [],
       "summary": {
-        "what": "作者构建了一个AI驱动的逆向工程与渗透测试技能路由包，实现任务自动路由、工具链按需自举和知识库自进化",
-        "purpose": "解决安全研究中工具链复杂、知识分散、操作繁琐的问题，通过AI自动化提升逆向与渗透效率",
-        "scene": "逆向分析场景：自动识别文件类型并调用反汇编器、调试器等工具；渗透测试场景：根据目标自动编排信息收集、漏洞利用、后渗透工具链；安全研究场景：自动记录分析过程与技巧，形成可复用的经验知识库"
+        "what": "Matt Pocock 创建了一组 Shell 脚本，作为 AI 代理的技能模块，用于自动化常见软件工程任务。",
+        "purpose": "解决 AI 代理在工程环境中缺乏标准化操作能力的问题，通过预定义脚本使代理能可靠执行开发任务。",
+        "scene": "场景1：使用 AI 代理初始化 TypeScript 项目；场景2：让代理自动运行代码检查和格式化；场景3：通过代理执行测试套件并生成报告。"
       },
-      "appear_days": 4
+      "appear_days": 3
     },
     {
       "rank": 5,
-      "name": "generative-ai-for-beginners",
-      "owner": "microsoft",
-      "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "description": "21 Lessons, Get Started Building with Generative AI",
-      "stars": 114243,
-      "forks": 61222,
-      "stars_today": 108,
-      "language": "Jupyter Notebook",
+      "name": "authentik",
+      "owner": "goauthentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "stars": 23152,
+      "forks": 1775,
+      "stars_today": 138,
+      "language": "Python",
       "topics": [],
       "summary": {
-        "what": "微软推出了一个由21个Jupyter Notebook组成的生成式AI入门教程。",
-        "purpose": "为初学者提供系统化的生成式AI学习路径，降低入门门槛。",
-        "scene": "初学者跟随课程逐步学习、教育者用于开设AI课程、开发者查找代码示例和最佳实践"
+        "what": "构建了一个开源的身份验证与授权平台，提供统一的单点登录、用户管理、多因素认证和协议转换功能。",
+        "purpose": "解决异构系统中多种身份源与应用的统一认证、授权和访问控制难题。",
+        "scene": "企业内网应用的单点登录集成、为Web服务添加多因素认证保护、作为反向代理或API网关的统一身份验证层"
       },
-      "appear_days": 4
-    },
-    {
-      "rank": 3,
-      "name": "kaneo",
-      "owner": "usekaneo",
-      "url": "https://github.com/usekaneo/kaneo",
-      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
-      "stars": 5712,
-      "forks": 486,
-      "stars_today": 760,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个极简的开源项目管理工具，提供看板、任务和团队协作功能。",
-        "purpose": "解决现有项目管理软件功能臃肿、学习成本高的问题，提供一个轻量、自托管的替代方案。",
-        "scene": "个人任务规划、小型团队项目跟踪、自托管项目管理需求"
-      },
-      "appear_days": 4
+      "appear_days": 3
     },
     {
       "rank": 7,
-      "name": "agent-skills",
-      "owner": "addyosmani",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 82010,
-      "forks": 8825,
-      "stars_today": 226,
-      "language": "JavaScript",
+      "name": "guava",
+      "owner": "google",
+      "url": "https://github.com/google/guava",
+      "description": "Google core libraries for Java",
+      "stars": 51647,
+      "forks": 11163,
+      "stars_today": 13,
+      "language": "Java",
       "topics": [],
       "summary": {
-        "what": "Addy Osmani开发了一套面向AI编码代理的生产级工程技能模块，涵盖代码审查、测试、重构等最佳实践。",
-        "purpose": "解决AI编码代理在自动生成代码时缺乏工程严谨性和生产级质量的问题。",
-        "scene": "自动化代码审查与优化、智能单元测试生成、设计模式与架构建议"
+        "what": "Google工程师开发了一套Java核心工具库，扩展了Java标准库的功能",
+        "purpose": "解决Java标准库在集合、缓存、并发等方面功能不足的问题，提高开发效率",
+        "scene": "集合操作增强、本地缓存实现、并发编程辅助"
       },
       "appear_days": 3
     },
@@ -210,8 +210,8 @@
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向无疑是AI，特别是AI代理（Agent）和模型推理优化。上榜项目如DeepSeek-Reasonix（AI编码代理）、superpowers（代理技能框架）以及airllm（大模型推理）均体现了AI应用从理论到工具的快速落地。同时，生成式AI教育（微软教程）的高星数也反映出开发者对AI学习资源的旺盛需求。",
-    "language_trend": "Python以29次上榜次数遥遥领先，主要得益于其在AI/ML生态中的统治地位，大量AI项目均采用Python开发。TypeScript以21次紧随其后，显示其在全栈开发和工具链中的持续热度。Jupyter Notebook出现11次，与AI项目的演示和实验需求高度相关，而Go和JavaScript的出现次数相对较少，表明本周热点明显偏向AI与脚本语言。",
-    "notable_projects": "1. obra/superpowers（⭐266,521）：作为代理技能框架，其超高星数反映了社区对构建模块化、可扩展AI代理的强烈兴趣，可能成为AI代理开发的标准工具之一。2. esengine/DeepSeek-Reasonix（⭐29,145）：结合国产大模型DeepSeek与终端编码代理，展示了垂直领域AI应用的创新，且上榜5天增长迅猛，值得关注其后续发展。3. TencentCloud/TencentDB-Agent-Memory（⭐10,320）：上榜6天，聚焦AI记忆管理，解决了大模型上下文限制的痛点，可能成为企业级AI应用的关键基础设施。"
+    "hot_direction": "本周最热技术方向无疑是AI代理（Agentic AI）与AI辅助开发工具。上榜项目中多数聚焦于AI代理的记忆管理、技能框架和编码代理，如TencentDB-Agent-Memory、agent-skills、superpowers等，反映出行业正从单一模型应用转向构建具备自主能力、记忆和技能体系的智能代理。同时，DeepSeek-Reasonix等终端AI编码代理的崛起，也表明开发者工具正深度集成AI，推动软件工程范式变革。",
+    "language_trend": "Python以26次出现稳居首位，主要得益于其在AI/ML领域的主导地位以及大量AI项目的涌现。TypeScript以20次紧随其后，显示其在全栈开发和大型项目中的持续增长，而JavaScript仅7次，进一步印证了TypeScript对JavaScript的替代趋势。Rust出现8次，凭借高性能和内存安全优势，在系统工具和库（如pdf-inspector）中崭露头角，成为值得关注的崛起语言。",
+    "notable_projects": "obra/superpowers以超26万星数成为本周最热门项目，它提供了一个代理技能框架，可能成为构建AI代理能力的标准范式，对开发者生态影响深远。mattpocock/skills拥有20万+星数，由知名工程师发布，直接源自其.agent配置，展示了个人AI代理的实际应用和技能共享模式，极具实用价值。TencentCloud/TencentDB-Agent-Memory作为腾讯云推出的团队级记忆中心，解决了AI代理的长期记忆痛点，是企业级AI基础设施的重要探索，值得长期跟踪。"
   }
 }
