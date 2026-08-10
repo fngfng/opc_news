@@ -1,69 +1,33 @@
 {
-  "generated_at": "2026-08-09T01:20:14.715816",
-  "week_range": "2026-08-03 ~ 2026-08-09",
+  "generated_at": "2026-08-10T01:28:52.764303",
+  "week_range": "2026-08-04 ~ 2026-08-10",
   "days_collected": 7,
-  "total_projects": 56,
-  "total_stars_today": 70362,
+  "total_projects": 58,
+  "total_stars_today": 67254,
   "top_languages": [
     [
       "Python",
-      26
+      31
     ],
     [
       "TypeScript",
-      20
+      19
     ],
     [
-      "Jupyter Notebook",
-      9
+      "Shell",
+      8
     ],
     [
       "Rust",
       8
     ],
     [
-      "JavaScript",
+      "Go",
       7
     ]
   ],
   "trending_topics": [],
   "top_picks": [
-    {
-      "rank": 10,
-      "name": "TencentDB-Agent-Memory",
-      "owner": "TencentCloud",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "stars": 11130,
-      "forks": 1059,
-      "stars_today": 602,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "构建了一个团队级AI代理记忆中心，将对话、文档和代码转化为四种可治理、共享的记忆资产（聊天记忆、技能、LLM-Wiki、代码图谱）",
-        "purpose": "解决AI代理在团队协作中缺乏统一、可重用记忆资产的问题，导致知识分散、难以共享和治理",
-        "scene": "团队协作中AI代理共享上下文和知识、跨项目代码库的智能问答与文档生成、多代理系统的记忆管理与复用"
-      },
-      "appear_days": 5
-    },
-    {
-      "rank": 15,
-      "name": "DeepSeek-Reasonix",
-      "owner": "esengine",
-      "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 29145,
-      "forks": 1875,
-      "stars_today": 333,
-      "language": "Go",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个基于DeepSeek模型的终端AI编程代理，通过前缀缓存稳定性设计实现持久化运行。",
-        "purpose": "解决终端AI编程工具因上下文丢失或缓存失效导致的不稳定问题，提供可长期驻留的编码助手。",
-        "scene": "开发者在终端中持续编码时获得实时智能建议、长时间会话中保持完整项目上下文以辅助复杂开发、作为后台代理自动执行代码审查或任务。"
-      },
-      "appear_days": 5
-    },
     {
       "rank": 7,
       "name": "agent-skills",
@@ -79,6 +43,24 @@
         "what": "Addy Osmani开发了一套面向AI编码代理的生产级工程技能模块，涵盖代码审查、测试、重构等最佳实践。",
         "purpose": "解决AI编码代理在自动生成代码时缺乏工程严谨性和生产级质量的问题。",
         "scene": "自动化代码审查与优化、智能单元测试生成、设计模式与架构建议"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 5,
+      "name": "authentik",
+      "owner": "goauthentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "stars": 23152,
+      "forks": 1775,
+      "stars_today": 138,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "构建了一个开源的身份验证与授权平台，提供统一的单点登录、用户管理、多因素认证和协议转换功能。",
+        "purpose": "解决异构系统中多种身份源与应用的统一认证、授权和访问控制难题。",
+        "scene": "企业内网应用的单点登录集成、为Web服务添加多因素认证保护、作为反向代理或API网关的统一身份验证层"
       },
       "appear_days": 4
     },
@@ -101,6 +83,42 @@
       "appear_days": 4
     },
     {
+      "rank": 5,
+      "name": "TencentDB-Agent-Memory",
+      "owner": "TencentCloud",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "stars": 12181,
+      "forks": 1149,
+      "stars_today": 1090,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "构建了一个团队级AI代理记忆中心，将对话、文档和代码转化为四种可治理、共享的记忆资产（聊天记忆、技能、LLM-Wiki、代码图谱）",
+        "purpose": "解决AI代理在团队协作中缺乏统一、可重用记忆资产的问题，导致知识分散、难以共享和治理",
+        "scene": "团队协作中AI代理共享上下文和知识、跨项目代码库的智能问答与文档生成、多代理系统的记忆管理与复用"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 4,
+      "name": "DeepSeek-Reasonix",
+      "owner": "esengine",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars": 29983,
+      "forks": 1925,
+      "stars_today": 883,
+      "language": "Go",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个基于DeepSeek模型的终端AI编程代理，通过前缀缓存稳定性设计实现持久化运行。",
+        "purpose": "解决终端AI编程工具因上下文丢失或缓存失效导致的不稳定问题，提供可长期驻留的编码助手。",
+        "scene": "开发者在终端中持续编码时获得实时智能建议、长时间会话中保持完整项目上下文以辅助复杂开发、作为后台代理自动执行代码审查或任务。"
+      },
+      "appear_days": 4
+    },
+    {
       "rank": 3,
       "name": "pdf-inspector",
       "owner": "firecrawl",
@@ -119,22 +137,40 @@
       "appear_days": 4
     },
     {
-      "rank": 3,
-      "name": "airllm",
-      "owner": "lyogavin",
-      "url": "https://github.com/lyogavin/airllm",
-      "description": "AirLLM 70B inference with single 4GB GPU",
-      "stars": 25755,
-      "forks": 2890,
-      "stars_today": 819,
-      "language": "Jupyter Notebook",
+      "rank": 1,
+      "name": "prime-agent",
+      "owner": "PrimeIntellect-ai",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "stars": 6561,
+      "forks": 522,
+      "stars_today": 2293,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
-        "what": "作者开发了AirLLM工具，通过分层加载和量化等技术实现单GPU 4GB显存运行70B大模型推理。",
-        "purpose": "解决大模型推理对高显存的需求，使普通用户能在消费级硬件上运行大语言模型。",
-        "scene": "个人开发者本地测试大模型、边缘设备部署AI应用、教学演示中低成本展示大模型能力。"
+        "what": "作者开发了一个基于TypeScript的自改进强化学习代理，用于自动化编码工作流和长时间运行的自主任务。",
+        "purpose": "解决开发者在重复性编码和长时间任务中效率低下的问题，通过自我改进的AI代理实现自动化。",
+        "scene": "自动化代码生成与重构、长时间运行的数据处理与测试、持续集成与部署中的自主决策"
       },
-      "appear_days": 4
+      "appear_days": 3
+    },
+    {
+      "rank": 17,
+      "name": "skills",
+      "owner": "google",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "stars": 16256,
+      "forks": 1289,
+      "stars_today": 327,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了Python技能框架及预构建技能，用于AI代理集成Google产品与服务",
+        "purpose": "解决AI代理与Google服务集成的复杂性，提供标准化技能接口以快速扩展代理能力",
+        "scene": "智能客服代理集成Google搜索与地图、自动化办公代理处理Gmail与日历、个人助理代理利用Google服务完成任务"
+      },
+      "appear_days": 3
     },
     {
       "rank": 4,
@@ -155,24 +191,6 @@
       "appear_days": 3
     },
     {
-      "rank": 5,
-      "name": "authentik",
-      "owner": "goauthentik",
-      "url": "https://github.com/goauthentik/authentik",
-      "description": "The authentication glue you need.",
-      "stars": 23152,
-      "forks": 1775,
-      "stars_today": 138,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "构建了一个开源的身份验证与授权平台，提供统一的单点登录、用户管理、多因素认证和协议转换功能。",
-        "purpose": "解决异构系统中多种身份源与应用的统一认证、授权和访问控制难题。",
-        "scene": "企业内网应用的单点登录集成、为Web服务添加多因素认证保护、作为反向代理或API网关的统一身份验证层"
-      },
-      "appear_days": 3
-    },
-    {
       "rank": 7,
       "name": "guava",
       "owner": "google",
@@ -189,29 +207,11 @@
         "scene": "集合操作增强、本地缓存实现、并发编程辅助"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 1,
-      "name": "computer",
-      "owner": "cloudflare",
-      "url": "https://github.com/cloudflare/computer",
-      "description": "Give your agent a computer 👾",
-      "stars": 3111,
-      "forks": 143,
-      "stars_today": 891,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个基于Cloudflare Workers的远程计算机环境，允许AI代理通过API控制虚拟桌面。",
-        "purpose": "解决AI代理缺乏安全、隔离且可扩展的计算环境来执行复杂任务的问题。",
-        "scene": "AI代理自动化网页操作、AI代理执行代码与命令行任务、AI代理进行数据采集与文件处理"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向无疑是AI代理（Agentic AI）与AI辅助开发工具。上榜项目中多数聚焦于AI代理的记忆管理、技能框架和编码代理，如TencentDB-Agent-Memory、agent-skills、superpowers等，反映出行业正从单一模型应用转向构建具备自主能力、记忆和技能体系的智能代理。同时，DeepSeek-Reasonix等终端AI编码代理的崛起，也表明开发者工具正深度集成AI，推动软件工程范式变革。",
-    "language_trend": "Python以26次出现稳居首位，主要得益于其在AI/ML领域的主导地位以及大量AI项目的涌现。TypeScript以20次紧随其后，显示其在全栈开发和大型项目中的持续增长，而JavaScript仅7次，进一步印证了TypeScript对JavaScript的替代趋势。Rust出现8次，凭借高性能和内存安全优势，在系统工具和库（如pdf-inspector）中崭露头角，成为值得关注的崛起语言。",
-    "notable_projects": "obra/superpowers以超26万星数成为本周最热门项目，它提供了一个代理技能框架，可能成为构建AI代理能力的标准范式，对开发者生态影响深远。mattpocock/skills拥有20万+星数，由知名工程师发布，直接源自其.agent配置，展示了个人AI代理的实际应用和技能共享模式，极具实用价值。TencentCloud/TencentDB-Agent-Memory作为腾讯云推出的团队级记忆中心，解决了AI代理的长期记忆痛点，是企业级AI基础设施的重要探索，值得长期跟踪。"
+    "hot_direction": "本周最热技术方向无疑是AI代理（Agent）与AI辅助编码。Top 8项目中超过半数直接聚焦于AI代理技能框架、记忆组件和编码代理，如agent-skills、superpowers和TencentDB-Agent-Memory等，反映了业界对构建更智能、更实用的AI开发工具的强烈需求。这一趋势表明，AI代理正从实验阶段迈向生产级应用，成为开发者生态的核心驱动力。",
+    "language_trend": "Python以31次上榜次数稳居主导地位，主要得益于其在AI/ML领域的统治力以及大量AI代理项目使用Python开发。TypeScript以19次紧随其后，显示全栈和工具开发领域仍然活跃；Rust和Shell各8次，反映出对高性能工具（如pdf-inspector）和自动化脚本的需求。整体来看，Python和TypeScript持续强势，Rust在系统工具领域逐渐崛起。",
+    "notable_projects": "addyosmani/agent-skills上榜5天斩获超8.2万星，作为生产级AI编码技能集，它可能成为AI代理技能标准化的标杆项目。obra/superpowers拥有高达26.6万星，其代理技能框架和软件开发平台概念极具野心，若成功将重塑AI开发范式。TencentCloud/TencentDB-Agent-Memory则瞄准了AI代理的“记忆”痛点，提供团队级记忆中心，是代理基础设施的关键一环，值得长期关注。"
   }
 }
