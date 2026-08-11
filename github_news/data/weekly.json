@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-10T01:28:52.764303",
-  "week_range": "2026-08-04 ~ 2026-08-10",
+  "generated_at": "2026-08-11T01:21:30.242539",
+  "week_range": "2026-08-05 ~ 2026-08-11",
   "days_collected": 7,
-  "total_projects": 58,
-  "total_stars_today": 67254,
+  "total_projects": 57,
+  "total_stars_today": 63634,
   "top_languages": [
     [
       "Python",
-      31
+      32
     ],
     [
       "TypeScript",
-      19
+      21
     ],
     [
       "Shell",
+      9
+    ],
+    [
+      "JavaScript",
       8
     ],
     [
       "Rust",
       8
-    ],
-    [
-      "Go",
-      7
     ]
   ],
   "trending_topics": [],
@@ -44,7 +44,25 @@
         "purpose": "解决AI编码代理在自动生成代码时缺乏工程严谨性和生产级质量的问题。",
         "scene": "自动化代码审查与优化、智能单元测试生成、设计模式与架构建议"
       },
-      "appear_days": 5
+      "appear_days": 6
+    },
+    {
+      "rank": 1,
+      "name": "prime-agent",
+      "owner": "PrimeIntellect-ai",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "stars": 6561,
+      "forks": 522,
+      "stars_today": 2293,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个基于TypeScript的自改进强化学习代理，用于自动化编码工作流和长时间运行的自主任务。",
+        "purpose": "解决开发者在重复性编码和长时间任务中效率低下的问题，通过自我改进的AI代理实现自动化。",
+        "scene": "自动化代码生成与重构、长时间运行的数据处理与测试、持续集成与部署中的自主决策"
+      },
+      "appear_days": 4
     },
     {
       "rank": 5,
@@ -81,78 +99,6 @@
         "scene": "场景1：自动化代码生成与模板创建；场景2：智能代码审查与修复；场景3：持续集成与部署流程编排。"
       },
       "appear_days": 4
-    },
-    {
-      "rank": 5,
-      "name": "TencentDB-Agent-Memory",
-      "owner": "TencentCloud",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "stars": 12181,
-      "forks": 1149,
-      "stars_today": 1090,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "构建了一个团队级AI代理记忆中心，将对话、文档和代码转化为四种可治理、共享的记忆资产（聊天记忆、技能、LLM-Wiki、代码图谱）",
-        "purpose": "解决AI代理在团队协作中缺乏统一、可重用记忆资产的问题，导致知识分散、难以共享和治理",
-        "scene": "团队协作中AI代理共享上下文和知识、跨项目代码库的智能问答与文档生成、多代理系统的记忆管理与复用"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 4,
-      "name": "DeepSeek-Reasonix",
-      "owner": "esengine",
-      "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 29983,
-      "forks": 1925,
-      "stars_today": 883,
-      "language": "Go",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个基于DeepSeek模型的终端AI编程代理，通过前缀缓存稳定性设计实现持久化运行。",
-        "purpose": "解决终端AI编程工具因上下文丢失或缓存失效导致的不稳定问题，提供可长期驻留的编码助手。",
-        "scene": "开发者在终端中持续编码时获得实时智能建议、长时间会话中保持完整项目上下文以辅助复杂开发、作为后台代理自动执行代码审查或任务。"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 3,
-      "name": "pdf-inspector",
-      "owner": "firecrawl",
-      "url": "https://github.com/firecrawl/pdf-inspector",
-      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "stars": 8373,
-      "forks": 552,
-      "stars_today": 1699,
-      "language": "Rust",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个高性能Rust库，用于快速检查、分类和提取PDF文本，并智能识别扫描件与文本型PDF。",
-        "purpose": "解决在自动化处理PDF时无法高效区分扫描件和文本型PDF，导致路由决策困难的问题。",
-        "scene": "文档数字化流程中的自动分类、数据提取管道中的前置过滤、内容管理系统的智能上传处理"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 1,
-      "name": "prime-agent",
-      "owner": "PrimeIntellect-ai",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "stars": 6561,
-      "forks": 522,
-      "stars_today": 2293,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个基于TypeScript的自改进强化学习代理，用于自动化编码工作流和长时间运行的自主任务。",
-        "purpose": "解决开发者在重复性编码和长时间任务中效率低下的问题，通过自我改进的AI代理实现自动化。",
-        "scene": "自动化代码生成与重构、长时间运行的数据处理与测试、持续集成与部署中的自主决策"
-      },
-      "appear_days": 3
     },
     {
       "rank": 17,
@@ -207,11 +153,65 @@
         "scene": "集合操作增强、本地缓存实现、并发编程辅助"
       },
       "appear_days": 3
+    },
+    {
+      "rank": 1,
+      "name": "computer",
+      "owner": "cloudflare",
+      "url": "https://github.com/cloudflare/computer",
+      "description": "Give your agent a computer 👾",
+      "stars": 3111,
+      "forks": 143,
+      "stars_today": 891,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个基于Cloudflare Workers的远程计算机环境，允许AI代理通过API控制虚拟桌面。",
+        "purpose": "解决AI代理缺乏安全、隔离且可扩展的计算环境来执行复杂任务的问题。",
+        "scene": "AI代理自动化网页操作、AI代理执行代码与命令行任务、AI代理进行数据采集与文件处理"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 1,
+      "name": "TencentDB-Agent-Memory",
+      "owner": "TencentCloud",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "stars": 13726,
+      "forks": 1285,
+      "stars_today": 1111,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "构建了一个团队级AI代理记忆中心，将对话、文档和代码转化为四种可治理、共享的记忆资产（聊天记忆、技能、LLM-Wiki、代码图谱）",
+        "purpose": "解决AI代理在团队协作中缺乏统一、可重用记忆资产的问题，导致知识分散、难以共享和治理",
+        "scene": "团队协作中AI代理共享上下文和知识、跨项目代码库的智能问答与文档生成、多代理系统的记忆管理与复用"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 17,
+      "name": "DeepSeek-Reasonix",
+      "owner": "esengine",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars": 30829,
+      "forks": 1984,
+      "stars_today": 922,
+      "language": "Go",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个基于DeepSeek模型的终端AI编程代理，通过前缀缓存稳定性设计实现持久化运行。",
+        "purpose": "解决终端AI编程工具因上下文丢失或缓存失效导致的不稳定问题，提供可长期驻留的编码助手。",
+        "scene": "开发者在终端中持续编码时获得实时智能建议、长时间会话中保持完整项目上下文以辅助复杂开发、作为后台代理自动执行代码审查或任务。"
+      },
+      "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向无疑是AI代理（Agent）与AI辅助编码。Top 8项目中超过半数直接聚焦于AI代理技能框架、记忆组件和编码代理，如agent-skills、superpowers和TencentDB-Agent-Memory等，反映了业界对构建更智能、更实用的AI开发工具的强烈需求。这一趋势表明，AI代理正从实验阶段迈向生产级应用，成为开发者生态的核心驱动力。",
-    "language_trend": "Python以31次上榜次数稳居主导地位，主要得益于其在AI/ML领域的统治力以及大量AI代理项目使用Python开发。TypeScript以19次紧随其后，显示全栈和工具开发领域仍然活跃；Rust和Shell各8次，反映出对高性能工具（如pdf-inspector）和自动化脚本的需求。整体来看，Python和TypeScript持续强势，Rust在系统工具领域逐渐崛起。",
-    "notable_projects": "addyosmani/agent-skills上榜5天斩获超8.2万星，作为生产级AI编码技能集，它可能成为AI代理技能标准化的标杆项目。obra/superpowers拥有高达26.6万星，其代理技能框架和软件开发平台概念极具野心，若成功将重塑AI开发范式。TencentCloud/TencentDB-Agent-Memory则瞄准了AI代理的“记忆”痛点，提供团队级记忆中心，是代理基础设施的关键一环，值得长期关注。"
+    "hot_direction": "本周最热技术方向是AI代理（Agent）开发与工具链。Top 8项目中有6个直接聚焦于AI代理，包括代理技能框架、自我改进代理和代理运行环境，反映出行业从模型本身转向构建可扩展的代理应用生态。超高星数增长表明开发者对生产级AI编码和代理技能标准化的需求极为迫切。",
+    "language_trend": "Python以32次出现稳居首位，主要受AI代理项目驱动，巩固了其在AI/ML领域的统治地位。TypeScript以21次紧随其后，显示前端及全栈工具链在代理交互界面和CLI工具中的活跃应用。Rust出现8次，表明系统级编程和性能敏感场景的需求在增长，而Shell和JavaScript保持稳定。",
+    "notable_projects": "obra/superpowers（⭐266k）作为代理技能框架，超高星数凸显社区对标准化代理技能开发的强烈需求，有望成为生态基石。addyosmani/agent-skills（⭐82k）提供生产级AI编码技能，可能成为开发者集成AI到日常编码的实用标准。cloudflare/computer（⭐3.1k）由Cloudflare推出，为代理提供虚拟计算机环境，代表了AI代理与边缘计算结合的新趋势，值得关注其后续发展。"
   }
 }
