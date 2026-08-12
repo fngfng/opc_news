@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-11T01:21:30.242539",
-  "week_range": "2026-08-05 ~ 2026-08-11",
+  "generated_at": "2026-08-12T01:31:08.402628",
+  "week_range": "2026-08-06 ~ 2026-08-12",
   "days_collected": 7,
-  "total_projects": 57,
-  "total_stars_today": 63634,
+  "total_projects": 55,
+  "total_stars_today": 60546,
   "top_languages": [
     [
       "Python",
-      32
+      39
     ],
     [
       "TypeScript",
-      21
+      18
     ],
     [
       "Shell",
-      9
+      10
     ],
     [
       "JavaScript",
@@ -23,7 +23,7 @@
     ],
     [
       "Rust",
-      8
+      6
     ]
   ],
   "trending_topics": [],
@@ -44,7 +44,7 @@
         "purpose": "解决AI编码代理在自动生成代码时缺乏工程严谨性和生产级质量的问题。",
         "scene": "自动化代码审查与优化、智能单元测试生成、设计模式与架构建议"
       },
-      "appear_days": 6
+      "appear_days": 7
     },
     {
       "rank": 1,
@@ -62,7 +62,7 @@
         "purpose": "解决开发者在重复性编码和长时间任务中效率低下的问题，通过自我改进的AI代理实现自动化。",
         "scene": "自动化代码生成与重构、长时间运行的数据处理与测试、持续集成与部署中的自主决策"
       },
-      "appear_days": 4
+      "appear_days": 5
     },
     {
       "rank": 5,
@@ -83,22 +83,58 @@
       "appear_days": 4
     },
     {
-      "rank": 5,
-      "name": "superpowers",
-      "owner": "obra",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 266521,
-      "forks": 23829,
-      "stars_today": 653,
+      "rank": 3,
+      "name": "agency-agents",
+      "owner": "msitarzewski",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": 140706,
+      "forks": 22983,
+      "stars_today": 858,
       "language": "Shell",
       "topics": [],
       "summary": {
-        "what": "作者开发了一个基于Shell的代理技能框架，将软件开发方法论转化为可执行脚本。",
-        "purpose": "解决开发者在构建自动化代理和遵循高效开发实践时缺乏统一工具的问题。",
-        "scene": "场景1：自动化代码生成与模板创建；场景2：智能代码审查与修复；场景3：持续集成与部署流程编排。"
+        "what": "作者用Shell脚本构建了一套包含多个专业AI代理的虚拟机构，每个代理具备独特个性和流程。",
+        "purpose": "解决多领域任务自动化问题，让用户能便捷调用不同专长的AI代理完成前端开发、社区运营、创意评估等工作。",
+        "scene": "前端页面开发与调试、Reddit等社区内容运营与互动、项目创意构思与现实可行性检查"
       },
-      "appear_days": 4
+      "appear_days": 3
+    },
+    {
+      "rank": 7,
+      "name": "semantica",
+      "owner": "semantica-agi",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "stars": 2349,
+      "forks": 305,
+      "stars_today": 122,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个图原生基础设施，为AI系统提供上下文关联和可问责性支持。",
+        "purpose": "解决AI系统在复杂任务中缺乏上下文连贯性和决策可追溯性的问题。",
+        "scene": "智能问答系统、知识图谱构建、AI决策审计"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 2,
+      "name": "code-graph-rag",
+      "owner": "vitali87",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "stars": 2998,
+      "forks": 520,
+      "stars_today": 96,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个基于知识图谱的RAG系统，用于多语言代码仓库的查询、理解和编辑",
+        "purpose": "解决大型单体仓库中跨语言代码理解、查询和修改困难的问题",
+        "scene": "快速查询代码库中的函数与依赖关系、跨语言代码理解与重构、基于自然语言描述自动生成或修改代码"
+      },
+      "appear_days": 3
     },
     {
       "rank": 17,
@@ -171,47 +207,11 @@
         "scene": "AI代理自动化网页操作、AI代理执行代码与命令行任务、AI代理进行数据采集与文件处理"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 1,
-      "name": "TencentDB-Agent-Memory",
-      "owner": "TencentCloud",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "stars": 13726,
-      "forks": 1285,
-      "stars_today": 1111,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "构建了一个团队级AI代理记忆中心，将对话、文档和代码转化为四种可治理、共享的记忆资产（聊天记忆、技能、LLM-Wiki、代码图谱）",
-        "purpose": "解决AI代理在团队协作中缺乏统一、可重用记忆资产的问题，导致知识分散、难以共享和治理",
-        "scene": "团队协作中AI代理共享上下文和知识、跨项目代码库的智能问答与文档生成、多代理系统的记忆管理与复用"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 17,
-      "name": "DeepSeek-Reasonix",
-      "owner": "esengine",
-      "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 30829,
-      "forks": 1984,
-      "stars_today": 922,
-      "language": "Go",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个基于DeepSeek模型的终端AI编程代理，通过前缀缓存稳定性设计实现持久化运行。",
-        "purpose": "解决终端AI编程工具因上下文丢失或缓存失效导致的不稳定问题，提供可长期驻留的编码助手。",
-        "scene": "开发者在终端中持续编码时获得实时智能建议、长时间会话中保持完整项目上下文以辅助复杂开发、作为后台代理自动执行代码审查或任务。"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向是AI代理（Agent）开发与工具链。Top 8项目中有6个直接聚焦于AI代理，包括代理技能框架、自我改进代理和代理运行环境，反映出行业从模型本身转向构建可扩展的代理应用生态。超高星数增长表明开发者对生产级AI编码和代理技能标准化的需求极为迫切。",
-    "language_trend": "Python以32次出现稳居首位，主要受AI代理项目驱动，巩固了其在AI/ML领域的统治地位。TypeScript以21次紧随其后，显示前端及全栈工具链在代理交互界面和CLI工具中的活跃应用。Rust出现8次，表明系统级编程和性能敏感场景的需求在增长，而Shell和JavaScript保持稳定。",
-    "notable_projects": "obra/superpowers（⭐266k）作为代理技能框架，超高星数凸显社区对标准化代理技能开发的强烈需求，有望成为生态基石。addyosmani/agent-skills（⭐82k）提供生产级AI编码技能，可能成为开发者集成AI到日常编码的实用标准。cloudflare/computer（⭐3.1k）由Cloudflare推出，为代理提供虚拟计算机环境，代表了AI代理与边缘计算结合的新趋势，值得关注其后续发展。"
+    "hot_direction": "本周最热技术方向是AI代理（Agent）与技能（Skills）框架。多个上榜项目聚焦于为AI编码代理提供生产级技能、RAG和图原生基础设施，表明社区正从通用大模型转向可定制、可扩展的代理应用。同时，身份认证项目上榜也反映出安全需求持续存在，但AI代理方向明显更强势。",
+    "language_trend": "Python以39次出现稳居榜首，主要得益于其在AI/ML生态中的核心地位，大量代理和RAG项目均基于Python。TypeScript和JavaScript保持稳定，用于Web和全栈工具开发；Rust虽次数较少，但在系统级工具和安全领域逐渐崛起，值得关注。",
+    "notable_projects": "mattpocock/skills（20.7万星）和msitarzewski/agency-agents（14万星）均在上榜3天内获得极高关注，前者由知名工程师发布，后者提供完整的AI代理解决方案，反映出市场对实用化AI代理的强烈需求。addyoasmani/agent-skills（8.2万星）持续7天上榜，代表了生产级AI编码技能的标准，值得开发者集成到工作流中。"
   }
 }
