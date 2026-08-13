@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-12T01:31:08.402628",
-  "week_range": "2026-08-06 ~ 2026-08-12",
+  "generated_at": "2026-08-13T01:33:21.894691",
+  "week_range": "2026-08-07 ~ 2026-08-13",
   "days_collected": 7,
-  "total_projects": 55,
-  "total_stars_today": 60546,
+  "total_projects": 61,
+  "total_stars_today": 61755,
   "top_languages": [
     [
       "Python",
-      39
+      42
     ],
     [
       "TypeScript",
@@ -18,25 +18,25 @@
       10
     ],
     [
-      "JavaScript",
-      8
+      "Rust",
+      7
     ],
     [
-      "Rust",
+      "JavaScript",
       6
     ]
   ],
   "trending_topics": [],
   "top_picks": [
     {
-      "rank": 7,
+      "rank": 2,
       "name": "agent-skills",
       "owner": "addyosmani",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 82010,
-      "forks": 8825,
-      "stars_today": 226,
+      "stars": 82994,
+      "forks": 8898,
+      "stars_today": 593,
       "language": "JavaScript",
       "topics": [],
       "summary": {
@@ -44,7 +44,7 @@
         "purpose": "解决AI编码代理在自动生成代码时缺乏工程严谨性和生产级质量的问题。",
         "scene": "自动化代码审查与优化、智能单元测试生成、设计模式与架构建议"
       },
-      "appear_days": 7
+      "appear_days": 6
     },
     {
       "rank": 1,
@@ -65,20 +65,20 @@
       "appear_days": 5
     },
     {
-      "rank": 5,
-      "name": "authentik",
-      "owner": "goauthentik",
-      "url": "https://github.com/goauthentik/authentik",
-      "description": "The authentication glue you need.",
-      "stars": 23152,
-      "forks": 1775,
-      "stars_today": 138,
+      "rank": 7,
+      "name": "semantica",
+      "owner": "semantica-agi",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "stars": 2349,
+      "forks": 305,
+      "stars_today": 122,
       "language": "Python",
       "topics": [],
       "summary": {
-        "what": "构建了一个开源的身份验证与授权平台，提供统一的单点登录、用户管理、多因素认证和协议转换功能。",
-        "purpose": "解决异构系统中多种身份源与应用的统一认证、授权和访问控制难题。",
-        "scene": "企业内网应用的单点登录集成、为Web服务添加多因素认证保护、作为反向代理或API网关的统一身份验证层"
+        "what": "作者构建了一个图原生基础设施，为AI系统提供上下文关联和可问责性支持。",
+        "purpose": "解决AI系统在复杂任务中缺乏上下文连贯性和决策可追溯性的问题。",
+        "scene": "智能问答系统、知识图谱构建、AI决策审计"
       },
       "appear_days": 4
     },
@@ -98,23 +98,41 @@
         "purpose": "解决多领域任务自动化问题，让用户能便捷调用不同专长的AI代理完成前端开发、社区运营、创意评估等工作。",
         "scene": "前端页面开发与调试、Reddit等社区内容运营与互动、项目创意构思与现实可行性检查"
       },
-      "appear_days": 3
+      "appear_days": 4
     },
     {
-      "rank": 7,
-      "name": "semantica",
-      "owner": "semantica-agi",
-      "url": "https://github.com/semantica-agi/semantica",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "stars": 2349,
-      "forks": 305,
-      "stars_today": 122,
+      "rank": 5,
+      "name": "authentik",
+      "owner": "goauthentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "stars": 23152,
+      "forks": 1775,
+      "stars_today": 138,
       "language": "Python",
       "topics": [],
       "summary": {
-        "what": "作者构建了一个图原生基础设施，为AI系统提供上下文关联和可问责性支持。",
-        "purpose": "解决AI系统在复杂任务中缺乏上下文连贯性和决策可追溯性的问题。",
-        "scene": "智能问答系统、知识图谱构建、AI决策审计"
+        "what": "构建了一个开源的身份验证与授权平台，提供统一的单点登录、用户管理、多因素认证和协议转换功能。",
+        "purpose": "解决异构系统中多种身份源与应用的统一认证、授权和访问控制难题。",
+        "scene": "企业内网应用的单点登录集成、为Web服务添加多因素认证保护、作为反向代理或API网关的统一身份验证层"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 5,
+      "name": "paperclip",
+      "owner": "paperclipai",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "stars": 76506,
+      "forks": 14210,
+      "stars_today": 198,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个开源应用，用于在工作环境中统一管理和调度多个AI代理。",
+        "purpose": "解决团队使用多个AI代理时缺乏集中管理、协作和监控的问题。",
+        "scene": "场景1：项目经理通过仪表盘分配任务给不同的AI代理；场景2：开发人员实时监控AI代理的运行状态和日志；场景3：业务人员通过统一界面与多个AI代理交互，自动化完成报表生成、数据分析等工作。"
       },
       "appear_days": 3
     },
@@ -189,29 +207,11 @@
         "scene": "集合操作增强、本地缓存实现、并发编程辅助"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 1,
-      "name": "computer",
-      "owner": "cloudflare",
-      "url": "https://github.com/cloudflare/computer",
-      "description": "Give your agent a computer 👾",
-      "stars": 3111,
-      "forks": 143,
-      "stars_today": 891,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个基于Cloudflare Workers的远程计算机环境，允许AI代理通过API控制虚拟桌面。",
-        "purpose": "解决AI代理缺乏安全、隔离且可扩展的计算环境来执行复杂任务的问题。",
-        "scene": "AI代理自动化网页操作、AI代理执行代码与命令行任务、AI代理进行数据采集与文件处理"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向是AI代理（Agent）与技能（Skills）框架。多个上榜项目聚焦于为AI编码代理提供生产级技能、RAG和图原生基础设施，表明社区正从通用大模型转向可定制、可扩展的代理应用。同时，身份认证项目上榜也反映出安全需求持续存在，但AI代理方向明显更强势。",
-    "language_trend": "Python以39次出现稳居榜首，主要得益于其在AI/ML生态中的核心地位，大量代理和RAG项目均基于Python。TypeScript和JavaScript保持稳定，用于Web和全栈工具开发；Rust虽次数较少，但在系统级工具和安全领域逐渐崛起，值得关注。",
-    "notable_projects": "mattpocock/skills（20.7万星）和msitarzewski/agency-agents（14万星）均在上榜3天内获得极高关注，前者由知名工程师发布，后者提供完整的AI代理解决方案，反映出市场对实用化AI代理的强烈需求。addyoasmani/agent-skills（8.2万星）持续7天上榜，代表了生产级AI编码技能的标准，值得开发者集成到工作流中。"
+    "hot_direction": "本周最热技术方向无疑是AI，尤其是AI Agent和编码辅助工具。上榜项目中超过半数直接与AI代理构建、管理或技能相关，如agent-skills、agency-agents和paperclip，反映出行业正从单一模型转向可自主执行任务的智能体工作流。安全领域虽有authentik上榜，但热度完全被AI方向压制。",
+    "language_trend": "Python以42次出现量遥遥领先，主要得益于AI/ML生态的绝对主导地位，几乎所有上榜AI项目都基于Python构建。TypeScript和Rust呈上升趋势，TypeScript用于构建AI工具的前端与全栈应用，Rust则凭借性能优势在系统级工具和基础设施中增长。JavaScript出现次数下降，部分功能被TypeScript覆盖，Shell则因DevOps和自动化脚本保持稳定需求。",
+    "notable_projects": "1. addyosmani/agent-skills：以8.2万星成为本周最热项目，提供生产级AI编码技能库，直接提升开发者使用AI编程的效率与质量，是AI辅助开发领域的标杆。2. msitarzewski/agency-agents：星数高达14万，定位为一站式AI代理平台，覆盖从界面到后端的完整链路，体现了AI代理集成化、开箱即用的趋势。3. google/skills：Google官方推出的Agent Skills项目，专门针对Google产品生态，表明科技巨头正积极布局AI代理技能层，具有长期生态锁定和标准制定的潜力。"
   }
 }
