@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-13T01:33:21.894691",
-  "week_range": "2026-08-07 ~ 2026-08-13",
+  "generated_at": "2026-08-14T01:30:48.776402",
+  "week_range": "2026-08-08 ~ 2026-08-14",
   "days_collected": 7,
-  "total_projects": 61,
-  "total_stars_today": 61755,
+  "total_projects": 62,
+  "total_stars_today": 62161,
   "top_languages": [
     [
       "Python",
-      42
+      46
     ],
     [
       "TypeScript",
@@ -15,28 +15,64 @@
     ],
     [
       "Shell",
-      10
+      9
     ],
     [
       "Rust",
-      7
+      8
     ],
     [
-      "JavaScript",
-      6
+      "Go",
+      5
     ]
   ],
   "trending_topics": [],
   "top_picks": [
+    {
+      "rank": 7,
+      "name": "semantica",
+      "owner": "semantica-agi",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "stars": 2349,
+      "forks": 305,
+      "stars_today": 122,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个图原生基础设施，为AI系统提供上下文关联和可问责性支持。",
+        "purpose": "解决AI系统在复杂任务中缺乏上下文连贯性和决策可追溯性的问题。",
+        "scene": "智能问答系统、知识图谱构建、AI决策审计"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 3,
+      "name": "agency-agents",
+      "owner": "msitarzewski",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": 140706,
+      "forks": 22983,
+      "stars_today": 858,
+      "language": "Shell",
+      "topics": [],
+      "summary": {
+        "what": "作者用Shell脚本构建了一套包含多个专业AI代理的虚拟机构，每个代理具备独特个性和流程。",
+        "purpose": "解决多领域任务自动化问题，让用户能便捷调用不同专长的AI代理完成前端开发、社区运营、创意评估等工作。",
+        "scene": "前端页面开发与调试、Reddit等社区内容运营与互动、项目创意构思与现实可行性检查"
+      },
+      "appear_days": 5
+    },
     {
       "rank": 2,
       "name": "agent-skills",
       "owner": "addyosmani",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 82994,
-      "forks": 8898,
-      "stars_today": 593,
+      "stars": 83909,
+      "forks": 8967,
+      "stars_today": 1131,
       "language": "JavaScript",
       "topics": [],
       "summary": {
@@ -44,7 +80,7 @@
         "purpose": "解决AI编码代理在自动生成代码时缺乏工程严谨性和生产级质量的问题。",
         "scene": "自动化代码审查与优化、智能单元测试生成、设计模式与架构建议"
       },
-      "appear_days": 6
+      "appear_days": 5
     },
     {
       "rank": 1,
@@ -63,60 +99,6 @@
         "scene": "自动化代码生成与重构、长时间运行的数据处理与测试、持续集成与部署中的自主决策"
       },
       "appear_days": 5
-    },
-    {
-      "rank": 7,
-      "name": "semantica",
-      "owner": "semantica-agi",
-      "url": "https://github.com/semantica-agi/semantica",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "stars": 2349,
-      "forks": 305,
-      "stars_today": 122,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个图原生基础设施，为AI系统提供上下文关联和可问责性支持。",
-        "purpose": "解决AI系统在复杂任务中缺乏上下文连贯性和决策可追溯性的问题。",
-        "scene": "智能问答系统、知识图谱构建、AI决策审计"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 3,
-      "name": "agency-agents",
-      "owner": "msitarzewski",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "stars": 140706,
-      "forks": 22983,
-      "stars_today": 858,
-      "language": "Shell",
-      "topics": [],
-      "summary": {
-        "what": "作者用Shell脚本构建了一套包含多个专业AI代理的虚拟机构，每个代理具备独特个性和流程。",
-        "purpose": "解决多领域任务自动化问题，让用户能便捷调用不同专长的AI代理完成前端开发、社区运营、创意评估等工作。",
-        "scene": "前端页面开发与调试、Reddit等社区内容运营与互动、项目创意构思与现实可行性检查"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 5,
-      "name": "authentik",
-      "owner": "goauthentik",
-      "url": "https://github.com/goauthentik/authentik",
-      "description": "The authentication glue you need.",
-      "stars": 23152,
-      "forks": 1775,
-      "stars_today": 138,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "构建了一个开源的身份验证与授权平台，提供统一的单点登录、用户管理、多因素认证和协议转换功能。",
-        "purpose": "解决异构系统中多种身份源与应用的统一认证、授权和访问控制难题。",
-        "scene": "企业内网应用的单点登录集成、为Web服务添加多因素认证保护、作为反向代理或API网关的统一身份验证层"
-      },
-      "appear_days": 4
     },
     {
       "rank": 5,
@@ -155,6 +137,24 @@
       "appear_days": 3
     },
     {
+      "rank": 6,
+      "name": "authentik",
+      "owner": "goauthentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "stars": 23603,
+      "forks": 1804,
+      "stars_today": 530,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "构建了一个开源的身份验证与授权平台，提供统一的单点登录、用户管理、多因素认证和协议转换功能。",
+        "purpose": "解决异构系统中多种身份源与应用的统一认证、授权和访问控制难题。",
+        "scene": "企业内网应用的单点登录集成、为Web服务添加多因素认证保护、作为反向代理或API网关的统一身份验证层"
+      },
+      "appear_days": 3
+    },
+    {
       "rank": 17,
       "name": "skills",
       "owner": "google",
@@ -173,45 +173,45 @@
       "appear_days": 3
     },
     {
-      "rank": 4,
-      "name": "skills",
-      "owner": "mattpocock",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 207201,
-      "forks": 17896,
-      "stars_today": 1873,
-      "language": "Shell",
+      "rank": 1,
+      "name": "diagram-design",
+      "owner": "cathrynlavery",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "stars": 10534,
+      "forks": 679,
+      "stars_today": 2855,
+      "language": "HTML",
       "topics": [],
       "summary": {
-        "what": "Matt Pocock 创建了一组 Shell 脚本，作为 AI 代理的技能模块，用于自动化常见软件工程任务。",
-        "purpose": "解决 AI 代理在工程环境中缺乏标准化操作能力的问题，通过预定义脚本使代理能可靠执行开发任务。",
-        "scene": "场景1：使用 AI 代理初始化 TypeScript 项目；场景2：让代理自动运行代码检查和格式化；场景3：通过代理执行测试套件并生成报告。"
+        "what": "作者为Claude Code设计了29种自包含HTML+SVG的编辑图表类型，无阴影且避免Mermaid粗糙风格。",
+        "purpose": "解决在AI编码环境中快速生成高质量、可定制图表的需求，替代传统图表工具的繁琐和低质输出。",
+        "scene": "技术文档插图生成、博客教程示意图制作、AI辅助下可复用的图表模板库"
       },
-      "appear_days": 3
+      "appear_days": 2
     },
     {
       "rank": 7,
-      "name": "guava",
-      "owner": "google",
-      "url": "https://github.com/google/guava",
-      "description": "Google core libraries for Java",
-      "stars": 51647,
-      "forks": 11163,
-      "stars_today": 13,
-      "language": "Java",
+      "name": "skills",
+      "owner": "anthropics",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "stars": 168141,
+      "forks": 20033,
+      "stars_today": 485,
+      "language": "Python",
       "topics": [],
       "summary": {
-        "what": "Google工程师开发了一套Java核心工具库，扩展了Java标准库的功能",
-        "purpose": "解决Java标准库在集合、缓存、并发等方面功能不足的问题，提高开发效率",
-        "scene": "集合操作增强、本地缓存实现、并发编程辅助"
+        "what": "作者构建了一个用于定义、管理和执行AI代理可复用技能的Python框架",
+        "purpose": "解决AI代理技能碎片化、难以复用和扩展的问题",
+        "scene": "开发者快速集成预置技能到AI助手、企业构建内部自动化代理工作流、教育场景中教授AI代理开发"
       },
-      "appear_days": 3
+      "appear_days": 2
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向无疑是AI，尤其是AI Agent和编码辅助工具。上榜项目中超过半数直接与AI代理构建、管理或技能相关，如agent-skills、agency-agents和paperclip，反映出行业正从单一模型转向可自主执行任务的智能体工作流。安全领域虽有authentik上榜，但热度完全被AI方向压制。",
-    "language_trend": "Python以42次出现量遥遥领先，主要得益于AI/ML生态的绝对主导地位，几乎所有上榜AI项目都基于Python构建。TypeScript和Rust呈上升趋势，TypeScript用于构建AI工具的前端与全栈应用，Rust则凭借性能优势在系统级工具和基础设施中增长。JavaScript出现次数下降，部分功能被TypeScript覆盖，Shell则因DevOps和自动化脚本保持稳定需求。",
-    "notable_projects": "1. addyosmani/agent-skills：以8.2万星成为本周最热项目，提供生产级AI编码技能库，直接提升开发者使用AI编程的效率与质量，是AI辅助开发领域的标杆。2. msitarzewski/agency-agents：星数高达14万，定位为一站式AI代理平台，覆盖从界面到后端的完整链路，体现了AI代理集成化、开箱即用的趋势。3. google/skills：Google官方推出的Agent Skills项目，专门针对Google产品生态，表明科技巨头正积极布局AI代理技能层，具有长期生态锁定和标准制定的潜力。"
+    "hot_direction": "本周最热技术方向无疑是AI Agent及其工程化工具，Top项目中多数聚焦于构建、管理或增强AI代理（如agency-agents、agent-skills、paperclip），且星数增长爆发式，反映出社区对生产级AI代理框架和技能的迫切需求。同时，RAG（code-graph-rag）和上下文基础设施（semantica）的出现，表明AI应用正从简单对话向深度知识集成与复杂工作流演进。",
+    "language_trend": "Python以46次高居榜首，因其在AI/ML生态中的统治地位和丰富的代理开发库（如LangChain、AutoGPT等）而持续强势。TypeScript（18次）的活跃体现了全栈工具和AI代理管理界面的需求增长，而Rust（8次）和Go（5次）在基础设施与高性能场景中保持稳定，Shell（9次）则常见于DevOps自动化，整体上Python和TypeScript主导应用层，Rust/Go支撑底层。",
+    "notable_projects": "msitarzewski/agency-agents（14万星）以极高速增长成为现象级项目，提供完整的AI代理解决方案，可能定义了新的代理开发范式。addyosmani/agent-skills（8.3万星）将工程最佳实践注入AI编码，有望大幅提升AI生成代码的生产级质量，对开发者工具链影响深远。google/skills（1.6万星）由Google官方推出，旨在为Google产品提供标准化代理技能，显示大厂在推动代理生态整合与技能标准化上的布局。"
   }
 }
