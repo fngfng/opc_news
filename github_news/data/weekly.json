@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-08-14T01:30:48.776402",
-  "week_range": "2026-08-08 ~ 2026-08-14",
+  "generated_at": "2026-08-15T01:00:19.810828",
+  "week_range": "2026-08-09 ~ 2026-08-15",
   "days_collected": 7,
-  "total_projects": 62,
-  "total_stars_today": 62161,
+  "total_projects": 61,
+  "total_stars_today": 63259,
   "top_languages": [
     [
       "Python",
-      46
+      47
     ],
     [
       "TypeScript",
-      18
-    ],
-    [
-      "Shell",
-      9
+      20
     ],
     [
       "Rust",
       8
     ],
     [
-      "Go",
-      5
+      "Shell",
+      7
+    ],
+    [
+      "JavaScript",
+      6
     ]
   ],
   "trending_topics": [],
   "top_picks": [
     {
-      "rank": 7,
+      "rank": 1,
       "name": "semantica",
       "owner": "semantica-agi",
       "url": "https://github.com/semantica-agi/semantica",
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "stars": 2349,
-      "forks": 305,
-      "stars_today": 122,
+      "stars": 4123,
+      "forks": 482,
+      "stars_today": 970,
       "language": "Python",
       "topics": [],
       "summary": {
@@ -70,9 +70,9 @@
       "owner": "addyosmani",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 83909,
-      "forks": 8967,
-      "stars_today": 1131,
+      "stars": 84576,
+      "forks": 9108,
+      "stars_today": 779,
       "language": "JavaScript",
       "topics": [],
       "summary": {
@@ -80,7 +80,7 @@
         "purpose": "解决AI编码代理在自动生成代码时缺乏工程严谨性和生产级质量的问题。",
         "scene": "自动化代码审查与优化、智能单元测试生成、设计模式与架构建议"
       },
-      "appear_days": 5
+      "appear_days": 4
     },
     {
       "rank": 1,
@@ -88,9 +88,9 @@
       "owner": "PrimeIntellect-ai",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "stars": 6561,
-      "forks": 522,
-      "stars_today": 2293,
+      "stars": 8973,
+      "forks": 858,
+      "stars_today": 2483,
       "language": "TypeScript",
       "topics": [],
       "summary": {
@@ -98,7 +98,97 @@
         "purpose": "解决开发者在重复性编码和长时间任务中效率低下的问题，通过自我改进的AI代理实现自动化。",
         "scene": "自动化代码生成与重构、长时间运行的数据处理与测试、持续集成与部署中的自主决策"
       },
-      "appear_days": 5
+      "appear_days": 4
+    },
+    {
+      "rank": 1,
+      "name": "diagram-design",
+      "owner": "cathrynlavery",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "stars": 10534,
+      "forks": 679,
+      "stars_today": 2855,
+      "language": "HTML",
+      "topics": [],
+      "summary": {
+        "what": "作者为Claude Code设计了29种自包含HTML+SVG的编辑图表类型，无阴影且避免Mermaid粗糙风格。",
+        "purpose": "解决在AI编码环境中快速生成高质量、可定制图表的需求，替代传统图表工具的繁琐和低质输出。",
+        "scene": "技术文档插图生成、博客教程示意图制作、AI辅助下可复用的图表模板库"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 17,
+      "name": "needle",
+      "owner": "cactus-compute",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "stars": 4243,
+      "forks": 305,
+      "stars_today": 315,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个14MB的轻量级基础模型，专为微型设备设计",
+        "purpose": "解决微型设备无法运行大型AI模型的问题，实现本地智能处理",
+        "scene": "智能手机、可穿戴设备、智能家居"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 2,
+      "name": "macro",
+      "owner": "macro-inc",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "stars": 1832,
+      "forks": 225,
+      "stars_today": 227,
+      "language": "Rust",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个用Rust编写的统一团队协作平台，集成邮件、聊天、文档、任务、AI代理、通话和CRM，并通过共享AI记忆将它们@-链接在一起。",
+        "purpose": "解决团队因工具碎片化导致的信息孤岛和频繁切换问题，提供统一的AI驱动工作空间以提升协作效率。",
+        "scene": "团队在统一收件箱处理邮件和聊天，AI自动关联上下文；在文档中@提及任务或同事，AI记忆提供相关历史信息；销售团队使用内置CRM跟踪客户，AI代理自动记录通话摘要并更新任务。"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 13,
+      "name": "spiderfoot",
+      "owner": "smicallef",
+      "url": "https://github.com/smicallef/spiderfoot",
+      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "stars": 20354,
+      "forks": 3300,
+      "stars_today": 74,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了SpiderFoot，一个自动化开源情报（OSINT）收集工具，用于威胁情报和攻击面映射。",
+        "purpose": "解决安全人员手动收集和分析目标信息效率低下的问题，实现自动化侦察与多源情报聚合。",
+        "scene": "企业安全团队进行攻击面管理、渗透测试人员前期信息收集、威胁情报分析师监控潜在威胁"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 9,
+      "name": "ragflow",
+      "owner": "infiniflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 87560,
+      "forks": 10310,
+      "stars_today": 139,
+      "language": "Go",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个融合RAG与Agent能力的开源检索增强生成引擎",
+        "purpose": "为大型语言模型提供精准的上下文层，解决知识滞后和幻觉问题",
+        "scene": "企业知识库智能问答、客户服务自动化、深度文档分析与研究辅助"
+      },
+      "appear_days": 3
     },
     {
       "rank": 5,
@@ -117,101 +207,11 @@
         "scene": "场景1：项目经理通过仪表盘分配任务给不同的AI代理；场景2：开发人员实时监控AI代理的运行状态和日志；场景3：业务人员通过统一界面与多个AI代理交互，自动化完成报表生成、数据分析等工作。"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 2,
-      "name": "code-graph-rag",
-      "owner": "vitali87",
-      "url": "https://github.com/vitali87/code-graph-rag",
-      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
-      "stars": 2998,
-      "forks": 520,
-      "stars_today": 96,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个基于知识图谱的RAG系统，用于多语言代码仓库的查询、理解和编辑",
-        "purpose": "解决大型单体仓库中跨语言代码理解、查询和修改困难的问题",
-        "scene": "快速查询代码库中的函数与依赖关系、跨语言代码理解与重构、基于自然语言描述自动生成或修改代码"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 6,
-      "name": "authentik",
-      "owner": "goauthentik",
-      "url": "https://github.com/goauthentik/authentik",
-      "description": "The authentication glue you need.",
-      "stars": 23603,
-      "forks": 1804,
-      "stars_today": 530,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "构建了一个开源的身份验证与授权平台，提供统一的单点登录、用户管理、多因素认证和协议转换功能。",
-        "purpose": "解决异构系统中多种身份源与应用的统一认证、授权和访问控制难题。",
-        "scene": "企业内网应用的单点登录集成、为Web服务添加多因素认证保护、作为反向代理或API网关的统一身份验证层"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 17,
-      "name": "skills",
-      "owner": "google",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "stars": 16256,
-      "forks": 1289,
-      "stars_today": 327,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了Python技能框架及预构建技能，用于AI代理集成Google产品与服务",
-        "purpose": "解决AI代理与Google服务集成的复杂性，提供标准化技能接口以快速扩展代理能力",
-        "scene": "智能客服代理集成Google搜索与地图、自动化办公代理处理Gmail与日历、个人助理代理利用Google服务完成任务"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 1,
-      "name": "diagram-design",
-      "owner": "cathrynlavery",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-      "stars": 10534,
-      "forks": 679,
-      "stars_today": 2855,
-      "language": "HTML",
-      "topics": [],
-      "summary": {
-        "what": "作者为Claude Code设计了29种自包含HTML+SVG的编辑图表类型，无阴影且避免Mermaid粗糙风格。",
-        "purpose": "解决在AI编码环境中快速生成高质量、可定制图表的需求，替代传统图表工具的繁琐和低质输出。",
-        "scene": "技术文档插图生成、博客教程示意图制作、AI辅助下可复用的图表模板库"
-      },
-      "appear_days": 2
-    },
-    {
-      "rank": 7,
-      "name": "skills",
-      "owner": "anthropics",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "stars": 168141,
-      "forks": 20033,
-      "stars_today": 485,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个用于定义、管理和执行AI代理可复用技能的Python框架",
-        "purpose": "解决AI代理技能碎片化、难以复用和扩展的问题",
-        "scene": "开发者快速集成预置技能到AI助手、企业构建内部自动化代理工作流、教育场景中教授AI代理开发"
-      },
-      "appear_days": 2
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向无疑是AI Agent及其工程化工具，Top项目中多数聚焦于构建、管理或增强AI代理（如agency-agents、agent-skills、paperclip），且星数增长爆发式，反映出社区对生产级AI代理框架和技能的迫切需求。同时，RAG（code-graph-rag）和上下文基础设施（semantica）的出现，表明AI应用正从简单对话向深度知识集成与复杂工作流演进。",
-    "language_trend": "Python以46次高居榜首，因其在AI/ML生态中的统治地位和丰富的代理开发库（如LangChain、AutoGPT等）而持续强势。TypeScript（18次）的活跃体现了全栈工具和AI代理管理界面的需求增长，而Rust（8次）和Go（5次）在基础设施与高性能场景中保持稳定，Shell（9次）则常见于DevOps自动化，整体上Python和TypeScript主导应用层，Rust/Go支撑底层。",
-    "notable_projects": "msitarzewski/agency-agents（14万星）以极高速增长成为现象级项目，提供完整的AI代理解决方案，可能定义了新的代理开发范式。addyosmani/agent-skills（8.3万星）将工程最佳实践注入AI编码，有望大幅提升AI生成代码的生产级质量，对开发者工具链影响深远。google/skills（1.6万星）由Google官方推出，旨在为Google产品提供标准化代理技能，显示大厂在推动代理生态整合与技能标准化上的布局。"
+    "hot_direction": "本周最热技术方向无疑是AI，尤其是AI代理和AI辅助编码。Top 8项目中前6个均与人工智能直接相关，涵盖AGI基础设施、自主代理、编码技能和边缘模型等细分领域，反映出业界对AI应用落地和智能体技术的强烈关注。安全方向也有SpiderFoot上榜，但整体热度远不及AI。",
+    "language_trend": "Python以47次出现稳居主导地位，主要得益于其在AI/ML生态中的核心地位，大量AI项目均基于Python开发。TypeScript和JavaScript合计26次，显示Web和工具类项目依然活跃，但增长势头不及Python。Rust出现8次，表明其在系统级和高性能场景中持续渗透，而Shell脚本的频繁使用则与DevOps和自动化需求相关。",
+    "notable_projects": "1. msitarzewski/agency-agents：以超14万星成为本周现象级项目，提供完整的AI代理框架，体现了从单体模型到智能体协作的范式转移，其极高热度预示AI Agent将成为下一波应用爆发点。2. addyosmani/agent-skills：获得8.4万星，聚焦于将AI编码能力提升至生产级工程标准，直击开发者痛点，有望加速AI在软件开发中的实际采用。3. cactus-compute/needle：14MB微型基础模型专为手机等边缘设备设计，代表了AI模型小型化、轻量化的重要趋势，对端侧智能和物联网应用具有深远影响。"
   }
 }
