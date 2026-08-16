@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-15T01:00:19.810828",
-  "week_range": "2026-08-09 ~ 2026-08-15",
+  "generated_at": "2026-08-16T01:03:23.949682",
+  "week_range": "2026-08-10 ~ 2026-08-16",
   "days_collected": 7,
-  "total_projects": 61,
-  "total_stars_today": 63259,
+  "total_projects": 59,
+  "total_stars_today": 65155,
   "top_languages": [
     [
       "Python",
-      47
+      51
     ],
     [
       "TypeScript",
-      20
-    ],
-    [
-      "Rust",
-      8
-    ],
-    [
-      "Shell",
-      7
+      21
     ],
     [
       "JavaScript",
+      7
+    ],
+    [
+      "Rust",
+      7
+    ],
+    [
+      "Shell",
       6
     ]
   ],
@@ -65,42 +65,6 @@
       "appear_days": 5
     },
     {
-      "rank": 2,
-      "name": "agent-skills",
-      "owner": "addyosmani",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 84576,
-      "forks": 9108,
-      "stars_today": 779,
-      "language": "JavaScript",
-      "topics": [],
-      "summary": {
-        "what": "Addy Osmani开发了一套面向AI编码代理的生产级工程技能模块，涵盖代码审查、测试、重构等最佳实践。",
-        "purpose": "解决AI编码代理在自动生成代码时缺乏工程严谨性和生产级质量的问题。",
-        "scene": "自动化代码审查与优化、智能单元测试生成、设计模式与架构建议"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 1,
-      "name": "prime-agent",
-      "owner": "PrimeIntellect-ai",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "stars": 8973,
-      "forks": 858,
-      "stars_today": 2483,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个基于TypeScript的自改进强化学习代理，用于自动化编码工作流和长时间运行的自主任务。",
-        "purpose": "解决开发者在重复性编码和长时间任务中效率低下的问题，通过自我改进的AI代理实现自动化。",
-        "scene": "自动化代码生成与重构、长时间运行的数据处理与测试、持续集成与部署中的自主决策"
-      },
-      "appear_days": 4
-    },
-    {
       "rank": 1,
       "name": "diagram-design",
       "owner": "cathrynlavery",
@@ -116,7 +80,7 @@
         "purpose": "解决在AI编码环境中快速生成高质量、可定制图表的需求，替代传统图表工具的繁琐和低质输出。",
         "scene": "技术文档插图生成、博客教程示意图制作、AI辅助下可复用的图表模板库"
       },
-      "appear_days": 3
+      "appear_days": 4
     },
     {
       "rank": 17,
@@ -133,6 +97,42 @@
         "what": "作者开发了一个14MB的轻量级基础模型，专为微型设备设计",
         "purpose": "解决微型设备无法运行大型AI模型的问题，实现本地智能处理",
         "scene": "智能手机、可穿戴设备、智能家居"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 6,
+      "name": "unsloth",
+      "owner": "unslothai",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "stars": 71070,
+      "forks": 6406,
+      "stars_today": 328,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个本地UI和高效微调库，支持在本地运行和训练多种大语言模型与扩散模型。",
+        "purpose": "解决大模型微调与推理的高资源消耗和技术门槛问题，让用户能在个人设备上轻松使用先进AI模型。",
+        "scene": "AI研究人员快速微调定制化LLM、开发者本地测试和部署模型、创作者使用扩散模型生成图像"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 8,
+      "name": "holehe",
+      "owner": "megadose",
+      "url": "https://github.com/megadose/holehe",
+      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+      "stars": 12433,
+      "forks": 1671,
+      "stars_today": 195,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个利用网站“忘记密码”功能检查邮箱是否注册过的工具",
+        "purpose": "快速验证邮箱在多个网站上的注册情况，用于信息收集和安全审计",
+        "scene": "安全研究人员进行信息收集、个人用户检查邮箱泄露情况、数字取证追踪在线足迹"
       },
       "appear_days": 3
     },
@@ -210,8 +210,8 @@
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向无疑是AI，尤其是AI代理和AI辅助编码。Top 8项目中前6个均与人工智能直接相关，涵盖AGI基础设施、自主代理、编码技能和边缘模型等细分领域，反映出业界对AI应用落地和智能体技术的强烈关注。安全方向也有SpiderFoot上榜，但整体热度远不及AI。",
-    "language_trend": "Python以47次出现稳居主导地位，主要得益于其在AI/ML生态中的核心地位，大量AI项目均基于Python开发。TypeScript和JavaScript合计26次，显示Web和工具类项目依然活跃，但增长势头不及Python。Rust出现8次，表明其在系统级和高性能场景中持续渗透，而Shell脚本的频繁使用则与DevOps和自动化需求相关。",
-    "notable_projects": "1. msitarzewski/agency-agents：以超14万星成为本周现象级项目，提供完整的AI代理框架，体现了从单体模型到智能体协作的范式转移，其极高热度预示AI Agent将成为下一波应用爆发点。2. addyosmani/agent-skills：获得8.4万星，聚焦于将AI编码能力提升至生产级工程标准，直击开发者痛点，有望加速AI在软件开发中的实际采用。3. cactus-compute/needle：14MB微型基础模型专为手机等边缘设备设计，代表了AI模型小型化、轻量化的重要趋势，对端侧智能和物联网应用具有深远影响。"
+    "hot_direction": "本周最热技术方向无疑是AI，尤其是AI Agent、小型基础模型和本地化LLM工具。上榜项目中前5名有4个与AI直接相关，且获得了极高的星数增长，反映出社区对自主AI代理和边缘部署的强烈兴趣。安全方向虽有两个项目上榜，但整体热度不及AI。",
+    "language_trend": "Python以51次出现稳居主导，主要得益于AI/ML项目的爆发。TypeScript（21次）超越JavaScript（7次），显示出前端和工具开发正加速向类型安全语言迁移。Rust（7次）在系统级工具中保持稳定存在，而Shell（6次）则主要用于辅助脚本。",
+    "notable_projects": "msitarzewski/agency-agents以超14万星数成为现象级项目，它提供了一个完整的AI代理框架，让开发者能快速构建自主任务执行系统，代表了AI Agent工程化的前沿。cactus-compute/needle仅14MB大小却能运行基础模型，专为手机等微型设备设计，推动了边缘AI的实用化。unslothai/unsloth提供本地训练和运行LLM的UI，大幅降低了AI模型微调的门槛，体现了隐私保护和易用性需求的崛起。"
   }
 }
