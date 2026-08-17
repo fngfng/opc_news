@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-16T01:03:23.949682",
-  "week_range": "2026-08-10 ~ 2026-08-16",
+  "generated_at": "2026-08-17T00:59:55.659565",
+  "week_range": "2026-08-11 ~ 2026-08-17",
   "days_collected": 7,
-  "total_projects": 59,
-  "total_stars_today": 65155,
+  "total_projects": 57,
+  "total_stars_today": 63345,
   "top_languages": [
     [
       "Python",
-      51
+      47
     ],
     [
       "TypeScript",
@@ -29,6 +29,24 @@
   "trending_topics": [],
   "top_picks": [
     {
+      "rank": 17,
+      "name": "needle",
+      "owner": "cactus-compute",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "stars": 4243,
+      "forks": 305,
+      "stars_today": 315,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个14MB的轻量级基础模型，专为微型设备设计",
+        "purpose": "解决微型设备无法运行大型AI模型的问题，实现本地智能处理",
+        "scene": "智能手机、可穿戴设备、智能家居"
+      },
+      "appear_days": 5
+    },
+    {
       "rank": 1,
       "name": "semantica",
       "owner": "semantica-agi",
@@ -47,22 +65,22 @@
       "appear_days": 5
     },
     {
-      "rank": 3,
-      "name": "agency-agents",
-      "owner": "msitarzewski",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "stars": 140706,
-      "forks": 22983,
-      "stars_today": 858,
-      "language": "Shell",
+      "rank": 6,
+      "name": "unsloth",
+      "owner": "unslothai",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "stars": 71070,
+      "forks": 6406,
+      "stars_today": 328,
+      "language": "Python",
       "topics": [],
       "summary": {
-        "what": "作者用Shell脚本构建了一套包含多个专业AI代理的虚拟机构，每个代理具备独特个性和流程。",
-        "purpose": "解决多领域任务自动化问题，让用户能便捷调用不同专长的AI代理完成前端开发、社区运营、创意评估等工作。",
-        "scene": "前端页面开发与调试、Reddit等社区内容运营与互动、项目创意构思与现实可行性检查"
+        "what": "作者开发了一个本地UI和高效微调库，支持在本地运行和训练多种大语言模型与扩散模型。",
+        "purpose": "解决大模型微调与推理的高资源消耗和技术门槛问题，让用户能在个人设备上轻松使用先进AI模型。",
+        "scene": "AI研究人员快速微调定制化LLM、开发者本地测试和部署模型、创作者使用扩散模型生成图像"
       },
-      "appear_days": 5
+      "appear_days": 4
     },
     {
       "rank": 1,
@@ -83,38 +101,38 @@
       "appear_days": 4
     },
     {
-      "rank": 17,
-      "name": "needle",
-      "owner": "cactus-compute",
-      "url": "https://github.com/cactus-compute/needle",
-      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "stars": 4243,
-      "forks": 305,
-      "stars_today": 315,
-      "language": "Python",
+      "rank": 2,
+      "name": "agency-agents",
+      "owner": "msitarzewski",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": 141845,
+      "forks": 23136,
+      "stars_today": 1349,
+      "language": "Shell",
       "topics": [],
       "summary": {
-        "what": "作者开发了一个14MB的轻量级基础模型，专为微型设备设计",
-        "purpose": "解决微型设备无法运行大型AI模型的问题，实现本地智能处理",
-        "scene": "智能手机、可穿戴设备、智能家居"
+        "what": "作者用Shell脚本构建了一套包含多个专业AI代理的虚拟机构，每个代理具备独特个性和流程。",
+        "purpose": "解决多领域任务自动化问题，让用户能便捷调用不同专长的AI代理完成前端开发、社区运营、创意评估等工作。",
+        "scene": "前端页面开发与调试、Reddit等社区内容运营与互动、项目创意构思与现实可行性检查"
       },
       "appear_days": 4
     },
     {
-      "rank": 6,
-      "name": "unsloth",
-      "owner": "unslothai",
-      "url": "https://github.com/unslothai/unsloth",
-      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
-      "stars": 71070,
-      "forks": 6406,
-      "stars_today": 328,
-      "language": "Python",
+      "rank": 17,
+      "name": "ToolJet",
+      "owner": "ToolJet",
+      "url": "https://github.com/ToolJet/ToolJet",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "stars": 39079,
+      "forks": 5263,
+      "stars_today": 132,
+      "language": "JavaScript",
       "topics": [],
       "summary": {
-        "what": "作者开发了一个本地UI和高效微调库，支持在本地运行和训练多种大语言模型与扩散模型。",
-        "purpose": "解决大模型微调与推理的高资源消耗和技术门槛问题，让用户能在个人设备上轻松使用先进AI模型。",
-        "scene": "AI研究人员快速微调定制化LLM、开发者本地测试和部署模型、创作者使用扩散模型生成图像"
+        "what": "作者开发了开源低代码平台ToolJet，用于快速构建企业内部工具、仪表盘、业务应用、工作流和AI代理。",
+        "purpose": "解决企业开发内部应用时重复开发、效率低下、技术门槛高的问题，提升应用构建速度。",
+        "scene": "构建内部管理后台、创建数据可视化仪表盘、自动化业务流程与集成AI代理"
       },
       "appear_days": 3
     },
@@ -189,29 +207,11 @@
         "scene": "企业知识库智能问答、客户服务自动化、深度文档分析与研究辅助"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 5,
-      "name": "paperclip",
-      "owner": "paperclipai",
-      "url": "https://github.com/paperclipai/paperclip",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "stars": 76506,
-      "forks": 14210,
-      "stars_today": 198,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个开源应用，用于在工作环境中统一管理和调度多个AI代理。",
-        "purpose": "解决团队使用多个AI代理时缺乏集中管理、协作和监控的问题。",
-        "scene": "场景1：项目经理通过仪表盘分配任务给不同的AI代理；场景2：开发人员实时监控AI代理的运行状态和日志；场景3：业务人员通过统一界面与多个AI代理交互，自动化完成报表生成、数据分析等工作。"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向无疑是AI，尤其是AI Agent、小型基础模型和本地化LLM工具。上榜项目中前5名有4个与AI直接相关，且获得了极高的星数增长，反映出社区对自主AI代理和边缘部署的强烈兴趣。安全方向虽有两个项目上榜，但整体热度不及AI。",
-    "language_trend": "Python以51次出现稳居主导，主要得益于AI/ML项目的爆发。TypeScript（21次）超越JavaScript（7次），显示出前端和工具开发正加速向类型安全语言迁移。Rust（7次）在系统级工具中保持稳定存在，而Shell（6次）则主要用于辅助脚本。",
-    "notable_projects": "msitarzewski/agency-agents以超14万星数成为现象级项目，它提供了一个完整的AI代理框架，让开发者能快速构建自主任务执行系统，代表了AI Agent工程化的前沿。cactus-compute/needle仅14MB大小却能运行基础模型，专为手机等微型设备设计，推动了边缘AI的实用化。unslothai/unsloth提供本地训练和运行LLM的UI，大幅降低了AI模型微调的门槛，体现了隐私保护和易用性需求的崛起。"
+    "hot_direction": "本周最热技术方向无疑是AI，特别是大语言模型（LLM）与AI代理（Agent）领域。上榜项目中多数直接关联AI应用、训练或基础设施，如本地运行LLM、AI代理框架和轻量级模型，显示出开发者对AI落地的极高热情。安全工具（holehe）虽有一席之地，但整体热度远不及AI方向。",
+    "language_trend": "Python以47次出现遥遥领先，主要受AI/ML项目爆发驱动，地位持续强势。TypeScript（21次）与JavaScript（7次）合计仍占重要份额，但TypeScript正加速取代JavaScript成为前端及工具开发的主流选择。Rust（7次）保持稳定增长，反映系统编程与高性能工具的需求上升。",
+    "notable_projects": "1) msitarzewski/agency-agents（⭐141845）：一个完整的AI代理平台，体现了从单一模型到多代理协作的演进趋势，星数爆发式增长表明市场对AI代理的强烈需求。2) unslothai/unsloth（⭐71070）：提供本地运行和训练LLM及扩散模型的UI，极大降低了AI使用门槛，推动AI民主化。3) cactus-compute/needle（⭐4243）：仅14MB的微型基础模型，专为手机等小型设备设计，展示了边缘AI与轻量化部署的重要方向。"
   }
 }
