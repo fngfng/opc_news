@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-17T00:59:55.659565",
-  "week_range": "2026-08-11 ~ 2026-08-17",
+  "generated_at": "2026-08-18T01:03:11.199325",
+  "week_range": "2026-08-12 ~ 2026-08-18",
   "days_collected": 7,
-  "total_projects": 57,
-  "total_stars_today": 63345,
+  "total_projects": 58,
+  "total_stars_today": 57584,
   "top_languages": [
     [
       "Python",
-      47
+      45
     ],
     [
       "TypeScript",
-      21
+      19
+    ],
+    [
+      "Rust",
+      9
     ],
     [
       "JavaScript",
       7
     ],
     [
-      "Rust",
-      7
-    ],
-    [
       "Shell",
-      6
+      5
     ]
   ],
   "trending_topics": [],
@@ -43,24 +43,6 @@
         "what": "作者开发了一个14MB的轻量级基础模型，专为微型设备设计",
         "purpose": "解决微型设备无法运行大型AI模型的问题，实现本地智能处理",
         "scene": "智能手机、可穿戴设备、智能家居"
-      },
-      "appear_days": 5
-    },
-    {
-      "rank": 1,
-      "name": "semantica",
-      "owner": "semantica-agi",
-      "url": "https://github.com/semantica-agi/semantica",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "stars": 4123,
-      "forks": 482,
-      "stars_today": 970,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个图原生基础设施，为AI系统提供上下文关联和可问责性支持。",
-        "purpose": "解决AI系统在复杂任务中缺乏上下文连贯性和决策可追溯性的问题。",
-        "scene": "智能问答系统、知识图谱构建、AI决策审计"
       },
       "appear_days": 5
     },
@@ -102,21 +84,39 @@
     },
     {
       "rank": 2,
-      "name": "agency-agents",
-      "owner": "msitarzewski",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "stars": 141845,
-      "forks": 23136,
-      "stars_today": 1349,
-      "language": "Shell",
+      "name": "semantica",
+      "owner": "semantica-agi",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "stars": 4904,
+      "forks": 531,
+      "stars_today": 893,
+      "language": "Python",
       "topics": [],
       "summary": {
-        "what": "作者用Shell脚本构建了一套包含多个专业AI代理的虚拟机构，每个代理具备独特个性和流程。",
-        "purpose": "解决多领域任务自动化问题，让用户能便捷调用不同专长的AI代理完成前端开发、社区运营、创意评估等工作。",
-        "scene": "前端页面开发与调试、Reddit等社区内容运营与互动、项目创意构思与现实可行性检查"
+        "what": "作者构建了一个图原生基础设施，为AI系统提供上下文关联和可问责性支持。",
+        "purpose": "解决AI系统在复杂任务中缺乏上下文连贯性和决策可追溯性的问题。",
+        "scene": "智能问答系统、知识图谱构建、AI决策审计"
       },
       "appear_days": 4
+    },
+    {
+      "rank": 1,
+      "name": "cordis",
+      "owner": "cordiverse",
+      "url": "https://github.com/cordiverse/cordis",
+      "description": "Meta-Framework of Spatiotemporal Composability",
+      "stars": 4071,
+      "forks": 201,
+      "stars_today": 599,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了Cordis，一个基于TypeScript的元框架，实现时空可组合的编程抽象。",
+        "purpose": "解决分布式应用中时空一致性、组件组合和状态管理的复杂性问题。",
+        "scene": "实时协同编辑、多人在线游戏、分布式物联网平台"
+      },
+      "appear_days": 3
     },
     {
       "rank": 17,
@@ -210,8 +210,8 @@
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向无疑是AI，特别是大语言模型（LLM）与AI代理（Agent）领域。上榜项目中多数直接关联AI应用、训练或基础设施，如本地运行LLM、AI代理框架和轻量级模型，显示出开发者对AI落地的极高热情。安全工具（holehe）虽有一席之地，但整体热度远不及AI方向。",
-    "language_trend": "Python以47次出现遥遥领先，主要受AI/ML项目爆发驱动，地位持续强势。TypeScript（21次）与JavaScript（7次）合计仍占重要份额，但TypeScript正加速取代JavaScript成为前端及工具开发的主流选择。Rust（7次）保持稳定增长，反映系统编程与高性能工具的需求上升。",
-    "notable_projects": "1) msitarzewski/agency-agents（⭐141845）：一个完整的AI代理平台，体现了从单一模型到多代理协作的演进趋势，星数爆发式增长表明市场对AI代理的强烈需求。2) unslothai/unsloth（⭐71070）：提供本地运行和训练LLM及扩散模型的UI，极大降低了AI使用门槛，推动AI民主化。3) cactus-compute/needle（⭐4243）：仅14MB的微型基础模型，专为手机等小型设备设计，展示了边缘AI与轻量化部署的重要方向。"
+    "hot_direction": "本周最热技术方向是AI/机器学习，多个上榜项目聚焦于模型训练、推理与轻量化部署（如needle、unsloth、semantica），反映出行业对边缘智能、本地化LLM及AGI基础设施的强烈探索。工具与安全方向亦有出现，但整体热度明显弱于AI生态。",
+    "language_trend": "Python以45次出现稳居主导，主要得益于其在AI/ML领域的绝对生态优势；TypeScript（19次）和Rust（9次）持续增长，分别对应全栈开发与高性能系统需求；JavaScript（7次）和Shell（5次）等传统脚本语言占比相对下降，表明开发者更倾向类型安全与现代化工具链。",
+    "notable_projects": "needle（14MB微型基础模型）将大模型能力压缩至手机等微型设备，代表了边缘AI与隐私保护推理的重要方向；unsloth（71k stars）提供本地化LLM/扩散模型训练与运行的图形界面，极大降低了AI开发门槛，体现了工具民主化趋势；semantica（图原生AGI基础设施）尝试以图结构解决上下文与可问责性难题，可能为下一代可解释AI系统提供新范式。"
   }
 }
