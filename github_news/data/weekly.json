@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-18T01:03:11.199325",
-  "week_range": "2026-08-12 ~ 2026-08-18",
+  "generated_at": "2026-08-19T00:57:59.753474",
+  "week_range": "2026-08-13 ~ 2026-08-19",
   "days_collected": 7,
-  "total_projects": 58,
-  "total_stars_today": 57584,
+  "total_projects": 52,
+  "total_stars_today": 57032,
   "top_languages": [
     [
       "Python",
-      45
+      41
     ],
     [
       "TypeScript",
-      19
+      20
     ],
     [
       "Rust",
-      9
+      10
     ],
     [
       "JavaScript",
-      7
+      6
     ],
     [
       "Shell",
-      5
+      4
     ]
   ],
   "trending_topics": [],
@@ -83,22 +83,40 @@
       "appear_days": 4
     },
     {
-      "rank": 2,
-      "name": "semantica",
-      "owner": "semantica-agi",
-      "url": "https://github.com/semantica-agi/semantica",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "stars": 4904,
-      "forks": 531,
-      "stars_today": 893,
+      "rank": 6,
+      "name": "public-apis",
+      "owner": "public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "stars": 460176,
+      "forks": 50854,
+      "stars_today": 2260,
       "language": "Python",
       "topics": [],
       "summary": {
-        "what": "作者构建了一个图原生基础设施，为AI系统提供上下文关联和可问责性支持。",
-        "purpose": "解决AI系统在复杂任务中缺乏上下文连贯性和决策可追溯性的问题。",
-        "scene": "智能问答系统、知识图谱构建、AI决策审计"
+        "what": "作者创建并维护了一个汇集各类免费API的清单，方便开发者查找和使用。",
+        "purpose": "解决开发者在构建应用时难以快速找到可靠免费API的问题，提供集中式的资源索引。",
+        "scene": "快速原型开发时需要调用免费数据接口、学习API编程时寻找练习资源、项目初期探索可用第三方服务"
       },
-      "appear_days": 4
+      "appear_days": 3
+    },
+    {
+      "rank": 15,
+      "name": "OpenCut",
+      "owner": "OpenCut-app",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "stars": 83164,
+      "forks": 8230,
+      "stars_today": 255,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个开源的视频编辑应用，作为CapCut的替代方案。",
+        "purpose": "解决用户对免费、开源、无限制视频编辑工具的需求，避免使用专有软件。",
+        "scene": "场景1：短视频创作者快速剪辑和添加特效；场景2：社交媒体内容制作，如添加字幕和背景音乐；场景3：个人视频项目编辑，如旅行视频、家庭录像"
+      },
+      "appear_days": 3
     },
     {
       "rank": 1,
@@ -189,29 +207,11 @@
         "scene": "企业安全团队进行攻击面管理、渗透测试人员前期信息收集、威胁情报分析师监控潜在威胁"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 9,
-      "name": "ragflow",
-      "owner": "infiniflow",
-      "url": "https://github.com/infiniflow/ragflow",
-      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-      "stars": 87560,
-      "forks": 10310,
-      "stars_today": 139,
-      "language": "Go",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个融合RAG与Agent能力的开源检索增强生成引擎",
-        "purpose": "为大型语言模型提供精准的上下文层，解决知识滞后和幻觉问题",
-        "scene": "企业知识库智能问答、客户服务自动化、深度文档分析与研究辅助"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
-    "hot_direction": "本周最热技术方向是AI/机器学习，多个上榜项目聚焦于模型训练、推理与轻量化部署（如needle、unsloth、semantica），反映出行业对边缘智能、本地化LLM及AGI基础设施的强烈探索。工具与安全方向亦有出现，但整体热度明显弱于AI生态。",
-    "language_trend": "Python以45次出现稳居主导，主要得益于其在AI/ML领域的绝对生态优势；TypeScript（19次）和Rust（9次）持续增长，分别对应全栈开发与高性能系统需求；JavaScript（7次）和Shell（5次）等传统脚本语言占比相对下降，表明开发者更倾向类型安全与现代化工具链。",
-    "notable_projects": "needle（14MB微型基础模型）将大模型能力压缩至手机等微型设备，代表了边缘AI与隐私保护推理的重要方向；unsloth（71k stars）提供本地化LLM/扩散模型训练与运行的图形界面，极大降低了AI开发门槛，体现了工具民主化趋势；semantica（图原生AGI基础设施）尝试以图结构解决上下文与可问责性难题，可能为下一代可解释AI系统提供新范式。"
+    "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
+    "language_trend": "主要语言：Python、TypeScript、Rust。",
+    "notable_projects": "cactus-compute/needle、unslothai/unsloth、cathrynlavery/diagram-design"
   }
 }
