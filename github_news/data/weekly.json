@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-19T00:57:59.753474",
-  "week_range": "2026-08-13 ~ 2026-08-19",
+  "generated_at": "2026-08-20T00:57:14.392098",
+  "week_range": "2026-08-14 ~ 2026-08-20",
   "days_collected": 7,
-  "total_projects": 52,
-  "total_stars_today": 57032,
+  "total_projects": 48,
+  "total_stars_today": 56921,
   "top_languages": [
     [
       "Python",
-      41
+      39
     ],
     [
       "TypeScript",
@@ -19,33 +19,15 @@
     ],
     [
       "JavaScript",
-      6
+      7
     ],
     [
       "Shell",
-      4
+      5
     ]
   ],
   "trending_topics": [],
   "top_picks": [
-    {
-      "rank": 17,
-      "name": "needle",
-      "owner": "cactus-compute",
-      "url": "https://github.com/cactus-compute/needle",
-      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "stars": 4243,
-      "forks": 305,
-      "stars_today": 315,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个14MB的轻量级基础模型，专为微型设备设计",
-        "purpose": "解决微型设备无法运行大型AI模型的问题，实现本地智能处理",
-        "scene": "智能手机、可穿戴设备、智能家居"
-      },
-      "appear_days": 5
-    },
     {
       "rank": 6,
       "name": "unsloth",
@@ -65,22 +47,76 @@
       "appear_days": 4
     },
     {
-      "rank": 1,
-      "name": "diagram-design",
-      "owner": "cathrynlavery",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-      "stars": 10534,
-      "forks": 679,
-      "stars_today": 2855,
-      "language": "HTML",
+      "rank": 4,
+      "name": "needle",
+      "owner": "cactus-compute",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "stars": 4967,
+      "forks": 334,
+      "stars_today": 769,
+      "language": "Python",
       "topics": [],
       "summary": {
-        "what": "作者为Claude Code设计了29种自包含HTML+SVG的编辑图表类型，无阴影且避免Mermaid粗糙风格。",
-        "purpose": "解决在AI编码环境中快速生成高质量、可定制图表的需求，替代传统图表工具的繁琐和低质输出。",
-        "scene": "技术文档插图生成、博客教程示意图制作、AI辅助下可复用的图表模板库"
+        "what": "作者开发了一个14MB的轻量级基础模型，专为微型设备设计",
+        "purpose": "解决微型设备无法运行大型AI模型的问题，实现本地智能处理",
+        "scene": "智能手机、可穿戴设备、智能家居"
       },
       "appear_days": 4
+    },
+    {
+      "rank": 1,
+      "name": "MoneyPrinterTurbo",
+      "owner": "harry0703",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "stars": 106036,
+      "forks": 16118,
+      "stars_today": 1189,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个基于AI大模型的自动化工作流工具，根据输入的主题或关键词一键生成高清短视频。",
+        "purpose": "解决用户需要快速、低成本批量生成高质量短视频内容的问题，降低视频制作门槛。",
+        "scene": "自媒体内容创作、产品营销推广、在线教育视频制作"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 5,
+      "name": "Anthropic-Cybersecurity-Skills",
+      "owner": "mukul975",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "stars": 28433,
+      "forks": 3446,
+      "stars_today": 198,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者构建了一个包含817个结构化网络安全技能的Python库，专为AI代理设计，并映射到MITRE ATT&CK等6大安全框架。",
+        "purpose": "解决AI代理缺乏标准化网络安全操作能力的问题，使其能跨平台执行安全任务。",
+        "scene": "AI编程助手集成安全扫描功能、自动化红蓝队攻防演练、安全合规检查与风险评估"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 8,
+      "name": "omlx",
+      "owner": "jundot",
+      "url": "https://github.com/jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "stars": 18990,
+      "forks": 1645,
+      "stars_today": 78,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个针对Apple Silicon优化的LLM推理服务器，支持连续批处理和SSD缓存，并通过macOS菜单栏管理。",
+        "purpose": "解决在Apple Silicon设备上高效运行大语言模型推理的问题，利用连续批处理提高吞吐量，SSD缓存降低内存压力，并提供便捷的菜单栏管理界面。",
+        "scene": "本地开发者在Mac上运行LLM进行代码生成或测试、研究人员在Mac上部署小型LLM服务进行实验、日常用户在Mac上使用LLM进行文本生成和翻译等任务并通过菜单栏快速控制"
+      },
+      "appear_days": 3
     },
     {
       "rank": 6,
@@ -155,56 +191,20 @@
       "appear_days": 3
     },
     {
-      "rank": 8,
-      "name": "holehe",
-      "owner": "megadose",
-      "url": "https://github.com/megadose/holehe",
-      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-      "stars": 12433,
-      "forks": 1671,
-      "stars_today": 195,
-      "language": "Python",
+      "rank": 1,
+      "name": "diagram-design",
+      "owner": "cathrynlavery",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "stars": 14627,
+      "forks": 879,
+      "stars_today": 4475,
+      "language": "HTML",
       "topics": [],
       "summary": {
-        "what": "作者开发了一个利用网站“忘记密码”功能检查邮箱是否注册过的工具",
-        "purpose": "快速验证邮箱在多个网站上的注册情况，用于信息收集和安全审计",
-        "scene": "安全研究人员进行信息收集、个人用户检查邮箱泄露情况、数字取证追踪在线足迹"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 2,
-      "name": "macro",
-      "owner": "macro-inc",
-      "url": "https://github.com/macro-inc/macro",
-      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 1832,
-      "forks": 225,
-      "stars_today": 227,
-      "language": "Rust",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个用Rust编写的统一团队协作平台，集成邮件、聊天、文档、任务、AI代理、通话和CRM，并通过共享AI记忆将它们@-链接在一起。",
-        "purpose": "解决团队因工具碎片化导致的信息孤岛和频繁切换问题，提供统一的AI驱动工作空间以提升协作效率。",
-        "scene": "团队在统一收件箱处理邮件和聊天，AI自动关联上下文；在文档中@提及任务或同事，AI记忆提供相关历史信息；销售团队使用内置CRM跟踪客户，AI代理自动记录通话摘要并更新任务。"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 13,
-      "name": "spiderfoot",
-      "owner": "smicallef",
-      "url": "https://github.com/smicallef/spiderfoot",
-      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
-      "stars": 20354,
-      "forks": 3300,
-      "stars_today": 74,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了SpiderFoot，一个自动化开源情报（OSINT）收集工具，用于威胁情报和攻击面映射。",
-        "purpose": "解决安全人员手动收集和分析目标信息效率低下的问题，实现自动化侦察与多源情报聚合。",
-        "scene": "企业安全团队进行攻击面管理、渗透测试人员前期信息收集、威胁情报分析师监控潜在威胁"
+        "what": "作者为Claude Code设计了29种自包含HTML+SVG的编辑图表类型，无阴影且避免Mermaid粗糙风格。",
+        "purpose": "解决在AI编码环境中快速生成高质量、可定制图表的需求，替代传统图表工具的繁琐和低质输出。",
+        "scene": "技术文档插图生成、博客教程示意图制作、AI辅助下可复用的图表模板库"
       },
       "appear_days": 3
     }
@@ -212,6 +212,6 @@
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
     "language_trend": "主要语言：Python、TypeScript、Rust。",
-    "notable_projects": "cactus-compute/needle、unslothai/unsloth、cathrynlavery/diagram-design"
+    "notable_projects": "unslothai/unsloth、cactus-compute/needle、harry0703/MoneyPrinterTurbo"
   }
 }
