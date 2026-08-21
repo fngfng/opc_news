@@ -1,69 +1,33 @@
 {
-  "generated_at": "2026-08-20T00:57:14.392098",
-  "week_range": "2026-08-14 ~ 2026-08-20",
+  "generated_at": "2026-08-21T01:01:17.033045",
+  "week_range": "2026-08-15 ~ 2026-08-21",
   "days_collected": 7,
-  "total_projects": 48,
-  "total_stars_today": 56921,
+  "total_projects": 51,
+  "total_stars_today": 57770,
   "top_languages": [
     [
       "Python",
-      39
+      35
     ],
     [
       "TypeScript",
-      20
+      21
     ],
     [
       "Rust",
-      10
+      11
     ],
     [
       "JavaScript",
-      7
+      8
     ],
     [
       "Shell",
-      5
+      6
     ]
   ],
   "trending_topics": [],
   "top_picks": [
-    {
-      "rank": 6,
-      "name": "unsloth",
-      "owner": "unslothai",
-      "url": "https://github.com/unslothai/unsloth",
-      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
-      "stars": 71070,
-      "forks": 6406,
-      "stars_today": 328,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个本地UI和高效微调库，支持在本地运行和训练多种大语言模型与扩散模型。",
-        "purpose": "解决大模型微调与推理的高资源消耗和技术门槛问题，让用户能在个人设备上轻松使用先进AI模型。",
-        "scene": "AI研究人员快速微调定制化LLM、开发者本地测试和部署模型、创作者使用扩散模型生成图像"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 4,
-      "name": "needle",
-      "owner": "cactus-compute",
-      "url": "https://github.com/cactus-compute/needle",
-      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "stars": 4967,
-      "forks": 334,
-      "stars_today": 769,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个14MB的轻量级基础模型，专为微型设备设计",
-        "purpose": "解决微型设备无法运行大型AI模型的问题，实现本地智能处理",
-        "scene": "智能手机、可穿戴设备、智能家居"
-      },
-      "appear_days": 4
-    },
     {
       "rank": 1,
       "name": "MoneyPrinterTurbo",
@@ -79,6 +43,96 @@
         "what": "作者开发了一个基于AI大模型的自动化工作流工具，根据输入的主题或关键词一键生成高清短视频。",
         "purpose": "解决用户需要快速、低成本批量生成高质量短视频内容的问题，降低视频制作门槛。",
         "scene": "自媒体内容创作、产品营销推广、在线教育视频制作"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 11,
+      "name": "plugins",
+      "owner": "cursor",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "stars": 2811,
+      "forks": 227,
+      "stars_today": 41,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者定义了Cursor插件的规范并实现了多个官方插件",
+        "purpose": "解决Cursor编辑器功能扩展和定制化的问题，让开发者可以构建插件来增强AI辅助编程能力",
+        "scene": "自定义AI指令与提示词扩展、集成第三方开发工具与服务、自动化代码审查与文档生成"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 7,
+      "name": "career-ops",
+      "owner": "santifer",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "stars": 64650,
+      "forks": 12650,
+      "stars_today": 218,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个开源AI求职工具，集成职位扫描、评分、简历定制和申请跟踪功能，可在本地AI编程CLI中运行。",
+        "purpose": "解决求职过程中手动筛选职位、定制简历和跟踪申请效率低下的问题，利用AI自动化提升求职效率。",
+        "scene": "场景1：求职者使用该工具自动扫描多个求职门户，获取匹配职位列表；场景2：工具根据A-F评分标准对职位进行打分，帮助求职者优先申请高质量职位；场景3：工具根据职位要求自动定制简历，并跟踪申请进度，实现一站式求职管理。"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 4,
+      "name": "ai-memory",
+      "owner": "akitaonrails",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "stars": 2060,
+      "forks": 194,
+      "stars_today": 207,
+      "language": "Rust",
+      "topics": [],
+      "summary": {
+        "what": "作者开发了一个基于Rust的长期记忆系统，用于AI编程CLI工具，支持跨代理供应商的上下文交接。",
+        "purpose": "解决AI编程代理在多次会话间缺乏持久记忆和不同代理工具间无法无缝交接上下文的问题。",
+        "scene": "场景1：开发者使用多个AI编程CLI（如Claude Code、Gemini CLI等）时，通过统一记忆库保持项目上下文连续；场景2：在团队协作中，不同成员使用不同代理工具时，共享项目记忆以保持一致性；场景3：长期项目中，代理能记住历史决策和代码变更，避免重复询问和错误。"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 2,
+      "name": "munder-difflin",
+      "owner": "chaitanyagiri",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "stars": 2033,
+      "forks": 240,
+      "stars_today": 306,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 4,
+      "name": "OpenViking",
+      "owner": "volcengine",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "stars": 29383,
+      "forks": 2305,
+      "stars_today": 213,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
       "appear_days": 3
     },
@@ -153,65 +207,11 @@
         "scene": "场景1：短视频创作者快速剪辑和添加特效；场景2：社交媒体内容制作，如添加字幕和背景音乐；场景3：个人视频项目编辑，如旅行视频、家庭录像"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 1,
-      "name": "cordis",
-      "owner": "cordiverse",
-      "url": "https://github.com/cordiverse/cordis",
-      "description": "Meta-Framework of Spatiotemporal Composability",
-      "stars": 4071,
-      "forks": 201,
-      "stars_today": 599,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了Cordis，一个基于TypeScript的元框架，实现时空可组合的编程抽象。",
-        "purpose": "解决分布式应用中时空一致性、组件组合和状态管理的复杂性问题。",
-        "scene": "实时协同编辑、多人在线游戏、分布式物联网平台"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 17,
-      "name": "ToolJet",
-      "owner": "ToolJet",
-      "url": "https://github.com/ToolJet/ToolJet",
-      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
-      "stars": 39079,
-      "forks": 5263,
-      "stars_today": 132,
-      "language": "JavaScript",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了开源低代码平台ToolJet，用于快速构建企业内部工具、仪表盘、业务应用、工作流和AI代理。",
-        "purpose": "解决企业开发内部应用时重复开发、效率低下、技术门槛高的问题，提升应用构建速度。",
-        "scene": "构建内部管理后台、创建数据可视化仪表盘、自动化业务流程与集成AI代理"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 1,
-      "name": "diagram-design",
-      "owner": "cathrynlavery",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-      "stars": 14627,
-      "forks": 879,
-      "stars_today": 4475,
-      "language": "HTML",
-      "topics": [],
-      "summary": {
-        "what": "作者为Claude Code设计了29种自包含HTML+SVG的编辑图表类型，无阴影且避免Mermaid粗糙风格。",
-        "purpose": "解决在AI编码环境中快速生成高质量、可定制图表的需求，替代传统图表工具的繁琐和低质输出。",
-        "scene": "技术文档插图生成、博客教程示意图制作、AI辅助下可复用的图表模板库"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
     "language_trend": "主要语言：Python、TypeScript、Rust。",
-    "notable_projects": "unslothai/unsloth、cactus-compute/needle、harry0703/MoneyPrinterTurbo"
+    "notable_projects": "harry0703/MoneyPrinterTurbo、cursor/plugins、santifer/career-ops"
   }
 }
