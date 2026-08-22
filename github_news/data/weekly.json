@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-21T01:01:17.033045",
-  "week_range": "2026-08-15 ~ 2026-08-21",
+  "generated_at": "2026-08-22T00:57:24.203733",
+  "week_range": "2026-08-16 ~ 2026-08-22",
   "days_collected": 7,
   "total_projects": 51,
-  "total_stars_today": 57770,
+  "total_stars_today": 57842,
   "top_languages": [
     [
       "Python",
-      35
+      32
     ],
     [
       "TypeScript",
-      21
+      20
     ],
     [
       "Rust",
-      11
+      10
     ],
     [
       "JavaScript",
-      8
+      9
     ],
     [
       "Shell",
-      6
+      8
     ]
   ],
   "trending_topics": [],
@@ -44,25 +44,7 @@
         "purpose": "解决用户需要快速、低成本批量生成高质量短视频内容的问题，降低视频制作门槛。",
         "scene": "自媒体内容创作、产品营销推广、在线教育视频制作"
       },
-      "appear_days": 4
-    },
-    {
-      "rank": 11,
-      "name": "plugins",
-      "owner": "cursor",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "stars": 2811,
-      "forks": 227,
-      "stars_today": 41,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者定义了Cursor插件的规范并实现了多个官方插件",
-        "purpose": "解决Cursor编辑器功能扩展和定制化的问题，让开发者可以构建插件来增强AI辅助编程能力",
-        "scene": "自定义AI指令与提示词扩展、集成第三方开发工具与服务、自动化代码审查与文档生成"
-      },
-      "appear_days": 3
+      "appear_days": 5
     },
     {
       "rank": 7,
@@ -79,6 +61,60 @@
         "what": "作者开发了一个开源AI求职工具，集成职位扫描、评分、简历定制和申请跟踪功能，可在本地AI编程CLI中运行。",
         "purpose": "解决求职过程中手动筛选职位、定制简历和跟踪申请效率低下的问题，利用AI自动化提升求职效率。",
         "scene": "场景1：求职者使用该工具自动扫描多个求职门户，获取匹配职位列表；场景2：工具根据A-F评分标准对职位进行打分，帮助求职者优先申请高质量职位；场景3：工具根据职位要求自动定制简历，并跟踪申请进度，实现一站式求职管理。"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 6,
+      "name": "skills",
+      "owner": "mattpocock",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 223808,
+      "forks": 19253,
+      "stars_today": 1894,
+      "language": "Shell",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 7,
+      "name": "superpowers",
+      "owner": "obra",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 274271,
+      "forks": 24555,
+      "stars_today": 557,
+      "language": "Shell",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 3,
+      "name": "plugins",
+      "owner": "cursor",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "stars": 2950,
+      "forks": 233,
+      "stars_today": 149,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "作者定义了Cursor插件的规范并实现了多个官方插件",
+        "purpose": "解决Cursor编辑器功能扩展和定制化的问题，让开发者可以构建插件来增强AI辅助编程能力",
+        "scene": "自定义AI指令与提示词扩展、集成第三方开发工具与服务、自动化代码审查与文档生成"
       },
       "appear_days": 3
     },
@@ -171,47 +207,11 @@
         "scene": "本地开发者在Mac上运行LLM进行代码生成或测试、研究人员在Mac上部署小型LLM服务进行实验、日常用户在Mac上使用LLM进行文本生成和翻译等任务并通过菜单栏快速控制"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 6,
-      "name": "public-apis",
-      "owner": "public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "stars": 460176,
-      "forks": 50854,
-      "stars_today": 2260,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者创建并维护了一个汇集各类免费API的清单，方便开发者查找和使用。",
-        "purpose": "解决开发者在构建应用时难以快速找到可靠免费API的问题，提供集中式的资源索引。",
-        "scene": "快速原型开发时需要调用免费数据接口、学习API编程时寻找练习资源、项目初期探索可用第三方服务"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 15,
-      "name": "OpenCut",
-      "owner": "OpenCut-app",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
-      "stars": 83164,
-      "forks": 8230,
-      "stars_today": 255,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个开源的视频编辑应用，作为CapCut的替代方案。",
-        "purpose": "解决用户对免费、开源、无限制视频编辑工具的需求，避免使用专有软件。",
-        "scene": "场景1：短视频创作者快速剪辑和添加特效；场景2：社交媒体内容制作，如添加字幕和背景音乐；场景3：个人视频项目编辑，如旅行视频、家庭录像"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
     "language_trend": "主要语言：Python、TypeScript、Rust。",
-    "notable_projects": "harry0703/MoneyPrinterTurbo、cursor/plugins、santifer/career-ops"
+    "notable_projects": "harry0703/MoneyPrinterTurbo、santifer/career-ops、mattpocock/skills"
   }
 }
