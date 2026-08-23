@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-22T00:57:24.203733",
-  "week_range": "2026-08-16 ~ 2026-08-22",
+  "generated_at": "2026-08-23T01:02:18.494219",
+  "week_range": "2026-08-17 ~ 2026-08-23",
   "days_collected": 7,
-  "total_projects": 51,
-  "total_stars_today": 57842,
+  "total_projects": 50,
+  "total_stars_today": 59176,
   "top_languages": [
     [
       "Python",
-      32
+      28
     ],
     [
       "TypeScript",
-      20
+      21
     ],
     [
       "Rust",
+      12
+    ],
+    [
+      "Shell",
       10
     ],
     [
       "JavaScript",
-      9
-    ],
-    [
-      "Shell",
       8
     ]
   ],
@@ -47,6 +47,42 @@
       "appear_days": 5
     },
     {
+      "rank": 6,
+      "name": "skills",
+      "owner": "mattpocock",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 223808,
+      "forks": 19253,
+      "stars_today": 1894,
+      "language": "Shell",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 7,
+      "name": "superpowers",
+      "owner": "obra",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 274271,
+      "forks": 24555,
+      "stars_today": 557,
+      "language": "Shell",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
+    },
+    {
       "rank": 7,
       "name": "career-ops",
       "owner": "santifer",
@@ -65,56 +101,92 @@
       "appear_days": 4
     },
     {
-      "rank": 6,
-      "name": "skills",
-      "owner": "mattpocock",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 223808,
-      "forks": 19253,
-      "stars_today": 1894,
-      "language": "Shell",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 7,
-      "name": "superpowers",
-      "owner": "obra",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 274271,
-      "forks": 24555,
-      "stars_today": 557,
-      "language": "Shell",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
-    },
-    {
       "rank": 3,
+      "name": "OpenLogi",
+      "owner": "AprilNEA",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "stars": 11887,
+      "forks": 322,
+      "stars_today": 1545,
+      "language": "Rust",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 1,
+      "name": "modular",
+      "owner": "modular",
+      "url": "https://github.com/modular/modular",
+      "description": "The Modular Platform (includes MAX & Mojo)",
+      "stars": 27947,
+      "forks": 3001,
+      "stars_today": 268,
+      "language": "Mojo",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 12,
+      "name": "google-timeline-visualizer",
+      "owner": "mahlernim",
+      "url": "https://github.com/mahlernim/google-timeline-visualizer",
+      "description": "Visualize your year in travel using your Google Location History (Timeline) data",
+      "stars": 1560,
+      "forks": 174,
+      "stars_today": 657,
+      "language": "Kotlin",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 5,
       "name": "plugins",
       "owner": "cursor",
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
-      "stars": 2950,
-      "forks": 233,
-      "stars_today": 149,
+      "stars": 4085,
+      "forks": 340,
+      "stars_today": 449,
       "language": "TypeScript",
       "topics": [],
       "summary": {
         "what": "作者定义了Cursor插件的规范并实现了多个官方插件",
         "purpose": "解决Cursor编辑器功能扩展和定制化的问题，让开发者可以构建插件来增强AI辅助编程能力",
         "scene": "自定义AI指令与提示词扩展、集成第三方开发工具与服务、自动化代码审查与文档生成"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 11,
+      "name": "posthog",
+      "owner": "PostHog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "stars": 38004,
+      "forks": 3216,
+      "stars_today": 60,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
       "appear_days": 3
     },
@@ -135,83 +207,11 @@
         "scene": "场景1：开发者使用多个AI编程CLI（如Claude Code、Gemini CLI等）时，通过统一记忆库保持项目上下文连续；场景2：在团队协作中，不同成员使用不同代理工具时，共享项目记忆以保持一致性；场景3：长期项目中，代理能记住历史决策和代码变更，避免重复询问和错误。"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 2,
-      "name": "munder-difflin",
-      "owner": "chaitanyagiri",
-      "url": "https://github.com/chaitanyagiri/munder-difflin",
-      "description": "local multi-agent harness",
-      "stars": 2033,
-      "forks": 240,
-      "stars_today": 306,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 4,
-      "name": "OpenViking",
-      "owner": "volcengine",
-      "url": "https://github.com/volcengine/OpenViking",
-      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-      "stars": 29383,
-      "forks": 2305,
-      "stars_today": 213,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 5,
-      "name": "Anthropic-Cybersecurity-Skills",
-      "owner": "mukul975",
-      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
-      "stars": 28433,
-      "forks": 3446,
-      "stars_today": 198,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者构建了一个包含817个结构化网络安全技能的Python库，专为AI代理设计，并映射到MITRE ATT&CK等6大安全框架。",
-        "purpose": "解决AI代理缺乏标准化网络安全操作能力的问题，使其能跨平台执行安全任务。",
-        "scene": "AI编程助手集成安全扫描功能、自动化红蓝队攻防演练、安全合规检查与风险评估"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 8,
-      "name": "omlx",
-      "owner": "jundot",
-      "url": "https://github.com/jundot/omlx",
-      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-      "stars": 18990,
-      "forks": 1645,
-      "stars_today": 78,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个针对Apple Silicon优化的LLM推理服务器，支持连续批处理和SSD缓存，并通过macOS菜单栏管理。",
-        "purpose": "解决在Apple Silicon设备上高效运行大语言模型推理的问题，利用连续批处理提高吞吐量，SSD缓存降低内存压力，并提供便捷的菜单栏管理界面。",
-        "scene": "本地开发者在Mac上运行LLM进行代码生成或测试、研究人员在Mac上部署小型LLM服务进行实验、日常用户在Mac上使用LLM进行文本生成和翻译等任务并通过菜单栏快速控制"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
     "language_trend": "主要语言：Python、TypeScript、Rust。",
-    "notable_projects": "harry0703/MoneyPrinterTurbo、santifer/career-ops、mattpocock/skills"
+    "notable_projects": "harry0703/MoneyPrinterTurbo、mattpocock/skills、obra/superpowers"
   }
 }
