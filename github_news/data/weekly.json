@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-23T01:02:18.494219",
-  "week_range": "2026-08-17 ~ 2026-08-23",
+  "generated_at": "2026-08-24T01:00:11.178231",
+  "week_range": "2026-08-18 ~ 2026-08-24",
   "days_collected": 7,
-  "total_projects": 50,
-  "total_stars_today": 59176,
+  "total_projects": 57,
+  "total_stars_today": 66588,
   "top_languages": [
     [
       "Python",
-      28
+      30
     ],
     [
       "TypeScript",
@@ -15,19 +15,37 @@
     ],
     [
       "Rust",
-      12
+      17
     ],
     [
       "Shell",
-      10
+      11
     ],
     [
       "JavaScript",
-      8
+      9
     ]
   ],
   "trending_topics": [],
   "top_picks": [
+    {
+      "rank": 6,
+      "name": "skills",
+      "owner": "mattpocock",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 223808,
+      "forks": 19253,
+      "stars_today": 1894,
+      "language": "Shell",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 5
+    },
     {
       "rank": 1,
       "name": "MoneyPrinterTurbo",
@@ -47,15 +65,15 @@
       "appear_days": 5
     },
     {
-      "rank": 6,
-      "name": "skills",
-      "owner": "mattpocock",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 223808,
-      "forks": 19253,
-      "stars_today": 1894,
-      "language": "Shell",
+      "rank": 3,
+      "name": "OpenLogi",
+      "owner": "AprilNEA",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "stars": 11887,
+      "forks": 322,
+      "stars_today": 1545,
+      "language": "Rust",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -101,15 +119,15 @@
       "appear_days": 4
     },
     {
-      "rank": 3,
-      "name": "OpenLogi",
-      "owner": "AprilNEA",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "stars": 11887,
-      "forks": 322,
-      "stars_today": 1545,
-      "language": "Rust",
+      "rank": 11,
+      "name": "ECC",
+      "owner": "affaan-m",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 241795,
+      "forks": 36655,
+      "stars_today": 357,
+      "language": "JavaScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -189,29 +207,11 @@
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 4,
-      "name": "ai-memory",
-      "owner": "akitaonrails",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "stars": 2060,
-      "forks": 194,
-      "stars_today": 207,
-      "language": "Rust",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个基于Rust的长期记忆系统，用于AI编程CLI工具，支持跨代理供应商的上下文交接。",
-        "purpose": "解决AI编程代理在多次会话间缺乏持久记忆和不同代理工具间无法无缝交接上下文的问题。",
-        "scene": "场景1：开发者使用多个AI编程CLI（如Claude Code、Gemini CLI等）时，通过统一记忆库保持项目上下文连续；场景2：在团队协作中，不同成员使用不同代理工具时，共享项目记忆以保持一致性；场景3：长期项目中，代理能记住历史决策和代码变更，避免重复询问和错误。"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
     "language_trend": "主要语言：Python、TypeScript、Rust。",
-    "notable_projects": "harry0703/MoneyPrinterTurbo、mattpocock/skills、obra/superpowers"
+    "notable_projects": "mattpocock/skills、harry0703/MoneyPrinterTurbo、AprilNEA/OpenLogi"
   }
 }
