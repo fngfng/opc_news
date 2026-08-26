@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-25T00:59:29.301490",
-  "week_range": "2026-08-19 ~ 2026-08-25",
+  "generated_at": "2026-08-26T01:00:48.221164",
+  "week_range": "2026-08-20 ~ 2026-08-26",
   "days_collected": 7,
-  "total_projects": 59,
-  "total_stars_today": 75235,
+  "total_projects": 60,
+  "total_stars_today": 77852,
   "top_languages": [
     [
       "Python",
-      33
+      35
     ],
     [
       "TypeScript",
-      22
+      19
     ],
     [
       "Rust",
-      18
+      19
     ],
     [
       "Shell",
@@ -23,7 +23,7 @@
     ],
     [
       "JavaScript",
-      9
+      11
     ]
   ],
   "trending_topics": [],
@@ -65,6 +65,42 @@
       "appear_days": 5
     },
     {
+      "rank": 14,
+      "name": "maka",
+      "owner": "apache",
+      "url": "https://github.com/apache/maka",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "stars": 2016,
+      "forks": 240,
+      "stars_today": 148,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 1,
+      "name": "codex",
+      "owner": "openai",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "stars": 113395,
+      "forks": 17367,
+      "stars_today": 1544,
+      "language": "Rust",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
+    },
+    {
       "rank": 11,
       "name": "posthog",
       "owner": "PostHog",
@@ -101,33 +137,15 @@
       "appear_days": 4
     },
     {
-      "rank": 1,
-      "name": "MoneyPrinterTurbo",
-      "owner": "harry0703",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "stars": 108542,
-      "forks": 16477,
-      "stars_today": 2304,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "作者开发了一个基于AI大模型的自动化工作流工具，根据输入的主题或关键词一键生成高清短视频。",
-        "purpose": "解决用户需要快速、低成本批量生成高质量短视频内容的问题，降低视频制作门槛。",
-        "scene": "自媒体内容创作、产品营销推广、在线教育视频制作"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 1,
-      "name": "codex",
-      "owner": "openai",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "stars": 113395,
-      "forks": 17367,
-      "stars_today": 1544,
-      "language": "Rust",
+      "rank": 2,
+      "name": "awesome-gpt-image-2",
+      "owner": "freestylefly",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "stars": 12722,
+      "forks": 1427,
+      "stars_today": 401,
+      "language": "JavaScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -138,14 +156,14 @@
     },
     {
       "rank": 15,
-      "name": "plane",
-      "owner": "makeplane",
-      "url": "https://github.com/makeplane/plane",
-      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-      "stars": 56503,
-      "forks": 5397,
-      "stars_today": 98,
-      "language": "TypeScript",
+      "name": "claude-plugins-community",
+      "owner": "anthropics",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "stars": 957,
+      "forks": 126,
+      "stars_today": 225,
+      "language": "Python",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -155,15 +173,15 @@
       "appear_days": 3
     },
     {
-      "rank": 14,
-      "name": "maka",
-      "owner": "apache",
-      "url": "https://github.com/apache/maka",
-      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-      "stars": 2016,
-      "forks": 240,
-      "stars_today": 148,
-      "language": "TypeScript",
+      "rank": 9,
+      "name": "openhuman",
+      "owner": "tinyhumansai",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "stars": 36748,
+      "forks": 3670,
+      "stars_today": 39,
+      "language": "Rust",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -173,14 +191,14 @@
       "appear_days": 3
     },
     {
-      "rank": 7,
+      "rank": 4,
       "name": "omarchy",
       "owner": "basecamp",
       "url": "https://github.com/basecamp/omarchy",
       "description": "Beautiful, Modern & Opinionated Linux",
-      "stars": 26427,
-      "forks": 2689,
-      "stars_today": 356,
+      "stars": 29138,
+      "forks": 2961,
+      "stars_today": 750,
       "language": "Shell",
       "topics": [],
       "summary": {
@@ -189,29 +207,11 @@
         "scene": "新装系统后快速搭建开发环境、Linux新手获得开箱即用的美观桌面、团队统一成员的工作站配置"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 11,
-      "name": "ECC",
-      "owner": "affaan-m",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 241795,
-      "forks": 36655,
-      "stars_today": 357,
-      "language": "JavaScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
     "language_trend": "主要语言：Python、TypeScript、Rust。",
-    "notable_projects": "AprilNEA/OpenLogi、mattpocock/skills、PostHog/posthog"
+    "notable_projects": "AprilNEA/OpenLogi、mattpocock/skills、apache/maka"
   }
 }
