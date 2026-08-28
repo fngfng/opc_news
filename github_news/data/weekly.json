@@ -1,51 +1,33 @@
 {
-  "generated_at": "2026-08-27T06:56:03.605415",
-  "week_range": "2026-08-21 ~ 2026-08-27",
+  "generated_at": "2026-08-28T08:44:05.769479",
+  "week_range": "2026-08-22 ~ 2026-08-28",
   "days_collected": 7,
-  "total_projects": 57,
-  "total_stars_today": 81692,
+  "total_projects": 60,
+  "total_stars_today": 85008,
   "top_languages": [
     [
       "Python",
-      39
-    ],
-    [
-      "Rust",
-      18
-    ],
-    [
-      "TypeScript",
-      16
+      43
     ],
     [
       "JavaScript",
-      13
+      17
+    ],
+    [
+      "TypeScript",
+      15
+    ],
+    [
+      "Rust",
+      15
     ],
     [
       "Shell",
-      11
+      9
     ]
   ],
   "trending_topics": [],
   "top_picks": [
-    {
-      "rank": 3,
-      "name": "OpenLogi",
-      "owner": "AprilNEA",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "stars": 11887,
-      "forks": 322,
-      "stars_today": 1545,
-      "language": "Rust",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 5
-    },
     {
       "rank": 2,
       "name": "awesome-gpt-image-2",
@@ -56,6 +38,42 @@
       "forks": 1427,
       "stars_today": 401,
       "language": "JavaScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 13,
+      "name": "ai-engineering-from-scratch",
+      "owner": "rohitg00",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": 48282,
+      "forks": 8504,
+      "stars_today": 349,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 12,
+      "name": "claude-obsidian",
+      "owner": "AgriciDaniel",
+      "url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+      "stars": 11902,
+      "forks": 1330,
+      "stars_today": 310,
+      "language": "Python",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -155,15 +173,15 @@
       "appear_days": 4
     },
     {
-      "rank": 11,
-      "name": "posthog",
-      "owner": "PostHog",
-      "url": "https://github.com/PostHog/posthog",
-      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-      "stars": 38004,
-      "forks": 3216,
-      "stars_today": 60,
-      "language": "Python",
+      "rank": 4,
+      "name": "OpenLogi",
+      "owner": "AprilNEA",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "stars": 12940,
+      "forks": 351,
+      "stars_today": 1380,
+      "language": "Rust",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -173,32 +191,14 @@
       "appear_days": 4
     },
     {
-      "rank": 2,
-      "name": "skills",
-      "owner": "mattpocock",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 226514,
-      "forks": 19423,
-      "stars_today": 2192,
-      "language": "Shell",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 8,
-      "name": "free-claude-code",
-      "owner": "Alishahryar1",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
-      "stars": 47969,
-      "forks": 7892,
-      "stars_today": 1081,
+      "rank": 15,
+      "name": "claude-plugins-official",
+      "owner": "anthropics",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": 34093,
+      "forks": 3869,
+      "stars_today": 55,
       "language": "Python",
       "topics": [],
       "summary": {
@@ -211,7 +211,7 @@
   ],
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
-    "language_trend": "主要语言：Python、Rust、TypeScript。",
-    "notable_projects": "AprilNEA/OpenLogi、freestylefly/awesome-gpt-image-2、basecamp/omarchy"
+    "language_trend": "主要语言：Python、JavaScript、TypeScript。",
+    "notable_projects": "freestylefly/awesome-gpt-image-2、rohitg00/ai-engineering-from-scratch、AgriciDaniel/claude-obsidian"
   }
 }
