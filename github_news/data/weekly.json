@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-28T08:44:05.769479",
-  "week_range": "2026-08-22 ~ 2026-08-28",
+  "generated_at": "2026-08-29T05:21:33.150020",
+  "week_range": "2026-08-23 ~ 2026-08-29",
   "days_collected": 7,
-  "total_projects": 60,
-  "total_stars_today": 85008,
+  "total_projects": 61,
+  "total_stars_today": 91955,
   "top_languages": [
     [
       "Python",
-      43
+      47
     ],
     [
       "JavaScript",
-      17
+      18
     ],
     [
       "TypeScript",
-      15
+      16
     ],
     [
       "Rust",
-      15
+      14
     ],
     [
       "Shell",
-      9
+      7
     ]
   ],
   "trending_topics": [],
@@ -44,7 +44,7 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 5
+      "appear_days": 6
     },
     {
       "rank": 13,
@@ -56,6 +56,60 @@
       "forks": 8504,
       "stars_today": 349,
       "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 15,
+      "name": "claude-plugins-official",
+      "owner": "anthropics",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": 34093,
+      "forks": 3869,
+      "stars_today": 55,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 13,
+      "name": "marin",
+      "owner": "marin-community",
+      "url": "https://github.com/marin-community/marin",
+      "description": "Open-source framework for the research and development of foundation models.",
+      "stars": 2105,
+      "forks": 192,
+      "stars_today": 231,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 14,
+      "name": "ponytail",
+      "owner": "DietrichGebert",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 111025,
+      "forks": 6101,
+      "stars_today": 982,
+      "language": "JavaScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -137,24 +191,6 @@
       "appear_days": 4
     },
     {
-      "rank": 14,
-      "name": "maka",
-      "owner": "apache",
-      "url": "https://github.com/apache/maka",
-      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-      "stars": 2016,
-      "forks": 240,
-      "stars_today": 148,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 4
-    },
-    {
       "rank": 1,
       "name": "codex",
       "owner": "openai",
@@ -171,47 +207,11 @@
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
       "appear_days": 4
-    },
-    {
-      "rank": 4,
-      "name": "OpenLogi",
-      "owner": "AprilNEA",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "stars": 12940,
-      "forks": 351,
-      "stars_today": 1380,
-      "language": "Rust",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 15,
-      "name": "claude-plugins-official",
-      "owner": "anthropics",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": 34093,
-      "forks": 3869,
-      "stars_today": 55,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
     "language_trend": "主要语言：Python、JavaScript、TypeScript。",
-    "notable_projects": "freestylefly/awesome-gpt-image-2、rohitg00/ai-engineering-from-scratch、AgriciDaniel/claude-obsidian"
+    "notable_projects": "freestylefly/awesome-gpt-image-2、rohitg00/ai-engineering-from-scratch、anthropics/claude-plugins-official"
   }
 }
