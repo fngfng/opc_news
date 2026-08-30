@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-29T05:21:33.150020",
-  "week_range": "2026-08-23 ~ 2026-08-29",
+  "generated_at": "2026-08-30T03:16:12.547317",
+  "week_range": "2026-08-24 ~ 2026-08-30",
   "days_collected": 7,
   "total_projects": 61,
-  "total_stars_today": 91955,
+  "total_stars_today": 94659,
   "top_languages": [
     [
       "Python",
-      47
+      52
     ],
     [
       "JavaScript",
-      18
+      21
     ],
     [
       "TypeScript",
@@ -19,10 +19,10 @@
     ],
     [
       "Rust",
-      14
+      12
     ],
     [
-      "Shell",
+      "Go",
       7
     ]
   ],
@@ -47,6 +47,24 @@
       "appear_days": 6
     },
     {
+      "rank": 15,
+      "name": "claude-plugins-official",
+      "owner": "anthropics",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": 34093,
+      "forks": 3869,
+      "stars_today": 55,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 5
+    },
+    {
       "rank": 13,
       "name": "ai-engineering-from-scratch",
       "owner": "rohitg00",
@@ -65,14 +83,32 @@
       "appear_days": 5
     },
     {
-      "rank": 15,
-      "name": "claude-plugins-official",
-      "owner": "anthropics",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": 34093,
-      "forks": 3869,
-      "stars_today": 55,
+      "rank": 1,
+      "name": "archify",
+      "owner": "tt-a1i",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "stars": 19484,
+      "forks": 1325,
+      "stars_today": 1035,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 14,
+      "name": "scientific-agent-skills",
+      "owner": "K-Dense-AI",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "stars": 34874,
+      "forks": 3369,
+      "stars_today": 138,
       "language": "Python",
       "topics": [],
       "summary": {
@@ -171,47 +207,11 @@
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
       "appear_days": 4
-    },
-    {
-      "rank": 15,
-      "name": "claude-plugins-community",
-      "owner": "anthropics",
-      "url": "https://github.com/anthropics/claude-plugins-community",
-      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
-      "stars": 957,
-      "forks": 126,
-      "stars_today": 225,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 1,
-      "name": "codex",
-      "owner": "openai",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "stars": 113395,
-      "forks": 17367,
-      "stars_today": 1544,
-      "language": "Rust",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 4
     }
   ],
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
     "language_trend": "主要语言：Python、JavaScript、TypeScript。",
-    "notable_projects": "freestylefly/awesome-gpt-image-2、rohitg00/ai-engineering-from-scratch、anthropics/claude-plugins-official"
+    "notable_projects": "freestylefly/awesome-gpt-image-2、anthropics/claude-plugins-official、rohitg00/ai-engineering-from-scratch"
   }
 }
