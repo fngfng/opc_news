@@ -1,78 +1,42 @@
 {
-  "generated_at": "2026-08-30T03:16:12.547317",
-  "week_range": "2026-08-24 ~ 2026-08-30",
+  "generated_at": "2026-08-31T03:11:25.491620",
+  "week_range": "2026-08-25 ~ 2026-08-31",
   "days_collected": 7,
-  "total_projects": 61,
-  "total_stars_today": 94659,
+  "total_projects": 64,
+  "total_stars_today": 92580,
   "top_languages": [
     [
       "Python",
-      52
-    ],
-    [
-      "JavaScript",
-      21
+      54
     ],
     [
       "TypeScript",
-      16
+      20
     ],
     [
-      "Rust",
-      12
+      "JavaScript",
+      20
     ],
     [
       "Go",
+      8
+    ],
+    [
+      "Rust",
       7
     ]
   ],
   "trending_topics": [],
   "top_picks": [
     {
-      "rank": 2,
-      "name": "awesome-gpt-image-2",
-      "owner": "freestylefly",
-      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "stars": 12722,
-      "forks": 1427,
-      "stars_today": 401,
-      "language": "JavaScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 6
-    },
-    {
-      "rank": 15,
-      "name": "claude-plugins-official",
-      "owner": "anthropics",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": 34093,
-      "forks": 3869,
-      "stars_today": 55,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 5
-    },
-    {
-      "rank": 13,
-      "name": "ai-engineering-from-scratch",
-      "owner": "rohitg00",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "stars": 48282,
-      "forks": 8504,
-      "stars_today": 349,
+      "rank": 14,
+      "name": "scientific-agent-skills",
+      "owner": "K-Dense-AI",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "stars": 34874,
+      "forks": 3369,
+      "stars_today": 138,
       "language": "Python",
       "topics": [],
       "summary": {
@@ -98,17 +62,17 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 4
+      "appear_days": 5
     },
     {
-      "rank": 14,
-      "name": "scientific-agent-skills",
-      "owner": "K-Dense-AI",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "stars": 34874,
-      "forks": 3369,
-      "stars_today": 138,
+      "rank": 15,
+      "name": "claude-plugins-official",
+      "owner": "anthropics",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": 34093,
+      "forks": 3869,
+      "stars_today": 55,
       "language": "Python",
       "topics": [],
       "summary": {
@@ -116,7 +80,43 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 4
+      "appear_days": 5
+    },
+    {
+      "rank": 17,
+      "name": "awesome-gpt-image-2",
+      "owner": "freestylefly",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "stars": 15521,
+      "forks": 1645,
+      "stars_today": 2449,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 13,
+      "name": "ai-engineering-from-scratch",
+      "owner": "rohitg00",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": 48282,
+      "forks": 8504,
+      "stars_today": 349,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 5
     },
     {
       "rank": 13,
@@ -173,45 +173,45 @@
       "appear_days": 4
     },
     {
-      "rank": 4,
-      "name": "omarchy",
-      "owner": "basecamp",
-      "url": "https://github.com/basecamp/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
-      "stars": 29138,
-      "forks": 2961,
-      "stars_today": 750,
-      "language": "Shell",
-      "topics": [],
-      "summary": {
-        "what": "作者编写了一套Shell脚本，用于自动化配置Ubuntu桌面环境，安装精选应用并应用统一的美学与交互设置。",
-        "purpose": "解决从原生Ubuntu到美观、现代、高效桌面环境的手动配置繁琐问题，实现一键式个性化部署。",
-        "scene": "新装系统后快速搭建开发环境、Linux新手获得开箱即用的美观桌面、团队统一成员的工作站配置"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 9,
-      "name": "openhuman",
-      "owner": "tinyhumansai",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
-      "stars": 36748,
-      "forks": 3670,
-      "stars_today": 39,
-      "language": "Rust",
+      "rank": 15,
+      "name": "freellmapi",
+      "owner": "tashfeenahmed",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "stars": 19779,
+      "forks": 2879,
+      "stars_today": 174,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 4
+      "appear_days": 3
+    },
+    {
+      "rank": 1,
+      "name": "gods-eye-view",
+      "owner": "bilawalsidhu",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "stars": 9427,
+      "forks": 2002,
+      "stars_today": 1984,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
     }
   ],
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
-    "language_trend": "主要语言：Python、JavaScript、TypeScript。",
-    "notable_projects": "freestylefly/awesome-gpt-image-2、anthropics/claude-plugins-official、rohitg00/ai-engineering-from-scratch"
+    "language_trend": "主要语言：Python、TypeScript、JavaScript。",
+    "notable_projects": "K-Dense-AI/scientific-agent-skills、tt-a1i/archify、anthropics/claude-plugins-official"
   }
 }
