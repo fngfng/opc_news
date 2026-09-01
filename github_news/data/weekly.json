@@ -1,51 +1,33 @@
 {
-  "generated_at": "2026-08-31T03:11:25.491620",
-  "week_range": "2026-08-25 ~ 2026-08-31",
+  "generated_at": "2026-09-01T03:15:49.130107",
+  "week_range": "2026-08-26 ~ 2026-09-01",
   "days_collected": 7,
-  "total_projects": 64,
-  "total_stars_today": 92580,
+  "total_projects": 63,
+  "total_stars_today": 94508,
   "top_languages": [
     [
       "Python",
       54
     ],
     [
-      "TypeScript",
-      20
+      "JavaScript",
+      21
     ],
     [
-      "JavaScript",
-      20
+      "TypeScript",
+      18
     ],
     [
       "Go",
-      8
+      9
     ],
     [
-      "Rust",
-      7
+      "Java",
+      4
     ]
   ],
   "trending_topics": [],
   "top_picks": [
-    {
-      "rank": 14,
-      "name": "scientific-agent-skills",
-      "owner": "K-Dense-AI",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "stars": 34874,
-      "forks": 3369,
-      "stars_today": 138,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 5
-    },
     {
       "rank": 1,
       "name": "archify",
@@ -62,7 +44,25 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 5
+      "appear_days": 6
+    },
+    {
+      "rank": 14,
+      "name": "scientific-agent-skills",
+      "owner": "K-Dense-AI",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "stars": 34874,
+      "forks": 3369,
+      "stars_today": 138,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 6
     },
     {
       "rank": 15,
@@ -83,14 +83,14 @@
       "appear_days": 5
     },
     {
-      "rank": 17,
+      "rank": 1,
       "name": "awesome-gpt-image-2",
       "owner": "freestylefly",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "stars": 15521,
-      "forks": 1645,
-      "stars_today": 2449,
+      "stars": 17803,
+      "forks": 1840,
+      "stars_today": 1698,
       "language": "JavaScript",
       "topics": [],
       "summary": {
@@ -98,25 +98,7 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 5
-    },
-    {
-      "rank": 13,
-      "name": "ai-engineering-from-scratch",
-      "owner": "rohitg00",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "stars": 48282,
-      "forks": 8504,
-      "stars_today": 349,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 5
+      "appear_days": 4
     },
     {
       "rank": 13,
@@ -127,6 +109,24 @@
       "stars": 2105,
       "forks": 192,
       "stars_today": 231,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 7,
+      "name": "ai-engineering-from-scratch",
+      "owner": "rohitg00",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": 48978,
+      "forks": 8565,
+      "stars_today": 569,
       "language": "Python",
       "topics": [],
       "summary": {
@@ -155,32 +155,14 @@
       "appear_days": 4
     },
     {
-      "rank": 12,
-      "name": "claude-obsidian",
-      "owner": "AgriciDaniel",
-      "url": "https://github.com/AgriciDaniel/claude-obsidian",
-      "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
-      "stars": 11902,
-      "forks": 1330,
-      "stars_today": 310,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 15,
-      "name": "freellmapi",
-      "owner": "tashfeenahmed",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "stars": 19779,
-      "forks": 2879,
-      "stars_today": 174,
+      "rank": 5,
+      "name": "OpenMAIC",
+      "owner": "THU-MAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "stars": 22401,
+      "forks": 4331,
+      "stars_today": 907,
       "language": "TypeScript",
       "topics": [],
       "summary": {
@@ -191,15 +173,33 @@
       "appear_days": 3
     },
     {
-      "rank": 1,
-      "name": "gods-eye-view",
-      "owner": "bilawalsidhu",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "stars": 9427,
-      "forks": 2002,
-      "stars_today": 1984,
-      "language": "JavaScript",
+      "rank": 11,
+      "name": "open-seo",
+      "owner": "every-app",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "stars": 14687,
+      "forks": 1760,
+      "stars_today": 517,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 6,
+      "name": "heretic",
+      "owner": "p-e-w",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "stars": 28739,
+      "forks": 3167,
+      "stars_today": 150,
+      "language": "Python",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -211,7 +211,7 @@
   ],
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
-    "language_trend": "主要语言：Python、TypeScript、JavaScript。",
-    "notable_projects": "K-Dense-AI/scientific-agent-skills、tt-a1i/archify、anthropics/claude-plugins-official"
+    "language_trend": "主要语言：Python、JavaScript、TypeScript。",
+    "notable_projects": "tt-a1i/archify、K-Dense-AI/scientific-agent-skills、anthropics/claude-plugins-official"
   }
 }
