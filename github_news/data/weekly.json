@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-09-02T02:33:56.921774",
-  "week_range": "2026-08-27 ~ 2026-09-02",
+  "generated_at": "2026-09-03T02:41:04.712501",
+  "week_range": "2026-08-28 ~ 2026-09-03",
   "days_collected": 7,
-  "total_projects": 65,
-  "total_stars_today": 92530,
+  "total_projects": 71,
+  "total_stars_today": 87686,
   "top_languages": [
     [
       "Python",
-      53
-    ],
-    [
-      "JavaScript",
-      20
+      51
     ],
     [
       "TypeScript",
+      22
+    ],
+    [
+      "JavaScript",
       19
     ],
     [
       "Go",
-      8
+      9
     ],
     [
-      "Java",
-      4
+      "C++",
+      5
     ]
   ],
   "trending_topics": [],
   "top_picks": [
     {
-      "rank": 14,
+      "rank": 7,
       "name": "scientific-agent-skills",
       "owner": "K-Dense-AI",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "stars": 34874,
-      "forks": 3369,
-      "stars_today": 138,
+      "stars": 35575,
+      "forks": 3420,
+      "stars_today": 498,
       "language": "Python",
       "topics": [],
       "summary": {
@@ -44,17 +44,17 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 7
+      "appear_days": 6
     },
     {
-      "rank": 1,
+      "rank": 4,
       "name": "archify",
       "owner": "tt-a1i",
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "stars": 19484,
-      "forks": 1325,
-      "stars_today": 1035,
+      "stars": 24926,
+      "forks": 1600,
+      "stars_today": 4239,
       "language": "JavaScript",
       "topics": [],
       "summary": {
@@ -62,7 +62,7 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 6
+      "appear_days": 5
     },
     {
       "rank": 5,
@@ -83,22 +83,58 @@
       "appear_days": 4
     },
     {
-      "rank": 3,
-      "name": "claude-plugins-official",
-      "owner": "anthropics",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": 34441,
-      "forks": 3893,
-      "stars_today": 308,
-      "language": "Python",
+      "rank": 8,
+      "name": "ponytail",
+      "owner": "DietrichGebert",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 114570,
+      "forks": 6261,
+      "stars_today": 1613,
+      "language": "JavaScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 4
+      "appear_days": 3
+    },
+    {
+      "rank": 10,
+      "name": "ECC",
+      "owner": "affaan-m",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 245305,
+      "forks": 37057,
+      "stars_today": 512,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 15,
+      "name": "pdf-inspector",
+      "owner": "firecrawl",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "stars": 17428,
+      "forks": 1202,
+      "stars_today": 228,
+      "language": "Rust",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
     },
     {
       "rank": 13,
@@ -171,47 +207,11 @@
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 5,
-      "name": "go-modern-guidelines",
-      "owner": "JetBrains",
-      "url": "https://github.com/JetBrains/go-modern-guidelines",
-      "description": "Help AI coding agents write modern Go",
-      "stars": 2354,
-      "forks": 70,
-      "stars_today": 300,
-      "language": "Go",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 9,
-      "name": "OpenMontage",
-      "owner": "calesthio",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "stars": 52757,
-      "forks": 6588,
-      "stars_today": 1292,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
-    "language_trend": "主要语言：Python、JavaScript、TypeScript。",
+    "language_trend": "主要语言：Python、TypeScript、JavaScript。",
     "notable_projects": "K-Dense-AI/scientific-agent-skills、tt-a1i/archify、THU-MAIC/OpenMAIC"
   }
 }
