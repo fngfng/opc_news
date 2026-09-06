@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-09-05T02:38:47.922231",
-  "week_range": "2026-08-30 ~ 2026-09-05",
+  "generated_at": "2026-09-06T02:35:54.264086",
+  "week_range": "2026-08-31 ~ 2026-09-06",
   "days_collected": 7,
-  "total_projects": 71,
-  "total_stars_today": 81777,
+  "total_projects": 65,
+  "total_stars_today": 81533,
   "top_languages": [
     [
       "Python",
-      49
+      45
     ],
     [
       "TypeScript",
-      20
+      22
     ],
     [
       "JavaScript",
-      15
+      14
     ],
     [
-      "Go",
-      8
+      "Shell",
+      6
     ],
     [
       "C++",
@@ -44,43 +44,7 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 5
-    },
-    {
-      "rank": 5,
-      "name": "OpenMAIC",
-      "owner": "THU-MAIC",
-      "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "stars": 22401,
-      "forks": 4331,
-      "stars_today": 907,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 3,
-      "name": "scientific-agent-skills",
-      "owner": "K-Dense-AI",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "stars": 38022,
-      "forks": 3585,
-      "stars_today": 1587,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 4
+      "appear_days": 6
     },
     {
       "rank": 17,
@@ -98,7 +62,7 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 3
+      "appear_days": 4
     },
     {
       "rank": 3,
@@ -116,7 +80,25 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 3
+      "appear_days": 4
+    },
+    {
+      "rank": 7,
+      "name": "hermes-agent",
+      "owner": "NousResearch",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 240184,
+      "forks": 49153,
+      "stars_today": 533,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
     },
     {
       "rank": 1,
@@ -134,7 +116,7 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 3
+      "appear_days": 4
     },
     {
       "rank": 15,
@@ -152,18 +134,36 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
+      "appear_days": 4
+    },
+    {
+      "rank": 5,
+      "name": "skills",
+      "owner": "anthropics",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "stars": 173698,
+      "forks": 20608,
+      "stars_today": 281,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
       "appear_days": 3
     },
     {
-      "rank": 7,
-      "name": "hermes-agent",
-      "owner": "NousResearch",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 240184,
-      "forks": 49153,
-      "stars_today": 533,
-      "language": "Python",
+      "rank": 14,
+      "name": "magnitude",
+      "owner": "magnitudedev",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "stars": 1983,
+      "forks": 143,
+      "stars_today": 161,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -212,6 +212,6 @@
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
     "language_trend": "主要语言：Python、TypeScript、JavaScript。",
-    "notable_projects": "affaan-m/ECC、THU-MAIC/OpenMAIC、K-Dense-AI/scientific-agent-skills"
+    "notable_projects": "affaan-m/ECC、mattpocock/skills、DietrichGebert/ponytail"
   }
 }
