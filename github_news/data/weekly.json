@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-07T02:33:56.613487",
-  "week_range": "2026-09-01 ~ 2026-09-07",
+  "generated_at": "2026-09-08T02:46:54.755531",
+  "week_range": "2026-09-02 ~ 2026-09-08",
   "days_collected": 7,
-  "total_projects": 63,
-  "total_stars_today": 82371,
+  "total_projects": 61,
+  "total_stars_today": 73963,
   "top_languages": [
     [
       "Python",
-      42
+      39
     ],
     [
       "TypeScript",
-      22
+      26
     ],
     [
       "JavaScript",
-      18
+      19
     ],
     [
       "Shell",
@@ -29,14 +29,14 @@
   "trending_topics": [],
   "top_picks": [
     {
-      "rank": 10,
+      "rank": 13,
       "name": "ECC",
       "owner": "affaan-m",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 245305,
-      "forks": 37057,
-      "stars_today": 512,
+      "stars": 245799,
+      "forks": 37091,
+      "stars_today": 623,
       "language": "JavaScript",
       "topics": [],
       "summary": {
@@ -155,32 +155,14 @@
       "appear_days": 4
     },
     {
-      "rank": 17,
-      "name": "diagram-design",
-      "owner": "cathrynlavery",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "stars": 30986,
-      "forks": 1990,
-      "stars_today": 437,
-      "language": "HTML",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 15,
-      "name": "opencode",
-      "owner": "anomalyco",
-      "url": "https://github.com/anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "stars": 204163,
-      "forks": 26636,
-      "stars_today": 345,
+      "rank": 12,
+      "name": "FckSignups",
+      "owner": "BraveOPotato",
+      "url": "https://github.com/BraveOPotato/FckSignups",
+      "description": "A list of tools that are open-source, in-browser, and require no-signups!",
+      "stars": 2914,
+      "forks": 199,
+      "stars_today": 68,
       "language": "TypeScript",
       "topics": [],
       "summary": {
@@ -191,15 +173,33 @@
       "appear_days": 3
     },
     {
-      "rank": 5,
-      "name": "skills",
-      "owner": "anthropics",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "stars": 173698,
-      "forks": 20608,
-      "stars_today": 281,
-      "language": "Python",
+      "rank": 9,
+      "name": "ruflo",
+      "owner": "ruvnet",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "stars": 70714,
+      "forks": 8419,
+      "stars_today": 136,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 17,
+      "name": "diagram-design",
+      "owner": "cathrynlavery",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": 30986,
+      "forks": 1990,
+      "stars_today": 437,
+      "language": "HTML",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
