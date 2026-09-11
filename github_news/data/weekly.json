@@ -1,51 +1,33 @@
 {
-  "generated_at": "2026-09-10T02:48:11.042679",
-  "week_range": "2026-09-04 ~ 2026-09-10",
+  "generated_at": "2026-09-11T02:41:52.460885",
+  "week_range": "2026-09-05 ~ 2026-09-11",
   "days_collected": 7,
-  "total_projects": 56,
-  "total_stars_today": 82194,
+  "total_projects": 59,
+  "total_stars_today": 81301,
   "top_languages": [
     [
-      "Python",
-      34
+      "TypeScript",
+      32
     ],
     [
-      "TypeScript",
-      27
+      "Python",
+      29
     ],
     [
       "JavaScript",
-      24
+      23
     ],
     [
       "Shell",
-      8
+      7
     ],
     [
       "HTML",
-      7
+      6
     ]
   ],
   "trending_topics": [],
   "top_picks": [
-    {
-      "rank": 6,
-      "name": "ECC",
-      "owner": "affaan-m",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 247267,
-      "forks": 37260,
-      "stars_today": 751,
-      "language": "JavaScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 7
-    },
     {
       "rank": 17,
       "name": "diagram-design",
@@ -62,71 +44,17 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 5
-    },
-    {
-      "rank": 2,
-      "name": "skills",
-      "owner": "mattpocock",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 247600,
-      "forks": 20993,
-      "stars_today": 1601,
-      "language": "Shell",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 3,
-      "name": "hermes-agent",
-      "owner": "NousResearch",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 240895,
-      "forks": 49367,
-      "stars_today": 774,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 8,
-      "name": "humanizer",
-      "owner": "blader",
-      "url": "https://github.com/blader/humanizer",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
-      "stars": 41585,
-      "forks": 3556,
-      "stars_today": 1208,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 4
+      "appear_days": 6
     },
     {
       "rank": 4,
-      "name": "ponytail",
-      "owner": "DietrichGebert",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 123575,
-      "forks": 6676,
-      "stars_today": 2128,
+      "name": "ECC",
+      "owner": "affaan-m",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 248567,
+      "forks": 37466,
+      "stars_today": 1135,
       "language": "JavaScript",
       "topics": [],
       "summary": {
@@ -134,35 +62,35 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 4
+      "appear_days": 6
     },
     {
-      "rank": 14,
-      "name": "magnitude",
-      "owner": "magnitudedev",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-      "stars": 1983,
-      "forks": 143,
-      "stars_today": 161,
-      "language": "TypeScript",
+      "rank": 1,
+      "name": "i-have-adhd",
+      "owner": "ayghri",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "stars": 30844,
+      "forks": 1873,
+      "stars_today": 656,
+      "language": "Python",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 4
+      "appear_days": 3
     },
     {
-      "rank": 19,
+      "rank": 7,
       "name": "superpowers",
       "owner": "obra",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 281380,
-      "forks": 25207,
-      "stars_today": 462,
+      "stars": 283419,
+      "forks": 25372,
+      "stars_today": 452,
       "language": "Shell",
       "topics": [],
       "summary": {
@@ -207,11 +135,83 @@
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
       "appear_days": 3
+    },
+    {
+      "rank": 17,
+      "name": "AutoHedge",
+      "owner": "The-Swarm-Corporation",
+      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+      "stars": 4779,
+      "forks": 780,
+      "stars_today": 142,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 12,
+      "name": "FckSignups",
+      "owner": "BraveOPotato",
+      "url": "https://github.com/BraveOPotato/FckSignups",
+      "description": "A list of tools that are open-source, in-browser, and require no-signups!",
+      "stars": 2914,
+      "forks": 199,
+      "stars_today": 68,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 9,
+      "name": "ruflo",
+      "owner": "ruvnet",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "stars": 70714,
+      "forks": 8419,
+      "stars_today": 136,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 1,
+      "name": "skills",
+      "owner": "mattpocock",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 250518,
+      "forks": 21171,
+      "stars_today": 2758,
+      "language": "Shell",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
     }
   ],
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
-    "language_trend": "主要语言：Python、TypeScript、JavaScript。",
-    "notable_projects": "affaan-m/ECC、cathrynlavery/diagram-design、mattpocock/skills"
+    "language_trend": "主要语言：TypeScript、Python、JavaScript。",
+    "notable_projects": "cathrynlavery/diagram-design、affaan-m/ECC、ayghri/i-have-adhd"
   }
 }
