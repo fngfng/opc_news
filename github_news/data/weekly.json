@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-11T02:41:52.460885",
-  "week_range": "2026-09-05 ~ 2026-09-11",
+  "generated_at": "2026-09-12T02:50:55.654840",
+  "week_range": "2026-09-06 ~ 2026-09-12",
   "days_collected": 7,
-  "total_projects": 59,
-  "total_stars_today": 81301,
+  "total_projects": 61,
+  "total_stars_today": 80351,
   "top_languages": [
     [
       "TypeScript",
-      32
+      36
     ],
     [
       "Python",
-      29
+      26
     ],
     [
       "JavaScript",
-      23
+      22
     ],
     [
       "Shell",
@@ -23,20 +23,20 @@
     ],
     [
       "HTML",
-      6
+      5
     ]
   ],
   "trending_topics": [],
   "top_picks": [
     {
-      "rank": 17,
+      "rank": 7,
       "name": "diagram-design",
       "owner": "cathrynlavery",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "stars": 30986,
-      "forks": 1990,
-      "stars_today": 437,
+      "stars": 31731,
+      "forks": 2044,
+      "stars_today": 855,
       "language": "HTML",
       "topics": [],
       "summary": {
@@ -44,17 +44,17 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 6
+      "appear_days": 5
     },
     {
-      "rank": 4,
+      "rank": 2,
       "name": "ECC",
       "owner": "affaan-m",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 248567,
-      "forks": 37466,
-      "stars_today": 1135,
+      "stars": 249981,
+      "forks": 37619,
+      "stars_today": 1314,
       "language": "JavaScript",
       "topics": [],
       "summary": {
@@ -62,7 +62,7 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 6
+      "appear_days": 5
     },
     {
       "rank": 1,
@@ -80,7 +80,7 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 3
+      "appear_days": 4
     },
     {
       "rank": 7,
@@ -92,6 +92,42 @@
       "forks": 25372,
       "stars_today": 452,
       "language": "Shell",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 12,
+      "name": "PI-Desktop",
+      "owner": "vastsa",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "stars": 1736,
+      "forks": 157,
+      "stars_today": 417,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 13,
+      "name": "editor",
+      "owner": "pascalorg",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "stars": 22371,
+      "forks": 2860,
+      "stars_today": 168,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -164,42 +200,6 @@
       "forks": 199,
       "stars_today": 68,
       "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 9,
-      "name": "ruflo",
-      "owner": "ruvnet",
-      "url": "https://github.com/ruvnet/ruflo",
-      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "stars": 70714,
-      "forks": 8419,
-      "stars_today": 136,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 1,
-      "name": "skills",
-      "owner": "mattpocock",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 250518,
-      "forks": 21171,
-      "stars_today": 2758,
-      "language": "Shell",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
