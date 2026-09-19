@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-18T02:53:32.178347",
-  "week_range": "2026-09-12 ~ 2026-09-18",
+  "generated_at": "2026-09-19T02:51:49.031388",
+  "week_range": "2026-09-13 ~ 2026-09-19",
   "days_collected": 7,
-  "total_projects": 69,
-  "total_stars_today": 88204,
+  "total_projects": 68,
+  "total_stars_today": 88599,
   "top_languages": [
     [
       "Python",
-      34
+      32
     ],
     [
       "TypeScript",
       31
     ],
     [
-      "Go",
-      13
+      "JavaScript",
+      16
     ],
     [
-      "JavaScript",
-      13
+      "Go",
+      15
     ],
     [
       "Rust",
-      12
+      13
     ]
   ],
   "trending_topics": [],
@@ -44,25 +44,7 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 5
-    },
-    {
-      "rank": 14,
-      "name": "OpenResearch",
-      "owner": "alphaXiv",
-      "url": "https://github.com/alphaXiv/OpenResearch",
-      "description": "Run parallel research agents with any model",
-      "stars": 1317,
-      "forks": 94,
-      "stars_today": 120,
-      "language": "Rust",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 5
+      "appear_days": 6
     },
     {
       "rank": 1,
@@ -101,6 +83,42 @@
       "appear_days": 5
     },
     {
+      "rank": 12,
+      "name": "agent-skills",
+      "owner": "addyosmani",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 94872,
+      "forks": 10067,
+      "stars_today": 307,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 11,
+      "name": "OpenResearch",
+      "owner": "alphaXiv",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Run parallel research agents with any model",
+      "stars": 2138,
+      "forks": 144,
+      "stars_today": 289,
+      "language": "Rust",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
+    },
+    {
       "rank": 13,
       "name": "Claude-Red",
       "owner": "SnailSploit",
@@ -137,32 +155,14 @@
       "appear_days": 4
     },
     {
-      "rank": 4,
-      "name": "DeskcommCRM",
-      "owner": "melgarafael",
-      "url": "https://github.com/melgarafael/DeskcommCRM",
-      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-      "stars": 1382,
-      "forks": 501,
-      "stars_today": 152,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 12,
-      "name": "agent-skills",
-      "owner": "addyosmani",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 94872,
-      "forks": 10067,
-      "stars_today": 307,
+      "rank": 2,
+      "name": "security-audit-skill",
+      "owner": "cloudflare",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 7528,
+      "forks": 430,
+      "stars_today": 927,
       "language": "JavaScript",
       "topics": [],
       "summary": {
@@ -173,15 +173,15 @@
       "appear_days": 3
     },
     {
-      "rank": 8,
-      "name": "ghidra",
-      "owner": "NationalSecurityAgency",
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
-      "stars": 76797,
-      "forks": 8474,
-      "stars_today": 725,
-      "language": "Java",
+      "rank": 11,
+      "name": "claude-code",
+      "owner": "anthropics",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "stars": 145570,
+      "forks": 23496,
+      "stars_today": 165,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -191,15 +191,15 @@
       "appear_days": 3
     },
     {
-      "rank": 12,
-      "name": "VoiceStudio",
-      "owner": "debpalash",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "stars": 27086,
-      "forks": 3337,
-      "stars_today": 2632,
-      "language": "Python",
+      "rank": 21,
+      "name": "ECC",
+      "owner": "affaan-m",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 260374,
+      "forks": 38972,
+      "stars_today": 1057,
+      "language": "JavaScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -211,7 +211,7 @@
   ],
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
-    "language_trend": "主要语言：Python、TypeScript、Go。",
-    "notable_projects": "alibaba/open-code-review、alphaXiv/OpenResearch、JustVugg/colibri"
+    "language_trend": "主要语言：Python、TypeScript、JavaScript。",
+    "notable_projects": "alibaba/open-code-review、JustVugg/colibri、ever-co/ever-gauzy"
   }
 }
