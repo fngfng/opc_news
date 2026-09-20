@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-19T02:51:49.031388",
-  "week_range": "2026-09-13 ~ 2026-09-19",
+  "generated_at": "2026-09-20T03:04:22.470387",
+  "week_range": "2026-09-14 ~ 2026-09-20",
   "days_collected": 7,
-  "total_projects": 68,
-  "total_stars_today": 88599,
+  "total_projects": 69,
+  "total_stars_today": 90346,
   "top_languages": [
     [
-      "Python",
-      32
+      "TypeScript",
+      31
     ],
     [
-      "TypeScript",
+      "Python",
       31
     ],
     [
@@ -23,7 +23,7 @@
     ],
     [
       "Rust",
-      13
+      14
     ]
   ],
   "trending_topics": [],
@@ -45,6 +45,24 @@
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
       "appear_days": 6
+    },
+    {
+      "rank": 12,
+      "name": "agent-skills",
+      "owner": "addyosmani",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 94872,
+      "forks": 10067,
+      "stars_today": 307,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 5
     },
     {
       "rank": 1,
@@ -83,15 +101,51 @@
       "appear_days": 5
     },
     {
-      "rank": 12,
-      "name": "agent-skills",
-      "owner": "addyosmani",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 94872,
-      "forks": 10067,
-      "stars_today": 307,
+      "rank": 2,
+      "name": "security-audit-skill",
+      "owner": "cloudflare",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 7528,
+      "forks": 430,
+      "stars_today": 927,
       "language": "JavaScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 11,
+      "name": "claude-code",
+      "owner": "anthropics",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "stars": 145570,
+      "forks": 23496,
+      "stars_today": 165,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 7,
+      "name": "knowledge-work-plugins",
+      "owner": "anthropics",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars": 24319,
+      "forks": 2923,
+      "stars_today": 110,
+      "language": "Python",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -119,69 +173,15 @@
       "appear_days": 4
     },
     {
-      "rank": 13,
-      "name": "Claude-Red",
-      "owner": "SnailSploit",
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "stars": 3627,
-      "forks": 555,
-      "stars_today": 113,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 14,
-      "name": "YuE",
-      "owner": "multimodal-art-projection",
-      "url": "https://github.com/multimodal-art-projection/YuE",
-      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-      "stars": 7323,
-      "forks": 826,
-      "stars_today": 210,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 2,
-      "name": "security-audit-skill",
-      "owner": "cloudflare",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "stars": 7528,
-      "forks": 430,
-      "stars_today": 927,
-      "language": "JavaScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 11,
-      "name": "claude-code",
-      "owner": "anthropics",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "stars": 145570,
-      "forks": 23496,
-      "stars_today": 165,
-      "language": "TypeScript",
+      "rank": 19,
+      "name": "coder",
+      "owner": "coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "stars": 14891,
+      "forks": 1487,
+      "stars_today": 145,
+      "language": "Go",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -211,7 +211,7 @@
   ],
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
-    "language_trend": "主要语言：Python、TypeScript、JavaScript。",
-    "notable_projects": "alibaba/open-code-review、JustVugg/colibri、ever-co/ever-gauzy"
+    "language_trend": "主要语言：TypeScript、Python、JavaScript。",
+    "notable_projects": "alibaba/open-code-review、addyosmani/agent-skills、JustVugg/colibri"
   }
 }
