@@ -1,51 +1,33 @@
 {
-  "generated_at": "2026-09-20T03:04:22.470387",
-  "week_range": "2026-09-14 ~ 2026-09-20",
+  "generated_at": "2026-09-21T03:00:51.048496",
+  "week_range": "2026-09-15 ~ 2026-09-21",
   "days_collected": 7,
-  "total_projects": 69,
-  "total_stars_today": 90346,
+  "total_projects": 67,
+  "total_stars_today": 86134,
   "top_languages": [
     [
       "TypeScript",
-      31
+      32
     ],
     [
       "Python",
-      31
+      27
     ],
     [
       "JavaScript",
-      16
+      17
     ],
     [
       "Go",
-      15
+      14
     ],
     [
       "Rust",
-      14
+      12
     ]
   ],
   "trending_topics": [],
   "top_picks": [
-    {
-      "rank": 14,
-      "name": "open-code-review",
-      "owner": "alibaba",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "stars": 23647,
-      "forks": 1751,
-      "stars_today": 443,
-      "language": "Go",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 6
-    },
     {
       "rank": 12,
       "name": "agent-skills",
@@ -62,43 +44,7 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 5
-    },
-    {
-      "rank": 1,
-      "name": "colibri",
-      "owner": "JustVugg",
-      "url": "https://github.com/JustVugg/colibri",
-      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "stars": 30055,
-      "forks": 3261,
-      "stars_today": 868,
-      "language": "C",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 5
-    },
-    {
-      "rank": 2,
-      "name": "ever-gauzy",
-      "owner": "ever-co",
-      "url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
-      "stars": 5214,
-      "forks": 951,
-      "stars_today": 191,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 5
+      "appear_days": 6
     },
     {
       "rank": 2,
@@ -116,7 +62,7 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 4
+      "appear_days": 5
     },
     {
       "rank": 11,
@@ -128,6 +74,60 @@
       "forks": 23496,
       "stars_today": 165,
       "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 2,
+      "name": "open-code-review",
+      "owner": "alibaba",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": 26044,
+      "forks": 1881,
+      "stars_today": 1571,
+      "language": "Go",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 21,
+      "name": "ECC",
+      "owner": "affaan-m",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 260374,
+      "forks": 38972,
+      "stars_today": 1057,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 19,
+      "name": "coder",
+      "owner": "coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "stars": 14891,
+      "forks": 1487,
+      "stars_today": 145,
+      "language": "Go",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -155,15 +155,15 @@
       "appear_days": 4
     },
     {
-      "rank": 11,
-      "name": "OpenResearch",
-      "owner": "alphaXiv",
-      "url": "https://github.com/alphaXiv/OpenResearch",
-      "description": "Run parallel research agents with any model",
-      "stars": 2138,
-      "forks": 144,
-      "stars_today": 289,
-      "language": "Rust",
+      "rank": 1,
+      "name": "colibri",
+      "owner": "JustVugg",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "stars": 32250,
+      "forks": 3398,
+      "stars_today": 2173,
+      "language": "C",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -173,33 +173,33 @@
       "appear_days": 4
     },
     {
-      "rank": 19,
-      "name": "coder",
-      "owner": "coder",
-      "url": "https://github.com/coder/coder",
-      "description": "Secure environments for developers and their agents",
-      "stars": 14891,
-      "forks": 1487,
-      "stars_today": 145,
-      "language": "Go",
+      "rank": 16,
+      "name": "ever-gauzy",
+      "owner": "ever-co",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
+      "stars": 6043,
+      "forks": 987,
+      "stars_today": 1130,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 3
+      "appear_days": 4
     },
     {
-      "rank": 21,
-      "name": "ECC",
-      "owner": "affaan-m",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 260374,
-      "forks": 38972,
-      "stars_today": 1057,
-      "language": "JavaScript",
+      "rank": 7,
+      "name": "OpenResearch",
+      "owner": "alphaXiv",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
+      "stars": 3464,
+      "forks": 227,
+      "stars_today": 531,
+      "language": "Rust",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -212,6 +212,6 @@
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
     "language_trend": "主要语言：TypeScript、Python、JavaScript。",
-    "notable_projects": "alibaba/open-code-review、addyosmani/agent-skills、JustVugg/colibri"
+    "notable_projects": "addyosmani/agent-skills、cloudflare/security-audit-skill、anthropics/claude-code"
   }
 }
