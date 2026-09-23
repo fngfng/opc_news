@@ -1,51 +1,33 @@
 {
-  "generated_at": "2026-09-22T03:00:45.880329",
-  "week_range": "2026-09-16 ~ 2026-09-22",
+  "generated_at": "2026-09-23T03:00:46.216104",
+  "week_range": "2026-09-17 ~ 2026-09-23",
   "days_collected": 7,
-  "total_projects": 58,
-  "total_stars_today": 76175,
+  "total_projects": 56,
+  "total_stars_today": 69639,
   "top_languages": [
     [
       "TypeScript",
-      31
+      28
     ],
     [
       "Python",
-      21
-    ],
-    [
-      "JavaScript",
-      16
+      24
     ],
     [
       "Go",
-      14
+      15
+    ],
+    [
+      "JavaScript",
+      15
     ],
     [
       "Rust",
-      13
+      10
     ]
   ],
   "trending_topics": [],
   "top_picks": [
-    {
-      "rank": 12,
-      "name": "agent-skills",
-      "owner": "addyosmani",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 94872,
-      "forks": 10067,
-      "stars_today": 307,
-      "language": "JavaScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 6
-    },
     {
       "rank": 19,
       "name": "coder",
@@ -101,6 +83,24 @@
       "appear_days": 5
     },
     {
+      "rank": 19,
+      "name": "agent-skills",
+      "owner": "addyosmani",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 95523,
+      "forks": 10113,
+      "stars_today": 658,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 5
+    },
+    {
       "rank": 21,
       "name": "ECC",
       "owner": "affaan-m",
@@ -137,22 +137,22 @@
       "appear_days": 4
     },
     {
-      "rank": 1,
-      "name": "open-code-review",
-      "owner": "alibaba",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "stars": 28917,
-      "forks": 2064,
-      "stars_today": 2756,
-      "language": "Go",
+      "rank": 5,
+      "name": "financial-services",
+      "owner": "anthropics",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "stars": 35421,
+      "forks": 5253,
+      "stars_today": 260,
+      "language": "Python",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 4
+      "appear_days": 3
     },
     {
       "rank": 2,
@@ -191,15 +191,15 @@
       "appear_days": 3
     },
     {
-      "rank": 7,
-      "name": "OpenResearch",
-      "owner": "alphaXiv",
-      "url": "https://github.com/alphaXiv/OpenResearch",
-      "description": "Turn your coding agents into research agents",
-      "stars": 3464,
-      "forks": 227,
-      "stars_today": 531,
-      "language": "Rust",
+      "rank": 1,
+      "name": "open-code-review",
+      "owner": "alibaba",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": 32257,
+      "forks": 2280,
+      "stars_today": 3231,
+      "language": "Go",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -211,7 +211,7 @@
   ],
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
-    "language_trend": "主要语言：TypeScript、Python、JavaScript。",
-    "notable_projects": "addyosmani/agent-skills、coder/coder、cloudflare/security-audit-skill"
+    "language_trend": "主要语言：TypeScript、Python、Go。",
+    "notable_projects": "coder/coder、cloudflare/security-audit-skill、anthropics/claude-code"
   }
 }
