@@ -1,51 +1,33 @@
 {
-  "generated_at": "2026-09-24T02:52:01.489242",
-  "week_range": "2026-09-18 ~ 2026-09-24",
+  "generated_at": "2026-09-25T03:08:23.669853",
+  "week_range": "2026-09-19 ~ 2026-09-25",
   "days_collected": 7,
-  "total_projects": 59,
-  "total_stars_today": 62248,
+  "total_projects": 54,
+  "total_stars_today": 51621,
   "top_languages": [
     [
       "Python",
-      27
+      32
     ],
     [
       "TypeScript",
-      26
+      22
     ],
     [
       "Go",
-      15
+      12
     ],
     [
       "JavaScript",
-      13
+      10
     ],
     [
       "Rust",
-      8
+      7
     ]
   ],
   "trending_topics": [],
   "top_picks": [
-    {
-      "rank": 19,
-      "name": "coder",
-      "owner": "coder",
-      "url": "https://github.com/coder/coder",
-      "description": "Secure environments for developers and their agents",
-      "stars": 14891,
-      "forks": 1487,
-      "stars_today": 145,
-      "language": "Go",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 5
-    },
     {
       "rank": 5,
       "name": "financial-services",
@@ -55,6 +37,24 @@
       "stars": 35421,
       "forks": 5253,
       "stars_today": 260,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 8,
+      "name": "mvt",
+      "owner": "mvt-project",
+      "url": "https://github.com/mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "stars": 13636,
+      "forks": 1329,
+      "stars_today": 169,
       "language": "Python",
       "topics": [],
       "summary": {
@@ -83,33 +83,15 @@
       "appear_days": 4
     },
     {
-      "rank": 2,
-      "name": "security-audit-skill",
-      "owner": "cloudflare",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "stars": 10834,
-      "forks": 577,
-      "stars_today": 3607,
-      "language": "JavaScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 6,
-      "name": "claude-code",
-      "owner": "anthropics",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "stars": 145912,
-      "forks": 23645,
-      "stars_today": 538,
-      "language": "TypeScript",
+      "rank": 15,
+      "name": "coder",
+      "owner": "coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "stars": 15320,
+      "forks": 1504,
+      "stars_today": 478,
+      "language": "Go",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -120,21 +102,57 @@
     },
     {
       "rank": 3,
-      "name": "agent-skills",
-      "owner": "addyosmani",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 95914,
-      "forks": 10150,
-      "stars_today": 680,
-      "language": "JavaScript",
+      "name": "univer",
+      "owner": "dream-num",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "stars": 15564,
+      "forks": 1388,
+      "stars_today": 255,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 4
+      "appear_days": 3
+    },
+    {
+      "rank": 5,
+      "name": "ax",
+      "owner": "google",
+      "url": "https://github.com/google/ax",
+      "description": "Google's open agentic orchestration runtime",
+      "stars": 7756,
+      "forks": 362,
+      "stars_today": 2305,
+      "language": "Go",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 7,
+      "name": "treg",
+      "owner": "superdesigndev",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
+      "stars": 2274,
+      "forks": 221,
+      "stars_today": 230,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
     },
     {
       "rank": 2,
@@ -146,24 +164,6 @@
       "forks": 495,
       "stars_today": 98,
       "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 8,
-      "name": "mvt",
-      "owner": "mvt-project",
-      "url": "https://github.com/mvt-project/mvt",
-      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-      "stars": 13636,
-      "forks": 1329,
-      "stars_today": 169,
-      "language": "Python",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -191,14 +191,14 @@
       "appear_days": 3
     },
     {
-      "rank": 13,
-      "name": "ECC",
-      "owner": "affaan-m",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 261241,
-      "forks": 39106,
-      "stars_today": 1171,
+      "rank": 1,
+      "name": "security-audit-skill",
+      "owner": "cloudflare",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 13894,
+      "forks": 743,
+      "stars_today": 3006,
       "language": "JavaScript",
       "topics": [],
       "summary": {
@@ -212,6 +212,6 @@
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
     "language_trend": "主要语言：Python、TypeScript、Go。",
-    "notable_projects": "coder/coder、anthropics/financial-services、Open-Dev-Society/OpenStock"
+    "notable_projects": "anthropics/financial-services、mvt-project/mvt、Open-Dev-Society/OpenStock"
   }
 }
