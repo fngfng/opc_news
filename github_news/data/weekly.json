@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-26T03:12:21.171053",
-  "week_range": "2026-09-20 ~ 2026-09-26",
+  "generated_at": "2026-09-27T03:19:45.188629",
+  "week_range": "2026-09-21 ~ 2026-09-27",
   "days_collected": 7,
-  "total_projects": 53,
-  "total_stars_today": 48909,
+  "total_projects": 57,
+  "total_stars_today": 49819,
   "top_languages": [
     [
       "Python",
@@ -11,23 +11,41 @@
     ],
     [
       "TypeScript",
-      18
+      20
     ],
     [
       "Go",
-      11
+      10
     ],
     [
       "JavaScript",
-      8
+      7
     ],
     [
       "Rust",
-      5
+      4
     ]
   ],
   "trending_topics": [],
   "top_picks": [
+    {
+      "rank": 3,
+      "name": "univer",
+      "owner": "dream-num",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "stars": 15564,
+      "forks": 1388,
+      "stars_today": 255,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 5
+    },
     {
       "rank": 5,
       "name": "financial-services",
@@ -45,24 +63,6 @@
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
       "appear_days": 5
-    },
-    {
-      "rank": 3,
-      "name": "univer",
-      "owner": "dream-num",
-      "url": "https://github.com/dream-num/univer",
-      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "stars": 15564,
-      "forks": 1388,
-      "stars_today": 255,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 4
     },
     {
       "rank": 5,
@@ -101,22 +101,58 @@
       "appear_days": 4
     },
     {
-      "rank": 6,
-      "name": "OpenStock",
-      "owner": "Open-Dev-Society",
-      "url": "https://github.com/Open-Dev-Society/OpenStock",
-      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-      "stars": 16144,
-      "forks": 2093,
-      "stars_today": 472,
-      "language": "TypeScript",
+      "rank": 2,
+      "name": "hindsight",
+      "owner": "vectorize-io",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "stars": 27879,
+      "forks": 2696,
+      "stars_today": 1668,
+      "language": "Python",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 4
+      "appear_days": 3
+    },
+    {
+      "rank": 5,
+      "name": "Model-Optimizer",
+      "owner": "NVIDIA",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "stars": 4113,
+      "forks": 630,
+      "stars_today": 44,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 1,
+      "name": "ai-engineering-from-scratch",
+      "owner": "rohitg00",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": 56657,
+      "forks": 9943,
+      "stars_today": 347,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
     },
     {
       "rank": 5,
@@ -171,47 +207,11 @@
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 2,
-      "name": "cua",
-      "owner": "trycua",
-      "url": "https://github.com/trycua/cua",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "stars": 24522,
-      "forks": 1685,
-      "stars_today": 859,
-      "language": "HTML",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 4,
-      "name": "coder",
-      "owner": "coder",
-      "url": "https://github.com/coder/coder",
-      "description": "Secure environments for developers and their agents",
-      "stars": 15655,
-      "forks": 1524,
-      "stars_today": 402,
-      "language": "Go",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
     "language_trend": "主要语言：Python、TypeScript、Go。",
-    "notable_projects": "anthropics/financial-services、dream-num/univer、google/ax"
+    "notable_projects": "dream-num/univer、anthropics/financial-services、google/ax"
   }
 }
