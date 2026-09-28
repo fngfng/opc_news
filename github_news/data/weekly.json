@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-27T03:19:45.188629",
-  "week_range": "2026-09-21 ~ 2026-09-27",
+  "generated_at": "2026-09-28T03:17:06.434575",
+  "week_range": "2026-09-22 ~ 2026-09-28",
   "days_collected": 7,
-  "total_projects": 57,
-  "total_stars_today": 49819,
+  "total_projects": 54,
+  "total_stars_today": 54148,
   "top_languages": [
     [
       "Python",
@@ -15,11 +15,11 @@
     ],
     [
       "Go",
-      10
+      9
     ],
     [
-      "JavaScript",
-      7
+      "Shell",
+      5
     ],
     [
       "Rust",
@@ -44,17 +44,17 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 5
+      "appear_days": 6
     },
     {
-      "rank": 5,
-      "name": "financial-services",
-      "owner": "anthropics",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": "",
-      "stars": 35421,
-      "forks": 5253,
-      "stars_today": 260,
+      "rank": 2,
+      "name": "hindsight",
+      "owner": "vectorize-io",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "stars": 27879,
+      "forks": 2696,
+      "stars_today": 1668,
       "language": "Python",
       "topics": [],
       "summary": {
@@ -62,7 +62,25 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 5
+      "appear_days": 4
+    },
+    {
+      "rank": 1,
+      "name": "ai-engineering-from-scratch",
+      "owner": "rohitg00",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": 56657,
+      "forks": 9943,
+      "stars_today": 347,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
     },
     {
       "rank": 5,
@@ -74,6 +92,24 @@
       "forks": 362,
       "stars_today": 2305,
       "language": "Go",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 6,
+      "name": "financial-services",
+      "owner": "anthropics",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "stars": 35878,
+      "forks": 5270,
+      "stars_today": 424,
+      "language": "Python",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -101,15 +137,15 @@
       "appear_days": 4
     },
     {
-      "rank": 2,
-      "name": "hindsight",
-      "owner": "vectorize-io",
-      "url": "https://github.com/vectorize-io/hindsight",
-      "description": "Hindsight: Agent Memory That Learns",
-      "stars": 27879,
-      "forks": 2696,
-      "stars_today": 1668,
-      "language": "Python",
+      "rank": 1,
+      "name": "paperclip",
+      "owner": "paperclipai",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "stars": 85121,
+      "forks": 15246,
+      "stars_today": 2109,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -127,24 +163,6 @@
       "stars": 4113,
       "forks": 630,
       "stars_today": 44,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 1,
-      "name": "ai-engineering-from-scratch",
-      "owner": "rohitg00",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "stars": 56657,
-      "forks": 9943,
-      "stars_today": 347,
       "language": "Python",
       "topics": [],
       "summary": {
@@ -189,29 +207,11 @@
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 2,
-      "name": "agent-native",
-      "owner": "BuilderIO",
-      "url": "https://github.com/BuilderIO/agent-native",
-      "description": "A framework for building agentic apps",
-      "stars": 5297,
-      "forks": 495,
-      "stars_today": 98,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
     "language_trend": "主要语言：Python、TypeScript、Go。",
-    "notable_projects": "dream-num/univer、anthropics/financial-services、google/ax"
+    "notable_projects": "dream-num/univer、vectorize-io/hindsight、rohitg00/ai-engineering-from-scratch"
   }
 }
