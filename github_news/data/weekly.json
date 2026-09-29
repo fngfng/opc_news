@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-28T03:17:06.434575",
-  "week_range": "2026-09-22 ~ 2026-09-28",
+  "generated_at": "2026-09-29T03:54:31.075048",
+  "week_range": "2026-09-23 ~ 2026-09-29",
   "days_collected": 7,
-  "total_projects": 54,
-  "total_stars_today": 54148,
+  "total_projects": 49,
+  "total_stars_today": 63452,
   "top_languages": [
     [
       "Python",
-      37
+      36
     ],
     [
       "TypeScript",
@@ -15,15 +15,15 @@
     ],
     [
       "Go",
-      9
+      8
+    ],
+    [
+      "JavaScript",
+      5
     ],
     [
       "Shell",
       5
-    ],
-    [
-      "Rust",
-      4
     ]
   ],
   "trending_topics": [],
@@ -44,7 +44,7 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 6
+      "appear_days": 7
     },
     {
       "rank": 2,
@@ -56,6 +56,24 @@
       "forks": 2696,
       "stars_today": 1668,
       "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 1,
+      "name": "paperclip",
+      "owner": "paperclipai",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "stars": 85121,
+      "forks": 15246,
+      "stars_today": 2109,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -101,60 +119,6 @@
       "appear_days": 4
     },
     {
-      "rank": 6,
-      "name": "financial-services",
-      "owner": "anthropics",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": "",
-      "stars": 35878,
-      "forks": 5270,
-      "stars_today": 424,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 8,
-      "name": "mvt",
-      "owner": "mvt-project",
-      "url": "https://github.com/mvt-project/mvt",
-      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-      "stars": 13636,
-      "forks": 1329,
-      "stars_today": 169,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 1,
-      "name": "paperclip",
-      "owner": "paperclipai",
-      "url": "https://github.com/paperclipai/paperclip",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "stars": 85121,
-      "forks": 15246,
-      "stars_today": 2109,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
-    },
-    {
       "rank": 5,
       "name": "Model-Optimizer",
       "owner": "NVIDIA",
@@ -191,6 +155,42 @@
       "appear_days": 3
     },
     {
+      "rank": 1,
+      "name": "financial-services",
+      "owner": "anthropics",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "stars": 36429,
+      "forks": 5325,
+      "stars_today": 438,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 6,
+      "name": "mvt",
+      "owner": "mvt-project",
+      "url": "https://github.com/mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "stars": 14160,
+      "forks": 1361,
+      "stars_today": 441,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
+    },
+    {
       "rank": 7,
       "name": "treg",
       "owner": "superdesigndev",
@@ -212,6 +212,6 @@
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
     "language_trend": "主要语言：Python、TypeScript、Go。",
-    "notable_projects": "dream-num/univer、vectorize-io/hindsight、rohitg00/ai-engineering-from-scratch"
+    "notable_projects": "dream-num/univer、vectorize-io/hindsight、paperclipai/paperclip"
   }
 }
