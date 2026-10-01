@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-09-30T03:42:12.900147",
-  "week_range": "2026-09-24 ~ 2026-09-30",
+  "generated_at": "2026-10-01T03:48:31.401256",
+  "week_range": "2026-09-25 ~ 2026-10-01",
   "days_collected": 7,
-  "total_projects": 55,
-  "total_stars_today": 74587,
+  "total_projects": 56,
+  "total_stars_today": 78314,
   "top_languages": [
     [
       "Python",
-      35
+      31
     ],
     [
       "TypeScript",
-      23
-    ],
-    [
-      "Go",
-      7
+      25
     ],
     [
       "JavaScript",
+      6
+    ],
+    [
+      "Rust",
       5
     ],
     [
@@ -29,24 +29,6 @@
   "trending_topics": [],
   "top_picks": [
     {
-      "rank": 6,
-      "name": "univer",
-      "owner": "dream-num",
-      "url": "https://github.com/dream-num/univer",
-      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "stars": 16397,
-      "forks": 1443,
-      "stars_today": 1142,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 7
-    },
-    {
       "rank": 2,
       "name": "hindsight",
       "owner": "vectorize-io",
@@ -56,6 +38,24 @@
       "forks": 2696,
       "stars_today": 1668,
       "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 6
+    },
+    {
+      "rank": 3,
+      "name": "univer",
+      "owner": "dream-num",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "stars": 17860,
+      "forks": 1540,
+      "stars_today": 1082,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -116,7 +116,7 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 3
+      "appear_days": 4
     },
     {
       "rank": 7,
@@ -134,7 +134,7 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 3
+      "appear_days": 4
     },
     {
       "rank": 5,
@@ -155,14 +155,32 @@
       "appear_days": 3
     },
     {
+      "rank": 2,
+      "name": "OpenShell",
+      "owner": "NVIDIA",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "stars": 10772,
+      "forks": 1432,
+      "stars_today": 990,
+      "language": "Rust",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 2
+    },
+    {
       "rank": 5,
-      "name": "superpowers",
-      "owner": "obra",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 290740,
-      "forks": 26016,
-      "stars_today": 474,
+      "name": "skills",
+      "owner": "mattpocock",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 269768,
+      "forks": 22734,
+      "stars_today": 583,
       "language": "Shell",
       "topics": [],
       "summary": {
@@ -170,36 +188,18 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 3
+      "appear_days": 2
     },
     {
-      "rank": 2,
-      "name": "ax",
-      "owner": "google",
-      "url": "https://github.com/google/ax",
-      "description": "Google's open agentic orchestration runtime",
-      "stars": 9202,
-      "forks": 440,
-      "stars_today": 1543,
-      "language": "Go",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 5,
-      "name": "coursebook",
-      "owner": "cs341-illinois",
-      "url": "https://github.com/cs341-illinois/coursebook",
-      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
-      "stars": 2588,
-      "forks": 242,
-      "stars_today": 195,
-      "language": "TeX",
+      "rank": 6,
+      "name": "up",
+      "owner": "byoungd",
+      "url": "https://github.com/byoungd/up",
+      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+      "stars": 64883,
+      "forks": 6528,
+      "stars_today": 327,
+      "language": "JavaScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -211,7 +211,7 @@
   ],
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
-    "language_trend": "主要语言：Python、TypeScript、Go。",
-    "notable_projects": "dream-num/univer、vectorize-io/hindsight、paperclipai/paperclip"
+    "language_trend": "主要语言：Python、TypeScript、JavaScript。",
+    "notable_projects": "vectorize-io/hindsight、dream-num/univer、paperclipai/paperclip"
   }
 }
