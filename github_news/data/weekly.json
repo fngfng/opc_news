@@ -1,60 +1,42 @@
 {
-  "generated_at": "2026-10-01T03:48:31.401256",
-  "week_range": "2026-09-25 ~ 2026-10-01",
+  "generated_at": "2026-10-02T03:46:45.189682",
+  "week_range": "2026-09-26 ~ 2026-10-02",
   "days_collected": 7,
-  "total_projects": 56,
-  "total_stars_today": 78314,
+  "total_projects": 54,
+  "total_stars_today": 79515,
   "top_languages": [
     [
-      "Python",
-      31
+      "TypeScript",
+      29
     ],
     [
-      "TypeScript",
-      25
+      "Python",
+      26
     ],
     [
       "JavaScript",
+      8
+    ],
+    [
+      "Shell",
       6
     ],
     [
       "Rust",
-      5
-    ],
-    [
-      "Shell",
-      5
+      6
     ]
   ],
   "trending_topics": [],
   "top_picks": [
     {
-      "rank": 2,
-      "name": "hindsight",
-      "owner": "vectorize-io",
-      "url": "https://github.com/vectorize-io/hindsight",
-      "description": "Hindsight: Agent Memory That Learns",
-      "stars": 27879,
-      "forks": 2696,
-      "stars_today": 1668,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 6
-    },
-    {
-      "rank": 3,
-      "name": "univer",
-      "owner": "dream-num",
-      "url": "https://github.com/dream-num/univer",
-      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "stars": 17860,
-      "forks": 1540,
-      "stars_today": 1082,
+      "rank": 7,
+      "name": "openrig",
+      "owner": "mvschwarz",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "stars": 1063,
+      "forks": 105,
+      "stars_today": 114,
       "language": "TypeScript",
       "topics": [],
       "summary": {
@@ -62,7 +44,25 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 6
+      "appear_days": 5
+    },
+    {
+      "rank": 3,
+      "name": "hindsight",
+      "owner": "vectorize-io",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "stars": 29914,
+      "forks": 3165,
+      "stars_today": 1653,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 5
     },
     {
       "rank": 1,
@@ -83,15 +83,15 @@
       "appear_days": 5
     },
     {
-      "rank": 1,
-      "name": "ai-engineering-from-scratch",
-      "owner": "rohitg00",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "stars": 56657,
-      "forks": 9943,
-      "stars_today": 347,
-      "language": "Python",
+      "rank": 6,
+      "name": "univer",
+      "owner": "dream-num",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "stars": 18510,
+      "forks": 1579,
+      "stars_today": 1050,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -119,15 +119,15 @@
       "appear_days": 4
     },
     {
-      "rank": 7,
-      "name": "openrig",
-      "owner": "mvschwarz",
-      "url": "https://github.com/mvschwarz/openrig",
-      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
-      "stars": 1063,
-      "forks": 105,
-      "stars_today": 114,
-      "language": "TypeScript",
+      "rank": 11,
+      "name": "ai-engineering-from-scratch",
+      "owner": "rohitg00",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": 57588,
+      "forks": 10036,
+      "stars_today": 1177,
+      "language": "Python",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -138,14 +138,14 @@
     },
     {
       "rank": 5,
-      "name": "Model-Optimizer",
-      "owner": "NVIDIA",
-      "url": "https://github.com/NVIDIA/Model-Optimizer",
-      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
-      "stars": 4113,
-      "forks": 630,
-      "stars_today": 44,
-      "language": "Python",
+      "name": "skills",
+      "owner": "mattpocock",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 269768,
+      "forks": 22734,
+      "stars_today": 583,
+      "language": "Shell",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -170,18 +170,18 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 2
+      "appear_days": 3
     },
     {
       "rank": 5,
-      "name": "skills",
-      "owner": "mattpocock",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 269768,
-      "forks": 22734,
-      "stars_today": 583,
-      "language": "Shell",
+      "name": "ponytail",
+      "owner": "DietrichGebert",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 149300,
+      "forks": 8024,
+      "stars_today": 743,
+      "language": "JavaScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -191,15 +191,15 @@
       "appear_days": 2
     },
     {
-      "rank": 6,
-      "name": "up",
-      "owner": "byoungd",
-      "url": "https://github.com/byoungd/up",
-      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
-      "stars": 64883,
-      "forks": 6528,
-      "stars_today": 327,
-      "language": "JavaScript",
+      "rank": 11,
+      "name": "firebase-ios-sdk",
+      "owner": "firebase",
+      "url": "https://github.com/firebase/firebase-ios-sdk",
+      "description": "Firebase SDK for Apple App Development",
+      "stars": 6776,
+      "forks": 1801,
+      "stars_today": 8,
+      "language": "C++",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -211,7 +211,7 @@
   ],
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
-    "language_trend": "主要语言：Python、TypeScript、JavaScript。",
-    "notable_projects": "vectorize-io/hindsight、dream-num/univer、paperclipai/paperclip"
+    "language_trend": "主要语言：TypeScript、Python、JavaScript。",
+    "notable_projects": "mvschwarz/openrig、vectorize-io/hindsight、paperclipai/paperclip"
   }
 }
