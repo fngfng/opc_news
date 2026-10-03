@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-02T03:46:45.189682",
-  "week_range": "2026-09-26 ~ 2026-10-02",
+  "generated_at": "2026-10-03T03:31:17.581734",
+  "week_range": "2026-09-27 ~ 2026-10-03",
   "days_collected": 7,
-  "total_projects": 54,
-  "total_stars_today": 79515,
+  "total_projects": 53,
+  "total_stars_today": 77542,
   "top_languages": [
     [
       "TypeScript",
-      29
+      33
     ],
     [
       "Python",
-      26
+      22
     ],
     [
       "JavaScript",
-      8
-    ],
-    [
-      "Shell",
-      6
+      9
     ],
     [
       "Rust",
+      7
+    ],
+    [
+      "Shell",
       6
     ]
   ],
@@ -44,61 +44,25 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 5
+      "appear_days": 6
     },
     {
-      "rank": 3,
-      "name": "hindsight",
-      "owner": "vectorize-io",
-      "url": "https://github.com/vectorize-io/hindsight",
-      "description": "Hindsight: Agent Memory That Learns",
-      "stars": 29914,
-      "forks": 3165,
-      "stars_today": 1653,
-      "language": "Python",
+      "rank": 2,
+      "name": "OpenShell",
+      "owner": "NVIDIA",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "stars": 10772,
+      "forks": 1432,
+      "stars_today": 990,
+      "language": "Rust",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 5
-    },
-    {
-      "rank": 1,
-      "name": "paperclip",
-      "owner": "paperclipai",
-      "url": "https://github.com/paperclipai/paperclip",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "stars": 85121,
-      "forks": 15246,
-      "stars_today": 2109,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 5
-    },
-    {
-      "rank": 6,
-      "name": "univer",
-      "owner": "dream-num",
-      "url": "https://github.com/dream-num/univer",
-      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "stars": 18510,
-      "forks": 1579,
-      "stars_today": 1050,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 5
+      "appear_days": 4
     },
     {
       "rank": 3,
@@ -119,14 +83,14 @@
       "appear_days": 4
     },
     {
-      "rank": 11,
-      "name": "ai-engineering-from-scratch",
-      "owner": "rohitg00",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "stars": 57588,
-      "forks": 10036,
-      "stars_today": 1177,
+      "rank": 2,
+      "name": "hindsight",
+      "owner": "vectorize-io",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "stars": 32460,
+      "forks": 3624,
+      "stars_today": 2147,
       "language": "Python",
       "topics": [],
       "summary": {
@@ -137,40 +101,40 @@
       "appear_days": 4
     },
     {
-      "rank": 5,
-      "name": "skills",
-      "owner": "mattpocock",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 269768,
-      "forks": 22734,
-      "stars_today": 583,
-      "language": "Shell",
+      "rank": 1,
+      "name": "paperclip",
+      "owner": "paperclipai",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "stars": 87580,
+      "forks": 15453,
+      "stars_today": 2608,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 3
+      "appear_days": 4
     },
     {
-      "rank": 2,
-      "name": "OpenShell",
-      "owner": "NVIDIA",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "stars": 10772,
-      "forks": 1432,
-      "stars_today": 990,
-      "language": "Rust",
+      "rank": 4,
+      "name": "univer",
+      "owner": "dream-num",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "stars": 19403,
+      "forks": 1648,
+      "stars_today": 849,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 3
+      "appear_days": 4
     },
     {
       "rank": 5,
@@ -188,30 +152,66 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 2
+      "appear_days": 3
     },
     {
-      "rank": 11,
-      "name": "firebase-ios-sdk",
-      "owner": "firebase",
-      "url": "https://github.com/firebase/firebase-ios-sdk",
-      "description": "Firebase SDK for Apple App Development",
-      "stars": 6776,
-      "forks": 1801,
-      "stars_today": 8,
-      "language": "C++",
+      "rank": 9,
+      "name": "skills",
+      "owner": "mattpocock",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 273089,
+      "forks": 22961,
+      "stars_today": 876,
+      "language": "Shell",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 2
+      "appear_days": 3
+    },
+    {
+      "rank": 10,
+      "name": "hyperframes",
+      "owner": "heygen-com",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "stars": 54804,
+      "forks": 4982,
+      "stars_today": 349,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 4,
+      "name": "context-mode",
+      "owner": "mksglu",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars": 24528,
+      "forks": 1770,
+      "stars_today": 90,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
     }
   ],
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
     "language_trend": "主要语言：TypeScript、Python、JavaScript。",
-    "notable_projects": "mvschwarz/openrig、vectorize-io/hindsight、paperclipai/paperclip"
+    "notable_projects": "mvschwarz/openrig、NVIDIA/OpenShell、debpalash/VoiceStudio"
   }
 }
