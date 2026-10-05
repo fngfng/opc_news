@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-10-04T03:59:23.316830",
-  "week_range": "2026-09-28 ~ 2026-10-04",
+  "generated_at": "2026-10-05T03:44:37.127022",
+  "week_range": "2026-09-29 ~ 2026-10-05",
   "days_collected": 7,
-  "total_projects": 51,
-  "total_stars_today": 78089,
+  "total_projects": 56,
+  "total_stars_today": 73481,
   "top_languages": [
     [
       "TypeScript",
-      36
+      37
     ],
     [
       "Python",
-      23
+      24
     ],
     [
       "JavaScript",
-      12
+      17
     ],
     [
       "Shell",
-      8
+      7
     ],
     [
       "Rust",
@@ -29,24 +29,6 @@
   "trending_topics": [],
   "top_picks": [
     {
-      "rank": 7,
-      "name": "openrig",
-      "owner": "mvschwarz",
-      "url": "https://github.com/mvschwarz/openrig",
-      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
-      "stars": 1063,
-      "forks": 105,
-      "stars_today": 114,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 6
-    },
-    {
       "rank": 5,
       "name": "ponytail",
       "owner": "DietrichGebert",
@@ -55,6 +37,42 @@
       "stars": 149300,
       "forks": 8024,
       "stars_today": 743,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 7,
+      "name": "openrig",
+      "owner": "mvschwarz",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "stars": 1831,
+      "forks": 144,
+      "stars_today": 734,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 14,
+      "name": "impeccable",
+      "owner": "pbakaus",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "stars": 73760,
+      "forks": 4442,
+      "stars_today": 495,
       "language": "JavaScript",
       "topics": [],
       "summary": {
@@ -119,14 +137,14 @@
       "appear_days": 4
     },
     {
-      "rank": 3,
-      "name": "VoiceStudio",
-      "owner": "debpalash",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "stars": 40442,
-      "forks": 4802,
-      "stars_today": 3086,
+      "rank": 1,
+      "name": "Agent-Reach",
+      "owner": "Panniantong",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": 88792,
+      "forks": 7819,
+      "stars_today": 696,
       "language": "Python",
       "topics": [],
       "summary": {
@@ -134,18 +152,18 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 4
+      "appear_days": 3
     },
     {
-      "rank": 14,
-      "name": "impeccable",
-      "owner": "pbakaus",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "stars": 73760,
-      "forks": 4442,
-      "stars_today": 495,
-      "language": "JavaScript",
+      "rank": 12,
+      "name": "sentry",
+      "owner": "getsentry",
+      "url": "https://github.com/getsentry/sentry",
+      "description": "Developer-first error tracking and performance monitoring",
+      "stars": 45050,
+      "forks": 4893,
+      "stars_today": 16,
+      "language": "Python",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -189,29 +207,11 @@
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 2,
-      "name": "hindsight",
-      "owner": "vectorize-io",
-      "url": "https://github.com/vectorize-io/hindsight",
-      "description": "Hindsight: Agent Memory That Learns",
-      "stars": 37681,
-      "forks": 4877,
-      "stars_today": 4520,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
     "language_trend": "主要语言：TypeScript、Python、JavaScript。",
-    "notable_projects": "mvschwarz/openrig、DietrichGebert/ponytail、mattpocock/skills"
+    "notable_projects": "DietrichGebert/ponytail、mvschwarz/openrig、pbakaus/impeccable"
   }
 }
