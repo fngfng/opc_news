@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-07T03:58:30.148975",
-  "week_range": "2026-10-01 ~ 2026-10-07",
+  "generated_at": "2026-10-08T04:11:20.982750",
+  "week_range": "2026-10-02 ~ 2026-10-08",
   "days_collected": 7,
-  "total_projects": 56,
-  "total_stars_today": 64839,
+  "total_projects": 51,
+  "total_stars_today": 68580,
   "top_languages": [
     [
       "TypeScript",
-      37
-    ],
-    [
-      "Python",
-      23
+      35
     ],
     [
       "JavaScript",
-      21
+      22
+    ],
+    [
+      "Python",
+      20
     ],
     [
       "Shell",
@@ -29,15 +29,33 @@
   "trending_topics": [],
   "top_picks": [
     {
-      "rank": 9,
+      "rank": 2,
       "name": "skills",
       "owner": "mattpocock",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 273089,
-      "forks": 22961,
-      "stars_today": 876,
+      "stars": 274015,
+      "forks": 23007,
+      "stars_today": 883,
       "language": "Shell",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 8,
+      "name": "claude-mem",
+      "owner": "thedotmack",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "stars": 95652,
+      "forks": 8462,
+      "stars_today": 79,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -65,32 +83,14 @@
       "appear_days": 5
     },
     {
-      "rank": 5,
-      "name": "ponytail",
-      "owner": "DietrichGebert",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 149300,
-      "forks": 8024,
-      "stars_today": 743,
-      "language": "JavaScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 5
-    },
-    {
-      "rank": 8,
-      "name": "claude-mem",
-      "owner": "thedotmack",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "stars": 95652,
-      "forks": 8462,
-      "stars_today": 79,
+      "rank": 1,
+      "name": "e2e",
+      "owner": "tester-army",
+      "url": "https://github.com/tester-army/e2e",
+      "description": "Next generation e2e testing framework for web and mobile apps.",
+      "stars": 3287,
+      "forks": 125,
+      "stars_today": 345,
       "language": "TypeScript",
       "topics": [],
       "summary": {
@@ -119,15 +119,15 @@
       "appear_days": 4
     },
     {
-      "rank": 4,
-      "name": "context-mode",
-      "owner": "mksglu",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "stars": 24528,
-      "forks": 1770,
-      "stars_today": 90,
-      "language": "TypeScript",
+      "rank": 1,
+      "name": "ponytail",
+      "owner": "DietrichGebert",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 150665,
+      "forks": 8087,
+      "stars_today": 1194,
+      "language": "JavaScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -137,15 +137,51 @@
       "appear_days": 4
     },
     {
-      "rank": 1,
-      "name": "e2e",
-      "owner": "tester-army",
-      "url": "https://github.com/tester-army/e2e",
-      "description": "Next generation e2e testing framework for web and mobile apps.",
-      "stars": 3287,
-      "forks": 125,
-      "stars_today": 345,
-      "language": "TypeScript",
+      "rank": 6,
+      "name": "AnyPS5",
+      "owner": "boykopovar",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "stars": 5068,
+      "forks": 372,
+      "stars_today": 997,
+      "language": "C++",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 10,
+      "name": "agent-skills",
+      "owner": "addyosmani",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 100887,
+      "forks": 10598,
+      "stars_today": 252,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 10,
+      "name": "openGym",
+      "owner": "DuarteSantos8",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "stars": 4395,
+      "forks": 665,
+      "stars_today": 1433,
+      "language": "JavaScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -171,47 +207,11 @@
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 7,
-      "name": "t3code",
-      "owner": "pingdotgg",
-      "url": "https://github.com/pingdotgg/t3code",
-      "description": "",
-      "stars": 24746,
-      "forks": 6447,
-      "stars_today": 252,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 12,
-      "name": "sentry",
-      "owner": "getsentry",
-      "url": "https://github.com/getsentry/sentry",
-      "description": "Developer-first error tracking and performance monitoring",
-      "stars": 45050,
-      "forks": 4893,
-      "stars_today": 16,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
-    "language_trend": "主要语言：TypeScript、Python、JavaScript。",
-    "notable_projects": "mattpocock/skills、pbakaus/impeccable、DietrichGebert/ponytail"
+    "language_trend": "主要语言：TypeScript、JavaScript、Python。",
+    "notable_projects": "mattpocock/skills、thedotmack/claude-mem、pbakaus/impeccable"
   }
 }
