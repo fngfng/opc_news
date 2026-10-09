@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-10-08T04:11:20.982750",
-  "week_range": "2026-10-02 ~ 2026-10-08",
+  "generated_at": "2026-10-09T04:17:03.021372",
+  "week_range": "2026-10-03 ~ 2026-10-09",
   "days_collected": 7,
-  "total_projects": 51,
-  "total_stars_today": 68580,
+  "total_projects": 50,
+  "total_stars_today": 78975,
   "top_languages": [
     [
       "TypeScript",
-      35
+      31
     ],
     [
       "JavaScript",
-      22
-    ],
-    [
-      "Python",
       20
     ],
     [
+      "Python",
+      18
+    ],
+    [
       "Shell",
-      10
+      9
     ],
     [
       "C++",
@@ -28,24 +28,6 @@
   ],
   "trending_topics": [],
   "top_picks": [
-    {
-      "rank": 2,
-      "name": "skills",
-      "owner": "mattpocock",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 274015,
-      "forks": 23007,
-      "stars_today": 883,
-      "language": "Shell",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 5
-    },
     {
       "rank": 8,
       "name": "claude-mem",
@@ -62,18 +44,18 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 5
+      "appear_days": 6
     },
     {
-      "rank": 14,
-      "name": "impeccable",
-      "owner": "pbakaus",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "stars": 73760,
-      "forks": 4442,
-      "stars_today": 495,
-      "language": "JavaScript",
+      "rank": 6,
+      "name": "skills",
+      "owner": "mattpocock",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 274772,
+      "forks": 23065,
+      "stars_today": 955,
+      "language": "Shell",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -81,6 +63,24 @@
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
       "appear_days": 5
+    },
+    {
+      "rank": 6,
+      "name": "AnyPS5",
+      "owner": "boykopovar",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "stars": 5068,
+      "forks": 372,
+      "stars_today": 997,
+      "language": "C++",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
     },
     {
       "rank": 1,
@@ -92,6 +92,24 @@
       "forks": 125,
       "stars_today": 345,
       "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 5,
+      "name": "impeccable",
+      "owner": "pbakaus",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "stars": 74395,
+      "forks": 4484,
+      "stars_today": 722,
+      "language": "JavaScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -119,33 +137,33 @@
       "appear_days": 4
     },
     {
-      "rank": 1,
-      "name": "ponytail",
-      "owner": "DietrichGebert",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 150665,
-      "forks": 8087,
-      "stars_today": 1194,
-      "language": "JavaScript",
+      "rank": 12,
+      "name": "diagram-design",
+      "owner": "cathrynlavery",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": 44129,
+      "forks": 2843,
+      "stars_today": 228,
+      "language": "HTML",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 4
+      "appear_days": 3
     },
     {
-      "rank": 6,
-      "name": "AnyPS5",
-      "owner": "boykopovar",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "stars": 5068,
-      "forks": 372,
-      "stars_today": 997,
-      "language": "C++",
+      "rank": 8,
+      "name": "rea",
+      "owner": "morluto",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 9999,
+      "forks": 1115,
+      "stars_today": 2956,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -189,29 +207,11 @@
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 5,
-      "name": "text-to-cad",
-      "owner": "earthtojake",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "description": "Give your agent CAD superpowers.",
-      "stars": 16924,
-      "forks": 1747,
-      "stars_today": 83,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
     "language_trend": "主要语言：TypeScript、JavaScript、Python。",
-    "notable_projects": "mattpocock/skills、thedotmack/claude-mem、pbakaus/impeccable"
+    "notable_projects": "thedotmack/claude-mem、mattpocock/skills、boykopovar/AnyPS5"
   }
 }
