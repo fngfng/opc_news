@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-10-15T02:55:14.239733",
-  "week_range": "2026-10-09 ~ 2026-10-15",
+  "generated_at": "2026-10-16T02:52:52.744557",
+  "week_range": "2026-10-10 ~ 2026-10-16",
   "days_collected": 7,
-  "total_projects": 38,
-  "total_stars_today": 299152,
+  "total_projects": 42,
+  "total_stars_today": 321903,
   "top_languages": [
     [
       "Python",
-      16
+      19
     ],
     [
       "TypeScript",
-      13
+      14
     ],
     [
       "Rust",
       7
     ],
     [
-      "HTML",
-      6
+      "JavaScript",
+      5
     ],
     [
-      "C++",
-      6
+      "HTML",
+      5
     ]
   ],
   "trending_topics": [],
   "top_picks": [
     {
-      "rank": 3,
+      "rank": 1,
       "name": "rea",
       "owner": "morluto",
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": 29224,
-      "forks": 3445,
-      "stars_today": 7738,
+      "stars": 50575,
+      "forks": 8950,
+      "stars_today": 14927,
       "language": "TypeScript",
       "topics": [],
       "summary": {
@@ -45,42 +45,6 @@
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
       "appear_days": 7
-    },
-    {
-      "rank": 2,
-      "name": "diagram-design",
-      "owner": "cathrynlavery",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "stars": 46653,
-      "forks": 2965,
-      "stars_today": 1160,
-      "language": "HTML",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 6
-    },
-    {
-      "rank": 8,
-      "name": "artcraft",
-      "owner": "storytold",
-      "url": "https://github.com/storytold/artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "stars": 8469,
-      "forks": 1228,
-      "stars_today": 2103,
-      "language": "Rust",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 6
     },
     {
       "rank": 5,
@@ -98,25 +62,61 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 4
+      "appear_days": 5
     },
     {
-      "rank": 1,
-      "name": "AnyPS5",
-      "owner": "boykopovar",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "stars": 16443,
-      "forks": 1307,
-      "stars_today": 4669,
-      "language": "C++",
+      "rank": 4,
+      "name": "diagram-design",
+      "owner": "cathrynlavery",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": 48072,
+      "forks": 3044,
+      "stars_today": 1739,
+      "language": "HTML",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 4
+      "appear_days": 5
+    },
+    {
+      "rank": 9,
+      "name": "artcraft",
+      "owner": "storytold",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "stars": 11900,
+      "forks": 1800,
+      "stars_today": 3752,
+      "language": "Rust",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 3,
+      "name": "VoiceStudio",
+      "owner": "debpalash",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": 63681,
+      "forks": 7080,
+      "stars_today": 1748,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
     },
     {
       "rank": 5,
@@ -155,15 +155,15 @@
       "appear_days": 3
     },
     {
-      "rank": 4,
-      "name": "skills",
-      "owner": "mattpocock",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 281329,
-      "forks": 23577,
-      "stars_today": 1774,
-      "language": "Shell",
+      "rank": 2,
+      "name": "AnyPS5",
+      "owner": "boykopovar",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "stars": 22885,
+      "forks": 1881,
+      "stars_today": 5868,
+      "language": "C++",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -173,14 +173,14 @@
       "appear_days": 3
     },
     {
-      "rank": 7,
-      "name": "knowledge-work-plugins",
-      "owner": "anthropics",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "stars": 27744,
-      "forks": 3214,
-      "stars_today": 392,
+      "rank": 5,
+      "name": "scientific-agent-skills",
+      "owner": "K-Dense-AI",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "stars": 49460,
+      "forks": 4427,
+      "stars_today": 163,
       "language": "Python",
       "topics": [],
       "summary": {
@@ -188,18 +188,18 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 3
+      "appear_days": 2
     },
     {
-      "rank": 3,
-      "name": "VoiceStudio",
-      "owner": "debpalash",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "stars": 63681,
-      "forks": 7080,
-      "stars_today": 1748,
-      "language": "Python",
+      "rank": 12,
+      "name": "ghidra",
+      "owner": "NationalSecurityAgency",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "stars": 87644,
+      "forks": 9781,
+      "stars_today": 1008,
+      "language": "Java",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -212,6 +212,6 @@
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
     "language_trend": "主要语言：Python、TypeScript、Rust。",
-    "notable_projects": "morluto/rea、cathrynlavery/diagram-design、storytold/artcraft"
+    "notable_projects": "morluto/rea、mksglu/context-mode、cathrynlavery/diagram-design"
   }
 }
