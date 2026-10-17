@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-16T02:52:52.744557",
-  "week_range": "2026-10-10 ~ 2026-10-16",
+  "generated_at": "2026-10-17T02:44:04.200095",
+  "week_range": "2026-10-11 ~ 2026-10-17",
   "days_collected": 7,
-  "total_projects": 42,
-  "total_stars_today": 321903,
+  "total_projects": 41,
+  "total_stars_today": 304030,
   "top_languages": [
     [
       "Python",
-      19
+      21
     ],
     [
       "TypeScript",
-      14
+      16
     ],
     [
       "Rust",
@@ -19,33 +19,15 @@
     ],
     [
       "JavaScript",
-      5
+      6
     ],
     [
-      "HTML",
-      5
+      "Shell",
+      4
     ]
   ],
   "trending_topics": [],
   "top_picks": [
-    {
-      "rank": 1,
-      "name": "rea",
-      "owner": "morluto",
-      "url": "https://github.com/morluto/rea",
-      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": 50575,
-      "forks": 8950,
-      "stars_today": 14927,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 7
-    },
     {
       "rank": 5,
       "name": "context-mode",
@@ -62,43 +44,25 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 5
+      "appear_days": 6
     },
     {
-      "rank": 4,
-      "name": "diagram-design",
-      "owner": "cathrynlavery",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "stars": 48072,
-      "forks": 3044,
-      "stars_today": 1739,
-      "language": "HTML",
+      "rank": 1,
+      "name": "rea",
+      "owner": "morluto",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 75751,
+      "forks": 16123,
+      "stars_today": 25793,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 5
-    },
-    {
-      "rank": 9,
-      "name": "artcraft",
-      "owner": "storytold",
-      "url": "https://github.com/storytold/artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "stars": 11900,
-      "forks": 1800,
-      "stars_today": 3752,
-      "language": "Rust",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 5
+      "appear_days": 6
     },
     {
       "rank": 3,
@@ -109,6 +73,60 @@
       "stars": 63681,
       "forks": 7080,
       "stars_today": 1748,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 4,
+      "name": "diagram-design",
+      "owner": "cathrynlavery",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": 49090,
+      "forks": 3103,
+      "stars_today": 1190,
+      "language": "HTML",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 3,
+      "name": "artcraft",
+      "owner": "storytold",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "stars": 14779,
+      "forks": 2344,
+      "stars_today": 3222,
+      "language": "Rust",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 5,
+      "name": "scientific-agent-skills",
+      "owner": "K-Dense-AI",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "stars": 49460,
+      "forks": 4427,
+      "stars_today": 163,
       "language": "Python",
       "topics": [],
       "summary": {
@@ -156,31 +174,13 @@
     },
     {
       "rank": 2,
-      "name": "AnyPS5",
-      "owner": "boykopovar",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "stars": 22885,
-      "forks": 1881,
-      "stars_today": 5868,
-      "language": "C++",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 5,
-      "name": "scientific-agent-skills",
-      "owner": "K-Dense-AI",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "stars": 49460,
-      "forks": 4427,
-      "stars_today": 163,
+      "name": "claude-plugins-official",
+      "owner": "anthropics",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": 39210,
+      "forks": 4335,
+      "stars_today": 307,
       "language": "Python",
       "topics": [],
       "summary": {
@@ -191,15 +191,15 @@
       "appear_days": 2
     },
     {
-      "rank": 12,
-      "name": "ghidra",
-      "owner": "NationalSecurityAgency",
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
-      "stars": 87644,
-      "forks": 9781,
-      "stars_today": 1008,
-      "language": "Java",
+      "rank": 10,
+      "name": "ECC",
+      "owner": "affaan-m",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 280483,
+      "forks": 41712,
+      "stars_today": 1013,
+      "language": "JavaScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -212,6 +212,6 @@
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
     "language_trend": "主要语言：Python、TypeScript、Rust。",
-    "notable_projects": "morluto/rea、mksglu/context-mode、cathrynlavery/diagram-design"
+    "notable_projects": "mksglu/context-mode、morluto/rea、debpalash/VoiceStudio"
   }
 }
