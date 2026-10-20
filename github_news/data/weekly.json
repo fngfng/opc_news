@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-19T02:58:54.129826",
-  "week_range": "2026-10-13 ~ 2026-10-19",
+  "generated_at": "2026-10-20T03:08:31.023104",
+  "week_range": "2026-10-14 ~ 2026-10-20",
   "days_collected": 7,
   "total_projects": 38,
-  "total_stars_today": 250424,
+  "total_stars_today": 206247,
   "top_languages": [
     [
       "Python",
-      27
+      31
     ],
     [
       "TypeScript",
-      21
+      23
     ],
     [
       "Rust",
@@ -47,42 +47,6 @@
       "appear_days": 6
     },
     {
-      "rank": 3,
-      "name": "context-mode",
-      "owner": "mksglu",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "stars": 27475,
-      "forks": 1954,
-      "stars_today": 246,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 5
-    },
-    {
-      "rank": 2,
-      "name": "claude-plugins-official",
-      "owner": "anthropics",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": 39210,
-      "forks": 4335,
-      "stars_today": 307,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 4
-    },
-    {
       "rank": 7,
       "name": "ruflo",
       "owner": "ruvnet",
@@ -98,7 +62,7 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 4
+      "appear_days": 5
     },
     {
       "rank": 6,
@@ -109,6 +73,42 @@
       "stars": 52586,
       "forks": 4776,
       "stars_today": 103,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 11,
+      "name": "ai-job-search",
+      "owner": "MadsLorentzen",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "stars": 48609,
+      "forks": 16653,
+      "stars_today": 898,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 2,
+      "name": "claude-plugins-official",
+      "owner": "anthropics",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": 39210,
+      "forks": 4335,
+      "stars_today": 307,
       "language": "Python",
       "topics": [],
       "summary": {
@@ -137,14 +137,14 @@
       "appear_days": 4
     },
     {
-      "rank": 1,
-      "name": "rea",
-      "owner": "morluto",
-      "url": "https://github.com/morluto/rea",
-      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": 169158,
-      "forks": 40251,
-      "stars_today": 45327,
+      "rank": 4,
+      "name": "context-mode",
+      "owner": "mksglu",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars": 28348,
+      "forks": 1997,
+      "stars_today": 969,
       "language": "TypeScript",
       "topics": [],
       "summary": {
@@ -156,14 +156,14 @@
     },
     {
       "rank": 11,
-      "name": "ai-job-search",
-      "owner": "MadsLorentzen",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "stars": 48609,
-      "forks": 16653,
-      "stars_today": 898,
-      "language": "Python",
+      "name": "opencode",
+      "owner": "anomalyco",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "stars": 215453,
+      "forks": 28870,
+      "stars_today": 438,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -173,15 +173,15 @@
       "appear_days": 3
     },
     {
-      "rank": 7,
-      "name": "skills",
-      "owner": "android",
-      "url": "https://github.com/android/skills",
-      "description": "",
-      "stars": 8103,
-      "forks": 537,
-      "stars_today": 36,
-      "language": "Kotlin",
+      "rank": 6,
+      "name": "ai-memory",
+      "owner": "akitaonrails",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "stars": 9958,
+      "forks": 721,
+      "stars_today": 178,
+      "language": "Rust",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -191,15 +191,15 @@
       "appear_days": 3
     },
     {
-      "rank": 10,
-      "name": "ECC",
-      "owner": "affaan-m",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 280483,
-      "forks": 41712,
-      "stars_today": 1013,
-      "language": "JavaScript",
+      "rank": 8,
+      "name": "orca",
+      "owner": "stablyai",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "stars": 95500,
+      "forks": 6117,
+      "stars_today": 830,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -212,6 +212,6 @@
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
     "language_trend": "主要语言：Python、TypeScript、Rust。",
-    "notable_projects": "debpalash/VoiceStudio、mksglu/context-mode、anthropics/claude-plugins-official"
+    "notable_projects": "debpalash/VoiceStudio、ruvnet/ruflo、HKUDS/CLI-Anything"
   }
 }
