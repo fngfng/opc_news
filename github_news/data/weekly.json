@@ -1,51 +1,33 @@
 {
-  "generated_at": "2026-10-20T03:08:31.023104",
-  "week_range": "2026-10-14 ~ 2026-10-20",
+  "generated_at": "2026-10-21T03:02:58.394990",
+  "week_range": "2026-10-15 ~ 2026-10-21",
   "days_collected": 7,
-  "total_projects": 38,
-  "total_stars_today": 206247,
+  "total_projects": 41,
+  "total_stars_today": 153298,
   "top_languages": [
     [
       "Python",
-      31
+      39
     ],
     [
       "TypeScript",
       23
     ],
     [
-      "Rust",
-      8
-    ],
-    [
       "JavaScript",
-      6
+      7
     ],
     [
-      "Kotlin",
-      3
+      "Rust",
+      7
+    ],
+    [
+      "Shell",
+      4
     ]
   ],
   "trending_topics": [],
   "top_picks": [
-    {
-      "rank": 3,
-      "name": "VoiceStudio",
-      "owner": "debpalash",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "stars": 63681,
-      "forks": 7080,
-      "stars_today": 1748,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 6
-    },
     {
       "rank": 7,
       "name": "ruflo",
@@ -56,6 +38,24 @@
       "forks": 8936,
       "stars_today": 147,
       "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 6
+    },
+    {
+      "rank": 11,
+      "name": "ai-job-search",
+      "owner": "MadsLorentzen",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "stars": 48609,
+      "forks": 16653,
+      "stars_today": 898,
+      "language": "Python",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -83,15 +83,51 @@
       "appear_days": 5
     },
     {
-      "rank": 11,
-      "name": "ai-job-search",
-      "owner": "MadsLorentzen",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "stars": 48609,
-      "forks": 16653,
-      "stars_today": 898,
+      "rank": 2,
+      "name": "VoiceStudio",
+      "owner": "debpalash",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": 66637,
+      "forks": 7340,
+      "stars_today": 3538,
       "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 8,
+      "name": "orca",
+      "owner": "stablyai",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "stars": 95500,
+      "forks": 6117,
+      "stars_today": 830,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 11,
+      "name": "opencode",
+      "owner": "anomalyco",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "stars": 215453,
+      "forks": 28870,
+      "stars_today": 438,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -137,33 +173,15 @@
       "appear_days": 4
     },
     {
-      "rank": 4,
-      "name": "context-mode",
-      "owner": "mksglu",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "stars": 28348,
-      "forks": 1997,
-      "stars_today": 969,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 11,
-      "name": "opencode",
-      "owner": "anomalyco",
-      "url": "https://github.com/anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "stars": 215453,
-      "forks": 28870,
-      "stars_today": 438,
-      "language": "TypeScript",
+      "rank": 13,
+      "name": "ComfyUI",
+      "owner": "Comfy-Org",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "stars": 138720,
+      "forks": 16506,
+      "stars_today": 154,
+      "language": "Python",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -189,29 +207,11 @@
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 8,
-      "name": "orca",
-      "owner": "stablyai",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "stars": 95500,
-      "forks": 6117,
-      "stars_today": 830,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
-    "language_trend": "主要语言：Python、TypeScript、Rust。",
-    "notable_projects": "debpalash/VoiceStudio、ruvnet/ruflo、HKUDS/CLI-Anything"
+    "language_trend": "主要语言：Python、TypeScript、JavaScript。",
+    "notable_projects": "ruvnet/ruflo、MadsLorentzen/ai-job-search、HKUDS/CLI-Anything"
   }
 }
