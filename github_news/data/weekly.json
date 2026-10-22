@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-21T03:02:58.394990",
-  "week_range": "2026-10-15 ~ 2026-10-21",
+  "generated_at": "2026-10-22T03:01:36.273643",
+  "week_range": "2026-10-16 ~ 2026-10-22",
   "days_collected": 7,
-  "total_projects": 41,
-  "total_stars_today": 153298,
+  "total_projects": 38,
+  "total_stars_today": 112227,
   "top_languages": [
     [
       "Python",
-      39
+      40
     ],
     [
       "TypeScript",
-      23
+      24
     ],
     [
       "JavaScript",
-      7
+      9
     ],
     [
       "Rust",
@@ -23,7 +23,7 @@
     ],
     [
       "Shell",
-      4
+      3
     ]
   ],
   "trending_topics": [],
@@ -47,6 +47,24 @@
       "appear_days": 6
     },
     {
+      "rank": 8,
+      "name": "orca",
+      "owner": "stablyai",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "stars": 95500,
+      "forks": 6117,
+      "stars_today": 830,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 5
+    },
+    {
       "rank": 11,
       "name": "ai-job-search",
       "owner": "MadsLorentzen",
@@ -65,51 +83,33 @@
       "appear_days": 5
     },
     {
+      "rank": 13,
+      "name": "ComfyUI",
+      "owner": "Comfy-Org",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "stars": 138720,
+      "forks": 16506,
+      "stars_today": 154,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
+    },
+    {
       "rank": 6,
-      "name": "CLI-Anything",
-      "owner": "HKUDS",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-      "stars": 52586,
-      "forks": 4776,
-      "stars_today": 103,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 5
-    },
-    {
-      "rank": 2,
-      "name": "VoiceStudio",
-      "owner": "debpalash",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "stars": 66637,
-      "forks": 7340,
-      "stars_today": 3538,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 5
-    },
-    {
-      "rank": 8,
-      "name": "orca",
-      "owner": "stablyai",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "stars": 95500,
-      "forks": 6117,
-      "stars_today": 830,
-      "language": "TypeScript",
+      "name": "ai-memory",
+      "owner": "akitaonrails",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "stars": 9958,
+      "forks": 721,
+      "stars_today": 178,
+      "language": "Rust",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -128,6 +128,24 @@
       "forks": 28870,
       "stars_today": 438,
       "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 4,
+      "name": "CLI-Anything",
+      "owner": "HKUDS",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "stars": 53551,
+      "forks": 4855,
+      "stars_today": 281,
+      "language": "Python",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -156,13 +174,13 @@
     },
     {
       "rank": 5,
-      "name": "scientific-agent-skills",
-      "owner": "K-Dense-AI",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "stars": 49460,
-      "forks": 4427,
-      "stars_today": 163,
+      "name": "VoiceStudio",
+      "owner": "debpalash",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": 69276,
+      "forks": 7586,
+      "stars_today": 3024,
       "language": "Python",
       "topics": [],
       "summary": {
@@ -173,33 +191,15 @@
       "appear_days": 4
     },
     {
-      "rank": 13,
-      "name": "ComfyUI",
-      "owner": "Comfy-Org",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "stars": 138720,
-      "forks": 16506,
-      "stars_today": 154,
+      "rank": 7,
+      "name": "headroom",
+      "owner": "headroomlabs-ai",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "stars": 76300,
+      "forks": 5925,
+      "stars_today": 310,
       "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 6,
-      "name": "ai-memory",
-      "owner": "akitaonrails",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "stars": 9958,
-      "forks": 721,
-      "stars_today": 178,
-      "language": "Rust",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -212,6 +212,6 @@
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
     "language_trend": "主要语言：Python、TypeScript、JavaScript。",
-    "notable_projects": "ruvnet/ruflo、MadsLorentzen/ai-job-search、HKUDS/CLI-Anything"
+    "notable_projects": "ruvnet/ruflo、stablyai/orca、MadsLorentzen/ai-job-search"
   }
 }
