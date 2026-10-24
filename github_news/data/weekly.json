@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-23T03:06:04.172507",
-  "week_range": "2026-10-17 ~ 2026-10-23",
+  "generated_at": "2026-10-24T03:01:35.618925",
+  "week_range": "2026-10-18 ~ 2026-10-24",
   "days_collected": 7,
-  "total_projects": 38,
-  "total_stars_today": 78313,
+  "total_projects": 40,
+  "total_stars_today": 72646,
   "top_languages": [
     [
       "Python",
-      40
+      38
     ],
     [
       "TypeScript",
-      22
+      20
     ],
     [
       "JavaScript",
@@ -22,8 +22,8 @@
       6
     ],
     [
-      "Kotlin",
-      3
+      "C",
+      2
     ]
   ],
   "trending_topics": [],
@@ -47,40 +47,22 @@
       "appear_days": 5
     },
     {
-      "rank": 11,
-      "name": "ai-job-search",
-      "owner": "MadsLorentzen",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "stars": 48609,
-      "forks": 16653,
-      "stars_today": 898,
-      "language": "Python",
+      "rank": 2,
+      "name": "security-audit-skill",
+      "owner": "cloudflare",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 34429,
+      "forks": 2159,
+      "stars_today": 1712,
+      "language": "JavaScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 5
-    },
-    {
-      "rank": 6,
-      "name": "ruflo",
-      "owner": "ruvnet",
-      "url": "https://github.com/ruvnet/ruflo",
-      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "stars": 75662,
-      "forks": 8968,
-      "stars_today": 672,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 5
+      "appear_days": 4
     },
     {
       "rank": 13,
@@ -119,6 +101,42 @@
       "appear_days": 4
     },
     {
+      "rank": 2,
+      "name": "ai-job-search",
+      "owner": "MadsLorentzen",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "stars": 50543,
+      "forks": 16954,
+      "stars_today": 1365,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 12,
+      "name": "ruflo",
+      "owner": "ruvnet",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "stars": 76111,
+      "forks": 9003,
+      "stars_today": 420,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
+    },
+    {
       "rank": 11,
       "name": "opencode",
       "owner": "anomalyco",
@@ -137,14 +155,14 @@
       "appear_days": 4
     },
     {
-      "rank": 4,
-      "name": "CLI-Anything",
-      "owner": "HKUDS",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-      "stars": 53551,
-      "forks": 4855,
-      "stars_today": 281,
+      "rank": 11,
+      "name": "knowledge-work-plugins",
+      "owner": "anthropics",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars": 30836,
+      "forks": 3465,
+      "stars_today": 267,
       "language": "Python",
       "topics": [],
       "summary": {
@@ -152,7 +170,7 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 4
+      "appear_days": 3
     },
     {
       "rank": 4,
@@ -163,24 +181,6 @@
       "stars": 169918,
       "forks": 9242,
       "stars_today": 1208,
-      "language": "JavaScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 2,
-      "name": "security-audit-skill",
-      "owner": "cloudflare",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "stars": 34429,
-      "forks": 2159,
-      "stars_today": 1712,
       "language": "JavaScript",
       "topics": [],
       "summary": {
@@ -212,6 +212,6 @@
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
     "language_trend": "主要语言：Python、TypeScript、JavaScript。",
-    "notable_projects": "stablyai/orca、MadsLorentzen/ai-job-search、ruvnet/ruflo"
+    "notable_projects": "stablyai/orca、cloudflare/security-audit-skill、Comfy-Org/ComfyUI"
   }
 }
