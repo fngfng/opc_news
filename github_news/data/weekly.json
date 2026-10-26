@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-25T02:55:23.978293",
-  "week_range": "2026-10-19 ~ 2026-10-25",
+  "generated_at": "2026-10-26T02:54:15.301021",
+  "week_range": "2026-10-20 ~ 2026-10-26",
   "days_collected": 7,
   "total_projects": 44,
-  "total_stars_today": 67308,
+  "total_stars_today": 65751,
   "top_languages": [
     [
       "Python",
-      36
+      33
     ],
     [
       "TypeScript",
-      18
+      17
     ],
     [
       "JavaScript",
-      10
+      11
     ],
     [
       "Rust",
-      7
+      8
     ],
     [
-      "C",
+      "CSS",
       2
     ]
   ],
@@ -44,43 +44,7 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 5
-    },
-    {
-      "rank": 7,
-      "name": "orca",
-      "owner": "stablyai",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "stars": 96838,
-      "forks": 6183,
-      "stars_today": 1146,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 13,
-      "name": "ComfyUI",
-      "owner": "Comfy-Org",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "stars": 138720,
-      "forks": 16506,
-      "stars_today": 154,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 4
+      "appear_days": 6
     },
     {
       "rank": 11,
@@ -137,6 +101,24 @@
       "appear_days": 3
     },
     {
+      "rank": 6,
+      "name": "orca",
+      "owner": "stablyai",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "stars": 98428,
+      "forks": 6278,
+      "stars_today": 1590,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
+    },
+    {
       "rank": 7,
       "name": "headroom",
       "owner": "headroomlabs-ai",
@@ -145,6 +127,24 @@
       "stars": 76300,
       "forks": 5925,
       "stars_today": 310,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 4,
+      "name": "ComfyUI",
+      "owner": "Comfy-Org",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "stars": 139858,
+      "forks": 16595,
+      "stars_today": 1011,
       "language": "Python",
       "topics": [],
       "summary": {
@@ -173,45 +173,45 @@
       "appear_days": 3
     },
     {
-      "rank": 6,
-      "name": "ai-memory",
-      "owner": "akitaonrails",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "stars": 10570,
-      "forks": 754,
-      "stars_today": 512,
-      "language": "Rust",
+      "rank": 10,
+      "name": "cindy",
+      "owner": "makecindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "stars": 4144,
+      "forks": 600,
+      "stars_today": 477,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 3
+      "appear_days": 2
     },
     {
-      "rank": 1,
-      "name": "ai-job-search",
-      "owner": "MadsLorentzen",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "stars": 53602,
-      "forks": 17446,
-      "stars_today": 2232,
-      "language": "Python",
+      "rank": 4,
+      "name": "hallmark",
+      "owner": "Nutlope",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars": 32237,
+      "forks": 1656,
+      "stars_today": 455,
+      "language": "CSS",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 3
+      "appear_days": 2
     }
   ],
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
     "language_trend": "主要语言：Python、TypeScript、JavaScript。",
-    "notable_projects": "cloudflare/security-audit-skill、stablyai/orca、Comfy-Org/ComfyUI"
+    "notable_projects": "cloudflare/security-audit-skill、anthropics/knowledge-work-plugins、DietrichGebert/ponytail"
   }
 }
