@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-26T02:54:15.301021",
-  "week_range": "2026-10-20 ~ 2026-10-26",
+  "generated_at": "2026-10-27T03:27:23.736767",
+  "week_range": "2026-10-21 ~ 2026-10-27",
   "days_collected": 7,
-  "total_projects": 44,
-  "total_stars_today": 65751,
+  "total_projects": 47,
+  "total_stars_today": 68388,
   "top_languages": [
     [
       "Python",
-      33
+      31
     ],
     [
       "TypeScript",
@@ -19,11 +19,11 @@
     ],
     [
       "Rust",
-      8
+      9
     ],
     [
       "CSS",
-      2
+      3
     ]
   ],
   "trending_topics": [],
@@ -45,6 +45,78 @@
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
       "appear_days": 6
+    },
+    {
+      "rank": 4,
+      "name": "hallmark",
+      "owner": "Nutlope",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars": 32237,
+      "forks": 1656,
+      "stars_today": 455,
+      "language": "CSS",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 10,
+      "name": "cindy",
+      "owner": "makecindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "stars": 4144,
+      "forks": 600,
+      "stars_today": 477,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 6,
+      "name": "impeccable",
+      "owner": "pbakaus",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "stars": 86498,
+      "forks": 5160,
+      "stars_today": 619,
+      "language": "Rust",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
+    },
+    {
+      "rank": 7,
+      "name": "microduck",
+      "owner": "pollen-robotics",
+      "url": "https://github.com/pollen-robotics/microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "stars": 11043,
+      "forks": 1415,
+      "stars_today": 319,
+      "language": "Rust",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
     },
     {
       "rank": 11,
@@ -102,86 +174,14 @@
     },
     {
       "rank": 6,
-      "name": "orca",
-      "owner": "stablyai",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "stars": 98428,
-      "forks": 6278,
-      "stars_today": 1590,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 7,
-      "name": "headroom",
-      "owner": "headroomlabs-ai",
-      "url": "https://github.com/headroomlabs-ai/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-      "stars": 76300,
-      "forks": 5925,
-      "stars_today": 310,
+      "name": "TradingAgents",
+      "owner": "TauricResearch",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 114738,
+      "forks": 22135,
+      "stars_today": 381,
       "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 4,
-      "name": "ComfyUI",
-      "owner": "Comfy-Org",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "stars": 139858,
-      "forks": 16595,
-      "stars_today": 1011,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 12,
-      "name": "Kronos",
-      "owner": "shiyu-coder",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "stars": 41751,
-      "forks": 6933,
-      "stars_today": 363,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 10,
-      "name": "cindy",
-      "owner": "makecindy",
-      "url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 4144,
-      "forks": 600,
-      "stars_today": 477,
-      "language": "TypeScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -191,15 +191,15 @@
       "appear_days": 2
     },
     {
-      "rank": 4,
-      "name": "hallmark",
-      "owner": "Nutlope",
-      "url": "https://github.com/Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "stars": 32237,
-      "forks": 1656,
-      "stars_today": 455,
-      "language": "CSS",
+      "rank": 8,
+      "name": "thinkrail",
+      "owner": "JetBrains",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "stars": 1878,
+      "forks": 107,
+      "stars_today": 51,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -212,6 +212,6 @@
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
     "language_trend": "主要语言：Python、TypeScript、JavaScript。",
-    "notable_projects": "cloudflare/security-audit-skill、anthropics/knowledge-work-plugins、DietrichGebert/ponytail"
+    "notable_projects": "cloudflare/security-audit-skill、Nutlope/hallmark、makecindy/cindy"
   }
 }
