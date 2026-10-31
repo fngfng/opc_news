@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-30T04:05:23.279146",
-  "week_range": "2026-10-24 ~ 2026-10-30",
+  "generated_at": "2026-10-31T03:49:39.170970",
+  "week_range": "2026-10-25 ~ 2026-10-31",
   "days_collected": 7,
-  "total_projects": 41,
-  "total_stars_today": 77895,
+  "total_projects": 40,
+  "total_stars_today": 87028,
   "top_languages": [
     [
       "TypeScript",
-      22
+      27
     ],
     [
       "Python",
-      16
+      15
     ],
     [
       "Rust",
-      13
+      14
+    ],
+    [
+      "Shell",
+      8
     ],
     [
       "Unknown",
-      7
-    ],
-    [
-      "JavaScript",
-      7
+      8
     ]
   ],
   "trending_topics": [],
@@ -44,7 +44,7 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 6
+      "appear_days": 7
     },
     {
       "rank": 8,
@@ -62,7 +62,7 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 5
+      "appear_days": 6
     },
     {
       "rank": 4,
@@ -102,24 +102,6 @@
     },
     {
       "rank": 9,
-      "name": "openbot",
-      "owner": "nightly-labs",
-      "url": "https://github.com/nightly-labs/openbot",
-      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-      "stars": 1576,
-      "forks": 193,
-      "stars_today": 176,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 9,
       "name": "DeepTutor",
       "owner": "HKUDS",
       "url": "https://github.com/HKUDS/DeepTutor",
@@ -134,7 +116,25 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 3
+      "appear_days": 4
+    },
+    {
+      "rank": 11,
+      "name": "jailbreaks",
+      "owner": "togg53192-cmd",
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "stars": 5779,
+      "forks": 848,
+      "stars_today": 902,
+      "language": "Unknown",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
     },
     {
       "rank": 4,
@@ -152,7 +152,25 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 3
+      "appear_days": 4
+    },
+    {
+      "rank": 9,
+      "name": "openbot",
+      "owner": "nightly-labs",
+      "url": "https://github.com/nightly-labs/openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "stars": 1576,
+      "forks": 193,
+      "stars_today": 176,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
     },
     {
       "rank": 1,
@@ -163,24 +181,6 @@
       "stars": 9693,
       "forks": 689,
       "stars_today": 1395,
-      "language": "Unknown",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 11,
-      "name": "jailbreaks",
-      "owner": "togg53192-cmd",
-      "url": "https://github.com/togg53192-cmd/jailbreaks",
-      "description": "LIST OF ALL MY JAILBREAKS",
-      "stars": 5779,
-      "forks": 848,
-      "stars_today": 902,
       "language": "Unknown",
       "topics": [],
       "summary": {
