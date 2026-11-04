@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-03T05:03:41.698236",
-  "week_range": "2026-10-28 ~ 2026-11-03",
+  "generated_at": "2026-11-04T04:36:08.749745",
+  "week_range": "2026-10-29 ~ 2026-11-04",
   "days_collected": 7,
-  "total_projects": 45,
-  "total_stars_today": 99390,
+  "total_projects": 46,
+  "total_stars_today": 97626,
   "top_languages": [
     [
       "TypeScript",
-      31
+      29
     ],
     [
       "Python",
-      18
+      21
     ],
     [
       "Shell",
-      14
+      15
     ],
     [
       "Rust",
-      12
+      14
     ],
     [
       "Unknown",
-      8
+      6
     ]
   ],
   "trending_topics": [],
@@ -44,79 +44,7 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 5
-    },
-    {
-      "rank": 11,
-      "name": "jailbreaks",
-      "owner": "togg53192-cmd",
-      "url": "https://github.com/togg53192-cmd/jailbreaks",
-      "description": "LIST OF ALL MY JAILBREAKS",
-      "stars": 5779,
-      "forks": 848,
-      "stars_today": 902,
-      "language": "Unknown",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 5
-    },
-    {
-      "rank": 5,
-      "name": "impeccable",
-      "owner": "pbakaus",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "stars": 90788,
-      "forks": 5382,
-      "stars_today": 1449,
-      "language": "Rust",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 5
-    },
-    {
-      "rank": 4,
-      "name": "superpowers",
-      "owner": "obra",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 306569,
-      "forks": 27290,
-      "stars_today": 617,
-      "language": "Shell",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 5
-    },
-    {
-      "rank": 9,
-      "name": "DeepTutor",
-      "owner": "HKUDS",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
-      "stars": 46235,
-      "forks": 5787,
-      "stars_today": 1598,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 5
+      "appear_days": 6
     },
     {
       "rank": 11,
@@ -127,6 +55,24 @@
       "stars": 29415,
       "forks": 4062,
       "stars_today": 353,
+      "language": "Shell",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 5
+    },
+    {
+      "rank": 8,
+      "name": "skills",
+      "owner": "mattpocock",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 307576,
+      "forks": 25894,
+      "stars_today": 876,
       "language": "Shell",
       "topics": [],
       "summary": {
@@ -174,14 +120,14 @@
     },
     {
       "rank": 10,
-      "name": "thinkrail",
-      "owner": "JetBrains",
-      "url": "https://github.com/JetBrains/thinkrail",
-      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-      "stars": 4180,
-      "forks": 224,
-      "stars_today": 1204,
-      "language": "TypeScript",
+      "name": "jailbreaks",
+      "owner": "togg53192-cmd",
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "stars": 7353,
+      "forks": 1048,
+      "stars_today": 1477,
+      "language": "Unknown",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -191,15 +137,69 @@
       "appear_days": 4
     },
     {
-      "rank": 8,
-      "name": "skills",
-      "owner": "mattpocock",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 307576,
-      "forks": 25894,
-      "stars_today": 876,
+      "rank": 7,
+      "name": "impeccable",
+      "owner": "pbakaus",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "stars": 93121,
+      "forks": 5498,
+      "stars_today": 1472,
+      "language": "Rust",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 3,
+      "name": "superpowers",
+      "owner": "obra",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 307568,
+      "forks": 27357,
+      "stars_today": 1095,
       "language": "Shell",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 4,
+      "name": "DeepTutor",
+      "owner": "HKUDS",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+      "stars": 48327,
+      "forks": 5986,
+      "stars_today": 2371,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 3,
+      "name": "Kronos",
+      "owner": "shiyu-coder",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars": 45500,
+      "forks": 7511,
+      "stars_today": 630,
+      "language": "Python",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -212,6 +212,6 @@
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
     "language_trend": "主要语言：TypeScript、Python、Shell。",
-    "notable_projects": "thedotmack/claude-mem、togg53192-cmd/jailbreaks、pbakaus/impeccable"
+    "notable_projects": "thedotmack/claude-mem、Donchitos/Claude-Code-Game-Studios、mattpocock/skills"
   }
 }
