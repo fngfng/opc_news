@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-04T04:36:08.749745",
-  "week_range": "2026-10-29 ~ 2026-11-04",
+  "generated_at": "2026-11-05T04:51:04.491771",
+  "week_range": "2026-10-30 ~ 2026-11-05",
   "days_collected": 7,
-  "total_projects": 46,
-  "total_stars_today": 97626,
+  "total_projects": 51,
+  "total_stars_today": 96847,
   "top_languages": [
     [
       "TypeScript",
-      29
+      28
     ],
     [
       "Python",
-      21
+      27
     ],
     [
       "Shell",
@@ -19,11 +19,11 @@
     ],
     [
       "Rust",
-      14
+      13
     ],
     [
       "Unknown",
-      6
+      4
     ]
   ],
   "trending_topics": [],
@@ -44,7 +44,25 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 6
+      "appear_days": 7
+    },
+    {
+      "rank": 8,
+      "name": "skills",
+      "owner": "mattpocock",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 307576,
+      "forks": 25894,
+      "stars_today": 876,
+      "language": "Shell",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 5
     },
     {
       "rank": 11,
@@ -63,24 +81,6 @@
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
       "appear_days": 5
-    },
-    {
-      "rank": 8,
-      "name": "skills",
-      "owner": "mattpocock",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 307576,
-      "forks": 25894,
-      "stars_today": 876,
-      "language": "Shell",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 4
     },
     {
       "rank": 9,
@@ -119,32 +119,14 @@
       "appear_days": 4
     },
     {
-      "rank": 10,
-      "name": "jailbreaks",
-      "owner": "togg53192-cmd",
-      "url": "https://github.com/togg53192-cmd/jailbreaks",
-      "description": "LIST OF ALL MY JAILBREAKS",
-      "stars": 7353,
-      "forks": 1048,
-      "stars_today": 1477,
-      "language": "Unknown",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 4
-    },
-    {
-      "rank": 7,
-      "name": "impeccable",
-      "owner": "pbakaus",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "stars": 93121,
-      "forks": 5498,
-      "stars_today": 1472,
+      "rank": 12,
+      "name": "worktrunk",
+      "owner": "max-sixty",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "stars": 10123,
+      "forks": 366,
+      "stars_today": 77,
       "language": "Rust",
       "topics": [],
       "summary": {
@@ -152,35 +134,35 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 4
+      "appear_days": 3
     },
     {
-      "rank": 3,
-      "name": "superpowers",
-      "owner": "obra",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 307568,
-      "forks": 27357,
-      "stars_today": 1095,
-      "language": "Shell",
+      "rank": 1,
+      "name": "agent-desktop",
+      "owner": "vercel-labs",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "description": "Computer use CLI for AI agents",
+      "stars": 10465,
+      "forks": 701,
+      "stars_today": 2275,
+      "language": "Rust",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 4
+      "appear_days": 3
     },
     {
-      "rank": 4,
-      "name": "DeepTutor",
-      "owner": "HKUDS",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
-      "stars": 48327,
-      "forks": 5986,
-      "stars_today": 2371,
+      "rank": 3,
+      "name": "Scrapling",
+      "owner": "D4Vinci",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev",
+      "stars": 93221,
+      "forks": 9806,
+      "stars_today": 706,
       "language": "Python",
       "topics": [],
       "summary": {
@@ -188,7 +170,7 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 4
+      "appear_days": 3
     },
     {
       "rank": 3,
@@ -207,11 +189,29 @@
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
       "appear_days": 3
+    },
+    {
+      "rank": 15,
+      "name": "browser",
+      "owner": "lightpanda-io",
+      "url": "https://github.com/lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "stars": 38500,
+      "forks": 1876,
+      "stars_today": 626,
+      "language": "Zig",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
     }
   ],
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
     "language_trend": "主要语言：TypeScript、Python、Shell。",
-    "notable_projects": "thedotmack/claude-mem、Donchitos/Claude-Code-Game-Studios、mattpocock/skills"
+    "notable_projects": "thedotmack/claude-mem、mattpocock/skills、Donchitos/Claude-Code-Game-Studios"
   }
 }
