@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-07T04:20:06.711743",
-  "date": "2026-11-07",
+  "generated_at": "2026-11-08T04:03:19.474037",
+  "date": "2026-11-08",
   "period": "daily",
   "daily_summary": "",
   "repos": [
     {
       "rank": 1,
-      "name": "zed",
-      "owner": "zed-industries",
-      "url": "https://github.com/zed-industries/zed",
-      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "stars": 93749,
-      "forks": 11506,
-      "stars_today": 306,
+      "name": "agent-browser",
+      "owner": "vercel-labs",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "stars": 46928,
+      "forks": 3218,
+      "stars_today": 190,
       "language": "Rust",
       "topics": [],
       "summary": {
@@ -23,81 +23,13 @@
     },
     {
       "rank": 2,
-      "name": "auto-ontology",
-      "owner": "NVIDIA",
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-      "stars": 9221,
-      "forks": 734,
-      "stars_today": 2015,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      }
-    },
-    {
-      "rank": 3,
-      "name": "rails",
-      "owner": "rails",
-      "url": "https://github.com/rails/rails",
-      "description": "Ruby on Rails",
-      "stars": 59044,
-      "forks": 23833,
-      "stars_today": 142,
-      "language": "Ruby",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      }
-    },
-    {
-      "rank": 4,
-      "name": "mpv",
-      "owner": "mpv-player",
-      "url": "https://github.com/mpv-player/mpv",
-      "description": "🎥 Command line media player",
-      "stars": 37911,
-      "forks": 3634,
-      "stars_today": 37,
-      "language": "C",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      }
-    },
-    {
-      "rank": 5,
-      "name": "rust",
-      "owner": "rust-lang",
-      "url": "https://github.com/rust-lang/rust",
-      "description": "Empowering everyone to build reliable and efficient software.",
-      "stars": 121496,
-      "forks": 17369,
-      "stars_today": 192,
-      "language": "Rust",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      }
-    },
-    {
-      "rank": 6,
-      "name": "react",
-      "owner": "react",
-      "url": "https://github.com/react/react",
-      "description": "The library for web and native user interfaces.",
-      "stars": 252287,
-      "forks": 51819,
-      "stars_today": 248,
+      "name": "security-audit-skill",
+      "owner": "cloudflare",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 65915,
+      "forks": 4283,
+      "stars_today": 2085,
       "language": "JavaScript",
       "topics": [],
       "summary": {
@@ -107,65 +39,14 @@
       }
     },
     {
-      "rank": 7,
-      "name": "angular",
-      "owner": "angular",
-      "url": "https://github.com/angular/angular",
-      "description": "Deliver web apps with confidence 🚀",
-      "stars": 101402,
-      "forks": 28912,
-      "stars_today": 135,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      }
-    },
-    {
-      "rank": 8,
-      "name": "symfony",
-      "owner": "symfony",
-      "url": "https://github.com/symfony/symfony",
-      "description": "The Symfony PHP framework",
-      "stars": 31457,
-      "forks": 9949,
-      "stars_today": 128,
-      "language": "PHP",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      }
-    },
-    {
-      "rank": 9,
-      "name": "prometheus",
-      "owner": "prometheus",
-      "url": "https://github.com/prometheus/prometheus",
-      "description": "The Prometheus monitoring system and time series database.",
-      "stars": 67220,
-      "forks": 10989,
-      "stars_today": 148,
-      "language": "Go",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      }
-    },
-    {
-      "rank": 10,
+      "rank": 3,
       "name": "skills",
       "owner": "google",
       "url": "https://github.com/google/skills",
       "description": "Agent Skills for Google products and technologies",
-      "stars": 22902,
-      "forks": 1926,
-      "stars_today": 534,
+      "stars": 23477,
+      "forks": 1962,
+      "stars_today": 443,
       "language": "Python",
       "topics": [],
       "summary": {
@@ -175,14 +56,133 @@
       }
     },
     {
+      "rank": 4,
+      "name": "skills",
+      "owner": "mattpocock",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 317836,
+      "forks": 26590,
+      "stars_today": 1100,
+      "language": "Shell",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "skills",
+      "owner": "anthropics",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "stars": 188882,
+      "forks": 22261,
+      "stars_today": 390,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "astryx",
+      "owner": "meta",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "stars": 14667,
+      "forks": 1199,
+      "stars_today": 96,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      }
+    },
+    {
+      "rank": 7,
+      "name": "prometheus",
+      "owner": "prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "stars": 67473,
+      "forks": 11008,
+      "stars_today": 322,
+      "language": "Go",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      }
+    },
+    {
+      "rank": 8,
+      "name": "sherlock",
+      "owner": "sherlock-project",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "stars": 100805,
+      "forks": 11913,
+      "stars_today": 1766,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      }
+    },
+    {
+      "rank": 9,
+      "name": "OpenMausBot",
+      "owner": "milind-soni",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "stars": 17163,
+      "forks": 2423,
+      "stars_today": 1955,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      }
+    },
+    {
+      "rank": 10,
+      "name": "ruff",
+      "owner": "astral-sh",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "stars": 51008,
+      "forks": 2633,
+      "stars_today": 350,
+      "language": "Rust",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      }
+    },
+    {
       "rank": 11,
-      "name": "vscode",
-      "owner": "microsoft",
-      "url": "https://github.com/microsoft/vscode",
-      "description": "Visual Studio Code",
-      "stars": 195058,
-      "forks": 44430,
-      "stars_today": 301,
+      "name": "tailwindcss",
+      "owner": "tailwindlabs",
+      "url": "https://github.com/tailwindlabs/tailwindcss",
+      "description": "A utility-first CSS framework for rapid UI development.",
+      "stars": 98527,
+      "forks": 7112,
+      "stars_today": 122,
       "language": "TypeScript",
       "topics": [],
       "summary": {
@@ -193,14 +193,14 @@
     },
     {
       "rank": 12,
-      "name": "nushell",
-      "owner": "nushell",
-      "url": "https://github.com/nushell/nushell",
-      "description": "A new type of shell",
-      "stars": 41005,
-      "forks": 2343,
-      "stars_today": 131,
-      "language": "Rust",
+      "name": "localthings",
+      "owner": "mbillow",
+      "url": "https://github.com/mbillow/localthings",
+      "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+      "stars": 1086,
+      "forks": 113,
+      "stars_today": 186,
+      "language": "Python",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -210,14 +210,14 @@
     },
     {
       "rank": 13,
-      "name": "etcd",
-      "owner": "etcd-io",
-      "url": "https://github.com/etcd-io/etcd",
-      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
-      "stars": 52630,
-      "forks": 10590,
-      "stars_today": 128,
-      "language": "Go",
+      "name": "zed",
+      "owner": "zed-industries",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "stars": 94322,
+      "forks": 11557,
+      "stars_today": 1114,
+      "language": "Rust",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -227,14 +227,14 @@
     },
     {
       "rank": 14,
-      "name": "openssl",
-      "owner": "openssl",
-      "url": "https://github.com/openssl/openssl",
-      "description": "General purpose TLS and crypto library",
-      "stars": 31316,
-      "forks": 11581,
-      "stars_today": 26,
-      "language": "C",
+      "name": "billion-context",
+      "owner": "ranxianglei",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "stars": 4677,
+      "forks": 373,
+      "stars_today": 191,
+      "language": "TypeScript",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -244,48 +244,14 @@
     },
     {
       "rank": 15,
-      "name": "skills",
-      "owner": "mattpocock",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 316861,
-      "forks": 26511,
-      "stars_today": 2070,
-      "language": "Shell",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      }
-    },
-    {
-      "rank": 16,
-      "name": "security-audit-skill",
-      "owner": "cloudflare",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "stars": 64294,
-      "forks": 4165,
-      "stars_today": 2548,
-      "language": "JavaScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      }
-    },
-    {
-      "rank": 17,
-      "name": "ruff",
-      "owner": "astral-sh",
-      "url": "https://github.com/astral-sh/ruff",
-      "description": "An extremely fast Python linter and code formatter, written in Rust.",
-      "stars": 50729,
-      "forks": 2613,
-      "stars_today": 169,
-      "language": "Rust",
+      "name": "nvke",
+      "owner": "dsx-ai-factory",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "stars": 594,
+      "forks": 91,
+      "stars_today": 123,
+      "language": "Go",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
