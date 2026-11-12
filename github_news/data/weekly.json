@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-11-11T04:23:57.726775",
-  "week_range": "2026-11-05 ~ 2026-11-11",
+  "generated_at": "2026-11-12T05:30:17.133744",
+  "week_range": "2026-11-06 ~ 2026-11-12",
   "days_collected": 7,
-  "total_projects": 53,
-  "total_stars_today": 80603,
+  "total_projects": 50,
+  "total_stars_today": 72235,
   "top_languages": [
     [
       "Python",
-      31
+      26
     ],
     [
       "TypeScript",
-      17
+      18
     ],
     [
       "Rust",
-      17
-    ],
-    [
-      "Shell",
-      6
+      16
     ],
     [
       "JavaScript",
+      6
+    ],
+    [
+      "Go",
       5
     ]
   ],
@@ -44,25 +44,7 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 5
-    },
-    {
-      "rank": 3,
-      "name": "skills",
-      "owner": "mattpocock",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 313602,
-      "forks": 26295,
-      "stars_today": 1379,
-      "language": "Shell",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 5
+      "appear_days": 6
     },
     {
       "rank": 6,
@@ -80,7 +62,7 @@
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 4
+      "appear_days": 5
     },
     {
       "rank": 5,
@@ -117,6 +99,42 @@
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
       "appear_days": 4
+    },
+    {
+      "rank": 2,
+      "name": "skills",
+      "owner": "mattpocock",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 315543,
+      "forks": 26416,
+      "stars_today": 2071,
+      "language": "Shell",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 10,
+      "name": "ha-mcp",
+      "owner": "homeassistant-ai",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "stars": 6131,
+      "forks": 299,
+      "stars_today": 31,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
     },
     {
       "rank": 4,
@@ -189,29 +207,11 @@
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 9,
-      "name": "skills",
-      "owner": "google",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "stars": 22465,
-      "forks": 1894,
-      "stars_today": 211,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
     "language_trend": "主要语言：Python、TypeScript、Rust。",
-    "notable_projects": "vercel-labs/agent-browser、mattpocock/skills、meta/astryx"
+    "notable_projects": "vercel-labs/agent-browser、meta/astryx、anthropics/skills"
   }
 }
