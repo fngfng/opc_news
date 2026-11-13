@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-11-12T05:30:17.133744",
-  "week_range": "2026-11-06 ~ 2026-11-12",
+  "generated_at": "2026-11-13T04:47:29.926298",
+  "week_range": "2026-11-07 ~ 2026-11-13",
   "days_collected": 7,
-  "total_projects": 50,
-  "total_stars_today": 72235,
+  "total_projects": 47,
+  "total_stars_today": 65479,
   "top_languages": [
     [
-      "Python",
-      26
+      "TypeScript",
+      22
     ],
     [
-      "TypeScript",
-      18
+      "Python",
+      21
     ],
     [
       "Rust",
-      16
+      13
     ],
     [
       "JavaScript",
-      6
+      7
     ],
     [
       "Go",
@@ -28,24 +28,6 @@
   ],
   "trending_topics": [],
   "top_picks": [
-    {
-      "rank": 10,
-      "name": "agent-browser",
-      "owner": "vercel-labs",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "stars": 46022,
-      "forks": 3150,
-      "stars_today": 150,
-      "language": "Rust",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 6
-    },
     {
       "rank": 6,
       "name": "astryx",
@@ -56,6 +38,24 @@
       "forks": 1199,
       "stars_today": 96,
       "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 6
+    },
+    {
+      "rank": 1,
+      "name": "agent-browser",
+      "owner": "vercel-labs",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "stars": 46928,
+      "forks": 3218,
+      "stars_today": 190,
+      "language": "Rust",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -101,22 +101,40 @@
       "appear_days": 4
     },
     {
-      "rank": 2,
-      "name": "skills",
-      "owner": "mattpocock",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 315543,
-      "forks": 26416,
-      "stars_today": 2071,
-      "language": "Shell",
+      "rank": 6,
+      "name": "sure",
+      "owner": "we-promise",
+      "url": "https://github.com/we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "stars": 12137,
+      "forks": 898,
+      "stars_today": 159,
+      "language": "Ruby",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
         "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
-      "appear_days": 4
+      "appear_days": 3
+    },
+    {
+      "rank": 3,
+      "name": "agent-skills",
+      "owner": "addyosmani",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 115286,
+      "forks": 12106,
+      "stars_today": 465,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 3
     },
     {
       "rank": 10,
@@ -189,29 +207,11 @@
         "scene": "通用软件开发、技术原型验证、生产环境部署。"
       },
       "appear_days": 3
-    },
-    {
-      "rank": 9,
-      "name": "OpenMausBot",
-      "owner": "milind-soni",
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "stars": 17163,
-      "forks": 2423,
-      "stars_today": 1955,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
     }
   ],
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
-    "language_trend": "主要语言：Python、TypeScript、Rust。",
-    "notable_projects": "vercel-labs/agent-browser、meta/astryx、anthropics/skills"
+    "language_trend": "主要语言：TypeScript、Python、Rust。",
+    "notable_projects": "meta/astryx、vercel-labs/agent-browser、anthropics/skills"
   }
 }
