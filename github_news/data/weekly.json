@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-19T05:40:33.263148",
-  "week_range": "2026-11-13 ~ 2026-11-19",
+  "generated_at": "2026-11-20T05:28:55.232309",
+  "week_range": "2026-11-14 ~ 2026-11-20",
   "days_collected": 7,
-  "total_projects": 49,
-  "total_stars_today": 55460,
+  "total_projects": 50,
+  "total_stars_today": 57660,
   "top_languages": [
     [
       "TypeScript",
-      36
+      35
     ],
     [
       "Python",
-      21
+      27
     ],
     [
       "Go",
@@ -19,15 +19,33 @@
     ],
     [
       "JavaScript",
-      12
+      10
     ],
     [
-      "C++",
+      "Shell",
       5
     ]
   ],
   "trending_topics": [],
   "top_picks": [
+    {
+      "rank": 3,
+      "name": "stitch-skills",
+      "owner": "google-labs-code",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "stars": 9409,
+      "forks": 1140,
+      "stars_today": 247,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 5
+    },
     {
       "rank": 1,
       "name": "open-code-review",
@@ -65,15 +83,33 @@
       "appear_days": 5
     },
     {
-      "rank": 3,
-      "name": "stitch-skills",
-      "owner": "google-labs-code",
-      "url": "https://github.com/google-labs-code/stitch-skills",
-      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-      "stars": 9409,
-      "forks": 1140,
-      "stars_today": 247,
-      "language": "TypeScript",
+      "rank": 9,
+      "name": "Claude-BugHunter",
+      "owner": "elementalsouls",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "stars": 6626,
+      "forks": 995,
+      "stars_today": 98,
+      "language": "Python",
+      "topics": [],
+      "summary": {
+        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
+        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
+        "scene": "通用软件开发、技术原型验证、生产环境部署。"
+      },
+      "appear_days": 4
+    },
+    {
+      "rank": 9,
+      "name": "last30days-skill",
+      "owner": "mvanhorn",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 68323,
+      "forks": 6071,
+      "stars_today": 135,
+      "language": "Python",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -155,51 +191,15 @@
       "appear_days": 4
     },
     {
-      "rank": 1,
-      "name": "modern-web-guidance-src",
-      "owner": "GoogleChrome",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "description": "Keep your coding agent up to date with the latest web best practices",
-      "stars": 3397,
-      "forks": 213,
-      "stars_today": 739,
-      "language": "TypeScript",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 4
-    },
-    {
       "rank": 9,
-      "name": "last30days-skill",
-      "owner": "mvanhorn",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": 68323,
-      "forks": 6071,
-      "stars_today": 135,
-      "language": "Python",
-      "topics": [],
-      "summary": {
-        "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
-        "purpose": "为开发者社区提供开箱即用的解决方案，减少重复造轮子。",
-        "scene": "通用软件开发、技术原型验证、生产环境部署。"
-      },
-      "appear_days": 3
-    },
-    {
-      "rank": 6,
-      "name": "arcane",
-      "owner": "getarcaneapp",
-      "url": "https://github.com/getarcaneapp/arcane",
-      "description": "Modern Docker Management, Designed for Everyone",
-      "stars": 8889,
-      "forks": 442,
-      "stars_today": 46,
-      "language": "Go",
+      "name": "superpowers",
+      "owner": "obra",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 319494,
+      "forks": 28485,
+      "stars_today": 1917,
+      "language": "Shell",
       "topics": [],
       "summary": {
         "what": "开发了一个功能完善的开源工具或框架，解决特定领域的技术问题。",
@@ -212,6 +212,6 @@
   "insights": {
     "hot_direction": "本周共追踪 10 个热门项目，持续关注开源生态动态。",
     "language_trend": "主要语言：TypeScript、Python、Go。",
-    "notable_projects": "alibaba/open-code-review、backnotprop/plannotator、google-labs-code/stitch-skills"
+    "notable_projects": "google-labs-code/stitch-skills、alibaba/open-code-review、backnotprop/plannotator"
   }
 }
